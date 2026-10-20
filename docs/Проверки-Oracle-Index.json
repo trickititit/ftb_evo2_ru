@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "pages": {
+    "drones": 2,
+    "kindredspirits": 18,
+    "oracle-index": 6,
+    "oritech": 171
+  },
+  "total_pages": 197,
+  "files": 222,
+  "checks": [
+    "final edited MDX non-display structure",
+    "all links in original order",
+    "inline and fenced code unchanged",
+    "item IDs and recipes unchanged",
+    "metadata keys and non-display fields unchanged",
+    "V1 and Legacy language paths from installed bytecode"
+  ],
+  "game_rendering_tested": false
+}

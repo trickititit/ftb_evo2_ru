@@ -397,5 +397,25 @@
   "note": "Full source coverage is not a claim of a complete manual literary review.",
   "changed_or_added_resource_values": 43838,
   "unchanged_technical_or_proper_values": 1464,
-  "quest_description_entries": 1787
+  "quest_description_entries": 1787,
+  "oracle_index": {
+    "status": "PASS",
+    "pages": {
+      "drones": 2,
+      "kindredspirits": 18,
+      "oracle-index": 6,
+      "oritech": 171
+    },
+    "total_pages": 197,
+    "files": 222,
+    "checks": [
+      "final edited MDX non-display structure",
+      "all links in original order",
+      "inline and fenced code unchanged",
+      "item IDs and recipes unchanged",
+      "metadata keys and non-display fields unchanged",
+      "V1 and Legacy language paths from installed bytecode"
+    ],
+    "game_rendering_tested": false
+  }
 }

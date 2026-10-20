@@ -1,2 +1,2 @@
-e9f5e5d2848e65a999b27b494571eb523b7bffb382aae99c7a659f729347b982  FTB-Evolution-2-1.4.0-RU-r2-Client.zip
-c31c34702d99f6b7eca147ff4bdf67cf1b69ac628570296a58d59abf48d5fa36  FTB-Evolution-2-1.4.0-RU-r2-Server.zip
+e9b054f79a01dcca9609ab4f65fe941b48c31a5f345c027bc3de159acf00bc17  FTB-Evolution-2-1.4.0-RU-r3-Client.zip
+a93fcbeb6351ddfdf5f35d6fc6b8c4874b5a7453ea02231261dd71ab225689b2  FTB-Evolution-2-1.4.0-RU-r3-Server.zip

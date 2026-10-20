@@ -1,2 +1,2 @@
 # Preserve exact bytes: installers verify payload SHA-256 hashes.
-* -text
+* -text whitespace=cr-at-eol

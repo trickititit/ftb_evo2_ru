@@ -1,0 +1,14 @@
+{
+  "setup.mdx": {
+    "name": "Настройка просмотра внутриигровых модов"
+  },
+  "markdown.mdx": {
+    "name": "Справочник по Markdown и MDX"
+  },
+  "gradle_task.mdx": {
+    "name": "(Необязательно) Автоматическая синхронизация Gradle Wiki"
+  },
+  "content_unlocks.mdx": {
+    "name": "Система развития контента"
+  }
+}

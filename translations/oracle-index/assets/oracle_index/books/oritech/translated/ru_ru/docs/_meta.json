@@ -1,0 +1,13 @@
+{
+  "getting_started": {
+    "name": "📕 Getting Started",
+    "icon": null
+  },
+  "multiblocks.mdx": "Multiblocks",
+  "addons.mdx": "Addons",
+  "particle_accelerator.mdx": "Particle Accelerator",
+  "reactor": {
+    "name": "☢ Ядерные реакторы",
+    "icon": null
+  }
+}

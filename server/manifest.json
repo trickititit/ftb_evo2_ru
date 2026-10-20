@@ -1,7 +1,8 @@
 {
-  "id": "FTB-Evolution-2-RU-1.4.0-r2",
+  "id": "FTB-Evolution-2-RU-1.4.0-r3",
   "upgradeFrom": [
-    "FTB-Evolution-2-RU-1.4.0-r1"
+    "FTB-Evolution-2-RU-1.4.0-r1",
+    "FTB-Evolution-2-RU-1.4.0-r2"
   ],
   "role": "Server",
   "pack": "FTB Evolution 2",
