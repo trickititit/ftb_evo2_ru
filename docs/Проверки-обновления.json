@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Upgrade retains first backup",
+    "Upgrade replaces pack and adds new language files",
+    "Repeated upgraded install is idempotent",
+    "Rollback after upgrade restores pre-r1 state",
+    "Upgrade protects personal edits",
+    "Interrupted upgrade rolls back both old and new file versions"
+  ]
+}

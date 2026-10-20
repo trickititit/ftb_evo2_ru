@@ -1,0 +1,513 @@
+{
+  "id": "FTB-Evolution-2-RU-1.4.0-r2",
+  "upgradeFrom": [
+    "FTB-Evolution-2-RU-1.4.0-r1"
+  ],
+  "role": "Client",
+  "pack": "FTB Evolution 2",
+  "version": "1.4.0",
+  "minecraft": "26.1.2",
+  "loader": "26.1.2.121",
+  "files": [
+    {
+      "path": "resourcepacks/FTB-Evolution-2-Russian-1.4.0.zip",
+      "sha256": "7b50b0ff0b78f2849fa5956c5abd0f90be65007689ec550d4d28d53ce93b41fb"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapter.json5",
+      "sha256": "46deab20d9ef9cb047b5bffdd10059c80d34426e8049a6da0cdef79f42cef1ab"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapter_group.json5",
+      "sha256": "76d2a14e539ab359ba9110ceefebbd2a96c8602a24ec5372e7f158e5705c4259"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/anima.json5",
+      "sha256": "1ff2905dc0ff6da4b65da889c356abfb65692624434d478b90c0a12db2c3eee4"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/ars_magica.json5",
+      "sha256": "14cd8ccc1e198529f67db32c74df28ae5fd8a6f34c8ac2c7f1393baaec1ea477"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/auroral.json5",
+      "sha256": "ad1dc1a82e00bdc2d39029311ae79dbf6de827e99018ea870299db7ef107a1cd"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/backstage.json5",
+      "sha256": "0f9822ba83d2202c6c4da7177daee0b89ad50fa9d2619854c915cda71e6783c9"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/bounty_board.json5",
+      "sha256": "ddad0fc2823762b031a74e150b0db29a311b400a387c1a5cf37116b4585e93c9"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/building_and_decoration.json5",
+      "sha256": "b686e0294ba5d1fc4d19ad21b0edaf0b3e7b04ab43e22329513c192daa44eb1e"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/chapter2.json5",
+      "sha256": "1e950992592a448ff6bb68d7a7afdf192f66bff31fd964248159528dad9e7ffa"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/colossal_reactors.json5",
+      "sha256": "874d66762998f716e8a7efeeed28630fe17343c6c4a34b7c099a8191cff93fed"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/cooking_and_brewing.json5",
+      "sha256": "8dd7d6e208e2b49e32b930093e0a0482bb4446f9e242c44a062df516b5241ca1"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/enderio.json5",
+      "sha256": "94b52dad7dd27dd76caceaf071a8a61eb424ba1c514b426da118b798f725e76f"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/energized_power.json5",
+      "sha256": "df84838ac002e5b4f91c89f55cfbdc2b4f0444ba1959b2fa601aad208ed87ed1"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/evilcraft.json5",
+      "sha256": "463b4a032105612229a7bb5d2b80ecf686a1241b02e5881f7e6fe6dfcc794b12"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/exploration.json5",
+      "sha256": "86dc3f8876082b71dff8408ad2186b8439cbaba566c09814064190ec0d6a6319"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/gearing_up.json5",
+      "sha256": "ecf382553d3a36e70e2d143cd95ec5465cb43bb9f016a2dd330c3f5b420c90fc"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/general_storage.json5",
+      "sha256": "678cd5c5c352a4e3e4b2345139149bc2ee85ab22ae07786d5e9621e9d1c39207"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/getting_started.json5",
+      "sha256": "73bbb2312eb178df48b5b62bda6e53f8485ea9cda0c305ff81a181c43ed24983"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/hephaestus.json5",
+      "sha256": "180cf7e229d210f5d4d0e98c1f06f60f684910a486139bebd2cc691d2ff522ea"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/hostile_networks.json5",
+      "sha256": "a6ed4d25de081ba701a45b5322f60dfbe2db8cd5d7719e72e9cfcab8cb6f3295"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/ice_and_fire.json5",
+      "sha256": "cc17ac8d58b9eeecca2aa8f671621c40fab97ea5133b6565a52edf4d6a114c98"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/industrial_contraptions.json5",
+      "sha256": "6643be8e04bc8db6f42c0fd0dc4840b2f7ce3960734b3832dfcb5be2beee6e74"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/integrated_dynamics.json5",
+      "sha256": "37e626afd7fc56d1291529275bbf58f6936aaddf7189ba242534f496684007c9"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/just_dire_things.json5",
+      "sha256": "7e8202f1286705590675816d1c6ccbe3587802470f79eadf999b667055dc4a9c"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/logistics.json5",
+      "sha256": "6b885461f9f238ef9be331e7c82f653da3d9671b63907ae93dbef6a5d0ec5b0a"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/ltx_industries.json5",
+      "sha256": "1685e11bdfec9f4a08072f92105875539e8b6b9c18e3c41c383e90dd7c469f35"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/mffs.json5",
+      "sha256": "8d61873537d1958d42823e71d53b5d839b3156792ab3ab46c40a940ab504d515"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/nautec.json5",
+      "sha256": "7a9a3dadc376789518ce67360239cd739c0e6364695582b6ca6291f23cbbc7ba"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/neo_vitae.json5",
+      "sha256": "3c104d2b1f4c73d187e4e6591196d30bc8e6a485deed3cd0ae4a76e5502f117e"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/occultism.json5",
+      "sha256": "f07d30afc08993b5d72db890891aa4e8a9ad339e13805856603537afb1f1450b"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/oritech.json5",
+      "sha256": "841331398e6b53183cb9cbfe22a35951622fa597e9f0c8a2d93b33beddca157a"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/powah.json5",
+      "sha256": "1e3605bb28a4b5f72daf83ab923ec60ab0f55db3fb38a6602d19033a25340479"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/power.json5",
+      "sha256": "a5553ae5fe8776052e9eaa3406be304b65a13528a29222fc7d7c410e9ceacaf1"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/productive_farming.json5",
+      "sha256": "c108ddbc5f8950a152e3409bb2198efc4736fee1c9bffeee3932da34183d19ae"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/progression_tiers.json5",
+      "sha256": "6796e1aeb36b559bf549c73adbb7206b6470748de14ed93b4ef7093a56b69387"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/pyramid_challenge.json5",
+      "sha256": "166baa5353ace35741606fd470bd8ada1dbf5a189b69cce01830c6af74d149d4"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/reliquary.json5",
+      "sha256": "9c5a08edbaf86512613d1eb26fcc4b3d5ad4ba06e665d284d0cf5683a58b6bfb"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/replication.json5",
+      "sha256": "4e2338fc3980eca0dca56f15d687632989a6d27902ce39cd8780f53e6f087f01"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/resonance.json5",
+      "sha256": "5ec079ef78ddab8b0c3346b3749e992340accdb9bcef4d0fa1ff40f27cdd92e4"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/resource_generation.json5",
+      "sha256": "40bdb32fac9a0030b7da4710ce7001e08ee97384faab0283c109cee5a042c70f"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/rootsclassic.json5",
+      "sha256": "1732e5ba7d58e8df0b61c4b63377b671bad237179efbbcab989dc0b5baa27cd2"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/stellaris.json5",
+      "sha256": "bd6dade11f50c4c609aa642c3f4d635fbecc0fde7c4f6276b1c22748c547003f"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/tips_and_tricks.json5",
+      "sha256": "75100fd186544dfcbb173c5d786fc2df7c9c30af4d6d083bc33a0fe77bb8333a"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/utilities.json5",
+      "sha256": "d8a15018431ef403f513325fd1513b4e4574f37cb33cd314f0c478884bbe0066"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/welcome.json5",
+      "sha256": "a955d591206681c497bd4179849c3f35e0a7fce759135f506dc9e5c3c77a2ee5"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/witchery.json5",
+      "sha256": "c888cd58ed5f37dff146a96a0f8d4fbbf0bb6290c834055749cadb320f33668a"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/chapters/xycraft.json5",
+      "sha256": "ee213542b2b2a5dc0c977f2d9ad329a60e665b5d2126900f29b42916df49104b"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/file.json5",
+      "sha256": "72e7f99050e69a5585c32fd5dd54b8ec01961486e80a944725a2fa90e0ad230f"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/image.json5",
+      "sha256": "6adb68691fc5d12f7298322c8111110ad86617f95d4aae17bcc93277840354fd"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/reward.json5",
+      "sha256": "821c44bf89c3d82d55a3cb937da1944ce4ad48859750bb7689a247c02b52e33d"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/ru_ru/reward_table.json5",
+      "sha256": "ae4bd48166949552149f6ce353fc1a4f2f44079bf4e6751749e1ff32e7ace705"
+    }
+  ],
+  "baseline": [
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapter.json5",
+      "sha256": "68c111707e9371d8896388225b78ece32b990250b85e8d60bd97baa551d815ad"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapter_group.json5",
+      "sha256": "217285c466e8f41614506bba43c0b4666f518ee83d277f44f65d7e158724c2db"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/anima.json5",
+      "sha256": "02545b7121fb60e38c4f0a282ec5d37d1f48bf52a21af8fda308f759db627139"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/ars_magica.json5",
+      "sha256": "7916c039695873491e0cbce5c9198e9df95e9493ee8c65991c166cfc2fef36bb"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/auroral.json5",
+      "sha256": "da7db7e0eddf82397efebf38a8b23af5036ca2024eaf1d2892f76a492d83dc75"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/backstage.json5",
+      "sha256": "30bdab7087b53b2d9ce78744aa8fbd4d7c242e06bbe9205f56c3848be77ae79c"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/bounty_board.json5",
+      "sha256": "4edc6d2d5d73da8412f24f6f006e2c7248296e0902a2342bbfff3b27e1a58ef1"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/building_and_decoration.json5",
+      "sha256": "7ca8783c56d4f6ad07417aaa98103ff719eb9a907336d139de9bbc596f33fc9c"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/chapter2.json5",
+      "sha256": "83bdeec5a5f7fa91077a751c60e637bb49555345fcca1a04a2231e0abe43d959"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/colossal_reactors.json5",
+      "sha256": "d8ae8ad0f5ca0fa7ce4325a6db7278c04838110ce0201ef76dc9ec8a2aff6b50"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/cooking_and_brewing.json5",
+      "sha256": "1fc562f4c595a94598a0cc9f07fe24affa67cd4353de4ec2fd7c17540508767a"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/enderio.json5",
+      "sha256": "ee238d65b5d709080641e933d7a3652b1dd46945014a5ed2c9c17f7710a5226b"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/energized_power.json5",
+      "sha256": "c63c62b2993db0d7bba3949d3d7dc58bd80b1667bd0b1dd9ca904006c2b2af1c"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/evilcraft.json5",
+      "sha256": "9fc1511ba358ac27e108f499471a0a07e1f0fcb60b55c8e1d44ded96c9bd91e8"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/exploration.json5",
+      "sha256": "9025792977e1a6472dfeb5c1a95f7c2e55874ae97c71fb95e75ca4d369a412c9"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/gearing_up.json5",
+      "sha256": "c77dabab9448342370cad094979f700a5ee642c6cd0cff6a602db8656fc1455f"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/general_storage.json5",
+      "sha256": "c320c44310350891c5efbb54ec9c14be188f28975dbe1b74c2fa5ded00925ab7"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/getting_started.json5",
+      "sha256": "b26836ea0764b3386a32044a7fadc795395f09e4412ec33467bb196fa90e9e5e"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/hephaestus.json5",
+      "sha256": "0d6d3aa0d55396ae0b5468fc4fd5615dfa6fe6e485faf5740a3e5ae17a3c60f8"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/hostile_networks.json5",
+      "sha256": "d6e60e9023634cd03f197e334172650708fae9317191ac2f9b098af299c6f44c"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/ice_and_fire.json5",
+      "sha256": "843a771ca05d24cb5575d6ca62506e0d180dcc30c8627aa7c91def75a1a01c03"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/industrial_contraptions.json5",
+      "sha256": "a39e60468a56f8bfce29fb03cc62c74072dc7fd9ff56d2c16321711925949195"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/integrated_dynamics.json5",
+      "sha256": "bd770648182d8257995e8365738ce8346e693757da0ca32ce4d15f2ead3c78e7"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/just_dire_things.json5",
+      "sha256": "5ecdd4472de03f227ef69e554af2702b09edc5e1ac40e0ce801e36ff2dbbca05"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/logistics.json5",
+      "sha256": "3e9259d6f0e73729b034033a425dde0645abd3c9c0f011adc3bfd807d11ccce1"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/ltx_industries.json5",
+      "sha256": "73f428858d9b12a317419daa76001b1c6d00c30a9f6f332a381d95264335dc54"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/mffs.json5",
+      "sha256": "78beac9f48b949b6c1a965248f92989dc46d709c14b30e65d0242169f51ac5c5"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/nautec.json5",
+      "sha256": "a8c1e59f55b73c837653a38dfed8e0a3de6dd8f7b7c24192c299171bbf055938"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/neo_vitae.json5",
+      "sha256": "9450f89b2f6ad6f7f3be0441dda12ffc4cf97106435c23bdd1538387c6496cf2"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/occultism.json5",
+      "sha256": "a2225da8531aa1de53712198faf763148e1a74304e418f65e0d040ecc61551da"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/oritech.json5",
+      "sha256": "bb552ecc3eab681c9176c6c1dffa007e38a1a93ba5bd254b4a850de904c4b278"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/powah.json5",
+      "sha256": "2bbad83bcea4c65b0fe3b935fe663b38e8afd9550b118adee4a0434241df8663"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/power.json5",
+      "sha256": "4fd259e50565ce9d77fc032a7393460e5e8eea5d671f47119a91a177d0e5079d"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/productive_farming.json5",
+      "sha256": "fdc8a12b9f35ba131413bc9bdc9cc94951135cad12d3d922c2a2cf6d4cb16764"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/progression_tiers.json5",
+      "sha256": "a198b913a050e60732ccba5eccc635b9ccf6771899767d0121a00c2a81910e46"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/pyramid_challenge.json5",
+      "sha256": "e50cc839edf32bd06386588341d803c605119356d4bb7bb8732f33aa8ee99fac"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/reliquary.json5",
+      "sha256": "70f6dbee1641f10e563cd62517530fd2008d7c251363ac5cc7db6bd85fcb9b5c"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/replication.json5",
+      "sha256": "30d4de66025015d8fef35596e0c058f799ff10e4ea606160482fa2c357046667"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/resonance.json5",
+      "sha256": "c35ff71a627611685064bf88b5e142029116f49f45db9c5bf2488a94e7268998"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/resource_generation.json5",
+      "sha256": "2fc398125a4351d340d2cdbb77a655344ce764b53304ebb1b9f652d8adcc4b50"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/rootsclassic.json5",
+      "sha256": "5f30dbb357929f665328d7b431b262db0eb87699e88b6ff8d61ed14912b55055"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/stellaris.json5",
+      "sha256": "a019c3341d7014078eec3fd1a85a861463d00d01534327aa564d4948790e5f1a"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/tips_and_tricks.json5",
+      "sha256": "37a26bcf1eaa4e81a28f1e20ca4fa77ee759b78652a31cc2bb89abb4a60ec452"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/utilities.json5",
+      "sha256": "1b099b4fcdec865329fa96149eb2698b695c3846a9447053c66f1e9888c55328"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/welcome.json5",
+      "sha256": "3042fd768f093deed4e6a3afed7d4ef915f6a34abf4e3f1a451f1f7faf14a5c1"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/witchery.json5",
+      "sha256": "0e60301ebf0488085f4ff3da27c487f65a9b17c57b3f43d14615f9bd38e69e2e"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/chapters/xycraft.json5",
+      "sha256": "1368fe3634e8a012f732f534837cc27deddeea5655eafce0a8eaa57ac471e1ac"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/file.json5",
+      "sha256": "e954c9dce40d8b4a7747b819bf7cd3236683b8707ca60cc1a18484c437430f1e"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/image.json5",
+      "sha256": "a4b71f75b6ef6b8b0465cc3ea7d70d8ff44136e562b1d7f206fb9f05ab3d7e72"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/reward.json5",
+      "sha256": "4e377aa39b6b0066b4cd3de2733901f09e0ebc8434d7b35c8ccf9c04390884aa"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us/reward_table.json5",
+      "sha256": "26c8a47a433f30a272f14dd312a668b32a1bbc92b9be447929eff6ad7bc99d3c"
+    },
+    {
+      "path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "sha256": "9a10c0120b9828bdf7fb993abc48a10d4d78f981c8317924fb4e1ca1f7fe6744"
+    },
+    {
+      "path": "kubejs/assets/colossal_reactors/lang/en_us.json",
+      "sha256": "1283305e79e113f06e61ff86cd9c711e09be2dcb995c70d82cf82c110956c580"
+    },
+    {
+      "path": "kubejs/assets/drones/lang/en_us.json",
+      "sha256": "cac386d6f40404cbe70c862c39ebb91d42c5db6cddd5e43ee6cb96822d0f017b"
+    },
+    {
+      "path": "kubejs/assets/easy_npc/lang/en_us.json",
+      "sha256": "7a4624a7de842b971e0cd8988b1a45e9b394a509ff2f26cce6c8a1bed5013abf"
+    },
+    {
+      "path": "kubejs/assets/enderio_evolution/lang/en_us.json",
+      "sha256": "54559704e287ae4b1469ed4f24b3f3f306319d82ce6de6d808db1480d1ea2317"
+    },
+    {
+      "path": "kubejs/assets/ftb/lang/en_us.json",
+      "sha256": "7c7e0d1a19216a797d64e060e2b6160850e440d20462d026312debf5b7fbd916"
+    },
+    {
+      "path": "kubejs/assets/ftbevolutioncompanion/lang/en_us.json",
+      "sha256": "08c4be87fe5f0037ba198d8653b9355981005197874c0ad19d57238660488e43"
+    },
+    {
+      "path": "kubejs/assets/ftbmaterials/lang/en_us.json",
+      "sha256": "ace0f14ce20bc096fc770c3fef252fb1a75bd8a380cce188b09f2e9022561bc3"
+    },
+    {
+      "path": "kubejs/assets/hats/lang/en_us.json",
+      "sha256": "d9cdbf71a8363d47dd1b7af060d20e67c38243a64e211e41373446c82a872a7e"
+    },
+    {
+      "path": "kubejs/assets/hephaestus_tools/lang/en_us.json",
+      "sha256": "4a743c77448294a0177c237ac91293f7d1ad580c7071647f9210371d737564bb"
+    },
+    {
+      "path": "kubejs/assets/hostilenetworks/lang/en_us.json",
+      "sha256": "1ce01e3ffb7072fa673d07e5e77f9f963325285073de5c47cf62d312f0361740"
+    },
+    {
+      "path": "kubejs/assets/mysticalagriculture/lang/en_us.json",
+      "sha256": "4ee30ad74e6be09aa54cbe493d4acf3a27593f6fe553a5ba59a9c9e1d3dad9c7"
+    },
+    {
+      "path": "kubejs/assets/nutritional/lang/en_us.json",
+      "sha256": "5af31c76244766bb05cae9897af3d80cafc32da8640f4c22cf24acb44b01c650"
+    },
+    {
+      "path": "kubejs/assets/productivebees/lang/en_us.json",
+      "sha256": "7c0fd34a5bcb13211ba149f40733b56df8fe52c597047dd837ab05acdda4e8ea"
+    },
+    {
+      "path": "kubejs/assets/sdrp/lang/en_us.json",
+      "sha256": "e27e8bc2ddd17eaf248e1450537900694f513066a1e815c6059521fb9f8f265b"
+    },
+    {
+      "path": "kubejs/assets/thaumaturge/lang/en_us.json",
+      "sha256": "df89975f633ec5f67dd689e82c64c9c784a99280ae79b4d2bc7c94acd3f84724"
+    },
+    {
+      "path": "kubejs/assets/utilitarian/lang/en_us.json",
+      "sha256": "e8413da8f148a1d04703ea894d7fa9e94a13258ca8363daa7db034a2f2b634ba"
+    },
+    {
+      "path": "kubejs/assets/weathergate/lang/en_us.json",
+      "sha256": "1becc98942564383b48680fab9740254af0761dfcddaecd4e1c73fc05deed714"
+    },
+    {
+      "path": "kubejs/assets/witchery/lang/en_us.json",
+      "sha256": "bec3d18a1e600f8d223666f44d00c7a41c5d4c449e8d59719125dd5fbade5625"
+    }
+  ],
+  "mods": [
+    {
+      "path": "mods/ftb-quests-neoforge-26.1.2.9.jar",
+      "sha256": "5cfb90c8dde51645142bcd4160687e87103f79c92ce14a06a0379691f6481a54"
+    },
+    {
+      "path": "mods/ftb-evolution-companion-26.1.2.22.jar",
+      "sha256": "94c521adb662cc339cc95c1f81c03625c9375ed7ad29cd3a8770f3c2af64f929"
+    }
+  ]
+}
