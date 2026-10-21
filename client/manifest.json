@@ -1,8 +1,9 @@
 {
-  "id": "FTB-Evolution-2-RU-1.4.0-r3",
+  "id": "FTB-Evolution-2-RU-1.4.0-r4",
   "upgradeFrom": [
     "FTB-Evolution-2-RU-1.4.0-r1",
-    "FTB-Evolution-2-RU-1.4.0-r2"
+    "FTB-Evolution-2-RU-1.4.0-r2",
+    "FTB-Evolution-2-RU-1.4.0-r3"
   ],
   "role": "Client",
   "pack": "FTB Evolution 2",
@@ -12,7 +13,7 @@
   "files": [
     {
       "path": "resourcepacks/FTB-Evolution-2-Russian-1.4.0.zip",
-      "sha256": "42380d98b58fed43ac40a7f02b1fec984cc72e6e9f6ab74d4ecc4455ff875c42"
+      "sha256": "6d8c5225df3ce45c976ba5c0de6bca4b6ed6093bd729a9e55d003360878893a3"
     },
     {
       "path": "config/ftbquests/quests/lang/ru_ru/chapter.json5",
@@ -217,6 +218,250 @@
     {
       "path": "config/ftbquests/quests/lang/ru_ru/reward_table.json5",
       "sha256": "ae4bd48166949552149f6ce353fc1a4f2f44079bf4e6751749e1ff32e7ace705"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/blue_liquid.md",
+      "sha256": "03bcedb4bf386fd71e6bc03836dc7fb28c930db8298c604bd562e8f3dba2d263"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/cans.md",
+      "sha256": "bea241d891643434a8d82b8fb6342b8111fd6e439403a39c6ca02846063054a1"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/desh.md",
+      "sha256": "3d24282f7df1a3eac24d8f291f851cce461225b09ff73de7f5f97e0c3d49b51e"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/diesel.md",
+      "sha256": "0ae6b5c87b36a70c949fbfaa789690918ce0970a5239ae8e3fe596cdab54f328"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/flag.md",
+      "sha256": "e5ced797517ee6ef58d468deaaaa20599a3bb0c36b4a16dc6cc3b1be2c2f1d26"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/fluid_cell.md",
+      "sha256": "2e89fb0c85a261c076e55df97e5d8b36b730b71e3dfe5ea8396e3134234e7786"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/friends_list.md",
+      "sha256": "17da24d219ce1756263fc4358d6e8c28958449f1a46cf9492a64be49b825b9cd"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/moon_berries.md",
+      "sha256": "8c6d61ae1183b55a5fe5e00ff9fd0fabaaf15d313b5113394dfe87bf9170374a"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/oil.md",
+      "sha256": "6cc91e4748da35e717acc1a9068d32824d6af09a3d8f3e27de9bd30622528a1f"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/oil_finder.md",
+      "sha256": "0c1e175818bce6f85fc4722d25eeb2400001645ff53e5446d031982ab85c8b24"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/oxygen_module.md",
+      "sha256": "3ec0ba9f3356a2d7f42ff703e74c9d8cf2d651c4f349cb02157a355903843776"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/rover.md",
+      "sha256": "2f38af05c48d69bbafb4f4a222383f7b1da4c3831d5674dc3e9bb1fd88f8baaa"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/sd_card.md",
+      "sha256": "28b50987b0536565da614dba70740134a735a2c71c828a6ff2494b529fedaaaf"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/silicon.md",
+      "sha256": "f4c090b256106716873a3fd94bf06fecaa84f7114d44c740dc1678b3197f6211"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/space_suit.md",
+      "sha256": "91213e02fc21056f93cdbe482a718e83e8de1f77ce8b96fc288283695ab20d55"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/tablet.md",
+      "sha256": "973de4eb80cf90798ad2457dfd03acda5007fe4913940e00d3f515000c4c9abc"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/titanium.md",
+      "sha256": "4caba9487861d0a93010aa0b82606f4709db9f0b5e136e71027455011d75af1e"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/items/vaccine.md",
+      "sha256": "d7b1c3031b3b1b2c028ff726d477b8dd27824977db80a734daf4f71bd7d732e2"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/antenna.md",
+      "sha256": "7334ed687a41e01e5c98839333c1bde60042013ff4729bd970e46579fd301ba6"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/blender.md",
+      "sha256": "4c2730d3c3ff386ce54fbbc0ed55ebd8ec6c92984ebf3e40c50c25e3f0aae9fb"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/cables.md",
+      "sha256": "232fa7beba9884129fbc4b3fe7de9720ff1dfa701c4bbb82d93aeb355fa673df"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/cargo_unloader.md",
+      "sha256": "147358d8326074c9883317843c2fc3e648bd566582d13739bcfc0f989bbf0b76"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/coal_generator.md",
+      "sha256": "80b8ca2b743c04b4993d22ee72983570c9272f87362bdc4f29bd972084e4b9a5"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/diesel_generator.md",
+      "sha256": "1cce8c994f5bbd4f6164f3df5bdb86680bfeb693c4d2c9572d36e1fd1d0daa52"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/electric_light.md",
+      "sha256": "3c35d6d1877bd5ecd371b559932e5b20e17abb8116188223ff88f736cfc143db"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/electrolyzer.md",
+      "sha256": "8d3e3072358061cf420991421ebd93f523d99f6d4d91bf806b3229c2c2b7d91b"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/energy.md",
+      "sha256": "8f92d8bb2ebac75a9f58dfa1413b6df5621d2e70fcf09aa49033fc07ae3ba101"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/engineering_station.md",
+      "sha256": "20904399d928587869c08e77c87577a0201aec5bffbaa60b81b8be96772ee92c"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/fluid_tank.md",
+      "sha256": "9e0ef679829f231823d579b59777c30ec82a5afa40244b1b60d2127fd90fdd4e"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/fuel_refinery.md",
+      "sha256": "441a1b16cdc3c230bf72f25bfe5175c68d2ae2520fbe4564d6328e0cdb34d735"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/gravity_manipulator.md",
+      "sha256": "4135464445e3b52f9a583440c13f026362d2d755986cc7c27c85cfc6651c8ccd"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/laboratory.md",
+      "sha256": "74f0648ec1e4c782a1c52e18935a53d8a523c661a882145692be62be363fc265"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/oxygen.md",
+      "sha256": "6abfac7f4a8a793c98a21a8e5a3fcb0646fa6055f276dac7363cbcdaf67d929b"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/pipes.md",
+      "sha256": "d5cf44c6dc8524c207edcdb2d62b1005cc78e8b4308759a34e133ce8041eb1f9"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/power_bank.md",
+      "sha256": "17f9ec26f9dc1f51b2112246e2263ce8b41db11e42e9bab30cdde23dd0adc1fb"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/pumpjack.md",
+      "sha256": "1a4aa61e434dfaf27ef7c33114cf38e9a2b8f38a82e78aafa185a1893a9e0ecb"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/solar_panel.md",
+      "sha256": "77e3c94391bb50123f41a99952a749c548a2da2c2f2eb6482c33bc3c3e737ddc"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/space_farm.md",
+      "sha256": "7b5bc4602b07a521c2ee9f13f6b54a063512d94f2124b0c6500bcc71f8679a57"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/star_light_panel.md",
+      "sha256": "8414407a596f567c6222103bec7c8d083b4502cd09e3cb1c5f5e995ce70ba114"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/vacuumator.md",
+      "sha256": "e4d2265b6ef6cd0c8afe1e403a1ad14a72251f05c03397c93827ba0a9c1d3e62"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/machines/water_pump.md",
+      "sha256": "b701559b9ab0c9cb03536f1ebc481e38d624e152dc1ac5e5cc269335bae5167c"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/alien.md",
+      "sha256": "f5194521a2648b1e3694421a7f0fdd9948d0ca0e7ce20092976046753f22ac41"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/blue_fish.md",
+      "sha256": "201bfdf2edaf12c9e3f1bc381f4b732c23f9463a03986a4676bdad0a503a9882"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/evolved_parasite_villager.md",
+      "sha256": "89a3dac238d0b87ada7744cfbda4596ef7508ee998ac2938cde0905c25d4063d"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/heart_of_luna.md",
+      "sha256": "f74131dbe41fabeb55ade23d187afec46ba0a561b311116cfc702ab194926f63"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/infection.md",
+      "sha256": "f9eb84f48d352b5bd8f6d54aea847ca665fa32c5801c086934a0f9abd1d0ef03"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/luna_shadow.md",
+      "sha256": "933ec6e974a50b037d24093d72b438f4816421f0b1b34a7aa49703d6b7434691"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/parasite.md",
+      "sha256": "c03920bf7cdc23af24805e5218e706585085c1cef522ea5dd618c4ada2943676"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/parasite_villager.md",
+      "sha256": "fa55e74e19231d4cf341790fb238201bfc04c605156d43a57694aea7865843d7"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/star_crawler.md",
+      "sha256": "b7d2c71b9cc043d13a2c908f1935a34fac4436d8aa0a7f3b361534f59e764d24"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/mobs/star_crawler_boss.md",
+      "sha256": "04387eb3b4e797420fee1691986aca605702f935eaec37c966c4615dd254deef"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/planets/earth.md",
+      "sha256": "99eb9ea1edc45e4b75165e7edf082ce92b0a26edfd045b1c7adc4092af0e5f21"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/planets/gravity.md",
+      "sha256": "84c14d31ce43ef815618bb3093290e3bb9ec5f5a2787998b69510009edb2eac0"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/planets/moon.md",
+      "sha256": "14d977f1f9f9225ea8c2dfd16e896602ade2e1bf7c887406b9b50534c8c50bdb"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/lander.md",
+      "sha256": "e7466db2cbf610d7b51b8d1c9d5f7e61b2827f2f0425904efe4cc95117b54925"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/launch_pad_towers.md",
+      "sha256": "0d470b2d5dafd22ca1840f212ae70b6d885bca005c3aab27b327377cfdc1be15"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/planets.md",
+      "sha256": "f6c10f957ce4057458d7265d30675e8d2e2868964408981f38f9f19053efcff2"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/rocket.md",
+      "sha256": "c76c6bc4a8a3049a657f792a741490e5836190f2fcc01c2c8c5a0461cc6b5946"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/rocket_launch_pad.md",
+      "sha256": "81ae2f504b2d130fe0af52a9604b168dce841b0f5d1f7e54824bf72463d76e70"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/rocket_modules.md",
+      "sha256": "92011864647931096a47f0f2117baf0f338b8ac8c7466701bdc091adf4833131"
+    },
+    {
+      "path": "kubejs/data/stellaris/wiki/infos/rocket/space_station.md",
+      "sha256": "cb3f0bba406c832efd900909dcf3d37e3c8b14b0c9fb6934be34dad1583d3f4d"
     }
   ],
   "baseline": [
@@ -525,6 +770,70 @@
     {
       "path": "mods/drones-neoforge-26.1.2-1.3.2.jar",
       "sha256": "4f9cf6de0a80b59a173788421307d18c8a7ab12f595a889032a972dbcc8df25a"
+    },
+    {
+      "path": "mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+      "sha256": "ef3c4c7c326e429d725108226299da0fe91bbff0bf9fe8fe2bfc287a2c66fca3"
+    },
+    {
+      "path": "mods/AdvancedAE-26.1.7.jar",
+      "sha256": "fae810b62ecd1746ab9b74ba6e0b5242ab7c0e92d291704e4ea755c83230b233"
+    },
+    {
+      "path": "mods/AppliedFlux-26.1-1.0.2-neoforge.jar",
+      "sha256": "1eec8ffcd0c3c25745dd8c0cadbcfaad50bedfe12792783c310b8533da06cdec"
+    },
+    {
+      "path": "mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
+      "sha256": "0201b58f5bdd33b2edffc786fbea7fbdbae06861f5beea1e6144ce4774e66e21"
+    },
+    {
+      "path": "mods/ae2importexportcard-26.1.2-2.3.1.jar",
+      "sha256": "4edabdd02315bdc7bae73bf9ac122642e52ac0fc3f8c759642d5c2768a18d6a1"
+    },
+    {
+      "path": "mods/ae2wtlib-26.1.2-beta.jar",
+      "sha256": "7671b8ed49f7aabcb17c62184e4369c606ad325777a0123aa77c4a3e92a5ad48"
+    },
+    {
+      "path": "mods/appliedenergistics2-26.1.13-beta.jar",
+      "sha256": "6474119c645a21f509da518845ab42bff84d496f80a86ce5e551d7a4745b4893"
+    },
+    {
+      "path": "mods/auroral-26.1.2-1.5.9.jar",
+      "sha256": "20f1f222137d2ea32b91b620abc3467a6d7039796bb6dec33f3e1afde041be51"
+    },
+    {
+      "path": "mods/ftb-industrial-contraptions-26.1.2.18.jar",
+      "sha256": "5f20175602302e51551d8c26d751c2cb9bbc68830c32a6301ab62eb388b9f3c9"
+    },
+    {
+      "path": "mods/guideme-26.1.15-beta.jar",
+      "sha256": "17acb84bff9320b237340b280415029ba950640895343fb2f9c35b7b4416e7d5"
+    },
+    {
+      "path": "mods/kubejs-neoforge-26.1.2-8.0.7.jar",
+      "sha256": "9cd3d8a4d144f2309ab811a324b7bff9b34f44dc28ad89cdbc791c5bf42fb656"
+    },
+    {
+      "path": "mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
+      "sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6"
+    },
+    {
+      "path": "mods/neovitae-26.1.2-1.1.43.jar",
+      "sha256": "c182f6e0be6d155adddb1667f10fdb8716933b967ec3b2b4fc80bfe33586b845"
+    },
+    {
+      "path": "mods/nodeworks-0.9.21.jar",
+      "sha256": "d47ddc9ec9041e4e476e779bc0769a33f2ba8c1588843018c880f30e5dcfd28b"
+    },
+    {
+      "path": "mods/recursiveae2patternprovider-1.1.1.jar",
+      "sha256": "49b43eb6ea52bb7981274e42389d9006fe16918af8e315b7e1bfebf0f6195aab"
+    },
+    {
+      "path": "mods/stellaris-26.1.2-neoforge-2.0.8.jar",
+      "sha256": "7e3823046fc202db023a65a17032058e0ddeaa1a38dadf09e0c7d80f4a91d1ee"
     }
   ]
 }

@@ -330,7 +330,7 @@
     "thaumaturge": 1
   },
   "books": 894,
-  "guides": 366,
+  "guides": 748,
   "translation_method": "Machine drafts with protected technical tokens, glossary normalization and structural checks; manual edits retained.",
   "pack": "FTB Evolution 2",
   "version": "1.4.0",
@@ -392,10 +392,10 @@
     "reward.json5": 47,
     "reward_table.json5": 35
   },
-  "resource_pack_keys": 45302,
+  "resource_pack_keys": 45437,
   "editorial_corrections_from_r1": 40,
   "note": "Full source coverage is not a claim of a complete manual literary review.",
-  "changed_or_added_resource_values": 43838,
+  "changed_or_added_resource_values": 43973,
   "unchanged_technical_or_proper_values": 1464,
   "quest_description_entries": 1787,
   "oracle_index": {
@@ -417,5 +417,58 @@
       "V1 and Legacy language paths from installed bytecode"
     ],
     "game_rendering_tested": false
+  },
+  "r4_tutorials": {
+    "status": "PASS",
+    "new_pages": 382,
+    "by_namespace": {
+      "advanced_ae": 13,
+      "ae2": 126,
+      "ae2netanalyser": 2,
+      "ae2wtlib": 7,
+      "appflux": 12,
+      "auroral": 30,
+      "extendedae": 45,
+      "ftbic": 66,
+      "nodeworks": 75,
+      "recursiveae2patternprovider": 6
+    },
+    "checks": [
+      "supported GuideME language roots",
+      "MDX/YAML structure and technical attributes",
+      "links and code examples unchanged",
+      "no intermediate tokens"
+    ],
+    "game_rendering_tested": false,
+    "final_manual_edits_checked": true,
+    "checked_pages": 382
+  },
+  "r4_other_guides": {
+    "status": "PASS",
+    "stellaris_pages": 61,
+    "modonomicon_literal_keys": {
+      "neovitae": 60,
+      "occultism": 5,
+      "witchery": 70
+    },
+    "source_jars": [
+      "stellaris-26.1.2-neoforge-2.0.8.jar"
+    ],
+    "checks": [
+      "Modonomicon raw string localization verified in installed BookTextHolder.getString",
+      "Stellaris directive order and metadata preserved",
+      "KubeJS data overlay only; no game rules edited"
+    ],
+    "game_rendering_tested": false
+  },
+  "nodeworks_language_corrections": {
+    "block.nodeworks.budding_celestine": "Цветущий целестин",
+    "item.nodeworks.celestine_shard": "Осколок целестина",
+    "block.nodeworks.inventory_terminal": "Терминал инвентаря",
+    "block.nodeworks.network_controller": "Контроллер сети",
+    "item.nodeworks.storage_card": "Карта хранилища",
+    "item.nodeworks.nodeworks_book": "Руководство Nodeworks",
+    "item.nodeworks.nodeworks_book.tooltip": "Нажмите ПКМ, чтобы открыть руководство Nodeworks.",
+    "block.nodeworks.node": "Узел"
   }
 }

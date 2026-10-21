@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "installer_checks": 15988,
+  "installer_runtime": "Windows PowerShell 5.1",
+  "upgrade": {
+    "status": "PASS",
+    "checks": [
+      "Upgrade retains first backup",
+      "Upgrade replaces pack and adds new language files",
+      "Repeated upgraded install is idempotent",
+      "Rollback after upgrade restores pre-r2 state",
+      "Upgrade protects personal edits",
+      "Interrupted upgrade rolls back both old and new file versions"
+    ]
+  },
+  "server_smoke": {
+    "started": true,
+    "ready": true,
+    "timed_out": false,
+    "exit_code": 0,
+    "seconds": 189,
+    "test_world_only": true
+  },
+  "tutorials": {
+    "status": "PASS",
+    "new_pages": 382,
+    "by_namespace": {
+      "advanced_ae": 13,
+      "ae2": 126,
+      "ae2netanalyser": 2,
+      "ae2wtlib": 7,
+      "appflux": 12,
+      "auroral": 30,
+      "extendedae": 45,
+      "ftbic": 66,
+      "nodeworks": 75,
+      "recursiveae2patternprovider": 6
+    },
+    "checks": [
+      "supported GuideME language roots",
+      "MDX/YAML structure and technical attributes",
+      "links and code examples unchanged",
+      "no intermediate tokens"
+    ],
+    "game_rendering_tested": false,
+    "final_manual_edits_checked": true,
+    "checked_pages": 382
+  },
+  "other_guides": {
+    "status": "PASS",
+    "stellaris_pages": 61,
+    "modonomicon_literal_keys": {
+      "neovitae": 60,
+      "occultism": 5,
+      "witchery": 70
+    },
+    "source_jars": [
+      "stellaris-26.1.2-neoforge-2.0.8.jar"
+    ],
+    "checks": [
+      "Modonomicon raw string localization verified in installed BookTextHolder.getString",
+      "Stellaris directive order and metadata preserved",
+      "KubeJS data overlay only; no game rules edited"
+    ],
+    "game_rendering_tested": false
+  },
+  "client_rendering_tested": false
+}
