@@ -1,0 +1,9 @@
+{
+  "jei.justdirefuels.fluid_fuel.title": "Жидкостное топливо для генераторов",
+  "jei.justdirefuels.fluid_fuel.fe_per_mb": "%s FE / mB",
+  "jei.justdirefuels.item_fuel.title": "Твердое генераторное топливо",
+  "jei.justdirefuels.item_fuel.fe_per_tick": "%s FE / галочка",
+  "jei.justdirefuels.item_fuel.fe_per_tick_default": "По умолчанию FE / галочка",
+  "jei.justdirefuels.item_fuel.burn_speed": "Скорость записи %s",
+  "jei.justdirefuels.item_fuel.burn_time": "%s сжигать клещей"
+}

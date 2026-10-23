@@ -1,0 +1,15 @@
+{
+  "name": "Модуль отправителя Mk3",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:sender_module_3",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот топовый модуль отправителя работает очень похоже на $(l:modules/sender_3)Sender Mk2/$, но может отправлять в любой инвентарь (в любом измерении) без ограничений!$(p)Примечание: целевой инвентарь должен быть загружен частями; $(modr) не сделает этого за вас."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:sender_module_3"
+    }
+  ]
+}

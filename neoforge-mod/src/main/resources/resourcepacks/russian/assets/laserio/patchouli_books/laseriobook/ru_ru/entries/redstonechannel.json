@@ -1,0 +1,12 @@
+{
+  "name": "Редстоун Канал",
+  "sortnum": 11,
+  "category": "laserio:mechanics",
+  "icon": "laserio:textures/gui/buttons/redstoneignore.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "У карт есть «канал красного камня», отдельный от основного канала.$(br2)Это канал сигнала красного камня, который будет влиять на карту. Более подробную информацию см. в разделах $(l:laserio:redstonemode)Режим Redstone$(/l) и $(l:laserio:card_redstone)Карта Redstone$(/l)."
+    }
+  ]
+}

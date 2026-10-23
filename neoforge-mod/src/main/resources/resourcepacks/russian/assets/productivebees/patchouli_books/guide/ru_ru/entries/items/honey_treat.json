@@ -1,0 +1,12 @@
+{
+  "name": "Медовое лакомство",
+  "icon": "productivebees:honey_treat",
+  "category": "productivebees:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:honey_treat",
+      "text": "Медовыми лакомствами можно кормить разъяренных пчел, чтобы успокоить их. Если кормить ими пчёл, они вырастут быстрее.$(br2)Медовые лакомства также можно комбинировать с генами для передачи генетики от одной пчелы к другой. Подробнее читайте на $(l:genetics/transferring)странице генетики$(/l)."
+    }
+  ]
+}

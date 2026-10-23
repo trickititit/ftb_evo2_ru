@@ -1,0 +1,11 @@
+{
+  "combat_roll.mod_name": "Боевой перекат",
+  "key.category.combat_roll.main": "Боевой перекат",
+  "stat.combat_roll.roll": "Роллы",
+  "stat.combat_roll.roll_cm": "Прокатное расстояние",
+  "text.autoconfig.combat_roll.title": "Боевой перекат",
+  "text.autoconfig.combat_roll.option.client.showHUDInCreative": "Показать стрелку в творческом режиме",
+  "text.autoconfig.combat_roll.option.client.showWhenFull": "Показывать стрелку, когда она заполнена",
+  "text.autoconfig.combat_roll.option.client.showKeybinding": "Показать привязку клавиш в HUD",
+  "text.autoconfig.combat_roll.option.client.keybindingLabelPosition": "Положение метки привязки клавиш"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Пылающий Эмбер",
+  "sortnum": 22,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Пылающий уголек создается путем размещения блока $(l:justdirethings:res_coal_t1)Первобытного угля$(/l) рядом с $(l:justdirethings:gooblock_tier2)Пламенноцветущей слизью$(/l). Он горит горячее и эффективнее, чем его предшественник, генерируя еще больше RF/T."
+    }
+  ]
+}

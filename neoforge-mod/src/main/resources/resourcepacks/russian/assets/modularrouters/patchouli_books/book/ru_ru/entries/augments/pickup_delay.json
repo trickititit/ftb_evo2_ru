@@ -1,0 +1,15 @@
+{
+  "name": "Увеличение задержки срабатывания",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:pickup_delay_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это улучшение можно добавить только к модулям $(l:modules/dropper)Dropper/$ и $(l:modules/flinger)Flinger/$.$(p)Оно может складываться; Каждое добавленное улучшение увеличит задержку подбора брошенных/брошенных предметов на 10 тиков (0,5 секунды). Это может быть полезно, например, если вы не хотите, чтобы игроки случайно подбирали выпавшие поблизости предметы."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:pickup_delay_augment"
+    }
+  ]
+}

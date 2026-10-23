@@ -1,0 +1,17 @@
+{
+  "name": "Слизь мерцания пустоты",
+  "sortnum": 3,
+  "category": "justdirethings:goo",
+  "icon": "justdirethings:gooblock_tier3",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "VoidShimmer Goo, пропитанная таинственной энергией Конца, позволяет превращать Алмазы в Celestigem. Этот липкий уровень позволяет создавать материалы с необычайными свойствами, такими как улучшенное хранение энергии и телепортация."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание VoidShimmer Goo",
+      "recipe": "justdirethings:gooblock_tier3"
+    }
+  ]
+}

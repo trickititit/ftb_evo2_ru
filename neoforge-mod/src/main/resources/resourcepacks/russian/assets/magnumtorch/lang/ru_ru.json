@@ -1,0 +1,12 @@
+{
+  "block.magnumtorch.magnum_torch.tooltip.additional": "Удерживайте %s, чтобы просмотреть дополнительную информацию.",
+  "block.magnumtorch.magnum_torch.tooltip.blacklist": "Черный список: %s",
+  "block.magnumtorch.magnum_torch.tooltip.description": "Предотвращает появление мобов на огромной территории.",
+  "block.magnumtorch.magnum_torch.tooltip.horizontal_range": "Диапазон горизонтального блока: %s",
+  "block.magnumtorch.magnum_torch.tooltip.mob_types": "Тип моба: %s",
+  "block.magnumtorch.magnum_torch.tooltip.shape_type": "Тип фигуры: %s",
+  "block.magnumtorch.magnum_torch.tooltip.shift": "⇧ Shift",
+  "block.magnumtorch.magnum_torch.tooltip.vertical_range": "Диапазон вертикального блока: %s",
+  "block.magnumtorch.magnum_torch.tooltip.whitelist": "Белый список: %s",
+  "itemGroup.magnumtorch.main": "Магнум Факел"
+}

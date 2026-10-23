@@ -1,0 +1,17 @@
+{
+  "name": "Слиток сплава Затмения",
+  "sortnum": 7,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:eclipsealloy_ingot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Слитки сплава Eclipse, полученные путем выплавки необработанного сплава Eclipse, обладают непревзойденной долговечностью и прочностью. Их получают в результате добычи $(l:justdirethings:res_eclipsealloy_raw)Необработанных блоков сплава Eclipse$(/l), предоставляя идеальный материал для создания самых мощных и долговечных предметов."
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Выплавка необработанного сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_ingot_smelted"
+    }
+  ]
+}

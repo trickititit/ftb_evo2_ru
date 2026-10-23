@@ -1,0 +1,13 @@
+{
+  "name": "диковинки",
+  "icon": "curios:textures/slot/empty_charm_slot.png",
+  "category": "apotheosis:potion/charms",
+  "flag": "&apotheosis:potion,apotheosis:curiosloaded",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Если у вас установлен $(9)Curios$(), вы можете использовать зелья-талисманы в слоте $(9)Очарования$().$(p)Они будут работать так же, как и в инвентаре."
+    }
+  ]
+}

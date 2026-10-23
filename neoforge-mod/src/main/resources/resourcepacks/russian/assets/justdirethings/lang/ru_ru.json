@@ -1,0 +1,21 @@
+{
+  "block.justdirethings.gooblock_tier1": "Primogel Гуу",
+  "block.justdirethings.gooblock_tier2": "Блейзблум Гу",
+  "block.justdirethings.gooblock_tier3": "Слизь мерцания пустоты",
+  "block.justdirethings.gooblock_tier4": "Пульс Тени Гу",
+  "entity.justdirethings.creature_catcher": "Ловец существ",
+  "entity.justdirethings.justdireareaeffectcloud": "Облако с эффектом площади",
+  "entity.justdirethings.justdirearrow": "Ужасная стрела",
+  "entity.justdirethings.portal_entity": "Дайр-портал",
+  "entity.justdirethings.portal_projectile": "Портальный снаряд",
+  "item.justdirethings.celestigem": "Небесный самоцвет",
+  "itemGroup.DeferredHolder{ResourceKey[minecraft:creative_mode_tab / justdirethings:justdirethings]}": "Just Dire Things",
+  "justdirethings.flight.detailtext": "Полет в творческом режиме",
+  "justdirethings.screen.fepertick": "FE/T: %s",
+  "justdirethings.screen.fluid": "%s: %s/%s МБ",
+  "justdirethings.screen.hideparticles": "Скрыть частицы",
+  "justdirethings.screen.inv-hotbar": "Только горячая панель",
+  "justdirethings.screen.inv-main": "Основной инвентарь",
+  "justdirethings.screen.target-mob": "Мобы",
+  "key.category.justdirethings.category": "Just Dire Things"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Шлем",
+  "sortnum": 1,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:ferricore_helmet",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Шлем Ferricore обеспечивает базовую защиту и выполнен в стиле древних воинов. Он обеспечивает немного лучшую защиту, чем железные шлемы, и может быть улучшен уникальными способностями, повышающими его защитные качества."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ferricore Изготовление шлемов",
+      "recipe": "justdirethings:ferricore_helmet"
+    }
+  ]
+}

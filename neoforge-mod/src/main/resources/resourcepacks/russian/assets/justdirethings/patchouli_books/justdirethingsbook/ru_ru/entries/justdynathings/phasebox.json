@@ -1,0 +1,14 @@
+{
+  "name": "Как эфирное стекло",
+  "sortnum": 9,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:phase_box",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Фазовый ящик",
+      "recipe": "justdynathings:phase_box",
+      "text": "Блок, который можно переключать для отключения/включения твердотельного состояния$(br)Также это может быть CTM при установке $(bold)Fusion$() $(strike)ConnectedTexturesMod$()"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+id: oritech:steel_ingot
+title: "Сталь"
+type: item
+related_items: ["oritech:steel_dust", "oritech:steel"]
+---
+
+Сталь — это сплав среднего уровня, используемый для создания [рамы машин](@oritech:machine_frame), [предмет трубы](@oritech:item_pipe) и различных других компонентов.
+
+Сталь можно изготовить в крафтовой сетке, используя железо и уголь:
+
+<CraftingRecipe
+    slots={[
+        'minecraft:iron_ingot',
+        'minecraft:iron_ingot',
+        '',
+        'minecraft:coal',
+        'minecraft:coal',
+        '',
+        '',
+        '',
+        ''
+    ]}
+    result="oritech:steel_ingot"
+    count={1}
+/>
+
+[литейный завод](@oritech:foundry) может производить больше стали с меньшим количеством железа и угля.

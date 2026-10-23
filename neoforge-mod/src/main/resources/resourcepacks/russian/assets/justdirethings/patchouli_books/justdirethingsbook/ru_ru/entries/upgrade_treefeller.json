@@ -1,0 +1,17 @@
+{
+  "name": "Валик деревьев",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_treefeller",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Treefeller — это пассивная способность, которая действует на Ferricore Топоре и выше. Когда вы сломаете кусок дерева, он одновременно сломает все соседние соответствующие деревянные блоки.$(br2)Срубите эти деревья одним взмахом!$(br2)Примечание: вырубка всего дерева за раз занимает немного больше времени, чем вырубка одного блока!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения валика деревьев",
+      "recipe": "justdirethings:upgrade_treefeller"
+    }
+  ]
+}

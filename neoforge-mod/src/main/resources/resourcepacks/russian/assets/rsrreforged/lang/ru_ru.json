@@ -1,0 +1,10 @@
+{
+  "block.rsrreforged.requester": "Запрашивающая сторона",
+  "button.rsrreforged:requester.save": "Сохранить",
+  "block.rsrreforged.crafting_emitter": "Создание излучателя",
+  "block.rsrreforged.crafting_emitter.tooltip": "Издает сигнал красного камня, когда обрабатывается указанное количество предмета/жидкости.",
+  "block.rsrreforged.requester.tooltip": "Сохраняет указанное количество предмета/жидкости на складе.",
+  "block.rsrreforged.requester.tooltip.filter": "Ресурсы, которые следует хранить в сети хранения данных",
+  "block.rsrreforged.crafting_emitter.tooltip.filter": "Ресурсы, которые должны излучать сигнал красного камня",
+  "creativetab.rsrreforged.rsrreforgedtab": "RSRequestify: перефорсированный"
+}

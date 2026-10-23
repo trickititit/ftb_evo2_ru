@@ -1,0 +1,29 @@
+{
+  "name": "Фолиант утилизации",
+  "icon": "apothic_enchanting:scrap_tome",
+  "category": "apotheosis:enchanting/utility",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Том разбора — это способ извлечения чар из предмета.$(p)Объединение одного предмета с другим предметом на наковальне приведет к уничтожению другого предмета и созданию книги с некоторыми случайными чарами."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "apothic_enchanting:scrap_tome",
+      "text": "Вы всегда получите половину чар (с округлением в большую сторону).$(p)Выбранные чары основаны на вашем $(l:apotheosis:enchanting/table/seed)Семени чар$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Улучшенный утилизация",
+      "item": "apothic_enchanting:improved_scrap_tome",
+      "text": "$(9)Том превосходной разборки$() — это улучшенная версия Тома разборки.$(p)Он извлекает все чары предмета, а не половину из них."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apothic_enchanting:extraction_tome",
+      "text": "$(9)Том извлечения$() — это усовершенствованная версия Тома разбора.$(p)Он извлекает все чары из предмета и не уничтожает предмет в процессе."
+    }
+  ]
+}

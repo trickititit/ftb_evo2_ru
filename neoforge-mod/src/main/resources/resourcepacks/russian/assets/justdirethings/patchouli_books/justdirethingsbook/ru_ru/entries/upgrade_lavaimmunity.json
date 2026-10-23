@@ -1,0 +1,17 @@
+{
+  "name": "Иммунитет к лаве",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lavaimmunity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защитите себя от палящего жара лавы с помощью улучшения «Иммунитет к лаве». Это улучшение дает полную невосприимчивость к урону от лавы.$(br2)Он использует энергию кузницы, чтобы держать вас в воздухе, так что не убегайте!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание иммунитета к лаве",
+      "recipe": "justdirethings:upgrade_lavaimmunity"
+    }
+  ]
+}

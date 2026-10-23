@@ -1,0 +1,15 @@
+{
+  "name": "Модуль Пустоты",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:void_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот опасный модуль безвозвратно уничтожает элементы в буфере маршрутизатора! Настоятельно рекомендуется настроить этот модуль с фильтром белого списка $(l:intro/modules#filter)/$, чтобы предотвратить случайное удаление ценных элементов..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:void_module"
+    }
+  ]
+}

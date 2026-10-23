@@ -1,0 +1,12 @@
+{
+  "name": "Уголь Пламени Бездны",
+  "sortnum": 23,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t3",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уголь Пламени Бездны можно получить, поместив блок $(l:justdirethings:res_coal_t2)Пылающего угля$(/l) рядом с $(l:justdirethings:gooblock_tier3)VoidShimmer Goo$(/l). Этот вариант угля обладает мистическими свойствами, повышающими его энергетическую эффективность."
+    }
+  ]
+}

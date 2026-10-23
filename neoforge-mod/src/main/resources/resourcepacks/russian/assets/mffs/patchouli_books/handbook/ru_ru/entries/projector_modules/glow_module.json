@@ -1,0 +1,27 @@
+{
+  "name": "Модуль свечения",
+  "icon": "mffs:glow_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:glow_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль свечения$() можно использовать в $(l:mffs:machines/projector)Проекторе силового поля$() для освещения области вокруг поля. Установка $(5)Светящихся модулей$() в проектор заставляет силовое поле излучать свет. По мере добавления дополнительных $(5)модулей свечения$() (максимум до 64) яркость поля увеличивается - пока не станет равной яркости светящегося камня."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:glow_module",
+      "text": "Создание модуля $(5)Свечение$()."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/glow_module.png"
+      ],
+      "border": true,
+      "title": "Проекция",
+      "text": "Проектор силового поля, проецирующий поле с установленным модулем $(5)Свечение$()."
+    }
+  ]
+}

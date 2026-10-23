@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "FTB Evolution 2 1.4.0 — русский перевод r4, Nodeworks и другие руководства, без Chisel",
+    "min_format": [
+      84,
+      0
+    ],
+    "max_format": [
+      84,
+      0
+    ]
+  }
+}

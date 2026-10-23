@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Леггинсы",
+  "sortnum": 3,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:ferricore_leggings",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Леггинсы Ferricore, созданные для комфорта и защиты, обеспечивают повышенную долговечность и возможность дальнейших улучшений для увеличения скорости передвижения."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ferricore Изготовление леггинсов",
+      "recipe": "justdirethings:ferricore_leggings"
+    }
+  ]
+}

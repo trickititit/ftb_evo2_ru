@@ -1,0 +1,38 @@
+{
+  "name": "Эхо зародышей",
+  "sortnum": 2,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:echoing_budding_amethyst",
+  "flag": "!mod:justdynathings",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Почки, которым требуется $(bold)Временная жидкость$() (100 МБ/нед.) и $(bold)Energy$() (100FE/нед.) для роста кластеров."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Minecraft (Аметист)",
+      "recipe": "justdynathings:echoing_budding_amethyst"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "JustDireThings (Время)",
+      "recipe": "justdynathings:echoing_budding_time"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Applied Energistics 2",
+      "recipe": "justdynathings:echoing_budding_certus"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Расширенная АЭ",
+      "recipe": "justdynathings:echoing_budding_entro"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Фазоритовые сети",
+      "recipe": "justdynathings:echoing_budding_phasorite"
+    }
+  ]
+}

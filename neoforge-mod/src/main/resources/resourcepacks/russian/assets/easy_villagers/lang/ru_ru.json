@@ -1,0 +1,13 @@
+{
+  "key.category.easy_villagers.easy_villagers": "Легкие жители деревни",
+  "block.easy_villagers.inventory_viewer": "Средство просмотра инвентаря",
+  "gui.easy_villagers.inventory_viewer": "Средство просмотра инвентаря",
+  "gui.easy_villagers.villager_inventory": "Инвентарь деревенского жителя",
+  "gui.easy_villagers.villager_equipment": "Сельское снаряжение",
+  "itemGroup.easy_villagers": "Легкие жители деревни",
+  "tooltip.easy_villagers.villager_profession": "%s (%s)",
+  "tooltip.easy_villagers.zombie_villager_profession": "%s (%s)",
+  "config.jade.plugin_easy_villagers.villager": "сельский житель",
+  "config.jade.plugin_easy_villagers.converter": "Конвертер",
+  "config.jade.plugin_easy_villagers.breeder": "Заводчик"
+}

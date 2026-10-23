@@ -1,0 +1,17 @@
+{
+  "name": "Землетрясение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_earthquake",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Раскройте силу природы с улучшением «Землетрясение». Это улучшение вызывает сильную дрожь вокруг вас, замедляя всех ближайших врагов.$(br2)Его необходимо активировать с помощью привязанной горячей клавиши, настроенной в меню настроек инструмента."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Землетрясение",
+      "recipe": "justdirethings:upgrade_earthquake"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "block.dimresources.deepslate_dimensional_ore": "Пространственная руда из глубинных сланцев",
+  "block.dimresources.dimensional_ore": "Пространственная руда",
+  "block.dimresources.dimensional_stone": "Пространственный камень",
+  "block.dimresources.dimensional_stone_brick_slab": "Размерная плита из каменного кирпича",
+  "block.dimresources.dimensional_stone_brick_stairs": "Габаритные лестницы из каменного кирпича",
+  "block.dimresources.dimensional_stone_brick_wall": "Пространственная каменная кирпичная стена",
+  "block.dimresources.dimensional_stone_bricks": "Размерный каменный кирпич",
+  "block.dimresources.dimensional_stone_slab": "Пространственная каменная плита",
+  "block.dimresources.dimensional_stone_stairs": "Пространственные каменные лестницы",
+  "block.dimresources.dimensional_stone_wall": "Пространственная каменная стена",
+  "block.dimresources.laser": "Межпространственный лазер",
+  "chat.dimresources.discovered_planet": "Открытая планета: %s",
+  "item.dimresources.dimensional_shard": "Пространственный осколок",
+  "item.dimresources.planet_locator": "Планета Локатор",
+  "itemGroup.dimresources": "Размерные ресурсы",
+  "jei.dimensionalresources.laser": "Лазерная добыча",
+  "jei.dimresource.weight": "Вес: %s%%",
+  "tooltip.dimresources.laser_level": "Минимальный лазерный уровень: %s",
+  "tooltip.dimresources.planet": "Планета: %s",
+  "tooltip.dimresources.rf_per_tick": "RF За тик: %s"
+}

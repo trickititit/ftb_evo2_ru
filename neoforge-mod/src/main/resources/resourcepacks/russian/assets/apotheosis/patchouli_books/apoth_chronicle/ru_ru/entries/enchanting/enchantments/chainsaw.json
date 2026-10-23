@@ -1,0 +1,13 @@
+{
+  "name": "Бензопила",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(2)Бензопила$() — это зачарование выдающейся работы, которое можно применить к топорам.$(p)При разрушении дерева будет срублено всё дерево.$(p)При этом используется прочность топора."
+    }
+  ]
+}

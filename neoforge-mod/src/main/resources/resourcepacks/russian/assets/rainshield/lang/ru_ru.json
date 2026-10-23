@@ -1,0 +1,8 @@
+{
+  "block.rainshield.rain_shield": "Дождевой щит",
+  "rainshield.configuration.client": "Клиент",
+  "rainshield.configuration.client.tooltip": "Настройки клиента",
+  "rainshield.configuration.rainShieldDistance": "Расстояние защиты от дождя",
+  "rainshield.configuration.rainShieldDistance.tooltip": "Определяет диапазон, в котором Дождевой щит перестает отображать дождь.",
+  "rainshield.networking.sync_shields.failed": "Не удалось синхронизировать данные дождевого щитка: %s"
+}

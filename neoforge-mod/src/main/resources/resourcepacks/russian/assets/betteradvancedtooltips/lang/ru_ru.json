@@ -1,0 +1,7 @@
+{
+  "betteradvancedtooltips.configuration.remove_creative_tab_tooltip": "Удалить всплывающую подсказку вкладки «Креатив»",
+  "betteradvancedtooltips.configuration.remove_component_count_tooltip": "Удалить подсказку о количестве компонентов",
+  "betteradvancedtooltips.configuration.fuel_tooltip": "Подсказка по топливу",
+  "betteradvancedtooltips.configuration.tag_tooltip": "Подсказка тега",
+  "betteradvancedtooltips.configuration.component_tooltip": "Подсказка компонента"
+}

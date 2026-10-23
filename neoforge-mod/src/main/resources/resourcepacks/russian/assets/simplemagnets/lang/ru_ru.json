@@ -1,0 +1,7 @@
+{
+  "simplemagnets.item_group": "Простые магниты",
+  "simplemagnets.gui.demagnetization_coil.show_range": "Выделенная область: %s",
+  "simplemagnets.gui.demagnetization_coil.show_range.on": "Правда",
+  "simplemagnets.gui.demagnetization_coil.show_range.off": "Ложь",
+  "simplemagnets.keys.category": "Простые магниты"
+}

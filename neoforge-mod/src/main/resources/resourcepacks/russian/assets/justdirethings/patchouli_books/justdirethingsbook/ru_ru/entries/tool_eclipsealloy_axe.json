@@ -1,0 +1,17 @@
+{
+  "name": "Топор из сплава «Затмение»",
+  "sortnum": 23,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_axe[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот топор Eclipse из сплава превосходно справляется с рубкой древесины благодаря высокой эффективности и увеличенному запасу энергии. $(br2)Он создан для выполнения самых сложных задач по обработке пиломатериалов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_axe",
+      "text": "Создание топора из сплава Eclipse"
+    }
+  ]
+}

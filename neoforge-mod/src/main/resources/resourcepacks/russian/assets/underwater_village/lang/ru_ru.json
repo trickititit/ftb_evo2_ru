@@ -1,0 +1,12 @@
+{
+  "itemGroup.underwater_village": "Пример вкладки «Мод»",
+  "block.underwater_village.example_block": "Пример блока",
+  "item.underwater_village.example_item": "Пример элемента",
+  "underwater_village.configuration.title": "Конфигурации подводной деревни",
+  "underwater_village.configuration.section.underwater_village.common.toml": "Конфигурации подводной деревни",
+  "underwater_village.configuration.section.underwater_village.common.toml.title": "Конфигурации подводной деревни",
+  "underwater_village.configuration.items": "Список предметов",
+  "underwater_village.configuration.logDirtBlock": "Бревенчатый грязевой блок",
+  "underwater_village.configuration.magicNumberIntroduction": "Текст магического числа",
+  "underwater_village.configuration.magicNumber": "Магическое число"
+}

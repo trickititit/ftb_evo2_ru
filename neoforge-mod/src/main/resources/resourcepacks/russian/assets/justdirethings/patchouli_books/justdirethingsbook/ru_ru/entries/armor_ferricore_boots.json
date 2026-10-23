@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Сапоги",
+  "sortnum": 4,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:ferricore_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сапоги Ferricore созданы для искателей приключений и обеспечивают немного большую защиту и долговечность, чем железные ботинки. Их можно улучшить, чтобы предложить расширенные способности, такие как увеличение прыжков."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ferricore Изготовление сапог",
+      "recipe": "justdirethings:ferricore_boots"
+    }
+  ]
+}

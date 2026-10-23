@@ -1,0 +1,15 @@
+{
+  "name": "Толкающее увеличение",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:pushing_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение можно добавить только к модулям $(l:modules/extruder_1)Экструдер Mk1/$ и $(l:modules/extruder_2)Экструдер Mk2/$.$(p)Его можно штабелировать; каждое дополнение увеличивает силу, с которой объекты толкаются, когда модуль выдавливает блок."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:pushing_augment"
+    }
+  ]
+}

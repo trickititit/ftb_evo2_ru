@@ -1,0 +1,13 @@
+{
+  "name": "Ножницы",
+  "icon": "minecraft:shears",
+  "category": "apotheosis:enchanting/changes",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Помимо новых чар, Ножницы теперь также могут получить $(9)Нерушимость$(), $(9)Эффективность$() и $(9)Фортуна$()."
+    }
+  ]
+}

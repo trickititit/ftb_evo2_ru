@@ -1,0 +1,17 @@
+{
+  "name": "Усовершенствованная система россыпи жидкости",
+  "sortnum": 16,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:fluidplacert2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Усовершенствованный укладчик жидкости основан на $(l:justdirethings:mach_fluidplacert1)Простом укладчике жидкости$(/l)$(br2). Он может размещать жидкости на большей площади, и, как и его партнер, $(l:justdirethings:mach_blockplacert2)Усовершенствованный укладчик$(/l), слоты для фильтров позволяют вам указать, на какие блоки размещать жидкости."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Усовершенствованная система россыпи жидкости",
+      "recipe": "justdirethings:fluidplacert2"
+    }
+  ]
+}

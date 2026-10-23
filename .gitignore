@@ -1,15 +1,15 @@
 # Локальные данные установки и игры
 .ftb-evolution-ru/
 **/.ftb-evolution-ru/
-world/
-worlds/
-saves/
-logs/
-crash-reports/
-mods/
-options.txt
-servers.dat*
-usercache.json
+/world/
+/worlds/
+/saves/
+/logs/
+/crash-reports/
+/mods/
+/options.txt
+/servers.dat*
+/usercache.json
 *.log
 *.tmp
 __pycache__/

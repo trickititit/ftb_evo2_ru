@@ -1,0 +1,22 @@
+{
+  "name": "Волк",
+  "icon": "minecraft:wolf_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:wolf",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:wolf_food",
+      "text": "Кормите волков костями, чтобы разводить их и увеличивать их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет волка и уронит его добычу."
+    }
+  ]
+}

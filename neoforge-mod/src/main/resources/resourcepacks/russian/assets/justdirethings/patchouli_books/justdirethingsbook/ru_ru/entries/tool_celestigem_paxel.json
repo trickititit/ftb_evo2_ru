@@ -1,0 +1,12 @@
+{
+  "name": "Celestigem Паксел",
+  "sortnum": 19,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_paxel[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Celestigem Paxel сочетает в себе возможности кирки, топора и лопаты. Созданный с использованием соответствующих инструментов, он унаследовал их улучшения, предлагая универсальность и расширенную полезность.$(br2)Создайте его, объединив Celestigem Кирку, Топор и Лопату на кузнечном столе. Любые установленные обновления инструментов будут перенесены на Paxel."
+    }
+  ]
+}

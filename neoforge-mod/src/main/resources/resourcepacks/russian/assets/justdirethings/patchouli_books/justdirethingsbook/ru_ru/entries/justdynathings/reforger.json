@@ -1,0 +1,15 @@
+{
+  "name": "Плати, чтобы выиграть",
+  "sortnum": 6,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:reforger",
+  "flag": "!mod:justdynathings",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "перековщик",
+      "recipe": "justdynathings:reforger",
+      "text": "Мощная машина, позволяющая конвертировать входной блок, помещенный на красную грань, в выходной блок за счет катализатора."
+    }
+  ]
+}

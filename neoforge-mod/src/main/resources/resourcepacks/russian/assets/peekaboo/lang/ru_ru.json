@@ -1,0 +1,10 @@
+{
+  "commands.disguise.not_living_entity": "Источник не является живым существом",
+  "creative_tab.peekaboo": "Пикабу",
+  "item.peekaboo.disguise": "Маскировка",
+  "item.peekaboo.disguise.entity": "%s Маскировка",
+  "item.peekaboo.mob_hat": "Моб Шляпа",
+  "item.peekaboo.mob_hat.entity": "%s Шляпа",
+  "item.peekaboo.plushie": "плюшевый",
+  "item.peekaboo.plushie.entity": "%s Плюшевый мишка"
+}

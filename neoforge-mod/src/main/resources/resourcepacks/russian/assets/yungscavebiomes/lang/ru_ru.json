@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves": "Затерянные пещеры",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.enableSandstorms": "Включить песчаные бури",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.extraSandstormParticles": "Рендеринг дополнительных частиц во время песчаных бурь",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.minSandstormDuration": "Минимальная продолжительность песчаной бури (секунды)",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.maxSandstormDuration": "Максимальная продолжительность песчаной бури (секунды)",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.minTimeBetweenSandstorms": "Минимальное время между песчаными бурями (секунды)",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.maxTimeBetweenSandstorms": "Максимальное время между песчаными бурями (секунды)"
+}

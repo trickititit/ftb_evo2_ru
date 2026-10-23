@@ -1,0 +1,18 @@
+{
+  "item.little_big_redstone.battery": "Батарея",
+  "itemGroup.little_big_redstone.little_big_redstone": "Маленький Большой Редстоун",
+  "key.category.little_big_redstone.little_big_redstone": "Маленький Большой Редстоун",
+  "text.little_big_redstone.count_and_percentage": "%s (%s)",
+  "text.little_big_redstone.floppy_disk_more_items": "+%s",
+  "text.little_big_redstone.logic_comparison_mode_equal_to": "=",
+  "text.little_big_redstone.logic_comparison_mode_greater_than_or_equal_to": "≥",
+  "text.little_big_redstone.logic_comparison_mode_less_than_or_equal_to": "≤",
+  "text.little_big_redstone.logic_gate_algebra": "Q = %s",
+  "text.little_big_redstone.logic_gate_algebra_and": "A ∧ B",
+  "text.little_big_redstone.logic_gate_algebra_nand": "A ↑ B",
+  "text.little_big_redstone.logic_gate_algebra_nor": "A ↓ B",
+  "text.little_big_redstone.logic_gate_algebra_not": "¬A",
+  "text.little_big_redstone.logic_gate_algebra_or": "A ∨ B",
+  "text.little_big_redstone.logic_gate_algebra_xor": "A ⊻ B",
+  "text.little_big_redstone.logic_help_battery": "Выходной сигнал всегда будет равен настроенному уровню сигнала."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Апотические мобы",
+  "description": "В «Апофеозе» представлены различные подтипы мобов, которые появятся в вашем мире.$(p)В этом разделе рассказывается, какие виды мобов существуют и где вы их найдете.",
+  "icon": "apotheosis:boss_summoner",
+  "flag": "apotheosis:adventure",
+  "parent": "apotheosis:adventure/adventure"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Зелье Стрелы",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_potionarrow",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Добавьте волшебства своим стрелам с помощью улучшения «Стрела-зелье». Это улучшение позволяет стрелам нести эффекты зелий, нанося дополнительные эффекты на цели."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения зельестрелы",
+      "recipe": "justdirethings:upgrade_potionarrow"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "advancement.javd.enter_void_dimension": "До бесконечности и ничего",
+  "advancement.javd.enter_void_dimension.description": "Войдите в измерение пустоты",
+  "biome.javd.void": "Пустота",
+  "block.javd.portal_block": "Пустотный портал",
+  "dimension.javd.void": "Пустота",
+  "item.javd.portal_block": "Пустотный портал",
+  "javd.invalid.pos": "Не удалось найти допустимое местоположение портала.",
+  "javd.invalid.world": "Невозможно найти мир «%s»"
+}

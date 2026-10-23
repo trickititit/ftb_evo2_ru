@@ -1,0 +1,8 @@
+{
+  "name": "Стол волшебства",
+  "description": "В этом разделе рассматриваются изменения в Таблице зачарования.",
+  "icon": "minecraft:enchanting_table",
+  "flag": "apotheosis:enchanting",
+  "parent": "apotheosis:enchanting/enchanting",
+  "sortnum": -2
+}

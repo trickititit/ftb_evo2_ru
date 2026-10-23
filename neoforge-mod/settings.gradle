@@ -1,0 +1,2 @@
+pluginManagement { repositories { gradlePluginPortal() } }
+rootProject.name = 'ftb-evolution-2-russian'

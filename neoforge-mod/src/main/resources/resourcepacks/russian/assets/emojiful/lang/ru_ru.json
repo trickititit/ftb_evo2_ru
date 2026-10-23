@@ -1,0 +1,23 @@
+{
+  "emojiful.midnightconfig.title": "смайлик",
+  "emojiful.midnightconfig.enableRenderEmoji": "Включить рендеринг эмодзи",
+  "emojiful.midnightconfig.renderEmoji": "Эмодзи рендеринг",
+  "emojiful.midnightconfig.showEmojiSelector": "Включите графический интерфейс выбора эмодзи в текстовой строке чата.",
+  "emojiful.midnightconfig.emojiSelector": "Выбор эмодзи",
+  "emojiful.midnightconfig.emojiAutocomplete": "Автозаполнение эмодзи",
+  "emojiful.midnightconfig.loadGifEmojis": "Загружайте анимированные смайлы, если отключено, они будут неподвижными изображениями.",
+  "emojiful.midnightconfig.gifEmojis": "GIF-смайлы",
+  "emojiful.midnightconfig.shortEmojiReplacement": "Замените короткие версии смайлов типа :) на :smile: чтобы их можно было отображать как смайлы.",
+  "emojiful.midnightconfig.emojiReplacement": "Короткая замена эмодзи",
+  "emojiful.midnightconfig.emojiTypes": "Типы эмодзи",
+  "emojiful.midnightconfig.loadTwemoji": "Загружает Twemojis, используемые на таких сайтах, как Twitter и Discord.",
+  "emojiful.midnightconfig.enableLoadTwemoji": "Загрузить твэмодзи",
+  "emojiful.midnightconfig.enableLoadCustom": "Загружает пользовательские смайлы, предоставленные Emojiful.",
+  "emojiful.midnightconfig.loadCustom": "Загрузить пользовательские смайлы",
+  "emojiful.midnightconfig.enableLoadDatapack": "Загружает смайлы пакета данных, предоставленные сервером, к которому вы присоединяетесь.",
+  "emojiful.midnightconfig.loadDatapack": "Загрузка пакетов данных сервера",
+  "emojiful.midnightconfig.enableProfanityFilter": "Включите фильтр ненормативной лексики, это заменит нецензурные слова смайликами.",
+  "emojiful.midnightconfig.profanityFilter": "Фильтр ненормативной лексики",
+  "emojiful.midnightconfig.profanityFilterString": "Слово-замена для фильтра ненормативной лексики",
+  "emojiful.midnightconfig.profanityFilterReplacement": "Запасное слово"
+}

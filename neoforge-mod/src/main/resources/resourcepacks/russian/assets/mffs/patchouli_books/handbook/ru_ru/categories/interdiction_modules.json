@@ -1,0 +1,6 @@
+{
+  "name": "Модули запрета",
+  "description": "Доступные модули обновления для вашей Матрицы запрета.",
+  "sortnum": 5,
+  "icon": "mffs:anti_hostile_module"
+}

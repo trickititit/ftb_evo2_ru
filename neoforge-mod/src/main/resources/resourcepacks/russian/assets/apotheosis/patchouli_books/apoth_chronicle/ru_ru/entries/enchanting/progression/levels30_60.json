@@ -1,0 +1,44 @@
+{
+  "name": "Уровни 30–60",
+  "icon": "apothic_enchanting:hellshelf",
+  "category": "apotheosis:enchanting/progression",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение уровня 45",
+      "recipe": "apothic_enchanting:hellshelf",
+      "text": "Чтобы достичь 45-го уровня, вам нужно создать несколько $(9)Адских полок$() и добавить их к существующим книжным полкам."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение уровня 45",
+      "recipe": "apothic_enchanting:seashelf",
+      "text": "Если вам не нравится Пустота, вы также можете отправиться в Океан и вместо этого создать $(9)Морские шельфы$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Достижение уровня 60",
+      "item": "apothic_enchanting:infused_hellshelf",
+      "text": "Как только вы достигнете 45-го уровня, вам нужно будет изучить $(l:apotheosis:enchanting/table/infusion)Настойчивое зачарование$(), чтобы улучшить свои полки."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Достижение уровня 60",
+      "item": "apothic_enchanting:infused_seashelf",
+      "text": "Создайте еще несколько полок того же типа, что вы использовали, наполните их и улучшите. $(p)Эти новые полки поверх старых позволят вам достичь 60-го уровня."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Чарующие подсказки",
+      "item": "apothic_enchanting:sightshelf",
+      "text": "Теперь у вас есть доступ к лучшим возможностям для увеличения других характеристик.$(p)Помимо бонусов от Адских и Морских полок, теперь вы также можете создать $(9)Адскую полку видения$(), чтобы увеличить свой $(clues)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Квантовая стабильность",
+      "recipe": "apothic_enchanting:geode_shelf",
+      "text": "Выполнив вливание для создания Расцветающего Аметиста, вы можете создать $(9)Книжную полку Стабильности$().$(p)Это предотвратит получение отрицательных бросков Кванты."
+    }
+  ]
+}

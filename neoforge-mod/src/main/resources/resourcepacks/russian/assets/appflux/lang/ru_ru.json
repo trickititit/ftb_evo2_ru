@@ -1,0 +1,9 @@
+{
+  "itemGroup.af": "Прикладной флюс",
+  "appflux.type.fe.name": "FE",
+  "gui.appflux.flux_accessor.fast_mode": "Быстрый режим",
+  "gui.appflux.flux_accessor.io_mode": "Режим ввода-вывода",
+  "gui.appflux.flux_accessor.input_mode": "Только ввод",
+  "gui.appflux.flux_accessor.output_mode": "Только вывод",
+  "gui.appflux.flux_accessor.input_output_mode": "Ввод и вывод"
+}

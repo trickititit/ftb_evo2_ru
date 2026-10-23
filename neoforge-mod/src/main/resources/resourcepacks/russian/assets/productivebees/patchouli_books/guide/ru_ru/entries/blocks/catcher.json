@@ -1,0 +1,16 @@
+{
+  "name": "Ловец",
+  "icon": "productivebees:catcher",
+  "category": "productivebees:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:catcher",
+      "text": "Загрузите его клетками, и он поймает любую пролетающую над ним пчелу. Вы можете положить сверху цветок или $(l:blocks/feeder)кормушку$(/l), чтобы привлечь пчел."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ловец принимает три улучшения; Обновление $(l:items/upgrades#babee)BaBee$(/l) будет отфильтровывать взрослых пчел и ловить только BaBee. $(l:items/upgrades#filter)Обновление фильтра$(/l) позволит ловить только пчел на фильтре. $(l:items/upgrades#range)Улучшение дальности$(/l) увеличит дальность действия. Можно установить несколько обновлений Range."
+    }
+  ]
+}

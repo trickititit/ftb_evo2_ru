@@ -1,0 +1,13 @@
+{
+  "itemGroup.infinitystorage": "Бесконечное хранилище",
+  "block.infinitystorage.infinity_storage_drive": "Блок накопителя Infinity Storage",
+  "item.infinitystorage.infinity_cobblestone_drive": "Бесконечная булыжная дорога",
+  "item.infinitystorage.infinity_water_drive": "Бесконечный водный привод",
+  "item.infinitystorage.infinity_lava_drive": "Бесконечный лавовый драйв",
+  "item.infinitystorage.infinity_dirt_drive": "Бесконечный грунтовый привод",
+  "item.infinitystorage.infinity_gravel_drive": "Бесконечная гравийная дорога",
+  "item.infinitystorage.infinity_sand_drive": "Бесконечный Песчаный Драйв",
+  "item.infinitystorage.infinity_stone_drive": "Каменный проезд бесконечности",
+  "item.infinitystorage.empty_infinity_drive": "Пустой бесконечный драйв",
+  "tooltip.infinitystorage.infinity_storage_drive": "При заполнении Infinity Drive предоставит неограниченное количество этого ресурса!"
+}

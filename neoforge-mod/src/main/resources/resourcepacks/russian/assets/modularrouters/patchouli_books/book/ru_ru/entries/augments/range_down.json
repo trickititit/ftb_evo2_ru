@@ -1,0 +1,16 @@
+{
+  "name": "Улучшение уменьшения дальности",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:range_down_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение можно добавить к любому модулю, имеющему диапазон (Отправитель $(l:modules/sender_1)Mk1/$ / $(l:modules/sender_2)Mk2/$, Съемник $(l:modules/puller_1)Mk1/$ / $(l:modules/puller_2)Mk2/$, Экструдер $(l:modules/extruder_1)Mk1/$ / $(l:modules/extruder_2)Mk2/$, $(l:modules/fluid_2)Fluid Mk2/$, $(l:modules/vacuum)Вакуум/$).$(p)Можно штабелировать; каждое улучшение уменьшит дальность действия модуля на один блок.$(p)Вероятно, это полезно только в сочетании с $(l:modules/vacuum)Модулем «Вакуум»/$, чтобы контролировать диапазон сканирования предметов."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:range_down_augment",
+      "recipe2": "modularrouters:range_down_from_up"
+    }
+  ]
+}

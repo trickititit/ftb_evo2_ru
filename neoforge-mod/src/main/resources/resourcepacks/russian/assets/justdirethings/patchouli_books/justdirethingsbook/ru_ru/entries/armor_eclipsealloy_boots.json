@@ -1,0 +1,17 @@
+{
+  "name": "Сапоги из сплава Eclipse",
+  "sortnum": 23,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:eclipsealloy_boots[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эти усовершенствованные ботинки сохраняют до 500 000 FE, обеспечивая превосходную мобильность и поглощение энергии. Для достижения наилучших результатов всегда заряжайте их с помощью $(l:justdirethings:item_pocket_generator)Карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Изготовление сапог из сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_boots"
+    }
+  ]
+}

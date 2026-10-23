@@ -1,0 +1,17 @@
+{
+  "name": "Топот по земле",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_groundstomp",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Высвободите сейсмическую силу с помощью улучшения Ground Stomp. При активации это улучшение создает ударную волну, которая отбрасывает ближайшие объекты.$(br2)Это активируемая способность, поэтому для ее использования вам потребуется назначить горячую клавишу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшений Ground Stomp",
+      "recipe": "justdirethings:upgrade_groundstomp"
+    }
+  ]
+}

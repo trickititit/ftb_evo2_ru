@@ -1,0 +1,17 @@
+{
+  "name": "Взрывная жизненная сила",
+  "icon": "apothic_attributes:textures/mob_effect/vitality.png",
+  "category": "apotheosis:potion/effects",
+  "flag": "apotheosis:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Всплеск жизненной силы$() — это полезный эффект, предоставляемый Зельем усиления исцеления.$(p)Пока под его действием все получаемое исцеление увеличивается."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Увеличение исцеления равно 20% за уровень."
+    }
+  ]
+}

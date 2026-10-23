@@ -1,0 +1,17 @@
+{
+  "name": "Celestigem Шлем",
+  "sortnum": 9,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:celestigem_helmet[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Шлем Celestigem использует энергию Forge для долговечности, сохраняя до 10 000 FE. Держите его заряженным с помощью $(l:justdirethings:item_pocket_generator)Карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Celestigem Изготовление шлемов",
+      "recipe": "justdirethings:celestigem_helmet"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Мотыга из сплава Eclipse",
+  "sortnum": 24,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_hoe[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мотыга Eclipse Alloy — это революция в сельскохозяйственных технологиях, способная превратить землю в очень плодородную почву. $(br2)Он поддерживает самые передовые улучшения сельского хозяйства, максимизируя урожайность и эффективность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_hoe",
+      "text": "Изготовление мотыги из сплава Eclipse"
+    }
+  ]
+}

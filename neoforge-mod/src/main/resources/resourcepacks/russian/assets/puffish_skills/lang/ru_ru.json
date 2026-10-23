@@ -1,0 +1,11 @@
+{
+  "text.puffish_skills.buy_point": "Купить точку",
+  "tooltip.puffish_skills.cost": "Стоимость: %s",
+  "command.puffish_skills.no_level": "Уровень не включен для категории с идентификатором %s",
+  "command.puffish_skills.level.add.success.single": "Добавлены уровни %s в категорию %s для %s.",
+  "command.puffish_skills.level.add.success.multiple": "В категорию %s добавлено %s уровней для %s игроков.",
+  "command.puffish_skills.level.set.success.single": "Установите уровень %s в категории %s для %s",
+  "command.puffish_skills.level.set.success.multiple": "Установите уровень %s в категории %s для %s игроков.",
+  "command.puffish_skills.level.get.success": "%3$s имеет уровень %1$s в категории %2$s",
+  "command.puffish_skills.no_experience": "Для категории с ID %s опыт не включён"
+}

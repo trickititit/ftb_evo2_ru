@@ -1,0 +1,17 @@
+{
+  "name": "Затяжной",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lingering",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Увеличьте область действия с помощью улучшения «Затяжное». Благодаря этому обновлению зелья вашего лука оставляют длительный эффект, продлевая их воздействие на окружающую среду и врагов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Затянувшееся крафтинг",
+      "recipe": "justdirethings:upgrade_lingering"
+    }
+  ]
+}

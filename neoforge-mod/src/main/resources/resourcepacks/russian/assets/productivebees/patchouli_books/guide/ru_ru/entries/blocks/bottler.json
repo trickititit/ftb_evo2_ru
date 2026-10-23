@@ -1,0 +1,39 @@
+{
+  "name": "Боттлер",
+  "icon": "productivebees:bottler",
+  "category": "productivebees:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:bottler",
+      "text": "Используется для розлива меда и других жидкостей. Мед можно перекачивать сбоку или помещать рядом с центрифугой для автоматического заполнения.$(br2)Ботлер вместе с поршнем также можно использовать для розлива пчел в бутылки, см. $(l:genetics/transferring)страницу генетики$(/l)."
+    },
+    {
+      "type": "multiblock",
+      "name": "Боттлер с центрифугой",
+      "multiblock": {
+        "mapping": {
+          "H": "productivebees:centrifuge",
+          "E": "productivebees:bottler"
+        },
+        "pattern": [
+          [
+            "H",
+            "E"
+          ],
+          [
+            "0",
+            " "
+          ]
+        ],
+        "symmetrical": true,
+        "offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "enable_visualize": false
+    }
+  ]
+}

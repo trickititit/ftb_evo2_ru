@@ -1,0 +1,21 @@
+{
+  "_comment": "Гуй",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync": "JEI Синхронизация поиска",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync.info": "Синхронизировать окно поиска с JEI.",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync": "EMI Синхронизация поиска",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync.info": "Синхронизировать окно поиска с EMI.",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync": "REI Синхронизация поиска",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync.info": "Синхронизировать окно поиска с REI.",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable": "Автоматически создаваемые предметы",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable_partial": "Частично создаваемые автоматически предметы",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.missing": "Отсутствующие предметы",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info": "Ctrl+кликните, чтобы запустить автоматическое создание.",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info_cmd": "Cmd+клик, чтобы запустить автоматическое создание",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.error.title": "Ошибка при создании задания",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "Авто-запуск крафта",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only": "Авто-крафт провалился",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed": "Частичный сбой автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only": "Начал автокрафт для %s",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.failed_only": "Автоматическое создание не удалось для %s",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed": "Начал автокрафт для %s, но потерпел неудачу в %s."
+}

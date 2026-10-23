@@ -1,0 +1,13 @@
+{
+  "label.contex.source_tooltip.ctm.texture": "Текстура",
+  "label.contex.source_tooltip.ctm.border": "Граница",
+  "label.contex.source_tooltip.ctm.mirror_parallel": "Зеркальная параллель",
+  "label.contex.source_tooltip.ctm.mirror_perpendicular": "Зеркало перпендикулярное",
+  "value.contex.source_tooltip.ctm.border": "l: %s, r: %s, t: %s, b: %s",
+  "msg.contex.gen_ctm_tex.no_such_texture": "Указанная текстура «%s» не существует.",
+  "msg.contex.gen_ctm_tex.texture_animated": "Невозможно создать текстуру CTM из анимированной текстуры.",
+  "msg.contex.gen_ctm_tex.invalid_corner_synth": "Невозможно синтезировать внутренние углы с различными размерами кромок или зеркальным отображением.",
+  "msg.contex.gen_ctm_tex.gen_failed": "Не удалось создать текстуру CTM.",
+  "msg.contex.gen_ctm_tex.export_failed": "Ошибка экспорта текстуры CTM: %s",
+  "msg.contex.gen_ctm_tex.success": "Сгенерированная текстура CTM экспортирована в %s."
+}

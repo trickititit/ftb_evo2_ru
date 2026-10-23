@@ -1,0 +1,18 @@
+{
+  "name": "Модуль полевой сварки",
+  "icon": "mffs:fusion_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:fusion_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль слияния полей$() можно разместить в слотах матрицы $(l:mffs:machines/projector)Проектора силового поля$() для объединения двух или более проецируемых полей. Модуль отсекает любые проецируемые блоки, перекрывающиеся другим силовым полем. Несколько силовых полей, имеющих этот модуль, затем будут легко объединены в одно."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:fusion_module",
+      "text": "Создание модуля $(5)Field Fusion$()."
+    }
+  ]
+}

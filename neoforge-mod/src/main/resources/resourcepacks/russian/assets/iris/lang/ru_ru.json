@@ -1,0 +1,9 @@
+{
+  "iris.shaders.debug.restartNoDebug": "Включена отладка шейдеров; Отладка OpenGL не поддерживается в NeoForge.",
+  "iris.load.failure.shader": "Не удалось загрузить шейдерпак! Пожалуйста, сообщите об ошибке разработчику шейдера. ",
+  "iris.load.failure.generic": "Айрис столкнулась с проблемой при загрузке шейдера; пожалуйста, сообщите об этом разработчикам Iris. ",
+  "iris.keybind.wireframe": "Каркас (только SP)",
+  "key.category.iris.keybinds": "Ирис",
+  "options.iris.colorSpace": "Цветовое пространство",
+  "options.iris.colorSpace.sodium_tooltip": "Цветовое пространство, в которое преобразуется экран. Работает поверх шейдерных пакетов. Если не уверены, используйте SRGB."
+}

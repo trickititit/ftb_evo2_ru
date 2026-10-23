@@ -1,0 +1,17 @@
+{
+  "name": "Меч из сплава «Затмение»",
+  "sortnum": 20,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_sword[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Меч из сплава «Затмение» — это вершина боевых технологий в Just Dire Things, обладающий большой энергетической емкостью, способный поддерживать самые передовые улучшения. $(br2)Этот инструмент конечного уровня, изготовленный из сплава Eclipse, обеспечивает исключительный урон и долговечность и идеально подходит для самых смертоносных наступательных способностей."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_sword",
+      "text": "Изготовление меча из сплава «Затмение»"
+    }
+  ]
+}

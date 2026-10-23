@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Мотыга",
+  "sortnum": 11,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_hoe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшает $(l:justdirethings:tool_ferricore_hoe)Ferricore Мотыгу$(/l) более быстрым действием и «Ремонтом лавы». Вспашка создает почву «Пылающего цветения», которая еще больше ускоряет рост урожая и позволяет автоматически собирать урожай, в результате чего растения автоматически теряют свои ресурсы.$(br2)Собранные предметы быстро исчезают. Используйте $(l:justdirethings:mach_itemcollector)Сборщик предметов$(/l), чтобы эффективно собирать добычу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_hoe",
+      "text": "Blazegold Изготовление мотыги"
+    }
+  ]
+}

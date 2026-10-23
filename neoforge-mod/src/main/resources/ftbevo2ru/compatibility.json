@@ -1,0 +1,11 @@
+{
+  "pack": "FTB Evolution 2",
+  "pack_id": 135,
+  "pack_version": "1.4.0",
+  "ftb_version_id": 100566,
+  "minecraft": "26.1.2",
+  "neoforge": "26.1.2.121",
+  "ftbquests": "26.1.2.9",
+  "translation_release": "r4",
+  "quest_entries": 4178
+}

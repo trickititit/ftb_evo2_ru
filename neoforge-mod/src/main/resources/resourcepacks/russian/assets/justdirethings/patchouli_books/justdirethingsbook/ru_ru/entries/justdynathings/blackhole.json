@@ -1,0 +1,14 @@
+{
+  "name": "Нестабильная и дешевая коробка",
+  "sortnum": 7,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:blackhole",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Черная дыра",
+      "recipe": "justdynathings:blackhole",
+      "text": "Более распространенный вариант называется $(italic)Универсальный мусорный бак$()$(br)Его можно отключить, чтобы хранить ненормальное количество энергии или жидкости на дешевом месте!"
+    }
+  ]
+}

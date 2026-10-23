@@ -1,0 +1,14 @@
+{
+  "attribute.puffish_attributes.tamed_damage": "Прирученный урон",
+  "attribute.puffish_attributes.sword_damage": "Урон меча",
+  "attribute.puffish_attributes.axe_damage": "Урон топора",
+  "attribute.puffish_attributes.trident_damage": "Урон трезубца",
+  "attribute.puffish_attributes.breaking_speed": "Разрывная скорость",
+  "attribute.puffish_attributes.mount_speed": "Скорость верховой езды",
+  "attribute.puffish_attributes.consuming_speed": "Скорость еды и питья",
+  "attribute.puffish_attributes.tamed_resistance": "Прирученное сопротивление",
+  "attribute.puffish_attributes.damage_reflection": "Отражение урона",
+  "attribute.puffish_attributes.bow_projectile_speed": "Скорость снаряда из лука",
+  "attribute.puffish_attributes.crossbow_projectile_speed": "Скорость снаряда арбалета",
+  "attribute.puffish_attributes.experience": "Опыт"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ледяные шипы",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Ледяные шипы$() — это зачарование нагрудника.$(p)Оно замедляет атакующих. Шанс применения и сила эффекта зависят от уровня зачарования.$(p)Эксклюзивно для $(9)Шипов$()."
+    }
+  ]
+}

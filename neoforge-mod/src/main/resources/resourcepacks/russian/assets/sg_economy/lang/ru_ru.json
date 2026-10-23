@@ -1,0 +1,16 @@
+{
+  "command.coins.add.success": "%2$s получено %1$d %3$s",
+  "command.coins.remove.success": "%2$s удалено %1$d %3$s",
+  "command.coins.set.success": "%2$s установлено на %1$d %3$s",
+  "command.coins.pay.sent": "Вы отправили %1$s %2$s на %3$s.",
+  "command.coins.pay.received": "Вы получили %1$s %2$s от %3$s.",
+  "command.coins.rank.title": "Рейтинг магнатов",
+  "command.coins.exception.player_not_found": "§cплеер не найден",
+  "command.coins.exception.insufficient_funds": "§cу игрока недостаточно средств",
+  "command.coins.exception.disabled": "§cэта команда отключена",
+  "command.coins.exception.only_players": "§cэту команду могут запускать только игроки",
+  "command.coins.exception.target_not_online": "§cцель должна быть онлайн-игроком",
+  "text.coin": "монета",
+  "text.coins": "монеты",
+  "text.page": "страница"
+}

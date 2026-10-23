@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Мотыга",
+  "sortnum": 5,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_hoe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эта мотыга Ferricore является отличным инструментом для подготовки и ухода за сельскохозяйственными угодьями. Его можно улучшать различными улучшениями.$(br2)При обработке земли Мотыга Ferricore превращает ее в Primogel Почву. Primogel Преимущество почвы заключается в том, что она устойчива к вытаптыванию, гарантируя, что ваши посевы останутся нетронутыми. Урожай также растет немного быстрее."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_hoe",
+      "text": "Ferricore Изготовление мотыги"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Еще наковальни",
+  "sortnum": 1,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:eclipse_alloy_anvil",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уникальные наковальни, позволяющие чинить вещи без опыта."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ferricore Наковальня",
+      "recipe": "justdynathings:ferricore_anvil",
+      "text": "Наковальня, которая ремонтирует инструменты с помощью некоторых катализаторов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "ПламяЗолотая Наковальня",
+      "recipe": "justdynathings:blazegold_anvil",
+      "text": "Наковальня, позволяющая ремонтировать предметы с помощью высокотемпературных жидкостей."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Celestigem Наковальня",
+      "recipe": "justdynathings:celestigem_anvil",
+      "text": "Наковальня, которая ремонтирует предметы, используя Forge Энергию (FE)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Наковальня из сплава Eclipse",
+      "recipe": "justdynathings:eclipse_alloy_anvil",
+      "text": "Наковальня, которая ремонтирует предметы, используя Forge Энергию (FE), например Celestigem Наковальня."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Кроме того, при добавлении охлаждающей жидкости он отремонтирует его в зависимости от (эффективность охлаждающей жидкости) / 100 x (общий урон), который предмет может получить более 1000 за каждый такт, или $(bold)полностью отремонтирует$()"
+    }
+  ]
+}

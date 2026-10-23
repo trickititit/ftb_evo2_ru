@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Лопата",
+  "sortnum": 3,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_shovel",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эта лопата, изготовленная из прочного материала Ferricore, идеально подходит для копания грязи, песка и гравия. Он предлагает улучшенную производительность по сравнению с железными лопатами и может быть улучшен различными способностями."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_shovel",
+      "text": "Ferricore Изготовление лопаты"
+    }
+  ]
+}

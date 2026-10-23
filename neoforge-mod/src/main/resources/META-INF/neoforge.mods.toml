@@ -1,0 +1,55 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT for original code; translation resources retain their respective authors' rights"
+issueTrackerURL="https://github.com/trickititit/ftb_evo2_ru/issues"
+
+[[mods]]
+modId="ftbevo2ru"
+version="1.0.0"
+displayName="FTB Evolution 2 - Russian Localization"
+displayURL="https://github.com/trickititit/ftb_evo2_ru"
+authors="trickititit"
+logoFile="resourcepacks/russian/pack.png"
+description='''
+Unofficial Russian localization for FTB Evolution 2 1.4.0.
+Includes quest translations, mod language resources and in-game guides.
+No changes to quests, progress, recipes, balance or world data.
+'''
+
+[[mixins]]
+config="ftbevo2ru.mixins.json"
+
+[[dependencies.ftbevo2ru]]
+modId="minecraft"
+type="required"
+versionRange="[26.1.2]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ftbevo2ru]]
+modId="neoforge"
+type="required"
+versionRange="[26.1.2.121]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ftbevo2ru]]
+modId="ftbquests"
+type="required"
+versionRange="[26.1.2.9]"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.ftbevo2ru]]
+modId="ftblibrary"
+type="required"
+versionRange="[26.1.2.9]"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.ftbevo2ru]]
+modId="stellaris"
+type="required"
+versionRange="[2.0.8]"
+ordering="AFTER"
+side="BOTH"

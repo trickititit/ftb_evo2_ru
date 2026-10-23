@@ -1,0 +1,7 @@
+{
+  "itemGroup.ironjetpacks": "Железные реактивные ранцы",
+  "keybind.ironjetpacks.hud": "Переключить HUD",
+  "keybind.ironjetpacks.ascend": "Восхождение",
+  "tooltip.ironjetpacks.hud": "HUD",
+  "tooltip.ironjetpacks.toggle_hud": "Переключен HUD %s"
+}

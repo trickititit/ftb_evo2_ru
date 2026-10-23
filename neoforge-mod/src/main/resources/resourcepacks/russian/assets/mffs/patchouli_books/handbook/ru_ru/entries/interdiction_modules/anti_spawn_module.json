@@ -1,0 +1,18 @@
+{
+  "name": "Антиспавн модуль",
+  "icon": "mffs:anti_spawn_module",
+  "category": "mffs:interdiction_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:anti_spawn_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль предотвращения появления$() является дополнительным модулем для $(l:mffs:machines/interdiction_matrix)Матрицы запрета$(). Если этот модуль установлен, Матрица предотвратит появление враждебных или дружественных объектов в своей зоне действия. Если у игрока есть яйцо призывания, стоящее за пределами зоны действия Матрицы, он сможет создать сущность внутри защищенной области."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:anti_spawn_module",
+      "text": "Создание $(5)Модуля против появления$()."
+    }
+  ]
+}

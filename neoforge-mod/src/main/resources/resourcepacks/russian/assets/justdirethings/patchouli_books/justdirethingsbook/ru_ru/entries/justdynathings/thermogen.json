@@ -1,0 +1,15 @@
+{
+  "name": "Сила Земли",
+  "sortnum": 11,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:thermo_generator",
+  "flag": "!mod:justdynathings",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Термогенератор",
+      "recipe": "justdynathings:thermo_generator",
+      "text": "Новый генератор, генерирующий Forge энергию, на основе блоков источника тепла и жидкого теплоносителя."
+    }
+  ]
+}

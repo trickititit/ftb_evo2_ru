@@ -1,0 +1,17 @@
+{
+  "name": "Всплеск",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_splash",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшите свои дальние атаки с помощью улучшения «Всплеск». Это обновление преобразует удары стрел в эффекты брызг, распространяя воздействие на более широкую область."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Всплеск обновления",
+      "recipe": "justdirethings:upgrade_splash"
+    }
+  ]
+}

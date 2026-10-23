@@ -1,0 +1,22 @@
+{
+  "name": "Страйдер",
+  "icon": "minecraft:strider_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:strider",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:strider_food",
+      "text": "Кормите долгоногов деформированным грибом, чтобы размножать их и увеличивать их численность в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет страйдера и уронит его добычу."
+    }
+  ]
+}

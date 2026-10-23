@@ -1,0 +1,27 @@
+{
+  "name": "Лосось",
+  "icon": "minecraft:salmon_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:salmon",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:seagrass,minecraft:kelp",
+      "text": "Кормите лосося морской травой или ламинарией, чтобы разводить их и увеличивать их численность в аквариуме."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора в Аквариуме убьет лосося и уронит добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:water_bucket",
+      "text": "Вынимать лосося из аквариума можно с помощью ведра с водой."
+    }
+  ]
+}

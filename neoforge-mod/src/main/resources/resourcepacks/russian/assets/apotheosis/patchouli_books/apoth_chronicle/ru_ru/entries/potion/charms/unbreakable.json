@@ -1,0 +1,17 @@
+{
+  "name": "Нерушимые чары",
+  "icon": "minecraft:enchanting_table",
+  "category": "apotheosis:potion/charms",
+  "flag": "&apotheosis:potion,apotheosis:enchanting",
+  "sortnum": -1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "С помощью $(l:apotheosis:enchanting/table/infusion)Настойчивых чар$() амулеты можно сделать нерушимыми.$(p)Благодаря этому вы можете иметь неограниченную продолжительность действия любого эффекта зелья."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Рецепт настойки Нерушимых чар довольно сложен.$(p)Вам потребуется четкое понимание $(l:apotheosis:enchanting/table/stats)Статистика зачарования$(), чтобы иметь возможность его выполнить. Вам также необходимо находиться на мировом уровне: $(9)Pinnacle$()."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemGroup.EnderIOEvolution": "Ender IO: Эволюция",
+  "item.enderio_evolution.construction_alloy_energy_conduit": "Энергопровод из строительного сплава",
+  "item.enderio_evolution.crude_energy_conduit": "Проводник сырой энергии",
+  "item.enderio_evolution.crystalline_energy_conduit": "Кристаллический проводник энергии",
+  "item.enderio_evolution.crystalline_pink_slime_energy_conduit": "Проводник энергии кристаллической розовой слизи",
+  "item.enderio_evolution.energetic_silver_energy_conduit": "Энергетический серебряный проводник энергии",
+  "item.enderio_evolution.gold_crude_energy_conduit": "Энергопровод из позолоченной сырой стали",
+  "item.enderio_evolution.melodic_energy_conduit": "Мелодичный проводник энергии",
+  "item.enderio_evolution.melodic_fluid_conduit": "Мелодичный флюидный проводник",
+  "item.enderio_evolution.melodic_item_conduit": "Проводник мелодичных предметов",
+  "item.enderio_evolution.speedy_item_conduit": "Скоростной проводник предметов",
+  "item.enderio_evolution.stellar_energy_conduit": "Проводник звездной энергии",
+  "item.enderio_evolution.stellar_fluid_conduit": "Звездный трубопровод для жидкости",
+  "item.enderio_evolution.stellar_item_conduit": "Звездный проводник предметов"
+}

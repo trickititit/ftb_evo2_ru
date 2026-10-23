@@ -1,0 +1,12 @@
+{
+  "appleskin.configuration.showFoodValuesInTooltip.tooltip": "Если true, в подсказке отображаются значения голода и насыщения пищи, удерживая SHIFT.",
+  "appleskin.configuration.showFoodValuesInTooltipAlways.tooltip": "Если это правда, значения голода и насыщения еды автоматически отображаются в подсказке (без необходимости удерживать SHIFT).",
+  "appleskin.configuration.showFoodValuesHudOverlay.tooltip": "Если true, показывает голод (и насыщение, если showSaturationHudOverlay имеет значение true), который будет восстановлен едой, которую вы держите в данный момент.",
+  "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand.tooltip": "Если true, включает наложение голода/насыщения/здоровья для еды в левой руке.",
+  "appleskin.configuration.showFoodHealthHudOverlay.tooltip": "Если это правда, на шкале здоровья отображается предполагаемое здоровье, восстанавливаемое едой.",
+  "appleskin.configuration.showFoodExhaustionHudUnderlay.tooltip": "Если это правда, ваше истощение еды отображается в виде индикатора прогресса за полосой голода.",
+  "appleskin.configuration.showSaturationHudOverlay.tooltip": "Если это правда, отображается текущий уровень насыщения, наложенный на полосу голода.",
+  "appleskin.configuration.showFoodStatsInDebugOverlay.tooltip": "Если это правда, на экране отладки отображается уровень голода, насыщения и истощения.",
+  "appleskin.configuration.showVanillaAnimationsOverlay.tooltip": "Если это правда, наложение здоровья/голода будет трястись в соответствии с анимацией значка Minecraft.",
+  "appleskin.configuration.maxHudOverlayFlashAlpha.tooltip": "Значение альфа мигающих значков в наиболее видимой точке (1,0 = полностью непрозрачно, 0,0 = полностью прозрачно)"
+}

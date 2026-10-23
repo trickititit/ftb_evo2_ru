@@ -1,0 +1,29 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+group = 'ru.trickititit'
+version = mod_version
+base { archivesName = 'ftb-evolution-2-russian-neoforge-26.1.2' }
+java { toolchain.languageVersion = JavaLanguageVersion.of(25); withSourcesJar() }
+neoForge {
+    version = '26.1.2.121'
+    mods { ftbevo2ru { sourceSet sourceSets.main } }
+}
+repositories { maven { url = 'https://maven.ftb.dev/releases' } }
+dependencies {
+    if (project.hasProperty('modpackDir')) {
+        // Optional offline build against an existing installation. The JARs are never bundled.
+        compileOnly fileTree(dir: "${project.property('modpackDir')}/mods", include: [
+                'ftb-quests-neoforge-26.1.2.9.jar', 'ftb-library-neoforge-26.1.2.9.jar'])
+    } else {
+        compileOnly 'dev.ftb.mods:ftb-quests-neoforge:26.1.2.9'
+        compileOnly 'dev.ftb.mods:ftb-library-neoforge:26.1.2.9'
+    }
+}
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    // Runtime names are official in Minecraft 26.1; mixins explicitly use remap=false.
+    options.compilerArgs += ['-proc:none']
+}
+tasks.withType(Jar).configureEach { preserveFileTimestamps = false; reproducibleFileOrder = true }

@@ -1,0 +1,22 @@
+{
+  "name": "Осел",
+  "icon": "minecraft:donkey_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:donkey",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:horse_food",
+      "text": "Кормите ослов пшеницей, чтобы разводить их и увеличивать их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет осла и уронит добычу."
+    }
+  ]
+}

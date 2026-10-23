@@ -1,0 +1,13 @@
+{
+  "itemGroup.sophisticatedbackpacks": "Sophisticated Backpacks",
+  "key.category.sophisticatedbackpacks.main": "Sophisticated Backpacks",
+  "gui.sophisticatedbackpacks.upgrades.refill.target_slot.any": "A",
+  "gui.sophisticatedbackpacks.upgrades.refill.target_slot.main_hand": "M",
+  "gui.sophisticatedbackpacks.upgrades.refill.target_slot.off_hand": "O",
+  "sophisticatedbackpacks.configuration.entityLootTableList.tooltip": "Формат:entity_id|loot_table_id_or_null\nПример: minecraft:zombie|minecraft:chests/simple_dungeon",
+  "sophisticatedbackpacks.configuration.discBlockList.tooltip": "Формат: item_id\nПример: minecraft:music_disc_13",
+  "sophisticatedbackpacks.configuration.noInteractionBlocks.tooltip": "Формат: идентификатор_блока\nПример: minecraft:shulker_box",
+  "sophisticatedbackpacks.configuration.noConnectionBlocks.tooltip": "Формат: идентификатор_блока\nПример: refinedstorage:external_storage",
+  "sophisticatedbackpacks.configuration.disallowedItems.tooltip": "Формат: item_id\nПример: minecraft:shulker_box",
+  "sophisticatedbackpacks.configuration.maxUpgradesPerStorage.tooltip": "Формат: обновление_или_группа|макс_номер.\nПример: stack_upgrades|3"
+}

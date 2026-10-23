@@ -1,0 +1,17 @@
+{
+  "name": "Лук из сплава Eclipse",
+  "sortnum": 25,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:bow_eclipsealloy[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сплавный лук «Затмение» — это лучшее оружие дальнего боя, обеспечивающее огромные запасы энергии для длительного использования. $(br2)Он имеет 4 слота для канистр с зельями, улучшающих стрелы различными эффектами. $(l:justdirethings:item_potion_canister)Канистра с зельем$(/l)"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:bow_eclipsealloy",
+      "text": "Изготовление лука из сплава Eclipse"
+    }
+  ]
+}

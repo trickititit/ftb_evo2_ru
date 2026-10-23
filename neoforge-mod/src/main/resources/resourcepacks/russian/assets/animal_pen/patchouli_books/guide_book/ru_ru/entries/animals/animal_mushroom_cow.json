@@ -1,0 +1,37 @@
+{
+  "name": "Грибной",
+  "icon": "minecraft:mooshroom_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:mooshroom",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:cow_food",
+      "text": "Кормите грибов пшеницей, чтобы они размножались и увеличивали их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет грибную корову и уронит ее добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "Использование ведра на загоне для животных с грибом внутри даст игроку ведро молока. [редстоун-взаимодействие 1]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bowl",
+      "text": "Если использовать на загоне для животных миску с грибом внутри, игрок получит грибное рагу. [взаимодействие с красным камнем 2]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:small_flowers",
+      "text": "Если использовать любой маленький цветок на загоне для животных с коричневым грибом внутри, следующее рагу станет подозрительным."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "attribute.name.block_break_speed.desc": "Насколько быстро вы добываете блоки по сравнению с обычными.",
+  "attribute.name.burning_time.desc": "Как долго вы горите по сравнению с нормой.",
+  "attribute.name.fall_damage_multiplier.desc": "Насколько увеличивается урон от падения.",
+  "attribute.name.jump_strength.desc": "Как ты хорошо прыгаешь.",
+  "attribute.name.max_absorption.desc": "Сколько сердец поглощения вы регенерируете естественным путем.",
+  "attribute.name.water_movement_efficiency.desc": "Насколько быстро вы плывете по сравнению с нормой.",
+  "apothic_attributes:cooldown_reduction": "Сокращение времени восстановления",
+  "apothic_attributes:cooldown_reduction.desc": "Уменьшает время восстановления срабатывающих способностей и эффектов. Для перезарядки используется символ ⌛.",
+  "comment_id": "Источники урона"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Вспомогательные предметы",
+  "description": "В этом разделе подробно описаны все случайные инструменты, используемые для облегчения наложения чар.",
+  "icon": "apothic_enchanting:library",
+  "flag": "apotheosis:enchanting",
+  "parent": "apotheosis:enchanting/enchanting"
+}

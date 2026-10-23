@@ -1,0 +1,9 @@
+{
+  "cable_facades.message.shaders_warning": "⚠ ",
+  "cable_facades.message.directional_facade_update": "Cable Facades 2.0 добавляет направленные фасады. Это сообщение отображается только один раз, проверьте их.",
+  "cable_facades.directional_facade.name_prefix": "Направленный Фасад - ",
+  "cable_facades.directional_facade.empty": "Направленный Фасад - Пустой",
+  "item.cable_facades.directional_facade": "Направленный Фасад",
+  "cable_facades.jei.facade_any_block": "Фасад - Любой блок",
+  "cable_facades.jei.any_block": "Любой блок"
+}

@@ -1,0 +1,16 @@
+{
+  "moogs_structures.config.title": "Структуры Муга",
+  "moogs_structures.config.reload_notice": "Изменения вступают в силу после перезагрузки мира (выйдите из игры и войдите заново или запустите /reload) и влияют только на вновь созданные фрагменты.",
+  "moogs_structures.config.category.replace_vanilla": "Замените ванильные структуры",
+  "moogs_structures.config.category.structures": "Структуры",
+  "moogs_structures.config.universal_frequency": "Универсальная частота",
+  "moogs_structures.config.universal_frequency.tooltip": "Насколько распространена структура каждого Муга. 2x означает примерно в два раза больше, 0,5x — примерно вдвое меньше.",
+  "moogs_structures.config.all_of_mod": "Все %s",
+  "moogs_structures.config.mod_frequency.tooltip": "Насколько распространена каждая структура %s. 2x означает примерно в два раза больше, 0,5x — примерно вдвое меньше.",
+  "moogs_structures.config.preview": "Предварительный просмотр",
+  "moogs_structures.config.preview.unavailable": "Нет предварительного просмотра: этот мод не установил ссылку для предварительного просмотра (mod_slug).",
+  "moogs_structures.config.enabled": "Включено",
+  "moogs_structures.config.disabled": "Отключено",
+  "moogs_structures.cloth_required.title": "Библиотека структур Муга",
+  "moogs_structures.cloth_required.message": "Для экрана конфигурации Moog Structure Lib требуется Cloth Config API. Установите его для настройки в игре."
+}

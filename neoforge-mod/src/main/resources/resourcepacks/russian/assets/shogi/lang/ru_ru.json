@@ -1,0 +1,6 @@
+{
+  "commands.shogi.cooldown.reset.all.success": "Сброс всех перезарядок у %s игроков.",
+  "commands.shogi.cooldown.reset.success": "Сбросить время восстановления, соответствующее %s у %s игрока(ов).",
+  "commands.shogi.cooldown.add.success": "Добавлено %s секунд к перезарядке %s для %s игроков.",
+  "commands.shogi.cooldown.set.success": "Установите время восстановления %s на %s секунды для %s игроков."
+}

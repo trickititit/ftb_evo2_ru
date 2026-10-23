@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "type": "translatable",
+      "translate": "trainingdummy.guide.item_name"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Всё о моде Training Dummy",
+        "color": "dark_gray"
+      }
+    ]
+  }
+}

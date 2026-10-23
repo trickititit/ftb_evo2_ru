@@ -1,0 +1,13 @@
+{
+  "name": "Урон от холода",
+  "icon": "minecraft:blue_ice",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Урон от холода$() — это дополнительный магический урон, наносимый атакам ближнего боя. Он также применяет замедление в зависимости от силы урона.$(p)Находится на оружии ближнего боя."
+    }
+  ]
+}

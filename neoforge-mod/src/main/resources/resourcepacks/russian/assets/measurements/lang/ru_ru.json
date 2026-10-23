@@ -1,0 +1,10 @@
+{
+  "_comment": "NeoForge Конфигурация",
+  "text.autoconfig.measurements.title": "Измерения",
+  "measurements.configuration.client": "Клиент",
+  "measurements.configuration.lineColor": "Цвет линии",
+  "measurements.configuration.textColor": "Цвет текста",
+  "measurements.configuration.textSize": "Размер текста",
+  "measurements.configuration.lineWidth": "Ширина линии",
+  "measurements.configuration.lineWidthMax": "Ширина линии Макс."
+}

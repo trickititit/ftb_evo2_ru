@@ -1,0 +1,39 @@
+{
+  "name": "Нодовый оверклокер",
+  "icon": "laserio:overclocker_node",
+  "sortnum": 3,
+  "category": "laserio:items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Оверклокеры узлов — более сложный компонент.$(br2)Каждый $(l:laserio:laser_node)Node$(/l) может работать только с 1 картой на каждой стороне за тик. $(br2)Если на стороне узла есть 3 карты-экстракторы, во время игрового тика будет работать только первая, а вторая будет работать только в том случае, если первая ничего не сможет сделать."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Никаких оверклокеров узлов",
+      "images": [
+        "laserio:textures/book/entries/overclocker_node1.png"
+      ],
+      "border": true,
+      "text": "Установлено ноль оверклокеров Node."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Каждый оверклокер узла, установленный на стороне узла, позволяет этой стороне работать с большим количеством карт за такт. Всего можно установить 8 оверклокеров узлов, что позволяет работать со всеми 9 узлами. $(br2)Вставным картам $(l)$(#ff0000)НЕ$() для работы необходимы оверклокеры, $(l)ТОЛЬКО$() они нужны картам Extractor и Stocker."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "2-узловые оверклокеры",
+      "images": [
+        "laserio:textures/book/entries/overclocker_node2.png"
+      ],
+      "border": true,
+      "text": "Установлены два оверклокера Node."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Нодовый оверклокер",
+      "recipe": "laserio:overclocker_node"
+    }
+  ]
+}

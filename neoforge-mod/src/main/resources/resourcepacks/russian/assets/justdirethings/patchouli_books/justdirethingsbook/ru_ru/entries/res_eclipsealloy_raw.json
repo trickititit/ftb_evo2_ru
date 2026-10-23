@@ -1,0 +1,17 @@
+{
+  "name": "Необработанный блок сплава Eclipse",
+  "sortnum": 6,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_eclipsealloy_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Когда блок незерита трансформируется с помощью Пульс Тени Гу, он становится блоком необработанного сплава Eclipse. Добудьте этот блок, чтобы получить предметы из необработанного сплава затмения, которые можно переплавить в $(l:justdirethings:res_eclipsealloy)Слитки сплава затмения$(/l)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "justdirethings:raw_eclipsealloy",
+      "text": "Сырой сплав Eclipse выпадает, когда вы ломаете блок Сырой сплав Eclipse."
+    }
+  ]
+}

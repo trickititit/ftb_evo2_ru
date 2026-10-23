@@ -1,0 +1,7 @@
+{
+  "block.easy_piglins.barterer": "бартер",
+  "itemGroup.easy_piglins": "Легкие Пиглины",
+  "gui.easy_piglins.input_items": "Входные элементы",
+  "gui.easy_piglins.output_items": "Выходные элементы",
+  "message.easy_piglins.cant_pick_up": "Не могу подобрать агрессивных или занятых свиней."
+}

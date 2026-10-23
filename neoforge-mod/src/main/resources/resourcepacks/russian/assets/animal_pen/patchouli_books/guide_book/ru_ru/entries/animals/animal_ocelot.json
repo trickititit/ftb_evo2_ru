@@ -1,0 +1,22 @@
+{
+  "name": "Оцелот",
+  "icon": "minecraft:ocelot_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:ocelot",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:ocelot_food",
+      "text": "Кормите оцелотов треской или лососем, чтобы разводить их и увеличивать их численность в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет оцелота и уронит его добычу."
+    }
+  ]
+}

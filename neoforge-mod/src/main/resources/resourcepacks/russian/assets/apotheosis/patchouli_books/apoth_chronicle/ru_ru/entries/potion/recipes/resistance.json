@@ -1,0 +1,19 @@
+{
+  "name": "Сопротивление урону",
+  "icon": "minecraft:textures/mob_effect/resistance.png",
+  "category": "apotheosis:potion/recipes",
+  "flag": "apotheosis:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Сопротивление$() — довольно полезный эффект, для которого в ванили нет рецепта.$(p)Каждый уровень дает +20% снижения урона от всех источников.$(p)Он также понадобится вам для создания зелий $(l:apotheosis:potion/effects/sundering)Раскол$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Рецепт заваривания",
+      "item": "minecraft:shulker_shell",
+      "text": "Это зелье можно создать из Неуклюжего зелья и шалкеровой раковины.$(p)Его можно расширить, усилить или превратить в зелье брызг с помощью обычных ингредиентов."
+    }
+  ]
+}

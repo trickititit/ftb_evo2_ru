@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Топор",
+  "sortnum": 10,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_axe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режет быстрее, чем $(l:justdirethings:tool_ferricore_axe)Ferricore Axe$(/l). Он обладает способностью «Восстановление лавы», автоматически восстанавливающей себя в лаве."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_axe",
+      "text": "Blazegold Изготовление топора"
+    }
+  ]
+}

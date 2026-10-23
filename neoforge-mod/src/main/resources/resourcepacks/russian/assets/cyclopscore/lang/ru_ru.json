@@ -1,0 +1,16 @@
+{
+  "_comment": "Ванильные добавки",
+  "itemGroup.cyclopscore": "Ядро Циклопа",
+  "general.cyclopscore.dev_world": "Мир разработчиков",
+  "gui.cyclopscore.scrollbar": "Прокрутка",
+  "gui.cyclopscore.search": "Поиск",
+  "gui.cyclopscore.left": "Левый",
+  "gui.cyclopscore.right": "Правильно",
+  "gui.cyclopscore.up": "Вверх",
+  "gui.cyclopscore.down": "Вниз",
+  "gui.cyclopscore.infobook": "Информационная книга",
+  "infobook.cyclopscore.keybindings": "Ключевые привязки",
+  "infobook.cyclopscore.keybinding": "Привязка клавиш",
+  "infobook.cyclopscore.external": "Веб-версия",
+  "gui.cyclopscore.rewards": "Награды"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Курильщик",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_smoker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Расширьте свои кулинарные способности с помощью апгрейда «Смокер». Любые капли с мобов будут коптиться автоматически! Говядина будет превращена в стейк.$(br2)Использует некоторую прочность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшение курильщика",
+      "recipe": "justdirethings:upgrade_smoker"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemGroup.irons_artifice": "Iron's Arms 'n Artifice",
+  "irons_artifice.value_modifier.plus": "+%s %s",
+  "irons_artifice.value_modifier.minus": "-%s %s",
+  "irons_artifice.value_modifier.plus_percent": "%s%% %s",
+  "irons_artifice.value_modifier.minus_percent": "%s%% %s",
+  "advancements.irons_artifice.root.title": "Iron's Arms 'n Artifice"
+}

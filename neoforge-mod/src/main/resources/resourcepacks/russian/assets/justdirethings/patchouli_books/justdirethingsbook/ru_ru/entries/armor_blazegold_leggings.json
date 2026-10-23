@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Леггинсы",
+  "sortnum": 7,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_leggings",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Blazegold Леггинсы обеспечивают превосходную мобильность и защиту. Используйте способность «Ремонт лавы», бросив эти поножи в блок источника лавы для полного ремонта."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Blazegold Изготовление леггинсов",
+      "recipe": "justdirethings:blazegold_leggings"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemGroup.meinfinitycell": "Я Бесконечная ячейка",
+  "item.meinfinitycell.infinity_cell": "Я %s Бесконечная клетка",
+  "tooltip.meinfinitycell.infinity": "Бесконечность!",
+  "tooltip.meinfinitycell.show_context": "Включает в себя следующие предметы:",
+  "tooltip.meinfinitycell.infinity_in": "Бесконечность в %s",
+  "tooltip.meinfinitycell.fluid.infinity_in": "Бесконечность в %s как жидкость",
+  "tooltip.meinfinitycell.type": "Тип"
+}

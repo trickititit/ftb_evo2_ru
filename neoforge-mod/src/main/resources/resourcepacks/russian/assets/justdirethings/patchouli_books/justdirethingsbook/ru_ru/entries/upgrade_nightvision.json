@@ -1,0 +1,17 @@
+{
+  "name": "Ночное видение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_nightvision",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "С легкостью перемещайтесь в темноте, используя улучшение ночного видения. Это улучшение обеспечивает постоянное ночное видение, постоянно освещая все вокруг."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание ночного видения",
+      "recipe": "justdirethings:upgrade_nightvision"
+    }
+  ]
+}

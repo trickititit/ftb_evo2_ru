@@ -1,0 +1,16 @@
+{
+  "name": "Пчелиный шлем",
+  "icon": "productivebees:bee_nest_diamond_helmet",
+  "category": "productivebees:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:bee_nest_diamond_helmet",
+      "text": "Прикрепите пчелиное гнездо к своему красивому ромбовидному шлему, чтобы оно приклеилось. Пчелы в гнезде наверняка привыкнут к вам и, возможно, даже защитят вас, когда вы окажетесь в опасности. Ношение этой одежды также покажет другим пчелам ваши добрые намерения и убережет их от нападения на вас."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "productivebees:bee_nest_helmet"
+    }
+  ]
+}

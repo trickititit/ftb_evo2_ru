@@ -1,0 +1,44 @@
+{
+  "name": "Новые палочки",
+  "sortnum": 5,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:swapper_wand",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Сменная палочка",
+      "recipe": "justdynathings:swapper_wand",
+      "text": "Палочка, позволяющая менять блок на другой, не удаляя его из мира."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Пикерская палочка",
+      "recipe": "justdynathings:picker_wand",
+      "text": "Палочка, позволяющая подобрать блок и разместить его в нужном месте."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Жезл временного оглушения",
+      "recipe": "justdynathings:temporal_stupefy_wand",
+      "text": "Палочка, позволяющая удалять сущности TimeWand и накладывать кратковременный эффект оглушения."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Продвинутая палочка времени",
+      "recipe": "justdynathings:advanced_time_wand",
+      "text": "Обновленная версия Временной жезл с большей емкостью и режимами для настройки действия по щелчку."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Световая палочка",
+      "recipe": "justdynathings:light_wand",
+      "text": "Жезл, который позволяет размещать и удалять блоки Света, а также может применять свечение к обращенному к лицу объекту."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшенный световой жезл",
+      "recipe": "justdynathings:advanced_light_wand",
+      "text": "Улучшенная версия Световая палочка, использующая FE для долговечности предмета."
+    }
+  ]
+}

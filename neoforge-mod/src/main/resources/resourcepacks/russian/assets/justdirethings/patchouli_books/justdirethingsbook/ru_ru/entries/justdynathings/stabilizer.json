@@ -1,0 +1,35 @@
+{
+  "name": "Я не люблю кормить Гу",
+  "sortnum": 10,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:stabilizer",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Стабилизатор",
+      "recipe": "justdynathings:stabilizer",
+      "text": "Он может оживить любую слизь, находящуюся на нем, используя Forge Энергию $(br). Также его можно использовать для поддержания жизни Миксера Парадоксов."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "G"
+          ],
+          [
+            "R"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "G": "justdirethings:gooblock_tier2[alive=true]",
+          "R": "justdynathings:stabilizer[active=true,facing=down,energized=false]"
+        }
+      },
+      "enable_visualize": false
+    }
+  ]
+}

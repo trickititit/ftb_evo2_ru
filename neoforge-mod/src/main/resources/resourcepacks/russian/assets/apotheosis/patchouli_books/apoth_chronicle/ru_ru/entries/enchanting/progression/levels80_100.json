@@ -1,0 +1,32 @@
+{
+  "name": "Уровни 80–100",
+  "icon": "apothic_enchanting:endshelf",
+  "category": "apotheosis:enchanting/progression",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Достижение уровня 90",
+      "item": "apothic_enchanting:infused_breath",
+      "text": "Для доступа к предпоследнему уровню требуется стол 80-го уровня и доступ к $(9)Дыханию Дракона$().$(p)С их помощью вы можете создать $(9)Настоящее Дыхание Дракона$(), основной компонент $(9)Концевые полки$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение уровня 90",
+      "recipe": "apothic_enchanting:endshelf",
+      "recipe2": "apothic_enchanting:pearl_endshelf"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Достижение уровня 100",
+      "item": "minecraft:dragon_head",
+      "text": "Самый высокий уровень, которого может достичь Стол зачарования, — это уровень 100, но только одна полка может обеспечить такую большую силу.$(p)Для создания такой полки необходимо отправиться во внешний конец и получить $(9)Голову Дракона$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение уровня 100",
+      "recipe": "apothic_enchanting:draconic_endshelf",
+      "text": "Один $(9)Драконий Крайний Полк$() обеспечивает достаточную силу, чтобы поднять стол с уровня 90 до уровня 100.$(p)Однако он не дает никаких других бонусов к характеристикам."
+    }
+  ]
+}

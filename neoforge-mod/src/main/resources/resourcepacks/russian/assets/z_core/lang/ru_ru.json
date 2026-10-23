@@ -1,0 +1,10 @@
+{
+  "tooltip.z_core.cycle_variants": "Варианты цикла:",
+  "tooltip.z_core.hold_shift_info": "Удерживайте [SHIFT] для получения информации",
+  "tooltip.z_core.control.selection": "• Нажмите %s: экран выбора варианта.",
+  "tooltip.z_core.control.cycle": "• %s + прокрутка колесика мыши: быстрый цикл",
+  "tooltip.z_core.control.reset": "• %s + кнопка колеса мыши: сброс.",
+  "key.category.z_core.main": "Z-ядро",
+  "key.z_core.scroll_modifier": "Модификатор прокрутки колеса мыши",
+  "key.z_core.selection_screen": "Экран выбора варианта"
+}

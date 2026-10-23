@@ -1,0 +1,6 @@
+{
+  "name": "Модульный маршрутизатор",
+  "description": "Модульный маршрутизатор — единственный блок в моде $(modr).",
+  "icon": "modularrouters:modular_router",
+  "sortnum": 1
+}

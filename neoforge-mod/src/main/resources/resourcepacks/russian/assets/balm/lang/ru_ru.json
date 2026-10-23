@@ -1,0 +1,9 @@
+{
+  "config.jade.plugin_balm.jade": "Бальзам",
+  "gui.balm.configuration.title": "%s...",
+  "gui.balm.configuration.edit": "Изменить",
+  "gui.balm.configuration.validation.range": "Диапазон: от %s до %s",
+  "gui.balm.configuration.validation.negative_infinity": "-инф",
+  "gui.balm.configuration.validation.positive_infinity": "+инф.",
+  "disconnect.balm.mod_missing_on_client": "У вас не установлен мод %s. Установите %s версии %s, чтобы играть на этом сервере."
+}

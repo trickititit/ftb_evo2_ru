@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Меч",
+  "sortnum": 7,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_sword",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Увеличенный урон по сравнению с $(l:justdirethings:tool_ferricore_sword)Ferricore Мечом$(/l). Имеет функцию «Ремонт лавы» для полного восстановления при падении в лаву."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_sword",
+      "text": "Blazegold Изготовление меча"
+    }
+  ]
+}

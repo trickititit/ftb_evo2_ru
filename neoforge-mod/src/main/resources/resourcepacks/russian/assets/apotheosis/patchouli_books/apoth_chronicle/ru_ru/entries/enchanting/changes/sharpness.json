@@ -1,0 +1,13 @@
+{
+  "name": "Резкость",
+  "icon": "minecraft:netherite_sword",
+  "category": "apotheosis:enchanting/changes",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Резкость$() больше не является эксклюзивом других чар урона.$(p)Это означает, что теперь вы можете использовать $(9)Резкость$() и еще одно зачарование урона, которое обычно является эксклюзивным."
+    }
+  ]
+}

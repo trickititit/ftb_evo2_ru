@@ -1,0 +1,20 @@
+{
+  "mod.refinedstorage": "Изысканное хранилище",
+  "key.category.refinedstorage.keymappings": "Изысканное хранилище",
+  "gui.refinedstorage.grid.resource_type.item": "Товар",
+  "gui.refinedstorage.grid.resource_type.fluid": "жидкость",
+  "gui.refinedstorage.grid.cmd_click_to_autocraft": "CMD + клик для автокрафта",
+  "gui.refinedstorage.grid.pin_help": "Перетащите, чтобы закрепить. Чтобы открепить, перетащите за пределы закрепленной области.",
+  "gui.refinedstorage.grid.drag_and_drop_to_pin": "Перетащите, чтобы закрепить",
+  "gui.refinedstorage.crafting_grid.press_shift_cmd_to_only_show_items_used_in_crafting": "Нажмите SHIFT + CMD, чтобы отобразить только элементы, используемые в рецепте.",
+  "gui.refinedstorage.priority.storage_help": "Порядок, в котором сеть хранения будет вставлять или извлекать ресурсы: начиная с самого высокого.",
+  "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority": "Нажмите, чтобы изменить приоритет вставки/извлечения.",
+  "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority": "Нажмите CTRL + щелчок, чтобы изменить приоритет вставки.",
+  "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority": "Нажмите CMD + щелчок, чтобы изменить приоритет вставки.",
+  "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority": "Нажмите ALT + щелчок, чтобы изменить приоритет извлечения.",
+  "item.refinedstorage.controller.not_needed_because_energy_is_not_required": "Refined Storage настроен на работу без энергии. Это устройство не требуется и не будет иметь никакого эффекта — оно показано здесь только для информации.",
+  "item.refinedstorage.regulator_upgrade.cleared_configuration": "Очищена конфигурация.",
+  "item.refinedstorage.color_and_item_name": "%s %s",
+  "text.autoconfig.refinedstorage.option.requireEnergy": "Требуют энергии",
+  "text.autoconfig.refinedstorage.option.requireEnergy.tooltip": "Требуют ли сети и предметы энергии для функционирования. Если установлено значение false, для работы сети не требуется контроллер."
+}

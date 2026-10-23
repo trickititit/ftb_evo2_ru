@@ -1,0 +1,17 @@
+{
+  "name": "Раскол",
+  "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+  "category": "apotheosis:potion/effects",
+  "flag": "apotheosis:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Зелье $(c)Раскол$() является отрицательным эффектом.$(p)Находясь под его действием, весь получаемый урон увеличивается на 20% за уровень."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Он служит прямым противовесом сопротивлению и дополняет сопротивление.$(p)Если бы у вас были «Раскол II» и «Сопротивление II», вы бы получили обычный урон."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Крафт",
+  "icon": "minecraft:crafting_table",
+  "category": "animal_pen:category_aviary",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Изготовить вольеры можно из простых материалов: гладких каменных плит, цепей, слитков или самородков."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "animal_pen:aviary",
+      "recipe2": "animal_pen:gold_aviary"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "animal_pen:copper_aviary"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "overview.mdx": {
+    "name": "Обзор",
+    "icon": null
+  },
+  "nightfox.mdx": {
+    "name": "Ночной лис",
+    "icon": null
+  },
+  "trex.mdx": {
+    "name": "Тираннозавр",
+    "icon": null
+  },
+  "baby_dragon.mdx": {
+    "name": "Маленький дракон",
+    "icon": null
+  },
+  "mini_player.mdx": {
+    "name": "Мини-игрок",
+    "icon": null
+  },
+  "gremlin.mdx": {
+    "name": "Гремлин",
+    "icon": null
+  },
+  "quokka.mdx": {
+    "name": "Квокка",
+    "icon": null
+  },
+  "direwolf.mdx": {
+    "name": "Лютоволк",
+    "icon": null
+  }
+}

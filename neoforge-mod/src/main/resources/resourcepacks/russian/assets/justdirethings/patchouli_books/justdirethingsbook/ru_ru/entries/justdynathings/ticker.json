@@ -1,0 +1,14 @@
+{
+  "name": "Время относительно",
+  "sortnum": 13,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:ticker",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Тикерный блок",
+      "recipe": "justdynathings:ticker",
+      "text": "Блок, который ускоряет блоки в 16 раз по сравнению с обычной частотой тиков."
+    }
+  ]
+}

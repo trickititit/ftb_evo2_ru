@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Слиток",
+  "sortnum": 1,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:ferricore_ingot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ferricore Слитки получаются путем плавки Сырца Ferricore, который добывается из $(l:justdirethings:res_ferricore_raw)Сырых Ferricore блоков$(/l). Эти слитки улучшены по долговечности и прочности и служат превосходной альтернативой обычному железу."
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Плавка сырья Ferricore",
+      "recipe": "justdirethings:ferricore_ingot_smelted"
+    }
+  ]
+}

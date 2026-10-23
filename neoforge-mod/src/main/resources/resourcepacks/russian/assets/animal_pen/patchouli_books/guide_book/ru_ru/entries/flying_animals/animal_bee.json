@@ -1,0 +1,33 @@
+{
+  "name": "Пчела",
+  "icon": "minecraft:bee_spawn_egg",
+  "category": "animal_pen:category_aviary",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:bee",
+      "scale": 1,
+      "text": "Пчелы со временем собирают пыльцу в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:bee_food",
+      "text": "Кормите пчел маленьким цветком, чтобы они размножались и увеличивали их численность в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет пчел."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "Использование ножниц позволит удалить собранную пыльцу и уронить соты. [редстоун-взаимодействие 1]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:glass_bottle",
+      "text": "Использование стеклянной бутылки позволит удалить собранную пыльцу и наполнить бутылку медом. [редстоун-взаимодействие 1]"
+    }
+  ]
+}

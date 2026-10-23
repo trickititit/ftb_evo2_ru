@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Кирка",
+  "sortnum": 8,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_pickaxe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Быстрее, чем кирка $(l:justdirethings:tool_ferricore_pickaxe)Ferricore Кирка$(/l), включает в себя «Ремонт лавы» — восстанавливается при падении в лаву."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_pickaxe",
+      "text": "Blazegold Изготовление кирки"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Шлем",
+  "sortnum": 5,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_helmet",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Шлем Blazegold обеспечивает превосходную защиту по сравнению со своим предшественником Ferricore, улучшенным благодаря уникальной способности восстановления лавы. Поместите этот предмет в блок источника лавы, чтобы полностью восстановить его."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Blazegold Изготовление шлемов",
+      "recipe": "justdirethings:blazegold_helmet"
+    }
+  ]
+}

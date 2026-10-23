@@ -1,0 +1,27 @@
+{
+  "name": "Тропическая рыба",
+  "icon": "minecraft:tropical_fish_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:tropical_fish",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:seagrass,minecraft:kelp",
+      "text": "Кормите тропических рыб водорослями или водорослями, чтобы разводить их и увеличивать их численность в аквариуме."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора в Аквариуме убьет тропическую рыбу и уронит ее добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:water_bucket",
+      "text": "Тропических рыбок из аквариума можно собирать с помощью ведра с водой."
+    }
+  ]
+}

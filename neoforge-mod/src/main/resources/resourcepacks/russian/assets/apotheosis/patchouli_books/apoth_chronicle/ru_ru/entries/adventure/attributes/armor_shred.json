@@ -1,0 +1,13 @@
+{
+  "name": "Ослабление брони",
+  "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Полоска брони$() позволяет вам игнорировать определенный процент брони вашей цели при атаке.$(p)$(9)Полоска брони$() применяется перед $(9)Проколом брони$()."
+    }
+  ]
+}

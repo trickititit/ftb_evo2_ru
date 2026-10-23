@@ -1,0 +1,27 @@
+{
+  "name": "Треска",
+  "icon": "minecraft:cod_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:cod",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:seagrass,minecraft:kelp",
+      "text": "Кормите треску морской травой или водорослями, чтобы разводить их и увеличивать их численность в аквариуме."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора в Аквариуме убьет треску и уронит добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:water_bucket",
+      "text": "Собирать треску из аквариума можно с помощью ведра с водой."
+    }
+  ]
+}

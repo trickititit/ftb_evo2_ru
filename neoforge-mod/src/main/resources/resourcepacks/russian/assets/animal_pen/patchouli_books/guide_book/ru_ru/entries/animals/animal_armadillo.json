@@ -1,0 +1,27 @@
+{
+  "name": "Броненосец",
+  "icon": "minecraft:armadillo_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:armadillo",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:armadillo_food",
+      "text": "Кормите броненосца паучьим глазом, чтобы разводить их и увеличивать их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет броненосца и уронит его добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:brush",
+      "text": "Используя кисть на ручке для животных, вы потеряете щиток броненосца. [редстоун-взаимодействие 1]"
+    }
+  ]
+}

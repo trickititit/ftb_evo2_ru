@@ -1,0 +1,32 @@
+{
+  "name": "Овцы",
+  "icon": "minecraft:sheep_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:sheep",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:sheep_food",
+      "text": "Кормите овец пшеницей, чтобы разводить их и увеличивать их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет овцу и уронит ее добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "Использование ножниц на загоне для животных позволит стричь овец и сбрасывать с них шерсть. [редстоун-взаимодействие 1]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:black_dye,minecraft:blue_dye,minecraft:brown_dye,minecraft:cyan_dye,minecraft:gray_dye,minecraft:green_dye,minecraft:light_blue_dye,minecraft:light_gray_dye,minecraft:lime_dye,minecraft:magenta_dye,minecraft:orange_dye,minecraft:pink_dye,minecraft:purple_dye,minecraft:red_dye,minecraft:white_dye,minecraft:yellow_dye",
+      "text": "Использование любого красителя на Ручка для животных изменит цвет шерсти овцы."
+    }
+  ]
+}

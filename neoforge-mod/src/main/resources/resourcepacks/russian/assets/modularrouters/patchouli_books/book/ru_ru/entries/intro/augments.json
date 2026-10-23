@@ -1,0 +1,19 @@
+{
+  "name": "Дополнения",
+  "icon": "modularrouters:augment_core",
+  "category": "modularrouters:intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Augments/$ аналогичны $(l:intro/upgrades)upgrades/$, но вставляются в $(l:intro/modules)module/$, а не в $(l:intro/modular_router)Маршрутизатор/$. Каждый модуль имеет слоты для 4 аугментов (некоторые аугменты можно штабелировать). Дополнения улучшают или расширяют функциональность модуля различными способами."
+    },
+    {
+      "type": "image",
+      "images": [
+        "modularrouters:textures/patchouli/augments.png"
+      ],
+      "text": "$(italic)Вакуумный модуль с 6 улучшениями дальности и XP Вакуумным усилением/$",
+      "border": true
+    }
+  ]
+}

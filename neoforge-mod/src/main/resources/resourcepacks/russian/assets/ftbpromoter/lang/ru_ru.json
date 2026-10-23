@@ -1,0 +1,5 @@
+{
+  "ftbpromoter.fancymenu.requirement.description": "Проверяет, доступно ли промо через API.",
+  "ftbpromoter.fancymenu.requirement.name": "Доступен ли промоутер FTB?",
+  "ftbpromoter.fancymenu.requirement.value.name": "UUID продвижения"
+}

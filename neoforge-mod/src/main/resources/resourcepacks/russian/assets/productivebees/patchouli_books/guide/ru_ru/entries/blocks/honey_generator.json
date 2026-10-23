@@ -1,0 +1,16 @@
+{
+  "name": "Генератор меда",
+  "icon": "productivebees:honey_generator",
+  "category": "productivebees:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:honey_generator",
+      "text": "Сжигает мед для получения энергии. Мед можно закачивать по трубопроводу, а в графическом интерфейсе можно добавить бутылки, блоки и ведра для меда."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Генератор меда принимает два обновления; $(l:items/upgrades#productivity)Повышение производительности$(/l) снизит потребление меда. $(l:items/upgrades#speed)Улучшение скорости$(/l) увеличит... скорость."
+    }
+  ]
+}

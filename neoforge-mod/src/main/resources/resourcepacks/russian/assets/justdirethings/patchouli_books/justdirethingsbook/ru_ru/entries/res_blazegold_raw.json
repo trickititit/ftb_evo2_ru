@@ -1,0 +1,17 @@
+{
+  "name": "Необработанный блок Blazegold",
+  "sortnum": 2,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_blazegold_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Золотой блок, преобразованный Блейзблум Гу, становится необработанным блоком Blazegold. При добыче этого блока получаются необработанные предметы Blazegold, которые переплавляются в слитки $(l:justdirethings:res_blazegold)Blazegold$(/l)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "justdirethings:raw_blazegold",
+      "text": "Raw Blazegold выпадает, когда вы ломаете блок Raw Blazegold."
+    }
+  ]
+}

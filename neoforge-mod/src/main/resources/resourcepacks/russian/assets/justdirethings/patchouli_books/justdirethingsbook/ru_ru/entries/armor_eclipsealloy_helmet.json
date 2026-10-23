@@ -1,0 +1,17 @@
+{
+  "name": "Шлем из сплава Eclipse",
+  "sortnum": 20,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:eclipsealloy_helmet[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Шлем из сплава «Затмение» — это вершина технологии брони, использующая энергию Forge с большой емкостью — 500 000 FE. Не забывайте держать его заряженным, в идеале с помощью $(l:justdirethings:item_pocket_generator)Карманного генератора$(/l), чтобы полностью использовать его потенциал."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Изготовление шлема из сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_helmet"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "block.enderio.enderface": "Ender IO",
+  "conduit.enderio.energetic_energy": "Энергетический энергетический проводник",
+  "conduit.enderio.energetic_fluid": "Энергетический трубопровод для жидкости",
+  "conduit.enderio.energetic_item": "Проводник для энергетических предметов",
+  "conduit.enderio.vibrant_energy": "Яркий проводник энергии",
+  "conduit.enderio.vibrant_fluid": "Яркий трубопровод для жидкости",
+  "conduit.enderio.vibrant_item": "Яркий проводник предметов",
+  "itemGroup.enderio.enderio": "Ender IO",
+  "key.category.enderio.enderio_keys": "EnderIO",
+  "message.enderio.tool.soul_vial.error.denied": "Эта организация внесена в запрещенный список.",
+  "tag.entity_type.enderio.soul_vial_allow_list": "Список разрешенных флаконов души",
+  "tag.entity_type.enderio.soul_vial_deny_list": "Список запретов на флакон с душой",
+  "tag.entity_type.enderio.spawner_allow_list": "Список разрешенных создателей",
+  "tag.entity_type.enderio.spawner_deny_list": "Список запрещенных создателей",
+  "tag.item.enderio.deny_lists.broken_spawner": "Сломанный список запрещенных создателей",
+  "tag.item.enderio.deny_lists.electromagnet": "Список запрещенных электромагнитов",
+  "tooltip.enderio.conduit.slot.fluid_filter": "Слот для фильтра жидкости",
+  "tooltip.enderio.conduit.slot.item_filter": "Слот для фильтра предметов",
+  "tooltip.enderio.conduit.slot.redstone_filter": "Слот для фильтра красного камня"
+}

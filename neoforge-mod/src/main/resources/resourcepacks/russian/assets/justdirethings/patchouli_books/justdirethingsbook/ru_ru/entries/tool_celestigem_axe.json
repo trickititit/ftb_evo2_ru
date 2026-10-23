@@ -1,0 +1,17 @@
+{
+  "name": "Celestigem Топор",
+  "sortnum": 16,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_axe[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Начиная с $(l:justdirethings:tool_blazegold_axe)Blazegold Топора$(/l), этот топор использует энергию Forge, имеющую хранилище на 10 000 FE. Поддерживайте уровень мощности с помощью $(l:justdirethings:item_pocket_generator)Карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:celestigem_axe",
+      "text": "Celestigem Изготовление топора"
+    }
+  ]
+}

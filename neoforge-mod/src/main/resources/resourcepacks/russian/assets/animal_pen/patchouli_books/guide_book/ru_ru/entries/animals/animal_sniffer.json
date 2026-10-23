@@ -1,0 +1,32 @@
+{
+  "name": "Нюхач",
+  "icon": "minecraft:sniffer_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:sniffer",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:sniffer_food",
+      "text": "Кормите нюхачей семенами факелов, чтобы размножить их и увеличить их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет ищейок и уронит их добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bowl",
+      "text": "Используйте чашу на Ручке-Нюхач, чтобы собрать древние семена. Больше снифферов означает больше семян. [редстоун-взаимодействие 1]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "Используйте ведро на Ручке-Нюхач, чтобы собрать яйца. Больше снифферов — больше яиц. [взаимодействие с красным камнем 2]"
+    }
+  ]
+}

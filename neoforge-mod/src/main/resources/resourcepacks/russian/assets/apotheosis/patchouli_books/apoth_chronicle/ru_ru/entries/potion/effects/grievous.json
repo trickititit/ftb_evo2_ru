@@ -1,0 +1,17 @@
+{
+  "name": "Тяжёлые раны",
+  "icon": "apothic_attributes:textures/mob_effect/grievous.png",
+  "category": "apotheosis:potion/effects",
+  "flag": "apotheosis:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(c)Тяжелые раны$() — это отрицательный эффект, предоставляемый Зельем уменьшения исцеления.$(p)Пока под его действием все получаемое исцеление уменьшается."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Уменьшение исцеления равно 40% за уровень.$(p)На уровне III или выше любое лечение предотвращается."
+    }
+  ]
+}

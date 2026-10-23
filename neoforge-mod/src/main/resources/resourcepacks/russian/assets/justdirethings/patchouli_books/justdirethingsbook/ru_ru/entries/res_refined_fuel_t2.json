@@ -1,0 +1,16 @@
+{
+  "name": "Очищенное горючее из пылающего угля",
+  "sortnum": 27,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:refined_t2_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Очищенное горючее из пылающего угля — мощный источник энергии. Его производят путем переработки неочищенного горючего угля, которое получается путем добавления $(l:justdirethings:res_coal_t2)Пламенного угля$(/l) в $(l:justdirethings:res_polymorphic_fluid)Полиморфную жидкость$(/l). Поместите эту смесь рядом с блоком Блейзблум Гу, чтобы очистить ее."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Очищенное горючее из пылающего угля — эффективное топливо, которое можно использовать для выработки энергии в $(l:justdirethings:mach_generatorfluidt1)Топливном генераторе$(/l)."
+    }
+  ]
+}

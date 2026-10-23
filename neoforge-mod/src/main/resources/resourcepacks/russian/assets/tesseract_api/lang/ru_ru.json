@@ -1,0 +1,6 @@
+{
+  "eu_cost_transformer.tesseract_api.percentage": "%d%%",
+  "text.tesseract_api.mi_machine_batcher_recipe": "Можно запускать %s рецептов партиями.",
+  "text.tesseract_api.mi_machine_batcher_size_and_cost": "Работает партиями до %d по цене %s ЕС.",
+  "text.tesseract_api.tooltips_shift_required": "Нажмите [Shift] для получения информации"
+}

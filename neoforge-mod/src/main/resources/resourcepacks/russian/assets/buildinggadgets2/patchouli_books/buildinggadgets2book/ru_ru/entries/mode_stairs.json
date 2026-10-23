@@ -1,0 +1,22 @@
+{
+  "name": "Лестница",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/stairs.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Лестница будет либо подниматься вверх и в сторону от вас, либо вверх и к вам, в зависимости от того, находитесь ли вы выше или ниже блока, на который смотрите.$(br2)Честно говоря, это довольно странно и запутанно, и ее можно было бы переписать."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Лестница",
+      "images": [
+        "buildinggadgets2:textures/book/images/stairs1.png",
+        "buildinggadgets2:textures/book/images/stairs2.png"
+      ],
+      "border": true,
+      "text": "Переключите изображения выше, чтобы увидеть различные варианты."
+    }
+  ]
+}

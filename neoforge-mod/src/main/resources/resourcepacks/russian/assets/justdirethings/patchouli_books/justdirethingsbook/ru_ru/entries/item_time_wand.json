@@ -1,0 +1,24 @@
+{
+  "name": "Жезл Времени",
+  "sortnum": 7,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:time_wand[justdirethings:forge_energy=100000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Жезл Времени — это портативный способ воспользоваться способностями $(l:justdirethings:res_time_crystal)Кристаллов Времени$(/l)$(br2), изменяющими время. Обратите внимание: чтобы использовать эту палочку, вам необходимо зарядить ее как Forge Энергией, так и $(l:justdirethings:res_time_fluid)Жидкостью Времени$(/l)"
+    },
+    {
+      "type": "justdirethings:text_with_config",
+      "text": "Просто щелкните правой кнопкой мыши на любом отмеченном блоке — это включает в себя такие машины, как печи, и культуры, такие как пшеница. Сначала это заставит блок работать в два раза быстрее. Нажмите еще раз, чтобы удвоить его до 4x, затем до 8x, вплоть до #time_wand.time_wand_max_multiplier#x скорости!$(br2)Каждое ускорение будет потреблять как Forge энергию, так и жидкость времени в зависимости от того, насколько быстро увеличивается скорость.$(br2)Это увеличение скорости будет длиться 30 секунд.",
+      "config_options": [
+        "time_wand.time_wand_max_multiplier"
+      ]
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Изготовление Жезла Времени",
+      "recipe": "justdirethings:time_wand"
+    }
+  ]
+}

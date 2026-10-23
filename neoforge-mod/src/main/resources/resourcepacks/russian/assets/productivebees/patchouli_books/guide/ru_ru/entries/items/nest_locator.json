@@ -1,0 +1,16 @@
+{
+  "name": "Локатор гнезда",
+  "icon": "productivebees:nest_locator",
+  "category": "productivebees:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:nest_locator",
+      "text": "Может улавливать слабое жужжание близлежащих гнезд. Shift щелкните правой кнопкой мыши локатор гнезда или блока того типа гнезда, который вы хотите найти. Если вы хотите найти песчаное гнездо, вы можете щелкнуть правой кнопкой мыши по песчаному гнезду или песчаному блоку. Щелкните правой кнопкой мыши еще раз, чтобы найти ближайшие гнезда этого типа."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "productivebees:nest_locator"
+    }
+  ]
+}

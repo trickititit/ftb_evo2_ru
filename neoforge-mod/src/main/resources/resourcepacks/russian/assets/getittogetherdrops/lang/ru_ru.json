@@ -1,0 +1,8 @@
+{
+  "getittogetherdrops.configuration.checkY": "Проверьте Y",
+  "getittogetherdrops.configuration.checkY.tooltip": "Установите значение true, если вы хотите, чтобы выброшенные элементы также проверялись выше и ниже них, установите значение false, если нет («false» — это обычное поведение).",
+  "getittogetherdrops.configuration.radius": "Радиус",
+  "getittogetherdrops.configuration.radius.tooltip": "Радиус (в блоках), из которого выпадают предметы, должен проверять наличие других выпавших предметов, с которыми можно объединиться («0,5» — стандартное поведение).",
+  "tag.item.getittogetherdrops.do_not_combine": "Капли не сочетаются",
+  "tag.item.getittogetherdrops.ignore": "Капли сочетаются нормально"
+}

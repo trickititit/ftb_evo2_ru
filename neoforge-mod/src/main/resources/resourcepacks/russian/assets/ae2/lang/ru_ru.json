@@ -1,0 +1,14 @@
+{
+  "achievement.ae2.Root": "Прикладная энергетика",
+  "gui.ae2.CompatibleUpgrade": "%s (%s)",
+  "gui.ae2.CreativeTab": "Applied Energistics 2",
+  "gui.ae2.ETAFormat": "ЧЧ:mm:ss",
+  "gui.ae2.OCTunnel": "Открытые компьютеры",
+  "gui.ae2.ToastCraftingJobFinishedText": "%d %s",
+  "gui.ae2.units.fe": "FE",
+  "gui.tooltips.ae2.CpuStatusSuspended": "Приостановлено",
+  "key.category.ae2.category": "Applied Energistics 2",
+  "ae2.rei_jei_integration.flowing_fluid_name": "%s (текучая)",
+  "chat.ae2.ChannelModeCurrent": "Текущий режим каналов: %s",
+  "theoneprobe.ae2.channels": "Каналов: %1$d"
+}

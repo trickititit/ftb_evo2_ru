@@ -1,0 +1,17 @@
+{
+  "name": "Небесный уборщик",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_skysweeper",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Небесный очиститель — пассивная способность, устанавливаемая на лопаты Ferricore и выше. Когда вы разбиваете блок силой тяжести (например, гравий или песок), любые совпадающие блоки над ним также будут автоматически разрушены.  Больше никакого падения гравия во время добычи полезных ископаемых!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения Sky Sweeper",
+      "recipe": "justdirethings:upgrade_skysweeper"
+    }
+  ]
+}

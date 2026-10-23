@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "text": "Мутация урожая"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Все семенные кресты Mystical Agriculture в FTB Evolution 2",
+        "color": "dark_gray"
+      }
+    ]
+  },
+  "default_language": "en_us"
+}

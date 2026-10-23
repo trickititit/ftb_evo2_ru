@@ -1,0 +1,17 @@
+{
+  "name": "Рудокопатель",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_oreminer",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Горняк руды» — это пассивная способность, которую можно применять к киркам, начиная с Ferricore. Он автоматически добывает рудные блоки, соединенные с тем, который вы добываете, что-то вроде «жильного майнера», но только для руд и автоматически."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшение рудокопа",
+      "recipe": "justdirethings:upgrade_oreminer"
+    }
+  ]
+}

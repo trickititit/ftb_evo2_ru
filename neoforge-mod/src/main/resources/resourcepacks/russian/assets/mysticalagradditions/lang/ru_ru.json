@@ -1,0 +1,14 @@
+{
+  "itemGroup.mysticalagradditions": "Мистические аградации",
+  "block.mysticalagradditions.molten_prosperity": "Пылающее процветание",
+  "block.mysticalagradditions.molten_awakened_supremium": "Расплавленный пробуждённый супермиум",
+  "block.mysticalagradditions.molten_insanium": "Расплавленный инсаниум",
+  "item.mysticalagradditions.molten_prosperity_bucket": "Ведро расплавленного процветания",
+  "item.mysticalagradditions.molten_awakened_supremium_bucket": "Превосходное ведро расплавленного пробуждения",
+  "item.mysticalagradditions.molten_insanium_bucket": "Ведро с расплавленным инсанием",
+  "fluid_type.mysticalagradditions.molten_prosperity": "Пылающее процветание",
+  "fluid_type.mysticalagradditions.molten_awakened_supremium": "Расплавленный пробуждённый супермиум",
+  "fluid_type.mysticalagradditions.molten_insanium": "Расплавленный инсаниум",
+  "cropTier.mysticalagradditions.6": "6",
+  "book.mysticalagriculture.category.agradditions.name": "Аградации"
+}

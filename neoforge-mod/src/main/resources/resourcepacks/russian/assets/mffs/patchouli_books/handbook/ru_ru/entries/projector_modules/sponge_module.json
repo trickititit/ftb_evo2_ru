@@ -1,0 +1,18 @@
+{
+  "name": "Губчатый модуль",
+  "icon": "mffs:sponge_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:sponge_module",
+      "link_recipe": true,
+      "text": "Размещение $(5)Губчатого модуля$() в $(l:mffs:machines/projector)Проектор силового поля$() позволяет ему постоянно обнаруживать и удалять любые жидкости, содержащиеся в поле. Скорость удаления жидкостей можно увеличить, установив модуль $(l:mffs:upgrade_modules/speed_module)$(5)Speed ​​Module$(). Для удаления бесконечных жидкостей, таких как вода, могут потребоваться более высокие скорости."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:sponge_module",
+      "text": "Создание $(5)Модуля Губки$()."
+    }
+  ]
+}

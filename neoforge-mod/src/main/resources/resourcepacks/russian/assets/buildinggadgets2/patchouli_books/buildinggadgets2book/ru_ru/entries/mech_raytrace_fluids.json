@@ -1,0 +1,21 @@
+{
+  "name": "Жидкости для трассировки лучей",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/raytrace_fluid.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Raytrace Fluids позволяет гаджетам взаимодействовать с жидкостями. При включении теплообменники могут заменять жидкости, а строители могут строить поверх жидкостей. $(br2)При выключении эти гаджеты будут игнорировать жидкости и строить на блоках, стоящих за ними.$(br2)Подробнее см. в главе $(l:buildinggadgets2:mech_fluid_handling)Обращение с жидкостями$(/l)."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Жидкости для трассировки лучей",
+      "images": [
+        "buildinggadgets2:textures/book/images/raytracefluids.png"
+      ],
+      "border": true,
+      "text": "Воздействие на жидкости!"
+    }
+  ]
+}

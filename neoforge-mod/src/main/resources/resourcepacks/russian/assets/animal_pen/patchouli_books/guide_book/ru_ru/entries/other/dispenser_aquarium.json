@@ -1,0 +1,16 @@
+{
+  "name": "Диспенсер",
+  "icon": "minecraft:dispenser",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "С некоторыми инструментами можно взаимодействовать с помощью дозатора."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "Вы можете использовать ведро на загоне для животных, в котором находится черепаха."
+    }
+  ]
+}

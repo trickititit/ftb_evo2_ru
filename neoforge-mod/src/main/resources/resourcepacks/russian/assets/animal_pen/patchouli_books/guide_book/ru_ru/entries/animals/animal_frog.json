@@ -1,0 +1,27 @@
+{
+  "name": "Лягушка",
+  "icon": "minecraft:frog_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:frog",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:frog_food",
+      "text": "Кормите лягушек шариками слизи, чтобы разводить их и увеличивать их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет лягушку и уронит ее добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:magma_block",
+      "text": "Блок магмы кормовых лягушек уронит свет лягушки. [редстоун-взаимодействие 1]"
+    }
+  ]
+}

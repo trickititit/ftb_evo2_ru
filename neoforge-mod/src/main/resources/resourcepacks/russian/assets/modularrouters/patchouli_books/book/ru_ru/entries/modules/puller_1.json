@@ -1,0 +1,15 @@
+{
+  "name": "Модуль съемника Mk1",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:puller_module_1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот модуль пытается вытащить первый подходящий элемент из соседнего инвентаря в его настроенном направлении $(l:intro/modules#direction)/$ в буфер маршрутизатора. Если буфер заполнен или содержит что-то, что складывается ни с чем в инвентаре, ничего не будет извлечено."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:puller_module_1"
+    }
+  ]
+}

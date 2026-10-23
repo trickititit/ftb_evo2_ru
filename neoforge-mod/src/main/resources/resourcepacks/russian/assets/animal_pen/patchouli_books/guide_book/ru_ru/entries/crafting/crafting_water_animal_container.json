@@ -1,0 +1,16 @@
+{
+  "name": "Контейнер для водных животных",
+  "icon": "animal_pen:water_animal_container",
+  "category": "animal_pen:category_items",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "С помощью контейнера для водных животных вы можете взять любое водное животное Minecraft и поместить его в аквариум. Если щелкнуть пустой контейнер в Аквариуме, присев, вы получите половину животных из Аквариума. Вы можете освободить животных, нажав на землю."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "animal_pen:water_animal_container"
+    }
+  ]
+}

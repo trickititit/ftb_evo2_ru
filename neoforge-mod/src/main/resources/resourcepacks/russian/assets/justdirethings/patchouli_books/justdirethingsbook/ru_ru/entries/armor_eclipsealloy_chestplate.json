@@ -1,0 +1,17 @@
+{
+  "name": "Нагрудник из сплава затмения",
+  "sortnum": 21,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:eclipsealloy_chestplate[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот нагрудник высшего уровня использует 500 000 FE из Forge энергии, обеспечивая беспрецедентную защиту. Регулярно заряжайте его с помощью $(l:justdirethings:item_pocket_generator)Карманного генератора$(/l), чтобы обеспечить максимальную эффективность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Изготовление нагрудника из сплава «Затмение»",
+      "recipe": "justdirethings:eclipsealloy_chestplate"
+    }
+  ]
+}

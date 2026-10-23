@@ -1,0 +1,10 @@
+{
+  "itemGroup.mffs.main": "Modular Force Field Система",
+  "info.mffs.entity_identity": "%s (%s)",
+  "info.mffs.field_permission.warp_sneak": "Варп (Скрытность)",
+  "info.mffs.field_permission.warp_sneak.tooltip": "Позволяет игроку проходить сквозь силовые поля и обходить их.",
+  "info.mffs.key.shift": "Shift",
+  "item.mffs.reinforcement_module": "Модуль Армирования",
+  "item.mffs.reinforcement_module.description": "Делает блоки силового поля невосприимчивыми к Иссушению.",
+  "info.mffs.interdiction_matrix.confiscation_singular": "[%s] У вас изъято предметов: %s."
+}

@@ -1,0 +1,23 @@
+{
+  "tooltip.gateways.with_count": "%s %s",
+  "tooltip.gateways.dot_with_count": "• %s %s",
+  "tooltip.gateways.dot": "• %s",
+  "tooltip.gateways.shift": "[shift]",
+  "tooltip.gateways.ctrl": "[ctrl]",
+  "tooltip.gateways.alt": "[alt]",
+  "reward.gateways.stack": "%s %s",
+  "failure.gateways.mob_effect": "%s",
+  "rule.gateways.requires_nearby_player": "Требуется ближайший игрок: %s",
+  "rule.gateways.lives": "Жизни: %s",
+  "error.gateways.no_nearby_player": "Врата взорвались, потому что рядом не было игрока.",
+  "error.gateways.out_of_lives": "Врата взорвались, потому что у вас закончились жизни",
+  "gateways.iron_automaton": "Врата Железного автомата",
+  "gateways.endless/automaton_fabricator": "Бесконечные врата фабрикатора автоматов",
+  "name.gateways.iron_sentinel": "Железный страж",
+  "name.gateways.iron_juggernaut": "Железный Джаггернаут",
+  "subtitle.gateways.gate_warp": "Шлюз порождает объект",
+  "subtitle.gateways.gate_ambient": "Окружающий звук шлюза",
+  "subtitle.gateways.gate_start": "Шлюз открывается",
+  "subtitle.gateways.gate_end": "Шлюз заканчивается",
+  "text.gateways.errored_gate_pearl": "Неизвестный шлюз: %s"
+}

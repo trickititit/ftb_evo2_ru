@@ -1,0 +1,17 @@
+{
+  "name": "Снижение урона от падения",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_negatefalldamage",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защитите себя от случайных падений с помощью улучшения «Снижение урона от падения». Это улучшение поглощает весь урон от падения, обеспечивая безопасное приземление.$(br2)Примечание: оно использует энергию, чтобы смягчить ваше падение. Чем больше урона он блокирует, тем больше энергии он использует. Celestigem в ботинках не так много энергии...."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Нивелирование урона от падения",
+      "recipe": "justdirethings:upgrade_negatefalldamage"
+    }
+  ]
+}

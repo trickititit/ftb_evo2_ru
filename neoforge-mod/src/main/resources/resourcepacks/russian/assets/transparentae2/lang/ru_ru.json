@@ -1,0 +1,21 @@
+{
+  "item.transparentae2.cable_treatment_applicator": "Аппликатор кабельной прозрачности",
+  "item.transparentae2.transparent_smart_cable": "Прозрачный смарт-кабель ME",
+  "item.transparentae2.transparent_smart_dense_cable": "Прозрачный смарт-кабель ME Dense",
+  "item.transparentae2.transparent_covered_dense_cable": "Прозрачный кабель ME с плотным покрытием",
+  "message.transparentae2.cable_treatment_applied": "Кабель сделан прозрачным",
+  "message.transparentae2.cable_treatment_removed": "Прозрачность кабеля удалена",
+  "gui.transparentae2.network_rendering": "Анимация сетевых элементов",
+  "gui.transparentae2.network_rendering.enabled": "Включено для этой сети ME. Нажмите, чтобы отключить. Требуется включить настройки рендеринга клиента и сервера.",
+  "gui.transparentae2.network_rendering.disabled": "Отключено для этой сети ME. Нажмите, чтобы включить. Требуется включить настройки рендеринга клиента и сервера.",
+  "config.transparentae2.enableTransferPaths": "Включить пути передачи",
+  "config.transparentae2.enableTransferPaths.tooltip": "Рассчитайте пути передачи предметов сети ME и отправьте их ближайшим игрокам для анимации. Отключение этого параметра останавливает расчет пути для всех сетей.",
+  "config.transparentae2.enableTransferLogging": "Включить ведение журнала передачи",
+  "config.transparentae2.enableTransferLogging.tooltip": "Регистрируйте каждую передачу элемента и разрешенный путь на уровне DEBUG. Требует ведения журнала DEBUG и может создавать очень большие журналы. Не влияет на анимацию.",
+  "config.transparentae2.renderTransferItems": "Рендеринг движущихся объектов",
+  "config.transparentae2.renderTransferItems.tooltip": "Покажите движущиеся предметы внутри кабелей ME. Требуется включить пути передачи на сервере и анимацию для сети ME.",
+  "config.transparentae2.itemMovementSpeed": "Скорость перемещения предмета",
+  "config.transparentae2.itemMovementSpeed.tooltip": "Скорость анимации в блоках в секунду. Это меняет только скорость визуальной анимации.",
+  "config.transparentae2.maxTransfers": "Максимальное количество анимаций предметов",
+  "config.transparentae2.maxTransfers.tooltip": "Максимальное количество последних анимаций передачи предметов, сохраняемых клиентом. Более низкие значения уменьшают работу рендеринга в загруженных сетях."
+}

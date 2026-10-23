@@ -1,0 +1,18 @@
+{
+  "name": "Драконья пчела",
+  "icon": "productivebees:draconic_chunk",
+  "read_by_default": true,
+  "category": "productivebees:bees_wild",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Драконья пчела",
+      "text": "В конце концов, редко встречаются живущими в обсидиановых столбах на главном острове. Драконовые пчелы опыляют, летая и собирая нектар из воздуха. Они также будут грызть драконьи яйца, если у них будет такая возможность.",
+      "anchor": "draconic"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "productivebees:configurable_bee{type:'productivebees:draconic'}"
+    }
+  ]
+}

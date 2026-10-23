@@ -1,0 +1,12 @@
+{
+  "name": "Жидкость времени",
+  "sortnum": 31,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:time_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Временная жидкость — это многоцелевая жидкость, позволяющая постоянно изменять предметы и блоки. Кажется, он не является полностью частью этого пара времени, поскольку он почти прозрачен.$(br2)Он создается путем помещения $(l:justdirethings:res_time_crystal)Кристалла Времени$(/l) в бассейн $(l:justdirethings:res_polymorphic_fluid)Полиморфной жидкости.$(/l)"
+    }
+  ]
+}

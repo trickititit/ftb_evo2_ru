@@ -1,0 +1,21 @@
+{
+  "name": "Построй для меня",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/build_to_me.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим «Построй для меня» построит ряд блоков от грани блока, на которую вы смотрите, до игрока. Он может быть горизонтальным или вертикальным, в зависимости от грани блока, на который вы смотрите.$(br2)Настройка диапазона игнорируется в этом режиме.$(br2)При переключении «поместить сверху» будет располагаться голова игрока, а не ноги."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Построй для меня",
+      "images": [
+        "buildinggadgets2:textures/book/images/ghost_render.png"
+      ],
+      "border": true,
+      "text": "Здание для игрока"
+    }
+  ]
+}

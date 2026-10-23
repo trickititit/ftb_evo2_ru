@@ -1,0 +1,18 @@
+{
+  "itemGroup.scannable.common": "Сканируемый перекованный",
+  "item.scannable.chest_module": "Модуль сканера: Сундуки",
+  "item.scannable.chest_module.desc": "Обнаруживает блоки хранения (например, сундуки, бочки, шалкеровые ящики).",
+  "item.scannable.spawner_module": "Модуль сканера: Создатели",
+  "item.scannable.spawner_module.desc": "По умолчанию обнаруживает все спавнеры.\nФильтрация осуществляется щелчком правой кнопкой мыши по спавнеру или мобу.\nЩелкните правой кнопкой мыши по воздуху, чтобы настроить, или используйте яйца.",
+  "item.scannable.spawner_module.list": "Настроенные спавнеры:",
+  "item.scannable.lootr_module": "Модуль сканера: Lootr",
+  "item.scannable.lootr_module.desc": "Обнаруживает неоткрытую добычу Lootr.\nСкрывает каждый контейнер после того, как вы его обыщите.",
+  "item.scannable.lootr_module.required": "Требуется мод Lootr",
+  "tooltip.scannable.list_item": "§7- §f%s§r",
+  "gui.scannable.block_module.list": "Блоки",
+  "gui.scannable.entity_module.list": "Сущности",
+  "gui.scannable.spawner_module.list": "Создатели",
+  "gui.scannable.overlay.distance": "%s (%s мин)",
+  "gui.scannable.overlay.spawner": "%s Создатель",
+  "message.scannable.no_free_slots": "Нет свободных слотов."
+}

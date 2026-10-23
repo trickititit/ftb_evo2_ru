@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Слиток",
+  "sortnum": 3,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:blazegold_ingot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Blazegold Слитки получаются при выплавке Сырца Blazegold, собранного из $(l:justdirethings:res_blazegold_raw)Сырых Blazegold блоков$(/l). Эти слитки необходимы для создания предметов, наделенных магическими свойствами."
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Плавка сырья Blazegold",
+      "recipe": "justdirethings:blazegold_ingot_smelted"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Ранчер Би",
+  "icon": "minecraft:milk_bucket",
+  "read_by_default": true,
+  "sortnum": 2,
+  "category": "productivebees:bees_worker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ранчер Би",
+      "text": "Будет доить ближайших коров, овец или лам, чтобы создать в своем улье молочные соты. Овец также будут стричь.$(br2)Многие коровы пострадали при изготовлении этой пчелы."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "productivebees:rancher_bee"
+    }
+  ]
+}

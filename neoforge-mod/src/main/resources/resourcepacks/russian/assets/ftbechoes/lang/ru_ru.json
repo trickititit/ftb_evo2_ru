@@ -1,0 +1,10 @@
+{
+  "ftbechoes.commands.unknown_page": "Неизвестная страница: %s",
+  "ftbechoes.gui.select_echo": "Выберите Эхо",
+  "ftbechoes.gui.stock_limit.player": "Лимит на игрока",
+  "ftbechoes.gui.stock_limit.team": "Лимит на команду",
+  "ftbechoes.gui.stock_remaining": "Остаток на складе: %s/%s",
+  "ftbechoes.gui.stop_audio": "Остановить текущий аудиоклип",
+  "ftbechoes.message.hold_alt_to_stop_sound": "Удерживайте [Alt] в течение 2 секунд, чтобы остановить звук.",
+  "ftbechoes.message.progress_edited": "Прогресс эха для команды «%s» был отредактирован через графический интерфейс."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Нагрудник",
+  "sortnum": 2,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:ferricore_chestplate",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Нагрудник Ferricore, обеспечивающий надежную защиту, способен выдержать больше, чем стандартная железная броня. Он также имеет право на специальные обновления, повышающие его защитные возможности."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ferricore Изготовление нагрудника",
+      "recipe": "justdirethings:ferricore_chestplate"
+    }
+  ]
+}

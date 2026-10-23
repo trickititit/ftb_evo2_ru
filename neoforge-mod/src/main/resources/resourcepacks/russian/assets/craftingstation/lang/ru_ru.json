@@ -1,0 +1,7 @@
+{
+  "block.craftingstation.crafting_station": "Ремесленная станция",
+  "block.craftingstation.crafting_station_slab": "Плита станции крафта",
+  "title.crafting_station": "Ремесленная станция",
+  "text.craftingstation.error": "Обнаружен плохой рецепт %s, подробности смотрите в журнале",
+  "text.craftingstation.clear": "Очистить сетку крафта"
+}

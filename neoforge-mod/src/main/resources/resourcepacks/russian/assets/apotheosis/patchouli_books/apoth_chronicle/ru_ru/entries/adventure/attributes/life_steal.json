@@ -1,0 +1,13 @@
+{
+  "name": "Вампиризм",
+  "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ваш $(9)Похищение жизни$() — это процент нанесенного вами физического урона, который добавляется непосредственно к вашему здоровью.$(p)Как правило, только оружие обеспечивает этот показатель."
+    }
+  ]
+}

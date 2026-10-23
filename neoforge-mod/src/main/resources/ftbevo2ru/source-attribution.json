@@ -1,0 +1,4230 @@
+[
+  {
+    "jar": "adrenaline-26.1.2-1.0.2.jar",
+    "namespaces": [
+      "adrenaline"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Adrenaline",
+        "authors": "benbenlaw"
+      }
+    ]
+  },
+  {
+    "jar": "AdvancedAE-26.1.7.jar",
+    "namespaces": [
+      "advanced_ae",
+      "ae2"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Advanced AE",
+        "authors": "Pedroksl"
+      }
+    ]
+  },
+  {
+    "jar": "AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar",
+    "namespaces": [
+      "aci"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "AdvancedCoreInfo",
+        "authors": "Yanny"
+      }
+    ]
+  },
+  {
+    "jar": "AdvancedLootInfo-neoforge-26.1.2-2.5.0.jar",
+    "namespaces": [
+      "ali"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "AdvancedLootInfo",
+        "authors": "Yanny"
+      }
+    ]
+  },
+  {
+    "jar": "ae2importexportcard-26.1.2-2.3.1.jar",
+    "namespaces": [
+      "ae2",
+      "ae2importexportcard"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "AE2 Import Export Card",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "namespaces": [
+      "ae2",
+      "ae2netanalyser"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "AE2NetworkAnalyzer",
+        "authors": "GlodBlock"
+      }
+    ]
+  },
+  {
+    "jar": "ae2wtlib-26.1.2-beta.jar",
+    "namespaces": [
+      "ae2",
+      "ae2wtlib"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "AE2WTLib",
+        "authors": "mari_023, Ridanisaurus"
+      }
+    ]
+  },
+  {
+    "jar": "agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar",
+    "namespaces": [
+      "agritechevolved"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Agritech: Evolved",
+        "authors": "MisterD Modding"
+      }
+    ]
+  },
+  {
+    "jar": "Anima-1.0.3+Neoforge-26.1.2.jar",
+    "namespaces": [
+      "anima"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Anima",
+        "authors": "TechnoVision"
+      }
+    ]
+  },
+  {
+    "jar": "animal_pen-neoforge-26.1-2.5.1.jar",
+    "namespaces": [
+      "animal_pen"
+    ],
+    "license": "GNU GPL 3.0",
+    "mods": [
+      {
+        "name": "Animal Pen",
+        "authors": "BONNe"
+      }
+    ]
+  },
+  {
+    "jar": "animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
+    "namespaces": [
+      "animalgarden_alligatorgar"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Animal Garden - Alligator Gar",
+        "authors": "aquarius_playz"
+      }
+    ]
+  },
+  {
+    "jar": "animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
+    "namespaces": [
+      "animalgarden_bullshark"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Animal Garden - Bull Shark",
+        "authors": "aquarius_playz"
+      }
+    ]
+  },
+  {
+    "jar": "animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
+    "namespaces": [
+      "animalgarden_crocodile"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Animal Garden - Crocodile",
+        "authors": "aquarius_playz"
+      }
+    ]
+  },
+  {
+    "jar": "animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
+    "namespaces": [
+      "animalgarden_seaotter"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Animal Garden - Sea Otter",
+        "authors": "aquarius_playz"
+      }
+    ]
+  },
+  {
+    "jar": "animusnv-26.1.2-5.2.19.jar",
+    "namespaces": [
+      "animusnv"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Animus: NeoVitae",
+        "authors": "TeamDman, Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "another_config_manager-1.0.0.0.0-neoforge-26.1.2.jar",
+    "namespaces": [
+      "another_config_manager"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Another Config Manager",
+        "authors": "Unfamily, Iskandert"
+      }
+    ]
+  },
+  {
+    "jar": "Apotheosis-26.1.2-9.1.0.jar",
+    "namespaces": [
+      "apotheosis"
+    ],
+    "license": "MIT License (code) / All Rights Reserved (assets)",
+    "mods": [
+      {
+        "name": "Apotheosis",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "apothic_compats-0.3.1.jar",
+    "namespaces": [
+      "apotheosis",
+      "apothic_compats"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Apothic Compats",
+        "authors": "ianm1647"
+      }
+    ]
+  },
+  {
+    "jar": "ApothicAttributes-26.1.2-3.1.0.jar",
+    "namespaces": [
+      "apothic_attributes"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Apothic Attributes",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "ApothicEnchanting-26.1.2-2.1.0.jar",
+    "namespaces": [
+      "apothic_enchanting"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Apothic Enchanting",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "ApothicSpawners-26.1.2-2.0.1.jar",
+    "namespaces": [
+      "apothic_spawners"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Apothic Spawners",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "appleskin-neoforge-mc26.1-3.0.9.jar",
+    "namespaces": [
+      "appleskin"
+    ],
+    "license": "The Unlicense",
+    "mods": [
+      {
+        "name": "AppleSkin",
+        "authors": "squeek"
+      }
+    ]
+  },
+  {
+    "jar": "applied_oritech-1.0.4+26.1.2.jar",
+    "namespaces": [
+      "applied_oritech"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Applied Oritech",
+        "authors": "Jiu_Qianqi"
+      }
+    ]
+  },
+  {
+    "jar": "appliedcooking-7.2.0.jar",
+    "namespaces": [
+      "appliedcooking"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Applied Cooking",
+        "authors": "ItsSebastrn"
+      }
+    ]
+  },
+  {
+    "jar": "appliedenergistics2-26.1.13-beta.jar",
+    "namespaces": [
+      "ae2"
+    ],
+    "license": "See GitHub repository for details",
+    "mods": [
+      {
+        "name": "Applied Energistics 2",
+        "authors": "Team AppliedEnergistics"
+      }
+    ]
+  },
+  {
+    "jar": "AppliedFlux-26.1-1.0.2-neoforge.jar",
+    "namespaces": [
+      "ae2",
+      "appflux"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "AppliedFlux",
+        "authors": "GlodBlock"
+      }
+    ]
+  },
+  {
+    "jar": "aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
+    "namespaces": [
+      "aquarius_libs"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Aquarius Libs",
+        "authors": "aquarius_playz"
+      }
+    ]
+  },
+  {
+    "jar": "architectural-building-wand-1.3.jar",
+    "namespaces": [
+      "architectural_building_wand"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Architectural Building Wand",
+        "authors": "in2bubble"
+      }
+    ]
+  },
+  {
+    "jar": "armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+    "namespaces": [
+      "armor_cosmetic"
+    ],
+    "license": "MMPL-1.0.1",
+    "mods": [
+      {
+        "name": "Armor Cosmetic",
+        "authors": "skd"
+      }
+    ]
+  },
+  {
+    "jar": "ArmorPoser-neoforge-26.1.2-14.1.0.jar",
+    "namespaces": [
+      "armorposer"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Armor Poser",
+        "authors": "Mrbysco, ShyNieke"
+      }
+    ]
+  },
+  {
+    "jar": "arsmagicalegacy-26.1.2-1.7.0.jar",
+    "namespaces": [
+      "arsmagicalegacy"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Ars Magica: Legacy",
+        "authors": "Minecraftschurli, IchHabeHunger54"
+      }
+    ]
+  },
+  {
+    "jar": "artifacts-neoforge-15.1.3.jar",
+    "namespaces": [
+      "artifacts"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Artifacts",
+        "authors": "Wouter"
+      }
+    ]
+  },
+  {
+    "jar": "auroral-26.1.2-1.5.9.jar",
+    "namespaces": [
+      "auroral"
+    ],
+    "license": "PolyForm-Shield-1.0.0 AND PolyForm-Perimeter-1.0.0",
+    "mods": [
+      {
+        "name": "Auroral",
+        "authors": "Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "authme-neoforge-9.2.1+26.1.jar",
+    "namespaces": [
+      "authme"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Auth Me",
+        "authors": "axieum"
+      }
+    ]
+  },
+  {
+    "jar": "baguettelib-26.1.2-NeoForge-2.0.7.jar",
+    "namespaces": [
+      "baguettelib"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "BaguetteLib",
+        "authors": "Leclowndu93150"
+      }
+    ]
+  },
+  {
+    "jar": "balm-neoforge-26.1.2-26.1.2.15.jar",
+    "namespaces": [
+      "balm"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Balm",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "baubley-heart-canisters-26.1.2-1.7.3.jar",
+    "namespaces": [
+      "bhc"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Baubley Heart Canisters",
+        "authors": "Traverse_Joe"
+      }
+    ]
+  },
+  {
+    "jar": "beer-26.1.2-1.4.4.jar",
+    "namespaces": [
+      "beer"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "BEER",
+        "authors": "TheonlyTazz, BreakingBlocks"
+      }
+    ]
+  },
+  {
+    "jar": "belts-neoforge-2.0.0-exp1.jar",
+    "namespaces": [
+      "belts"
+    ],
+    "license": "Insert License Here",
+    "mods": [
+      {
+        "name": "Simple Belts",
+        "authors": "Me!"
+      }
+    ]
+  },
+  {
+    "jar": "better-advanced-tooltips-2601.1.0-build.11.jar",
+    "namespaces": [
+      "betteradvancedtooltips"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Better Advanced Tooltips",
+        "authors": "latvian.dev"
+      }
+    ]
+  },
+  {
+    "jar": "BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
+    "namespaces": [
+      "betteradvancements"
+    ],
+    "license": "\"Don't Be a Jerk\" non-commercial care-free license",
+    "mods": [
+      {
+        "name": "Better Advancements",
+        "authors": "way2muchnoise"
+      }
+    ]
+  },
+  {
+    "jar": "betterblockz-0.3.3-26.1.2-neoforge.jar",
+    "namespaces": [
+      "betterblockz"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "BetterBlockZ",
+        "authors": "riciJak"
+      }
+    ]
+  },
+  {
+    "jar": "betterfishtanks-1.3.0-26.1-NeoForge.jar",
+    "namespaces": [
+      "betterfishtanks"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Better Fishtanks",
+        "authors": "MINT_Gaming_Studios"
+      }
+    ]
+  },
+  {
+    "jar": "BHMenu-NeoForge-26.1-2.4.4.jar",
+    "namespaces": [
+      "bhmenu"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "BHMenu",
+        "authors": "BisectHosting"
+      }
+    ]
+  },
+  {
+    "jar": "BridgingMod-2.6.6+26.1.neoforge-release.jar",
+    "namespaces": [
+      "bridgingmod"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Bridging Mod",
+        "authors": "CG360"
+      }
+    ]
+  },
+  {
+    "jar": "BuildGuide-26.1.2-0.4.9.jar",
+    "namespaces": [
+      "buildguide"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
+    "mods": [
+      {
+        "name": "Build Guide",
+        "authors": "brentmaas"
+      }
+    ]
+  },
+  {
+    "jar": "buildinggadgets2-1.4.6.jar",
+    "namespaces": [
+      "buildinggadgets2"
+    ],
+    "license": "MIT (https://github.com/Direwolf20-MC/BuildingGadgets2/blob/main/LICENSE)",
+    "mods": [
+      {
+        "name": "Building Gadgets 2",
+        "authors": "Direwolf20"
+      }
+    ]
+  },
+  {
+    "jar": "cable_facades-26.1.2-NeoForge-2.1.4.jar",
+    "namespaces": [
+      "cable_facades"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "Cable Facades",
+        "authors": "Leclowndu93150, Thepigcat76, SuperMartijn642, Heather White, IMS212"
+      }
+    ]
+  },
+  {
+    "jar": "cabletiers-neoforge-26.1.2-1.0.3.jar",
+    "namespaces": [
+      "cabletiers"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Cable Tiers",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "cakesticklib-1.17.5-hotfix-1.jar",
+    "namespaces": [
+      "cakesticklib"
+    ],
+    "license": "Ora Et Labora License",
+    "mods": [
+      {
+        "name": "CakeStickLib",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "carryon-neoforge-26.1.2-2.10.0.jar",
+    "namespaces": [
+      "carryon"
+    ],
+    "license": "GNU LGPLv3",
+    "mods": [
+      {
+        "name": "Carry On",
+        "authors": "Tschipp, PurpliciousCow"
+      }
+    ]
+  },
+  {
+    "jar": "carryonextend-architectury-neoforge-26.1.2-1.5.1.jar",
+    "namespaces": [
+      "carryonextend"
+    ],
+    "license": "GNU GPL 3.0",
+    "mods": [
+      {
+        "name": "CarryOnExtend",
+        "authors": "LirxOwO"
+      }
+    ]
+  },
+  {
+    "jar": "cc-tweaked-26.1.2-forge-1.120.0.jar",
+    "namespaces": [
+      "computercraft"
+    ],
+    "license": "ComputerCraft Public License (https://raw.githubusercontent.com/dan200/ComputerCraft/master/LICENSE)",
+    "mods": [
+      {
+        "name": "CC: Tweaked",
+        "authors": "Daniel Ratcliffe, Aaron Mills, SquidDev"
+      }
+    ]
+  },
+  {
+    "jar": "cloth-config-26.1.154.jar",
+    "namespaces": [
+      "cloth-config2"
+    ],
+    "license": "GNU LGPLv3",
+    "mods": [
+      {
+        "name": "Cloth Config v26.1 API",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.jar",
+    "namespaces": [
+      "collapsible_groups"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Collapsible Groups",
+        "authors": "StarskyXIII"
+      }
+    ]
+  },
+  {
+    "jar": "collective-26.1.2-8.32.jar",
+    "namespaces": [
+      "collective"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Collective",
+        "authors": "Rick South"
+      }
+    ]
+  },
+  {
+    "jar": "colorblindness-neoforge-26.1-5.0.0.2.jar",
+    "namespaces": [
+      "colorblindness"
+    ],
+    "license": "The MIT License (MIT)",
+    "mods": [
+      {
+        "name": "Color Blindness",
+        "authors": "Cech12"
+      }
+    ]
+  },
+  {
+    "jar": "colossal_reactors-2.4.1.0.0-neoforge-26.1.2.jar",
+    "namespaces": [
+      "colossal_reactors"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Colossal Reactors",
+        "authors": "Unfamily, Iskandert"
+      }
+    ]
+  },
+  {
+    "jar": "combat_roll-neoforge-3.0.1+26.1.2.jar",
+    "namespaces": [
+      "combat_roll"
+    ],
+    "license": "GPL-3.0",
+    "mods": [
+      {
+        "name": "Combat Roll",
+        "authors": "Daedelus"
+      }
+    ]
+  },
+  {
+    "jar": "comforts-neoforge-15.0.0+26.1.2.jar",
+    "namespaces": [
+      "comforts"
+    ],
+    "license": "LGPL-3.0-or-later",
+    "mods": [
+      {
+        "name": "Comforts",
+        "authors": "Illusive Soulworks"
+      }
+    ]
+  },
+  {
+    "jar": "commoncapabilities-26.1.2-neoforge-2.11.8.jar",
+    "namespaces": [
+      "commoncapabilities"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "CommonCapabilities",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "compressium-26.1.2.1.jar",
+    "namespaces": [
+      "compressium"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Compressium",
+        "authors": "DinnerBeef"
+      }
+    ]
+  },
+  {
+    "jar": "configured-neoforge-26.1.2-2.7.5.jar",
+    "namespaces": [
+      "configured"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "Configured",
+        "authors": "MrCrayfish"
+      }
+    ]
+  },
+  {
+    "jar": "connectedglass-1.1.14-neoforge-mc26.1.jar",
+    "namespaces": [
+      "connectedglass"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Connected Glass",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "ConnectedTextures-13.0.0.jar",
+    "namespaces": [
+      "contex"
+    ],
+    "license": "LGPL v3",
+    "mods": [
+      {
+        "name": "ConTex",
+        "authors": "XFactHD"
+      }
+    ]
+  },
+  {
+    "jar": "ConstructionSticks-26.1.2-3.2.1.jar",
+    "namespaces": [
+      "constructionstick"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Construction Sticks",
+        "authors": "Mrbysco, ShyNieke"
+      }
+    ]
+  },
+  {
+    "jar": "Controlling-neoforge-26.1.2-26.1.2.7.jar",
+    "namespaces": [
+      "controlling"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Controlling",
+        "authors": "Jaredlll08"
+      }
+    ]
+  },
+  {
+    "jar": "cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+    "namespaces": [
+      "cookingforblockheads"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Cooking for Blockheads",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "crafting_on_a_stick-neoforge-26.1-1.1.jar",
+    "namespaces": [
+      "crafting_on_a_stick"
+    ],
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "mods": [
+      {
+        "name": "Crafting on a Stick",
+        "authors": "OfekN"
+      }
+    ]
+  },
+  {
+    "jar": "craftingstationjei-26.1.1-NeoForge-2.2.0.jar",
+    "namespaces": [
+      "craftingstation"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Crafting Station",
+        "authors": "Leclowndu93150"
+      }
+    ]
+  },
+  {
+    "jar": "craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+    "namespaces": [
+      "craftingtweaks"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Crafting Tweaks",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "crashutilities-10.0.1.jar",
+    "namespaces": [
+      "crashutilities"
+    ],
+    "license": "MIT LICENSE",
+    "mods": [
+      {
+        "name": "Crash Utilities",
+        "authors": "Darkere"
+      }
+    ]
+  },
+  {
+    "jar": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+    "namespaces": [
+      "creativecore"
+    ],
+    "license": "LGPL-3.0-only",
+    "mods": [
+      {
+        "name": "CreativeCore",
+        "authors": "CreativeMD"
+      }
+    ]
+  },
+  {
+    "jar": "crystalix-4.1.0+26.1.2.jar",
+    "namespaces": [
+      "crystalix"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "Crystalix",
+        "authors": "Satherov"
+      }
+    ]
+  },
+  {
+    "jar": "Cucumber-26.1.2-9.0.6.jar",
+    "namespaces": [
+      "cucumber"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Cucumber Library",
+        "authors": "BlakeBr0"
+      }
+    ]
+  },
+  {
+    "jar": "curios-neoforge-15.0.0+26.1.2.jar",
+    "namespaces": [
+      "curios"
+    ],
+    "license": "LGPL-3.0-or-later",
+    "mods": [
+      {
+        "name": "Curios API",
+        "authors": "C4"
+      }
+    ]
+  },
+  {
+    "jar": "cyclopscore-26.1.2-neoforge-1.31.3.jar",
+    "namespaces": [
+      "cyclopscore"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Cyclops Core",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "dankstorage-neoforge-26.1.2-1.jar",
+    "namespaces": [
+      "dankstorage"
+    ],
+    "license": "CC0-1.0",
+    "mods": [
+      {
+        "name": "Dank Storage",
+        "authors": "Tfarcenim"
+      }
+    ]
+  },
+  {
+    "jar": "Decorativewoodenlattices 26.1.2 - v1.0 - NeoForge.jar",
+    "namespaces": [
+      "decorativewoodenlattices"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Decorative wooden lattices",
+        "authors": "Alexander8VKHZ"
+      }
+    ]
+  },
+  {
+    "jar": "decorz-0.1.1-26.1.2-neoforge.jar",
+    "namespaces": [
+      "decorz"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "BetterBlockZ: DecorZ",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "dimenergy-26.1.2-1.0.1.jar",
+    "namespaces": [
+      "dimenergy"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Dim Energy",
+        "authors": "benbenlaw"
+      }
+    ]
+  },
+  {
+    "jar": "dimresources-26.1.2-1.0.10.jar",
+    "namespaces": [
+      "dimresources"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Dimensional Resources",
+        "authors": "benbenlaw"
+      }
+    ]
+  },
+  {
+    "jar": "DimStorage-26.1.2-10.0.1.jar",
+    "namespaces": [
+      "dimstorage"
+    ],
+    "license": "GNU AGPLv3",
+    "mods": [
+      {
+        "name": "DimStorage",
+        "authors": "Edivad99"
+      }
+    ]
+  },
+  {
+    "jar": "directorscamera-26.1.2-1.0.1.jar",
+    "namespaces": [
+      "directorscamera"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Director's Camera",
+        "authors": "Breakin Blocks"
+      }
+    ]
+  },
+  {
+    "jar": "DnT-ancient-city-overhaul-3.3 [NeoForge].jar",
+    "namespaces": [
+      "dnt"
+    ],
+    "license": "LicenseRef-All-Rights-Reserved",
+    "mods": [
+      {
+        "name": "Dungeons and Taverns Ancient City Overhaul",
+        "authors": "NovaWostra, Konci, MiziraGamez"
+      }
+    ]
+  },
+  {
+    "jar": "drones-neoforge-26.1.2-1.3.2.jar",
+    "namespaces": [
+      "drones",
+      "oracle_index"
+    ],
+    "license": "CC-BY-4.0",
+    "mods": [
+      {
+        "name": "Modular Drones",
+        "authors": "KesslerCascade, rearth"
+      }
+    ]
+  },
+  {
+    "jar": "easy-piglins-neoforge-1.1.7+26.1.2.jar",
+    "namespaces": [
+      "easy_piglins"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Easy Piglins",
+        "authors": "Max Henkel"
+      }
+    ]
+  },
+  {
+    "jar": "easy-villagers-neoforge-1.1.42+26.1.2.jar",
+    "namespaces": [
+      "easy_villagers"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Easy Villagers",
+        "authors": "Max Henkel"
+      }
+    ]
+  },
+  {
+    "jar": "easy_npc-neoforge-26.1.2-7.16.0.jar",
+    "namespaces": [
+      "easy_npc",
+      "easy_npc_example"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Easy NPC",
+        "authors": "Markus Bordihn"
+      }
+    ]
+  },
+  {
+    "jar": "eccentrictome-1.2.1.jar",
+    "namespaces": [
+      "eccentrictome"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Eccentric Tome",
+        "authors": "EccentricVamp, Thepigcat76"
+      }
+    ]
+  },
+  {
+    "jar": "EclipseUI-neoforge-1.0.4+mc26.1.jar",
+    "namespaces": [
+      "eclipseui"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "EclipseUI",
+        "authors": "coredex-source"
+      }
+    ]
+  },
+  {
+    "jar": "elevatorid-neoforge-26.1-1.16.2.jar",
+    "namespaces": [
+      "elevatorid"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "ElevatorMod",
+        "authors": "VsnGamer"
+      }
+    ]
+  },
+  {
+    "jar": "Emojiful-Neoforge-26.1.2-5.3.2.jar",
+    "namespaces": [
+      "emojiful"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Emojiful",
+        "authors": "HRZN"
+      }
+    ]
+  },
+  {
+    "jar": "EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
+    "namespaces": [
+      "enchdesc"
+    ],
+    "license": "LGPL 2.1",
+    "mods": [
+      {
+        "name": "EnchantmentDescriptions",
+        "authors": "Darkhax"
+      }
+    ]
+  },
+  {
+    "jar": "enderio-9.0.6-alpha.jar",
+    "namespaces": [
+      "enderio"
+    ],
+    "license": "CC0",
+    "mods": [
+      {
+        "name": "Ender IO",
+        "authors": "CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid, Rover656, HypherionSA, liliandev, Ferri_Arnus, dphaldes"
+      }
+    ]
+  },
+  {
+    "jar": "enderio_evolution-4.0.1-NeoForge-26.1.2.jar",
+    "namespaces": [
+      "enderio_evolution"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Ender IO:Evolution",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "energizedpower-3.0.1+26.1.x-neoforge.jar",
+    "namespaces": [
+      "energizedpower"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Energized Power",
+        "authors": "JDDev0"
+      }
+    ]
+  },
+  {
+    "jar": "energymeter-neoforge-26.1.2-0.5.1.jar",
+    "namespaces": [
+      "energymeter"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Energy Meter",
+        "authors": "Almost Reliable"
+      }
+    ]
+  },
+  {
+    "jar": "entangled-1.3.21-neoforge-mc26.1.jar",
+    "namespaces": [
+      "entangled"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Entangled",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "entityculling-neoforge-1.11.3-mc26.1.2.jar",
+    "namespaces": [
+      "entityculling"
+    ],
+    "license": "tr7zw Protective License",
+    "mods": [
+      {
+        "name": "EntityCulling",
+        "authors": "tr7zw"
+      }
+    ]
+  },
+  {
+    "jar": "EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+    "namespaces": [
+      "euphoria_patcher"
+    ],
+    "license": "MPL-2.0",
+    "mods": [
+      {
+        "name": "Euphoria Patcher",
+        "authors": "SpacEagle17"
+      }
+    ]
+  },
+  {
+    "jar": "evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "namespaces": [
+      "evilcraft",
+      "evilcraftcompat"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "EvilCraft",
+        "authors": "Not declared"
+      },
+      {
+        "name": "EvilCraft-Compat",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "ExplorersCompass-26.1-3.3.0-neoforge.jar",
+    "namespaces": [
+      "explorerscompass"
+    ],
+    "license": "CC BY-NC-SA 4.0",
+    "mods": [
+      {
+        "name": "Explorer's Compass",
+        "authors": "ChaosTheDude"
+      }
+    ]
+  },
+  {
+    "jar": "ExtendedAE-26.1-1.0.4-neoforge.jar",
+    "namespaces": [
+      "ae2",
+      "extendedae"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "ExtendedAE",
+        "authors": "GlodBlock"
+      }
+    ]
+  },
+  {
+    "jar": "ExtraStorage-26.1.2-6.0.0.jar",
+    "namespaces": [
+      "extrastorage"
+    ],
+    "license": "GNU AGPLv3",
+    "mods": [
+      {
+        "name": "ExtraStorage",
+        "authors": "Edivad99"
+      }
+    ]
+  },
+  {
+    "jar": "ExtremeSoundMuffler-4.04_NeoForge-26.1.jar",
+    "namespaces": [
+      "extremesoundmuffler"
+    ],
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+    "mods": [
+      {
+        "name": "Extreme Sound Muffler",
+        "authors": "LeoBeliik"
+      }
+    ]
+  },
+  {
+    "jar": "fancymenu_neoforge_3.9.14_MC_26.1.2.jar",
+    "namespaces": [
+      "fancymenu"
+    ],
+    "license": "DSMSLv3.1 (DON'T SNATCH MA STUFF LICENSE v3.1)",
+    "mods": [
+      {
+        "name": "FancyMenu",
+        "authors": "Keksuccino"
+      }
+    ]
+  },
+  {
+    "jar": "fancytabsections-6.2-NEOFORGE-26.1.2.jar",
+    "namespaces": [
+      "fancytabsections"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Fancy Tab Sections",
+        "authors": "wdiscute, Kaupenjoe, nanoattack, NicciCage, SockyWocky7"
+      }
+    ]
+  },
+  {
+    "jar": "farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+    "namespaces": [
+      "farmingforblockheads"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Farming for Blockheads",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "FastWorkbench-26.1.2-10.0.0.jar",
+    "namespaces": [
+      "fastbench"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Fast Workbench",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "fertilization-neoforge-26.1.2-26.1.2.3.jar",
+    "namespaces": [
+      "fertilization"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Fertilization",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "flopper-26.1.2-neoforge-1.1.9.jar",
+    "namespaces": [
+      "flopper"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Flopper",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
+    "namespaces": [
+      "forgeendertech"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "ForgeEndertech",
+        "authors": "EnderLanky"
+      }
+    ]
+  },
+  {
+    "jar": "FramedBlocks-11.4.0.jar",
+    "namespaces": [
+      "framedblocks"
+    ],
+    "license": "LGPL v3",
+    "mods": [
+      {
+        "name": "FramedBlocks",
+        "authors": "XFactHD"
+      }
+    ]
+  },
+  {
+    "jar": "framework-neoforge-26.1.2-0.13.23.jar",
+    "namespaces": [
+      "framework"
+    ],
+    "license": "LGPLv2.1",
+    "mods": [
+      {
+        "name": "Framework",
+        "authors": "MrCrayfish"
+      }
+    ]
+  },
+  {
+    "jar": "frostbear-neoforge-26.1.2-2.0.0.jar",
+    "namespaces": [
+      "frostbear"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "FrostBear",
+        "authors": "Fatin Ishraq"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-armory-26.1.2.8.jar",
+    "namespaces": [
+      "ftbarmory",
+      "ironfurnaces",
+      "oritech"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Armory",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-auxilium-neoforge-26.1.2.2.jar",
+    "namespaces": [
+      "ftbauxilium"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Auxilium",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-backups-3-26.1.2.2.jar",
+    "namespaces": [
+      "ftbbackups3"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Backups 3",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-chunks-neoforge-26.1.2.8.jar",
+    "namespaces": [
+      "ae2",
+      "ftbchunks",
+      "integrateddynamics",
+      "mininggadgets"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Chunks",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-echoes-26.1.2.1.jar",
+    "namespaces": [
+      "ftbechoes"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Echoes",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-essentials-neoforge-26.1.2.5.jar",
+    "namespaces": [
+      "ftbessentials"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Essentials",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-evolution-companion-26.1.2.22.jar",
+    "namespaces": [
+      "ftb",
+      "ftbevolutioncompanion"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Evolution 2 Companion",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-industrial-contraptions-26.1.2.18.jar",
+    "namespaces": [
+      "ftbic"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Industrial Contraptions",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-library-neoforge-26.1.2.9.jar",
+    "namespaces": [
+      "ftblibrary"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Library",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-materials-26.1.2.6.jar",
+    "namespaces": [
+      "ftbmaterials"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Materials",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-pack-companion-26.1.2.5.jar",
+    "namespaces": [
+      "ftbpc"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Pack Companion",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-quests-neoforge-26.1.2.9.jar",
+    "namespaces": [
+      "ftbquests"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Quests",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-teams-neoforge-26.1.2.4.jar",
+    "namespaces": [
+      "ftbteams"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Teams",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-ultimine-neoforge-26.1.2.6.jar",
+    "namespaces": [
+      "ftbultimine"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Ultimine",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftboceanmobs-26.1.2.1.jar",
+    "namespaces": [
+      "ftblibrary"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Ocean Mobs",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftbpromoter-26.1.2.1.jar",
+    "namespaces": [
+      "ftbpromoter"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "FTB Promoter",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "functionalstorage-26.1.2-1.6.4.jar",
+    "namespaces": [
+      "functionalstorage"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Functional Storage",
+        "authors": "Buuz135, Rid"
+      }
+    ]
+  },
+  {
+    "jar": "fusion-1.3.16-neoforge-mc26.1.jar",
+    "namespaces": [
+      "fusion"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Fusion",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "fzzy_config-0.7.7+26.1+neoforge.jar",
+    "namespaces": [
+      "fzzy_config"
+    ],
+    "license": "TDL-M (https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified)",
+    "mods": [
+      {
+        "name": "Fzzy Config",
+        "authors": "fzzyhmstrs"
+      }
+    ]
+  },
+  {
+    "jar": "GatewaysToEternity-26.1.2-6.0.2.jar",
+    "namespaces": [
+      "gateways"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Gateways To Eternity",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "GeOre-26.1.2-8.1.0.jar",
+    "namespaces": [
+      "geore"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "GeOre",
+        "authors": "ShyNieke, Mrbysco"
+      }
+    ]
+  },
+  {
+    "jar": "getittogetherdrops-neoforge-26.1.1-1.5.jar",
+    "namespaces": [
+      "getittogetherdrops"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Get It Together, Drops!",
+        "authors": "bl4ckscor3"
+      }
+    ]
+  },
+  {
+    "jar": "Glassential-renewed-26.1.2-5.0.2.jar",
+    "namespaces": [
+      "glassential"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Glassential-renewed",
+        "authors": "Big_Energy"
+      }
+    ]
+  },
+  {
+    "jar": "goblintraders-neoforge-26.1.2-1.12.0.jar",
+    "namespaces": [
+      "goblintraders"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Goblin Traders",
+        "authors": "MrCrayfish"
+      }
+    ]
+  },
+  {
+    "jar": "graveless-neoforge-26.1.2-1.4.3.jar",
+    "namespaces": [
+      "graveless"
+    ],
+    "license": "PolyForm-Shield-1.0.0 AND PolyForm-Perimeter-1.0.0",
+    "mods": [
+      {
+        "name": "Graveless",
+        "authors": "BreakInBlocks"
+      }
+    ]
+  },
+  {
+    "jar": "growthacceleratortiers-2.0.0+26.1.2.jar",
+    "namespaces": [
+      "growthacceleratortiers"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "Growth Accelerator Tiers",
+        "authors": "Satherov"
+      }
+    ]
+  },
+  {
+    "jar": "guideme-26.1.15-beta.jar",
+    "namespaces": [
+      "guideme"
+    ],
+    "license": "See GitHub repository for details",
+    "mods": [
+      {
+        "name": "GuideME",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "hatsneoforge-26.1-1.2.0.jar",
+    "namespaces": [
+      "hats"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Hats",
+        "authors": "Astryxion"
+      }
+    ]
+  },
+  {
+    "jar": "hephaestus-neoforge-26.1.2-1.0.16.jar",
+    "namespaces": [
+      "hephaestus"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Hephaestus Forge",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.8.jar",
+    "namespaces": [
+      "hephaestus_tools"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Hephaestus Tools",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "HoloSigns-26.1-4.0.0.jar",
+    "namespaces": [
+      "holosigns"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "HoloSigns",
+        "authors": "Mrbysco, ShyNieke"
+      }
+    ]
+  },
+  {
+    "jar": "horsepowered-26.1.2-3.11.5.jar",
+    "namespaces": [
+      "horsepowered"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Horse Powered",
+        "authors": "BreakInBlocks"
+      }
+    ]
+  },
+  {
+    "jar": "HorsingAround-26.1.2-0.3.5.jar",
+    "namespaces": [
+      "horsingaround"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Horsing Around",
+        "authors": "Mrbysco, ShyNieke"
+      }
+    ]
+  },
+  {
+    "jar": "HostileNeuralNetworks-26.1.2-7.0.0.jar",
+    "namespaces": [
+      "hostilenetworks"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Hostile Neural Networks",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "huge-structure-blocks-neoforge-1.1.9.jar",
+    "namespaces": [
+      "hugestructureblocks"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Huge Structure Blocks",
+        "authors": "SamB440"
+      }
+    ]
+  },
+  {
+    "jar": "iceandfire-2.2-beta.4.jar",
+    "namespaces": [
+      "iceandfire"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Ice And Fire Community Edition",
+        "authors": "IAFEnvoy, xiaowu, uoay"
+      }
+    ]
+  },
+  {
+    "jar": "imfast-NEOFORGE-26.1.2-1.0.3.jar",
+    "namespaces": [
+      "imfast"
+    ],
+    "license": "GNU LGPL 3.0",
+    "mods": [
+      {
+        "name": "imfast",
+        "authors": "Bielhiss"
+      }
+    ]
+  },
+  {
+    "jar": "infinitystorage-26.1.2-2.0.2.jar",
+    "namespaces": [
+      "infinitystorage"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Infinity Storage",
+        "authors": "benbenlaw"
+      }
+    ]
+  },
+  {
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.1.jar",
+    "namespaces": [
+      "integrateddynamics",
+      "integrateddynamicscompat"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "IntegratedDynamics",
+        "authors": "Not declared"
+      },
+      {
+        "name": "IntegratedDynamics-Compat",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "integratedterminals-26.1.2-neoforge-1.10.0.jar",
+    "namespaces": [
+      "cyclopscore",
+      "integratedterminals",
+      "integratedterminalscompat"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "IntegratedTerminals",
+        "authors": "Not declared"
+      },
+      {
+        "name": "IntegratedTerminals-Compat",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "namespaces": [
+      "integratedtunnels"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "IntegratedTunnels",
+        "authors": "Not declared"
+      },
+      {
+        "name": "IntegratedTunnels-Compat",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+    "namespaces": [
+      "interdimensionalwirelesstransmitter"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Interdimensional Wireless Transmitter",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+    "namespaces": [
+      "inventoryessentials"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Inventory Essentials",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "iris-neoforge-1.11.4+mc26.1.2.jar",
+    "namespaces": [
+      "iris"
+    ],
+    "license": "LGPL-3.0-only",
+    "mods": [
+      {
+        "name": "Iris",
+        "authors": "coderbot, IMS212"
+      }
+    ]
+  },
+  {
+    "jar": "ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+    "namespaces": [
+      "ironfurnaces"
+    ],
+    "license": "Apache License Version 2.0",
+    "mods": [
+      {
+        "name": "Iron Furnaces",
+        "authors": "Qelifern (pizzaatime), XenoMustache, Astryxion"
+      }
+    ]
+  },
+  {
+    "jar": "IronJetpacks-26.1.2-9.0.3.jar",
+    "namespaces": [
+      "ironjetpacks"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Iron Jetpacks",
+        "authors": "BlakeBr0"
+      }
+    ]
+  },
+  {
+    "jar": "irons_artifice-26.1.2-1.1.0.jar",
+    "namespaces": [
+      "irons_artifice"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Iron's Arms 'n Artifice",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "irons_jewelry-26.1.2-2.0.2.1.jar",
+    "namespaces": [
+      "irons_jewelry"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Iron's Gems 'n Jewelry",
+        "authors": "Iron431"
+      }
+    ]
+  },
+  {
+    "jar": "irons_lib-26.1.2-2.2.0.jar",
+    "namespaces": [
+      "irons_lib"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Iron's Lib",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "iska_lib-1.12.0.1.0-neoforge-26.1.2.jar",
+    "namespaces": [
+      "iska_lib"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Iskandert Library",
+        "authors": "Unfamily, Iskandert"
+      }
+    ]
+  },
+  {
+    "jar": "itemcollectors-1.1.12a-neoforge-mc26.1.jar",
+    "namespaces": [
+      "itemcollectors"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Item Collectors",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "Jade-mc26.1-NeoForge-26.1.12.jar",
+    "namespaces": [
+      "jade"
+    ],
+    "license": "CC-BY-NC-SA-4.0",
+    "mods": [
+      {
+        "name": "Jade",
+        "authors": "Snownee"
+      }
+    ]
+  },
+  {
+    "jar": "jamd-neo-26.1.1.1+mc26.1.1.jar",
+    "namespaces": [
+      "jamd"
+    ],
+    "license": "All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks",
+    "mods": [
+      {
+        "name": "Just Another Mining Dimension",
+        "authors": "UnRealDinnerbone"
+      }
+    ]
+  },
+  {
+    "jar": "javd-neo-26.1.1.0+mc26.1.1.jar",
+    "namespaces": [
+      "javd"
+    ],
+    "license": "All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks",
+    "mods": [
+      {
+        "name": "Just Another Void Dimension",
+        "authors": "UnRealDinnerbone"
+      }
+    ]
+  },
+  {
+    "jar": "jearchaeology-26.1.2-1.3.0.jar",
+    "namespaces": [
+      "jearchaeology"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Just Enough Archaeology",
+        "authors": "LobsterJonn"
+      }
+    ]
+  },
+  {
+    "jar": "jei-26.1.2-neoforge-29.47.0.111.jar",
+    "namespaces": [
+      "jei"
+    ],
+    "license": "The MIT License (MIT)",
+    "mods": [
+      {
+        "name": "Just Enough Items",
+        "authors": "mezz"
+      }
+    ]
+  },
+  {
+    "jar": "jupiter-2.4.3-26.1.2-universal.jar",
+    "namespaces": [
+      "jupiter"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Jupiter",
+        "authors": "IAFEnvoy"
+      }
+    ]
+  },
+  {
+    "jar": "just-hammers-neoforge-26.1.2.1.jar",
+    "namespaces": [
+      "justhammers"
+    ],
+    "license": "GPL3",
+    "mods": [
+      {
+        "name": "Just Hammers",
+        "authors": "ErrorMikey"
+      }
+    ]
+  },
+  {
+    "jar": "justdirefuels-1.1.0-26.1.jar",
+    "namespaces": [
+      "justdirefuels"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Just Dire Fuels",
+        "authors": "Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "justdirethings-1.6.11.jar",
+    "namespaces": [
+      "justdirethings"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Just Dire Things",
+        "authors": "Direwolf20"
+      }
+    ]
+  },
+  {
+    "jar": "justdynathings-2.0-alpha-build-13.jar",
+    "namespaces": [
+      "justdirethings",
+      "justdynathings"
+    ],
+    "license": "Ora Et Labora License",
+    "mods": [
+      {
+        "name": "Just Dyna Things",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
+    "namespaces": [
+      "justenoughprofessions"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Just Enough Professions (JEP)",
+        "authors": "Mrbysco, ShyNieke"
+      }
+    ]
+  },
+  {
+    "jar": "justzoom_neoforge_3.0.1_MC_26.1.2.jar",
+    "namespaces": [
+      "justzoom"
+    ],
+    "license": "DSMSLv3.1 (DON'T SNATCH MA STUFF LICENSE v3.1)",
+    "mods": [
+      {
+        "name": "Just Zoom",
+        "authors": "Keksuccino"
+      }
+    ]
+  },
+  {
+    "jar": "keybindbundles-2.0.0.jar",
+    "namespaces": [
+      "keybindbundles"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "KeyBind Bundles",
+        "authors": "Matyrobbrt"
+      }
+    ]
+  },
+  {
+    "jar": "kindredspirits-26.1.2-1.0.9.jar",
+    "namespaces": [
+      "kindredspirits",
+      "oracle_index"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Kindred Spirits",
+        "authors": "Saereth, AlfredGG"
+      }
+    ]
+  },
+  {
+    "jar": "laserbridges-26.1.2-neoforge-6.2.jar",
+    "namespaces": [
+      "laserbridges"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Laser Bridges",
+        "authors": "Mars"
+      }
+    ]
+  },
+  {
+    "jar": "laserio-1.10.2.jar",
+    "namespaces": [
+      "laserio"
+    ],
+    "license": "MIT (https://github.com/Direwolf20-MC/LaserIO/blob/main/LICENSE.txt)",
+    "mods": [
+      {
+        "name": "LaserIO",
+        "authors": "Direwolf20, ErrorMikey"
+      }
+    ]
+  },
+  {
+    "jar": "libtooltips-2.3.2-NEOFORGE-26.1.2.jar",
+    "namespaces": [
+      "libtooltips"
+    ],
+    "license": "wd's license of Doom and Despair",
+    "mods": [
+      {
+        "name": "wd's Tooltips Library",
+        "authors": "wdiscute"
+      }
+    ]
+  },
+  {
+    "jar": "limacore-26.1.2-2.11.0.jar",
+    "namespaces": [
+      "limacore"
+    ],
+    "license": "LGPL-3.0-or-later",
+    "mods": [
+      {
+        "name": "LimaCore",
+        "authors": "liedge"
+      }
+    ]
+  },
+  {
+    "jar": "little-big-redstone-1.9.10-alpha-26.1.2.jar",
+    "namespaces": [
+      "little_big_redstone"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Little Big Redstone",
+        "authors": "Swedz"
+      }
+    ]
+  },
+  {
+    "jar": "littlejoys-neoforge-26.1.2-26.1.2.5.jar",
+    "namespaces": [
+      "littlejoys"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Little Joys",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "logisticsnetworks-26.1.2-1.13.0.jar",
+    "namespaces": [
+      "logisticsnetworks"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "LogisticsNetworks",
+        "authors": "AlmanX21"
+      }
+    ]
+  },
+  {
+    "jar": "loot_journal-neoforge-26.1-6.2.1.jar",
+    "namespaces": [
+      "loot_journal"
+    ],
+    "license": "Obscuria Ecosystem (OEL)",
+    "mods": [
+      {
+        "name": "Loot Journal",
+        "authors": "Obscuria"
+      }
+    ]
+  },
+  {
+    "jar": "lootr-neoforge-26.1.2-1.23.38.123.jar",
+    "namespaces": [
+      "lootr"
+    ],
+    "license": "https://github.com/noobanidus/Lootr/blob/1.16/LICENSE",
+    "mods": [
+      {
+        "name": "Lootr",
+        "authors": "Noobanidus"
+      }
+    ]
+  },
+  {
+    "jar": "ltxi-26.1.2-2.3.3.jar",
+    "namespaces": [
+      "ltxi"
+    ],
+    "license": "Source Code: LGPLv3 / Assets: All Rights Reserved",
+    "mods": [
+      {
+        "name": "LTX Industries",
+        "authors": "liedge"
+      }
+    ]
+  },
+  {
+    "jar": "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+    "namespaces": [
+      "magnumtorch"
+    ],
+    "license": "MPL-2.0",
+    "mods": [
+      {
+        "name": "Magnum Torch",
+        "authors": "Fuzs"
+      }
+    ]
+  },
+  {
+    "jar": "malisisdoorsreborn-neoforge-26.1.2-1.0.15.jar",
+    "namespaces": [
+      "malisisdoorsreborn"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "Malisis Doors (Reborn)",
+        "authors": "Mostly Harmless"
+      }
+    ]
+  },
+  {
+    "jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.9.jar",
+    "namespaces": [
+      "malisisswitchesreborn"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "Malisis Switches (Reborn)",
+        "authors": "MostlyHarmless"
+      }
+    ]
+  },
+  {
+    "jar": "matc-1.8.0.jar",
+    "namespaces": [
+      "matc"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Mystical Agriculture Tiered Crystals",
+        "authors": "Electrolyte"
+      }
+    ]
+  },
+  {
+    "jar": "mcw-bridges-3.1.2-mc26.1neoforge.jar",
+    "namespaces": [
+      "mcwbridges"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Macaw's Bridges",
+        "authors": "Sketch Macaw & Peachy Macaw"
+      }
+    ]
+  },
+  {
+    "jar": "mcw-doors-1.1.5-mc26.1neoforge.jar",
+    "namespaces": [
+      "mcwdoors"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Macaw's Doors",
+        "authors": "Sketch Macaw & Sketch Peachy"
+      }
+    ]
+  },
+  {
+    "jar": "mcw-lights-1.1.5-mc26.1neoforge.jar",
+    "namespaces": [
+      "mcwlights"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Macaw's Lights and Lamps",
+        "authors": "Sketch Macaw & Peachy Macaw"
+      }
+    ]
+  },
+  {
+    "jar": "mcw-paths-1.1.1-mc26.1neoforge.jar",
+    "namespaces": [
+      "mcwpaths"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Macaw's Paths and Pavings",
+        "authors": "Sketch Macaw & Peachy Macaw"
+      }
+    ]
+  },
+  {
+    "jar": "mcw-roofs-2.3.2-mc26.1neoforge.jar",
+    "namespaces": [
+      "mcwroofs"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Macaw's Roofs",
+        "authors": "Sketch Macaw & Sketch Peachy"
+      }
+    ]
+  },
+  {
+    "jar": "mcw-windows-2.4.2-mc26.1neoforge.jar",
+    "namespaces": [
+      "mcwwindows"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Macaw's Windows",
+        "authors": "Sketch Macaw & Peachy Macaw"
+      }
+    ]
+  },
+  {
+    "jar": "Measurements-neoforge-26.1-4.0.0.jar",
+    "namespaces": [
+      "measurements"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Measurements",
+        "authors": "Mrbysco"
+      }
+    ]
+  },
+  {
+    "jar": "meinfinitycell-26.1-1.0.0.jar",
+    "namespaces": [
+      "meinfinitycell"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "MEInfinityCell",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar",
+    "namespaces": [
+      "mezz_config_gui"
+    ],
+    "license": "The MIT License (MIT)",
+    "mods": [
+      {
+        "name": "MezzConfig GUI",
+        "authors": "mezz"
+      }
+    ]
+  },
+  {
+    "jar": "mffs-5.8.39.jar",
+    "namespaces": [
+      "mffs"
+    ],
+    "license": "Code: MIT, Assets: All Rights Reserved",
+    "mods": [
+      {
+        "name": "Modular Force Field System",
+        "authors": "Su5eD, Built Broken Modding"
+      }
+    ]
+  },
+  {
+    "jar": "mininggadgets-1.19.3.jar",
+    "namespaces": [
+      "mininggadgets"
+    ],
+    "license": "MIT (https://github.com/Direwolf20-MC/MiningGadgets/blob/master/LICENSE.txt)",
+    "mods": [
+      {
+        "name": "Mining Gadgets",
+        "authors": "Direwolf20, ErrorMikey"
+      }
+    ]
+  },
+  {
+    "jar": "mint_lib-0.4.0-26.1b.jar",
+    "namespaces": [
+      "mint_lib"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "MINT Lib",
+        "authors": "MINT_Gaming_Studios"
+      }
+    ]
+  },
+  {
+    "jar": "mobflowutilities-3.2.1.9-mc-26.1.2.jar",
+    "namespaces": [
+      "mobflowutilities"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Mob Flow Utilities",
+        "authors": "MisterD Modding"
+      }
+    ]
+  },
+  {
+    "jar": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
+    "namespaces": [
+      "modernfix"
+    ],
+    "license": "GNU LGPL 3.0",
+    "mods": [
+      {
+        "name": "ModernFix",
+        "authors": "embeddedt"
+      }
+    ]
+  },
+  {
+    "jar": "modonomicon-26.1.2-neoforge-2.17.1.jar",
+    "namespaces": [
+      "modonomicon"
+    ],
+    "license": "MIT AND CC-BY-4.0",
+    "mods": [
+      {
+        "name": "Modonomicon",
+        "authors": "Kli Kli"
+      }
+    ]
+  },
+  {
+    "jar": "modular-routers-26.1.2.2.jar",
+    "namespaces": [
+      "modularrouters"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Modular Routers",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "MoogsEndStructures-universal-1.21-2.1.1.jar",
+    "namespaces": [
+      "mes"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "MoogsEndStructures",
+        "authors": "FinnDog"
+      }
+    ]
+  },
+  {
+    "jar": "MoogsNetherStructures-universal-1.21-3.1.1.jar",
+    "namespaces": [
+      "mns"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "MoogsNetherStructures",
+        "authors": "FinnDog"
+      }
+    ]
+  },
+  {
+    "jar": "MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+    "namespaces": [
+      "mss"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "MoogsSoaringStructures",
+        "authors": "FinnDog"
+      }
+    ]
+  },
+  {
+    "jar": "MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
+    "namespaces": [
+      "moogs_structures"
+    ],
+    "license": "https://github.com/FinnSetchell/MoogsStructureLib/blob/1.21.5/LICENSE",
+    "mods": [
+      {
+        "name": "Moog's Structure Lib",
+        "authors": "FinnDog"
+      }
+    ]
+  },
+  {
+    "jar": "MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+    "namespaces": [
+      "mtr"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "MoogsTemplesReimagined",
+        "authors": "FinnDog"
+      }
+    ]
+  },
+  {
+    "jar": "MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+    "namespaces": [
+      "mvs"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "MoogsVoyagerStructures",
+        "authors": "FinnDog"
+      }
+    ]
+  },
+  {
+    "jar": "moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+    "namespaces": [
+      "moreoverlays"
+    ],
+    "license": "The MIT License (MIT)",
+    "mods": [
+      {
+        "name": "More Overlays Updated",
+        "authors": "feldim2425, RiDGo8"
+      }
+    ]
+  },
+  {
+    "jar": "morered-26.1.2.3.jar",
+    "namespaces": [
+      "morered"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "More Red",
+        "authors": "Commoble"
+      }
+    ]
+  },
+  {
+    "jar": "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+    "namespaces": [
+      "mutantmonsters"
+    ],
+    "license": "AGPL-3.0-or-later",
+    "mods": [
+      {
+        "name": "Mutant Monsters",
+        "authors": "shcott21, Chumbanotz, Fuzs, tdstress"
+      }
+    ]
+  },
+  {
+    "jar": "mystianapiary-neoforge-1.10.jar",
+    "namespaces": [
+      "mystianapiary"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Mystian Apiary",
+        "authors": "XeramGaming"
+      }
+    ]
+  },
+  {
+    "jar": "MysticalAgradditions-26.1.2-9.0.4.jar",
+    "namespaces": [
+      "mysticalagradditions",
+      "mysticalagriculture"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Mystical Agradditions",
+        "authors": "BlakeBr0"
+      }
+    ]
+  },
+  {
+    "jar": "MysticalAgriculture-26.1.2-9.0.10.jar",
+    "namespaces": [
+      "mysticalagriculture"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Mystical Agriculture",
+        "authors": "BlakeBr0"
+      }
+    ]
+  },
+  {
+    "jar": "MysticalAutomation-26.1.2-2.0.7.jar",
+    "namespaces": [
+      "mysticalagriculture",
+      "mysticalautomation"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Mystical Automation",
+        "authors": "BlakeBr0"
+      }
+    ]
+  },
+  {
+    "jar": "NaturesCompass-26.1-3.3.0-neoforge.jar",
+    "namespaces": [
+      "naturescompass"
+    ],
+    "license": "CC BY-NC-SA 4.0",
+    "mods": [
+      {
+        "name": "Nature's Compass",
+        "authors": "ChaosTheDude"
+      }
+    ]
+  },
+  {
+    "jar": "nautec-26.1.2-NeoForge-2.0.14.jar",
+    "namespaces": [
+      "nautec"
+    ],
+    "license": "PolyForm Shield License 1.0.0 AND PolyForm Perimeter License 1.0.0",
+    "mods": [
+      {
+        "name": "NauTec 2",
+        "authors": "Thepigcat76, Leclowndu93150, Ktpatient, Reclipse, Iglee42"
+      }
+    ]
+  },
+  {
+    "jar": "NeoSync-26.1.2-1.7.2.jar",
+    "namespaces": [
+      "neosync"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "NeoSync",
+        "authors": "BreakinBlocks"
+      }
+    ]
+  },
+  {
+    "jar": "neovitae-26.1.2-1.1.43.jar",
+    "namespaces": [
+      "neovitae"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Neo Vitae",
+        "authors": "WayofTime, Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "nodeworks-0.9.21.jar",
+    "namespaces": [
+      "nodeworks"
+    ],
+    "license": "CC0-1.0",
+    "mods": [
+      {
+        "name": "Nodeworks",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "nutritional-26.1.2-1.2.3.jar",
+    "namespaces": [
+      "nutritional"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Nutritional",
+        "authors": "Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "obsidianboat-neo-26.1.1.0+mc26.1.1.jar",
+    "namespaces": [
+      "obsidianboat"
+    ],
+    "license": "All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks",
+    "mods": [
+      {
+        "name": "Obsidian Boat",
+        "authors": "UnRealDinnerbone"
+      }
+    ]
+  },
+  {
+    "jar": "occultcooking-2.0.0.jar",
+    "namespaces": [
+      "occultcooking"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Occult Cooking",
+        "authors": "ItsSebastrn"
+      }
+    ]
+  },
+  {
+    "jar": "occultism-26.1.2-neoforge-1.256.1.jar",
+    "namespaces": [
+      "occultism"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Occultism",
+        "authors": "Kli Kli"
+      }
+    ]
+  },
+  {
+    "jar": "oracle_index-neoforge-2.0.0.jar",
+    "namespaces": [
+      "oracle_index"
+    ],
+    "license": "CC0",
+    "mods": [
+      {
+        "name": "Oracle Index",
+        "authors": "Me! - Rearth"
+      }
+    ]
+  },
+  {
+    "jar": "oritech-2.0.0-exp11.jar",
+    "namespaces": [
+      "oracle_index",
+      "oritech"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Oritech",
+        "authors": "rearth_neosample"
+      }
+    ]
+  },
+  {
+    "jar": "pantryforblockheads-neoforge-26.1.2-26.1.2.8.jar",
+    "namespaces": [
+      "pantryforblockheads"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Pantry for Blockheads",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "Paraglider-neoforge-26.1.2.jar",
+    "namespaces": [
+      "paraglider"
+    ],
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "mods": [
+      {
+        "name": "Paraglider",
+        "authors": "Tictim"
+      }
+    ]
+  },
+  {
+    "jar": "patchouli-neoforge-26.1-94.jar",
+    "namespaces": [
+      "patchouli"
+    ],
+    "license": "CC BY-NC-SA 3.0",
+    "mods": [
+      {
+        "name": "Patchouli",
+        "authors": "Vazkii, williewillus"
+      }
+    ]
+  },
+  {
+    "jar": "peekaboo-1.0.0+26.1.1.jar",
+    "namespaces": [
+      "peekaboo"
+    ],
+    "license": "Mozilla Public License Version 2.0",
+    "mods": [
+      {
+        "name": "Peekaboo!",
+        "authors": "The Love Tropics Modding team"
+      }
+    ]
+  },
+  {
+    "jar": "pipe_connector-neoforge-0.6.8.jar",
+    "namespaces": [
+      "pipe_connector"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Pipe Connector",
+        "authors": "Heaser, PotatoPoweredWizard"
+      }
+    ]
+  },
+  {
+    "jar": "pipez-neoforge-1.2.31+26.1.2.jar",
+    "namespaces": [
+      "pipez"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Pipez",
+        "authors": "Max Henkel"
+      }
+    ]
+  },
+  {
+    "jar": "pipezlagfix-26.1.2-1.1.0.jar",
+    "namespaces": [
+      "pipezlagfix"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "PipezLagFix",
+        "authors": "AlmanX21"
+      }
+    ]
+  },
+  {
+    "jar": "Placebo-26.1.2-10.0.2.jar",
+    "namespaces": [
+      "placebo"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Placebo",
+        "authors": "Shadows_of_Fire"
+      }
+    ]
+  },
+  {
+    "jar": "plonk-26.1.2-10.0.10-neo.jar",
+    "namespaces": [
+      "plonk"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Plonk",
+        "authors": "Plonk contributors"
+      }
+    ]
+  },
+  {
+    "jar": "polylib-neoforge-26.1.2-2.0.11.jar",
+    "namespaces": [
+      "polylib"
+    ],
+    "license": "BSD 4-Clause",
+    "mods": [
+      {
+        "name": "Polylib",
+        "authors": "CreeperHost"
+      }
+    ]
+  },
+  {
+    "jar": "Powah-7.0.4-alpha.jar",
+    "namespaces": [
+      "lollipop",
+      "powah"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "Powah",
+        "authors": "owmii,Technici4n,shartte"
+      }
+    ]
+  },
+  {
+    "jar": "productivebees-26.1.2-15.3.0.jar",
+    "namespaces": [
+      "productivebees"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Productive Bees",
+        "authors": "LobsterJonn"
+      }
+    ]
+  },
+  {
+    "jar": "productivefarming-26.1.2-0.13.0.jar",
+    "namespaces": [
+      "productivefarming"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Productive Farming",
+        "authors": "LobsterJonn"
+      }
+    ]
+  },
+  {
+    "jar": "puffish_attributes-0.8.2-26.1-neoforge.jar",
+    "namespaces": [
+      "puffish_attributes"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Pufferfish's Attributes",
+        "authors": "Pufferfish"
+      }
+    ]
+  },
+  {
+    "jar": "puffish_skills-0.19.2-26.1-neoforge.jar",
+    "namespaces": [
+      "puffish_skills"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Pufferfish's Skills",
+        "authors": "Pufferfish"
+      }
+    ]
+  },
+  {
+    "jar": "pylons-26.1-6.0.1.jar",
+    "namespaces": [
+      "pylons"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Pylons",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "quantumcubes-neoforge-26.1.2-1.0.3.jar",
+    "namespaces": [
+      "quantumcubes"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Quantum Cubes",
+        "authors": "titammods"
+      }
+    ]
+  },
+  {
+    "jar": "RainShield-26.1.2-2.0.0.jar",
+    "namespaces": [
+      "rainshield"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Rain Shield",
+        "authors": "Mrbysco"
+      }
+    ]
+  },
+  {
+    "jar": "RBMAddon26.1.2-beta3.jar",
+    "namespaces": [
+      "ae2",
+      "bmaddon"
+    ],
+    "license": "GNU GPLv3",
+    "mods": [
+      {
+        "name": "BloodMagic Additions",
+        "authors": "edgemq"
+      }
+    ]
+  },
+  {
+    "jar": "recursiveae2patternprovider-1.1.1.jar",
+    "namespaces": [
+      "recursiveae2patternprovider"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Recursive AE2 Pattern Provider",
+        "authors": "Lumengrid"
+      }
+    ]
+  },
+  {
+    "jar": "refined-types-26.1.2-1.0.2.jar",
+    "namespaces": [
+      "refinedtypes"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Types",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "refinedcooking-neoforge-26.1.2-7.3.1.jar",
+    "namespaces": [
+      "refinedcooking"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Cooking",
+        "authors": "ItsSebastrn"
+      }
+    ]
+  },
+  {
+    "jar": "refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
+    "namespaces": [
+      "refinedfluidsubstitution"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Fluid Substitution",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "refinedstorage-curios-integration-2.0.1.jar",
+    "namespaces": [
+      "refinedstorage_curios_integration"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Storage - Curios Integration",
+        "authors": "Refined Mods"
+      }
+    ]
+  },
+  {
+    "jar": "refinedstorage-jei-integration-neoforge-2.0.1.jar",
+    "namespaces": [
+      "refinedstorage_jei_integration"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Storage - JEI Integration",
+        "authors": "Refined Mods"
+      }
+    ]
+  },
+  {
+    "jar": "refinedstorage-neoforge-3.2.1.jar",
+    "namespaces": [
+      "refinedstorage"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Storage",
+        "authors": "Refined Mods"
+      }
+    ]
+  },
+  {
+    "jar": "refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+    "namespaces": [
+      "refinedstorage_quartz_arsenal"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Storage - Quartz Arsenal",
+        "authors": "Refined Mods"
+      }
+    ]
+  },
+  {
+    "jar": "reliquary-26.1.2-2.0.92.1563.jar",
+    "namespaces": [
+      "reliquary"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Reliquary Reincarnations",
+        "authors": "P3pp3rF1y"
+      }
+    ]
+  },
+  {
+    "jar": "Replication-26.1.2-1.2.7.jar",
+    "namespaces": [
+      "replication"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Replication",
+        "authors": "Buuz135, Rid"
+      }
+    ]
+  },
+  {
+    "jar": "resonance-neoforge-26.1.2-1.0.2.jar",
+    "namespaces": [
+      "resonance"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Resonance",
+        "authors": "Comfy"
+      }
+    ]
+  },
+  {
+    "jar": "retrofactorymanager-26.1.2-1.0.3.jar",
+    "namespaces": [
+      "retrofactorymanager"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Retro Factory Manager",
+        "authors": "Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "rgp-client-2.1.2+mc26.1.2-neoforge.jar",
+    "namespaces": [
+      "rgp_client"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Rocket Game Platform Client",
+        "authors": "Rocket Platform"
+      }
+    ]
+  },
+  {
+    "jar": "RootsClassic-26.1.2-1.6.7.jar",
+    "namespaces": [
+      "rootsclassic"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Roots Classic",
+        "authors": "Elucent, Lothrazar, Mrbysco"
+      }
+    ]
+  },
+  {
+    "jar": "rsrreforged-neoforge-26.1.2-1.0.3.jar",
+    "namespaces": [
+      "rsrreforged"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "RSRRequestify: Reforged",
+        "authors": "Gotlicked"
+      }
+    ]
+  },
+  {
+    "jar": "ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
+    "namespaces": [
+      "scannable"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Scannable Reforged",
+        "authors": "Sangar (original author), txmmytwostraps (NeoForge 26.1.2 port)"
+      }
+    ]
+  },
+  {
+    "jar": "Searchables-neoforge-26.1.2-1.0.2.jar",
+    "namespaces": [
+      "searchables"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Searchables",
+        "authors": "Jaredlll08"
+      }
+    ]
+  },
+  {
+    "jar": "selling_bin-1.6-NEOFORGE-26.1.2.jar",
+    "namespaces": [
+      "selling_bin"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "wd's Selling Bin",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "sg_economy-26.1.0.jar",
+    "namespaces": [
+      "sg_economy"
+    ],
+    "license": "SirGrantd License",
+    "mods": [
+      {
+        "name": "SG Economy API",
+        "authors": "SirGrantd"
+      }
+    ]
+  },
+  {
+    "jar": "shogi-neoforge-26.1.2-26.1.2.12.jar",
+    "namespaces": [
+      "shogi"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Shogi",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "shrink-neoforge-26.1.2-2.1.1.jar",
+    "namespaces": [
+      "shrink"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Shrink",
+        "authors": "Gigabit101"
+      }
+    ]
+  },
+  {
+    "jar": "simple_weather-1.1.15.jar",
+    "namespaces": [
+      "simple_weather"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Simple Weather",
+        "authors": "Soaryn"
+      }
+    ]
+  },
+  {
+    "jar": "SimpleDiscordRichPresence-neoforge-26.1.2.1.jar",
+    "namespaces": [
+      "sdrp"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Simple Discord Rich Presence",
+        "authors": "Sunekaer"
+      }
+    ]
+  },
+  {
+    "jar": "simplemagnets-1.1.12-neoforge-mc26.1.jar",
+    "namespaces": [
+      "simplemagnets"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Simple Magnets",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "SimpleTeleportersReforged-26.1.2-5.1.0.jar",
+    "namespaces": [
+      "simpleteleporters"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Simple Teleporters",
+        "authors": "Mrbysco, ShyNieke, Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "sky_aesthetics-neoforge-2.1.4.jar",
+    "namespaces": [
+      "sky_aesthetics"
+    ],
+    "license": "CC0-1.0",
+    "mods": [
+      {
+        "name": "Sky Aesthetics",
+        "authors": "The Stellaris Team"
+      }
+    ]
+  },
+  {
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.11.2198.jar",
+    "namespaces": [
+      "sophisticatedbackpacks"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Sophisticated Backpacks",
+        "authors": "P3pp3rF1y, Ridanisaurus"
+      }
+    ]
+  },
+  {
+    "jar": "sophisticatedcore-26.1.2-1.5.14.2408.jar",
+    "namespaces": [
+      "sophisticatedcore"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Sophisticated Core",
+        "authors": "P3pp3rF1y"
+      }
+    ]
+  },
+  {
+    "jar": "sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+    "namespaces": [
+      "sophisticatedinventoryinteractions"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Sophisticated Inventory Interactions",
+        "authors": "P3pp3rF1y"
+      }
+    ]
+  },
+  {
+    "jar": "sophisticateditemactions-26.1.2-0.4.17.432.jar",
+    "namespaces": [
+      "sophisticateditemactions"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Sophisticated Item Actions",
+        "authors": "P3pp3rF1y"
+      }
+    ]
+  },
+  {
+    "jar": "sophisticatedstorage-26.1.2-1.5.122.2185.jar",
+    "namespaces": [
+      "sophisticatedstorage"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Sophisticated Storage",
+        "authors": "P3pp3rF1y, Ridanisaurus"
+      }
+    ]
+  },
+  {
+    "jar": "sophisticatedstorageinmotion-26.1.2-0.10.37.378.jar",
+    "namespaces": [
+      "sophisticatedstorageinmotion"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Sophisticated Storage In Motion",
+        "authors": "P3pp3rF1y"
+      }
+    ]
+  },
+  {
+    "jar": "squatgrow-neoforge-26.1.2.2.jar",
+    "namespaces": [
+      "squatgrow"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Squat Grow",
+        "authors": "Gaz"
+      }
+    ]
+  },
+  {
+    "jar": "starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+    "namespaces": [
+      "starcatcher"
+    ],
+    "license": "wd's license of doom and despair",
+    "mods": [
+      {
+        "name": "Starcatcher",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "stellaris-26.1.2-neoforge-2.0.8.jar",
+    "namespaces": [
+      "stellaris"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Stellaris",
+        "authors": "Exodus Studio"
+      }
+    ]
+  },
+  {
+    "jar": "stepcrafter-neoforge-26.1.2-1.0.3.jar",
+    "namespaces": [
+      "stepcrafter"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Step Crafter",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "structurify-neoforge-2.0.43+mc26.1.2.jar",
+    "namespaces": [
+      "structurify"
+    ],
+    "license": "CC-BY-NC-ND-4.0",
+    "mods": [
+      {
+        "name": "Structurify",
+        "authors": "Faboslav"
+      }
+    ]
+  },
+  {
+    "jar": "Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+    "namespaces": [
+      "sfm"
+    ],
+    "license": "Mozilla Public License Version 2.0",
+    "mods": [
+      {
+        "name": "Super Factory Manager (SFM)",
+        "authors": "TeamDman"
+      }
+    ]
+  },
+  {
+    "jar": "supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+    "namespaces": [
+      "supermartijn642corelib"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "SuperMartijn642's Core Lib",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "tectonic-3.0.28-neoforge-26.1.jar",
+    "namespaces": [
+      "tectonic"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Tectonic",
+        "authors": "Apollo"
+      }
+    ]
+  },
+  {
+    "jar": "Terralith_26.1_v2.6.1_Neoforge.jar",
+    "namespaces": [
+      "terralith"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Terralith",
+        "authors": "Starmute, catter1, Apollo, TheKingWhale"
+      }
+    ]
+  },
+  {
+    "jar": "tesseract-1.0.39-neoforge-mc26.1.jar",
+    "namespaces": [
+      "tesseract"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Tesseract",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
+    "namespaces": [
+      "tesseract_api"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Tesseract API",
+        "authors": "Swedz"
+      }
+    ]
+  },
+  {
+    "jar": "thunderrelics-1.3.jar",
+    "namespaces": [
+      "thunderrelics"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Thunder Relics",
+        "authors": "HP"
+      }
+    ]
+  },
+  {
+    "jar": "tiab-neoforge-8.0.0.jar",
+    "namespaces": [
+      "tiab"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Time In A Bottle",
+        "authors": "RealMangoRage, MangoRage"
+      }
+    ]
+  },
+  {
+    "jar": "titanium-26.1.2-4.0.12.jar",
+    "namespaces": [
+      "titanium"
+    ],
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+    "mods": [
+      {
+        "name": "Titanium",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "ToolBelt-26.1.2-2.9.5.jar",
+    "namespaces": [
+      "toolbelt"
+    ],
+    "license": "BSD (3 clause)",
+    "mods": [
+      {
+        "name": "Tool Belt",
+        "authors": "gigaherz"
+      }
+    ]
+  },
+  {
+    "jar": "trainingdummy-1.9.0+mc26.1.2.jar",
+    "namespaces": [
+      "trainingdummy"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Training Dummy",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
+    "jar": "transparentae2-26.1.2-1.1.1.jar",
+    "namespaces": [
+      "transparentae2"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Transparent AE2",
+        "authors": "rearth"
+      }
+    ]
+  },
+  {
+    "jar": "trashcans-1.1.1a-neoforge-mc26.1.jar",
+    "namespaces": [
+      "trashcans"
+    ],
+    "license": "All rights reserved",
+    "mods": [
+      {
+        "name": "Trash Cans",
+        "authors": "SuperMartijn642"
+      }
+    ]
+  },
+  {
+    "jar": "trashslot-neoforge-26.1.2-26.1.2.4.jar",
+    "namespaces": [
+      "trashslot"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "TrashSlot",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "TravelersTitles-26.1.2-NeoForge-6.1.0.jar",
+    "namespaces": [
+      "travelerstitles"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "Traveler's Titles",
+        "authors": "YUNGNICKYOUNG"
+      }
+    ]
+  },
+  {
+    "jar": "underwater_village-1.0.0 Neoforge 26.1.2.jar",
+    "namespaces": [
+      "underwater_village"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Underwater Village",
+        "authors": "Leonxkingx"
+      }
+    ]
+  },
+  {
+    "jar": "universalgrid-neoforge-26.1.2-1.0.2.jar",
+    "namespaces": [
+      "universalgrid"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Universal Grid",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
+    "jar": "utilitarian-26.1.2-0.22.0.jar",
+    "namespaces": [
+      "utilitarian"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Utilitarian",
+        "authors": "LobsterJonn"
+      }
+    ]
+  },
+  {
+    "jar": "volumetrics-1.0.17.jar",
+    "namespaces": [
+      "volumetrics"
+    ],
+    "license": "CC BY-ND 4.0",
+    "mods": [
+      {
+        "name": "Volumetrics",
+        "authors": "Soaryn"
+      }
+    ]
+  },
+  {
+    "jar": "wakes-26.1.2-NeoForge-1.4.1.jar",
+    "namespaces": [
+      "wakes"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Wakes",
+        "authors": "Leclowndu93150"
+      }
+    ]
+  },
+  {
+    "jar": "waystones-neoforge-26.1.2-26.1.2.16.jar",
+    "namespaces": [
+      "waystones"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Waystones",
+        "authors": "BlayTheNinth"
+      }
+    ]
+  },
+  {
+    "jar": "weathergate-neo-26.1.1.0+mc26.1.1.jar",
+    "namespaces": [
+      "weathergate"
+    ],
+    "license": "All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks",
+    "mods": [
+      {
+        "name": "Weather Gate",
+        "authors": "UnRealDinnerbone"
+      }
+    ]
+  },
+  {
+    "jar": "witchery-0.5.22+mc26.1.2.jar",
+    "namespaces": [
+      "witchery"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "Witchery",
+        "authors": "mrsterner"
+      }
+    ]
+  },
+  {
+    "jar": "witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+    "namespaces": [
+      "witchery_forbidden_magic"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "Witchery: Forbidden Magic",
+        "authors": "mrsterner"
+      }
+    ]
+  },
+  {
+    "jar": "xycraft-core-0.9.2.jar",
+    "namespaces": [
+      "xycraft_core"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "XyCraft: Core",
+        "authors": "Soaryn"
+      }
+    ]
+  },
+  {
+    "jar": "xycraft-machines-0.9.2.jar",
+    "namespaces": [
+      "xycraft_machines"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "XyCraft: Machines",
+        "authors": "Soaryn"
+      }
+    ]
+  },
+  {
+    "jar": "xycraft-world-0.9.2.jar",
+    "namespaces": [
+      "xycraft_world"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "XyCraft: World",
+        "authors": "Soaryn"
+      }
+    ]
+  },
+  {
+    "jar": "YungsApi-26.1.2-NeoForge-6.1.3.jar",
+    "namespaces": [
+      "yungsapi"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "YUNG's API",
+        "authors": "YUNGNICKYOUNG"
+      }
+    ]
+  },
+  {
+    "jar": "YungsBetterCaves-26.1.2-NeoForge-4.1.2.jar",
+    "namespaces": [
+      "bettercaves"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "YUNG's Better Caves",
+        "authors": "YUNGNICKYOUNG"
+      }
+    ]
+  },
+  {
+    "jar": "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
+    "namespaces": [
+      "yungscavebiomes"
+    ],
+    "license": "ARR",
+    "mods": [
+      {
+        "name": "YUNG's Cave Biomes",
+        "authors": "YUNGNICKYOUNG, HellionGames, Sully, LudoCrypt, Jasmine, K.jpg, Neko, Frenderman, Refresh Studios"
+      }
+    ]
+  },
+  {
+    "jar": "z_core-0.1.3-26.1.2-neoforge.jar",
+    "namespaces": [
+      "z_core"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Z-Core",
+        "authors": "riciJak"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "curios.name": "диковинки",
+  "key.curios.category": "диковинки",
+  "gui.curios.toggle.cosmetics": "Переключить косметику",
+  "gui.curios.page": "Страница %d / %d",
+  "curios.networking.failed": "Сбой сети Curios",
+  "curios.tooltip.inactive": "Неактивный"
+}

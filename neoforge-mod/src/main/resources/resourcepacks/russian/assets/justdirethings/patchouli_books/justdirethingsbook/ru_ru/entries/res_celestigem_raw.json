@@ -1,0 +1,12 @@
+{
+  "name": "Необработанный блок Celestigem",
+  "sortnum": 4,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_celestigem_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Преобразованный VoidShimmer Goo, Алмазный блок становится необработанным блоком Celestigem. Добудьте этот блок, чтобы получить $(l:justdirethings:res_celestigem)Celestigem$(/l)."
+    }
+  ]
+}

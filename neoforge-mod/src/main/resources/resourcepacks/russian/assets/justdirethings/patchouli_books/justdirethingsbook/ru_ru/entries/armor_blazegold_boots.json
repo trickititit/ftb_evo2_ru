@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Сапоги",
+  "sortnum": 8,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Blazegold Ботинки обеспечивают улучшенную защиту ног и обладают способностью «Ремонт лавы». Чтобы полностью починить эти ботинки, бросьте их в блок источника лавы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Blazegold Изготовление сапог",
+      "recipe": "justdirethings:blazegold_boots"
+    }
+  ]
+}

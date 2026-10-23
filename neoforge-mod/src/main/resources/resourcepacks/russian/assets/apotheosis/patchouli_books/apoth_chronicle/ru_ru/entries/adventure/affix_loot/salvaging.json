@@ -1,0 +1,44 @@
+{
+  "name": "Спасение",
+  "icon": "apotheosis:salvaging_table",
+  "category": "apotheosis:adventure/affix_loot",
+  "flag": "apotheosis:adventure",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "apotheosis:salvaging_table",
+      "text": "$(9)Таблица утилизации$() используется для разделения предметов-аффиксов на соответствующие им $(9)Редкие материалы$().$(p)Обычное снаряжение и драгоценные камни также можно спасти."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:mysterious_scrap_metal",
+      "link_recipe": true,
+      "text": "Кусок неизвестного металла странной формы.$(p)Этот материал добывается при сборе обычных предметов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:timeworn_fabric",
+      "link_recipe": true,
+      "text": "Невероятно прочная ткань, изношенная за бесчисленное количество веков. На нем нет ни единой слезы.$(p)Находится при сборе необычных предметов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:luminous_crystal_shard",
+      "link_recipe": true,
+      "text": "Кусочек ярчайшего кристалла, когда-либо существовавшего. Хотя это всего лишь осколок, он содержит в себе сильную магическую силу.$(p)Добывается при сборе редких предметов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:arcane_sands",
+      "link_recipe": true,
+      "text": "Песчинки из волшебного мира, где тайная магия искажает все живое.$(p)Сохранение эпического предмета превращает их в эту форму."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:godforged_pearl",
+      "link_recipe": true,
+      "text": "Жемчужина очищенной богоподобной энергии. Огромная сила, заключенная внутри, делает его весьма нестабильным.$(p)Эти необычные творения можно получить путем сбора мифических предметов."
+    }
+  ]
+}

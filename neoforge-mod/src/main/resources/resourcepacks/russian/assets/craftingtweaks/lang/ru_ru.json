@@ -1,0 +1,23 @@
+{
+  "key.categories.craftingtweaks.default": "Удобное создание предметов",
+  "key.craftingtweaks.transfer_stack": "Перенос в сетку крафта",
+  "craftingtweaks.configuration.title": "Удобное создание предметов",
+  "craftingtweaks.configuration.common": "Общий",
+  "craftingtweaks.configuration.common.compressRequiresCraftingGrid": "Сжатие требует создания сетки",
+  "craftingtweaks.configuration.common.compressRequiresCraftingGrid.tooltip": "Установите значение false, если вы хотите, чтобы функция (де)сжатия работала за пределами создания графического интерфейса (работает только в том случае, если она установлена на сервере в инвентаре игрока)",
+  "craftingtweaks.configuration.common.compressDenylist": "Сжать список запрещенных",
+  "craftingtweaks.configuration.common.compressDenylist.tooltip": "Список записей modid:name, которые не будут созданы с помощью клавиши сжатия.",
+  "craftingtweaks.configuration.client": "Клиент",
+  "craftingtweaks.configuration.client.rightClickCraftsStack": "Щелкните правой кнопкой мыши стек ремесел.",
+  "craftingtweaks.configuration.client.rightClickCraftsStack.tooltip": "Если установлено значение true, щелчок правой кнопкой мыши по ячейке результата на верстаке создаст полную стопку.",
+  "craftingtweaks.configuration.client.hideVanillaCraftingGuide": "Скрыть руководство по изготовлению ванили",
+  "craftingtweaks.configuration.client.hideVanillaCraftingGuide.tooltip": "Мы оба знаем, что JEI намного лучше. Эта опция скрывает кнопку книги крафта Vanilla, а не перемещает ее.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX": "Руководство по изготовлению ванили Offset X",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip": "Смещение справа при изменении положения кнопки книги рецептов ванили.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY": "Руководство по изготовлению ванили, смещение Y",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip": "Смещение сверху при изменении положения кнопки книги рецептов ванили.",
+  "craftingtweaks.configuration.client.mode": "Режим",
+  "craftingtweaks.configuration.client.mode.tooltip": "Установите значение «ПО УМОЛЧАНИЮ», чтобы включить как кнопки, так и горячие клавиши. Установите значение «BUTTONS», чтобы включить только кнопки. Установите значение «HOTKEYS», чтобы включить только горячие клавиши. Установите значение «ОТКЛЮЧЕНО», чтобы полностью отключить.",
+  "craftingtweaks.configuration.client.disabledAddons": "Отключенные дополнения",
+  "craftingtweaks.configuration.client.disabledAddons.tooltip": "Добавьте сюда идентификаторы модов, для которых вы хотите отключить поддержку Crafting Tweaks."
+}

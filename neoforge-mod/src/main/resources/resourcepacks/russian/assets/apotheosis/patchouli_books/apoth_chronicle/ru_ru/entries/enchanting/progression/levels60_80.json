@@ -1,0 +1,43 @@
+{
+  "name": "Уровни 60–80",
+  "icon": "apothic_enchanting:dormant_deepshelf",
+  "category": "apotheosis:enchanting/progression",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение уровня 70",
+      "recipe": "apothic_enchanting:dormant_deepshelf",
+      "text": "Для достижения 70-го уровня требуется стол зачарования 60-го уровня и доступ к Deepslate."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Достижение уровня 70",
+      "text": "После того, как вы создали $(9)Демлющую глубокую полку$(), вам необходимо ее наполнить.$(p)Этот рецепт настойки потребует некоторых дополнительных блоков, чтобы достичь порога характеристик.$(p)Завершение настойки даст $(9)Глубокую полку$(), которая поможет вам достичь 70-го уровня."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Достижение уровня 75",
+      "text": "Чтобы достичь 75-го уровня, вам необходимо обновить свои Глубокие полки.$(p)Для этого требуются материалы, которые можно найти только в $(9)Deep Dark$(). $(p)$(9)Осколки Эха$() можно добыть в Древнем городе, а $(9)Sculk$() можно собрать с помощью Silk Touch."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение уровня 75",
+      "recipe": "apothic_enchanting:echoing_deepshelf",
+      "recipe2": "apothic_enchanting:soul_touched_deepshelf"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:warden",
+      "title": "Достижение 80-го уровня",
+      "scale": 0.95,
+      "text": "Последний шаг к уровню 80 требует убийства $(9)Стража$(), что позволит создать $(9)Sculkshelves$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 80-го уровня",
+      "recipe": "apothic_enchanting:echoing_sculkshelf",
+      "recipe2": "apothic_enchanting:soul_touched_sculkshelf"
+    }
+  ]
+}

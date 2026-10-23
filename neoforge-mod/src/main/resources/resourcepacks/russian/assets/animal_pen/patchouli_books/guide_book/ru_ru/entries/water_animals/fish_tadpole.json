@@ -1,0 +1,22 @@
+{
+  "name": "Головастик",
+  "icon": "minecraft:tadpole_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:tadpole",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:diamond_sword",
+      "text": "Использование меча или топора в Аквариуме убьет головастика и уронит добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:water_bucket",
+      "text": "Вытащить головастика из аквариума можно с помощью ведра с водой."
+    }
+  ]
+}

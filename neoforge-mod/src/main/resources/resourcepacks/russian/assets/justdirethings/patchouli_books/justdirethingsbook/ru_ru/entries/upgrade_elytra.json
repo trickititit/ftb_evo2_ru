@@ -1,0 +1,17 @@
+{
+  "name": "Надкрылья",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_elytra",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Взлетайте в небо с улучшением «Надкрылья». Это улучшение снабжает вашу броню крыльями надкрылий, позволяющими летать при падении."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшение надкрылий",
+      "recipe": "justdirethings:upgrade_elytra"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Медеплавильня",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_smelter",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мгновенно выплавляйте предметы с помощью улучшения Плавильня. Применительно к инструментам это улучшение позволяет напрямую получать выплавленные продукты из добытой руды.$(br2)Использует некоторую прочность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшение плавильной печи",
+      "recipe": "justdirethings:upgrade_smelter"
+    }
+  ]
+}

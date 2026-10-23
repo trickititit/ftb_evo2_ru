@@ -1,0 +1,6 @@
+{
+  "name": "Одиночные пчелы",
+  "description": "Одиночных пчел можно найти нерестящимися в одиночных гнездах в окружающем мире.$(br2)$(l:hives/nests)О гнездах читайте здесь$(/l)",
+  "icon": "productivebees:oak_wood_nest",
+  "parent": "productivebees:bees"
+}

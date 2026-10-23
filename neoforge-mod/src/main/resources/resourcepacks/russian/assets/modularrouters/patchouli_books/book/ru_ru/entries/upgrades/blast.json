@@ -1,0 +1,15 @@
+{
+  "name": "Взрывное обновление",
+  "category": "modularrouters:upgrades",
+  "icon": "modularrouters:blast_upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это обновление делает маршрутизатор полностью невосприимчивым к урону от взрыва, а также к уничтожению боссами."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:blast_upgrade"
+    }
+  ]
+}

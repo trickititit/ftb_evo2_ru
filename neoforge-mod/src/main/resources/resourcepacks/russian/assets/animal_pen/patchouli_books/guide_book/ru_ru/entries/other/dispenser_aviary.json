@@ -1,0 +1,21 @@
+{
+  "name": "Диспенсер",
+  "icon": "minecraft:dispenser",
+  "category": "animal_pen:category_aviary",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "С некоторыми инструментами можно взаимодействовать с помощью дозатора."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "Вы можете использовать ножницы для загона для животных, в котором содержатся пчелы."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:glass_bottle",
+      "text": "Вы можете использовать стеклянную бутылку в загоне для животных, в котором содержатся пчелы."
+    }
+  ]
+}

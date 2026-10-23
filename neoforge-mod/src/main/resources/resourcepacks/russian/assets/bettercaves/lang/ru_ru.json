@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.bettercaves-fabric-26_1.title": "Лучшие пещеры YUNG",
+  "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions": "Жидкие регионы",
+  "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions.liquidRegionSize": "Размер жидкой области",
+  "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions.waterRegionSpawnChance": "Шанс появления водного региона",
+  "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions.liquidAltitude": "Жидкая высота"
+}

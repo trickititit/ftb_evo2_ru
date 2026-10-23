@@ -1,0 +1,47 @@
+{
+  "name": "Основы",
+  "sortnum": 0,
+  "category": "laserio:mechanics",
+  "icon": "laserio:logic_chip",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Щелчок правой кнопкой мыши по карте в вашей руке откроет ее пользовательский интерфейс. Вы также можете щелкнуть правой кнопкой мыши карту внутри пользовательского интерфейса $(l:laserio:laser_node)Node$(/l).$(br2)Режим вставки:$(br)1. $(l:laserio:modes)Режим$(/l)$(br)2. $(l:laserio:sneaky)Подлый$(/l)$(br)3. Фильтр$(br)4. $(l:laserio:overclocker_card)Карточный оверклокер$(/l)$(br)5. $(l:laserio:priority)Приоритет$(/l)$(br)6. $(l:laserio:channel)Канал$(/l)$(br)7. $(l:laserio:redstonemode)Режим красного камня$(/l)$(br)8. $(l:laserio:redstonechannel)Канал Редстоун$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Вставить пользовательский интерфейс",
+      "images": [
+        "laserio:textures/book/entries/basics1.png"
+      ],
+      "border": true,
+      "text": "Карточка товара в режиме вставки"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Режим извлечения:$(br2)1. $(l:laserio:modes)Режим$(/l)$(br)2. $(l:laserio:sneaky)Подлый$(/l)$(br)3. $(l:laserio:roundrobin)Круговая система$(/l)$(br)4. $(l:laserio:exact)Точно$(/l)$(br)5. Фильтр$(br)6. $(l:laserio:overclocker_card)Карточный оверклокер$(/l)$(br)7. $(l:laserio:extractamount)Сумма экстракта$(/l)$(br)8. $(l:laserio:tickspeed)Тиковая скорость$(/l)$(br)9. $(l:laserio:channel)Канал$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Извлечь пользовательский интерфейс",
+      "images": [
+        "laserio:textures/book/entries/basics-extract.png"
+      ],
+      "border": true,
+      "text": "Карточка предмета в режиме извлечения."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Стандартный режим:$(br2)1. $(l:laserio:modes)Режим$(/l)$(br)2. $(l:laserio:sneaky)Подлый$(/l)$(br)3. $(l:laserio:regulate)Регулировать$(/l)$(br)4. $(l:laserio:exact)Точно$(/l)$(br)5. Фильтр$(br)6. $(l:laserio:overclocker_card)Карточный оверклокер$(/l)$(br)7. $(l:laserio:extractamount)Сумма экстракта$(/l)$(br)8. $(l:laserio:tickspeed)Тиковая скорость$(/l)$(br)9. $(l:laserio:channel)Канал$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Стандартный интерфейс",
+      "images": [
+        "laserio:textures/book/entries/basics-stock.png"
+      ],
+      "border": true,
+      "text": "Карточка товара в режиме «Склад»."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemGroup.fertilization.fertilization": "Оплодотворение",
+  "block.fertilization.florists_bonemeal_block": "Блок костной муки флориста",
+  "block.fertilization.compressed_bonemeal_block": "Блок прессованной костной муки",
+  "block.fertilization.extremely_compressed_bonemeal_block": "Блок чрезвычайно спрессованной костной муки",
+  "fertilization.configuration.floristsBoneMealFallbackBiome": "Запасной биом костной муки флориста",
+  "fertilization.configuration.floristsBoneMealFallbackBiome.tooltip": "Биом, цветы которого используются, когда в текущем биоме не настроены цветы. Оставьте пустым, чтобы отключить резервный вариант."
+}

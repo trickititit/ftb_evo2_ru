@@ -1,0 +1,17 @@
+{
+  "name": "Везение",
+  "icon": "minecraft:rabbit_foot",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Удача$() приносит удачу!  То есть это увеличивает вероятность того, что вы получите лучшую добычу.$(p)Все может принести удачу."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "У вас может быть отрицательная удача, из-за чего получить лучшую добычу еще труднее."
+    }
+  ]
+}

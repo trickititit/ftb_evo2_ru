@@ -1,0 +1,12 @@
+{
+  "name": "Пчелиная банка",
+  "icon": "productivebees:jar_oak",
+  "category": "productivebees:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:jar_oak",
+      "text": "Покажите свою коллекцию пчел миру с помощью этого необычного стеклянного контейнера, идеально подходящего для хранения пчел. Используйте бункер или трубу, чтобы вставить $(l:items/bee_cage)клетку$(/l), содержащую пчелу по вашему выбору."
+    }
+  ]
+}

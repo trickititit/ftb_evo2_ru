@@ -1,0 +1,13 @@
+{
+  "name": "Максимальное здоровье",
+  "icon": "minecraft:apple",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Макс. здоровье$() контролирует количество имеющихся у вас очков здоровья (HP). Одно очко — половина сердца.$(p)Обычно обеспечивается доспехами или щитами."
+    }
+  ]
+}

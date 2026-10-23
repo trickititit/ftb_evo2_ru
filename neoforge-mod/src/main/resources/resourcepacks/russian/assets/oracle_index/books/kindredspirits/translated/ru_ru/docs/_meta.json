@@ -1,0 +1,46 @@
+{
+  "getting_started.mdx": {
+    "name": "С чего начать",
+    "icon": null
+  },
+  "kindred_charm.mdx": {
+    "name": "Родственный оберег",
+    "icon": null
+  },
+  "bond.mdx": {
+    "name": "Связь",
+    "icon": null
+  },
+  "leveling.mdx": {
+    "name": "Повышение уровня",
+    "icon": null
+  },
+  "stars.mdx": {
+    "name": "Звёзды и престиж",
+    "icon": null
+  },
+  "storage.mdx": {
+    "name": "Хранилище",
+    "icon": null
+  },
+  "abilities.mdx": {
+    "name": "Способности",
+    "icon": null
+  },
+  "equipment.mdx": {
+    "name": "Снаряжение",
+    "icon": null
+  },
+  "companion_bed.mdx": {
+    "name": "Лежанка спутника",
+    "icon": null
+  },
+  "spirits": {
+    "name": "Духи",
+    "icon": null
+  },
+  "commands.mdx": {
+    "name": "Команды",
+    "icon": null
+  }
+}

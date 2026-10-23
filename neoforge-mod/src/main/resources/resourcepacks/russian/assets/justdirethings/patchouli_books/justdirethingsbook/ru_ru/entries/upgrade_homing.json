@@ -1,0 +1,17 @@
+{
+  "name": "Возвращение домой",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_homing",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Повысьте свою точность с помощью обновления Homeing. Снаряды, модифицированные с помощью этого обновления, будут искать ближайшие цели, гарантируя, что ваши выстрелы никогда не промахнутся."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Самонаведение",
+      "recipe": "justdirethings:upgrade_homing"
+    }
+  ]
+}

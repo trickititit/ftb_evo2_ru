@@ -1,0 +1,37 @@
+{
+  "name": "Поверхность",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/surface.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Поверхностный режим расширит набор блоков, на которые вы смотрите. Пример см. на изображениях справа.$(br2)Режим «Нечеткий» позволит гаджету нацеливаться на любые блоки или только на те же блоки, что и тот, на который вы смотрите."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Поверхность нечеткая",
+      "images": [
+        "buildinggadgets2:textures/book/images/surface5.png",
+        "buildinggadgets2:textures/book/images/surface1.png",
+        "buildinggadgets2:textures/book/images/surface2.png"
+      ],
+      "border": true,
+      "text": "Переключите изображения выше, чтобы увидеть различные варианты."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот режим также доступен для обменника, и режим fuzzy работает так же. $(br2)Кроме того, в режиме подключения будут обмениваться только те блоки, которые связаны с теми, которые вы просматриваете. См. изображения справа для объяснения."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Поверхность подключена",
+      "images": [
+        "buildinggadgets2:textures/book/images/surface3.png",
+        "buildinggadgets2:textures/book/images/surface4.png"
+      ],
+      "border": true,
+      "text": "Переключите изображения выше, чтобы увидеть различные варианты."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "text": "Hephaestus Руководство"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Плавильные заводы, литье и расплавленный металл",
+        "color": "dark_gray"
+      }
+    ]
+  },
+  "default_language": "en_us"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Защита от смерти",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_deathprotection",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защитите себя от смертельного урона с помощью улучшения «Защита от смерти». Перемотайте время до момента, когда вы умерли, когда у вас было немного больше здоровья!$(br2)Требуется очень большое количество энергии кузницы и очень долгое время восстановления."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Защита от смерти",
+      "recipe": "justdirethings:upgrade_deathprotection"
+    }
+  ]
+}

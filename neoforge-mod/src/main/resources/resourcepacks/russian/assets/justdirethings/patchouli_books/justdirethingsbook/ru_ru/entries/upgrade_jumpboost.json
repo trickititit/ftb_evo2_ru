@@ -1,0 +1,17 @@
+{
+  "name": "Усиление прыжка",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_jumpboost",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Прыгайте выше с улучшением Jump Boost. Это улучшение увеличивает высоту прыжка, облегчая преодоление препятствий и достижение возвышенностей.$(br2)Может быть установлено на ботинки Ferricore уровня, но ботинки более высокого уровня позволяют совершать более высокие прыжки. На экране настроек доступен ползунок для его настройки."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшение Jump Boost",
+      "recipe": "justdirethings:upgrade_jumpboost"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Новые товары и многое другое",
+  "sortnum": 3,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:creative_goo",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Новые уровни Goo и Goo на базе FE"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Энергичная слизь",
+      "recipe": "justdynathings:energized_goo",
+      "text": "Новая слизь, требующая $(bold)Forge энергии$(), чтобы остаться в живых$(br)Уровень: $(bold)5$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Креативная жижа",
+      "recipe": "justdynathings:creative_goo",
+      "text": "Простая вещь, которая не может умереть$(br)Её можно переключать с помощью любых гаечных ключей$(br)Уровень уровня: $(bold)МАКС$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Заряженная старая слизь",
+      "text": "Кроме того, любую старую Goo 1–4-го уровня можно преобразовать в «заряженную форму», предназначенную в основном для создателей контента."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdynathings:charged_primogel_goo",
+      "recipe2": "justdynathings:charged_blazebloom_goo"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdynathings:charged_voidshimmer_goo",
+      "recipe2": "justdynathings:charged_shadowpulse_goo"
+    }
+  ]
+}

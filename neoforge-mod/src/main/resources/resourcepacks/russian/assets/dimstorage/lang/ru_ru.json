@@ -1,0 +1,10 @@
+{
+  "message.dimstorage.bind_dimchest": "щелкните правой кнопкой мыши, чтобы привязать DimChest",
+  "message.dimstorage.for_details": "для подробностей",
+  "message.dimstorage.hold": "Удерживать",
+  "message.dimstorage.press": "Пресса",
+  "gui.dimstorage.amount": "Количество: %s mB",
+  "gui.dimstorage.liquid": "Жидкость: %s",
+  "gui.dimstorage.luminosity": "Светимость: %s",
+  "gui.dimstorage.temperature": "Температура: %s °C"
+}

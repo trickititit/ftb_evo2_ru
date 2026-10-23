@@ -1,0 +1,22 @@
+{
+  "itemGroup.applied_oritech": "Применено Oritech",
+  "block.applied_oritech.me_dock": "Док-станция для меня",
+  "block.applied_oritech.me_pattern_provider_addon": "Дополнение поставщика шаблонов ME",
+  "block.applied_oritech.me_interface_addon": "Дополнение ME-интерфейса",
+  "block.applied_oritech.me_extended_pattern_provider_addon": "Дополнение расширенного поставщика шаблонов ME",
+  "block.applied_oritech.me_extended_interface_addon": "Расширенный интерфейс ME",
+  "tooltip.applied_oritech.me_extended_pattern_provider_addon": "Обеспечивает 36 слотов для шаблонов. Нажмите правой кнопкой мыши пустой рукой, чтобы включить автоматический возврат вывода.",
+  "tooltip.applied_oritech.me_extended_interface_addon": "Предоставляет 36 стандартных слотов с использованием страничного меню интерфейса ExtendedAE.",
+  "message.applied_oritech.not_attached": "Не прикреплено: поместите дополнения на док-станцию ME, подключенную к машине; установите док-станцию ​​в слот для дополнительных устройств на машине.",
+  "message.applied_oritech.no_dock": "На этом компьютере нет док-станции ME.",
+  "message.applied_oritech.dock_online": "Док-станция для меня онлайн: подключено %s дополнительных модулей.",
+  "message.applied_oritech.dock_offline": "Док-станция для меня в автономном режиме: проверьте питание сети и каналы.",
+  "message.applied_oritech.auto_return": "Возврат результатов в сеть: %s",
+  "message.applied_oritech.toggle_on": "на",
+  "message.applied_oritech.toggle_off": "выкл.",
+  "tooltip.applied_oritech.me_dock": "Подключает дополнительные модули ME данного аппарата к сети ME. Каждая док-станция и ее дополнения используют один канал.",
+  "tooltip.applied_oritech.me_pattern_provider_addon": "Позволяет сети ME работать с использованием этой машины. Помещает ингредиенты только во входные слоты машины.",
+  "tooltip.applied_oritech.me_interface_addon": "Сохраняет входные слоты машины заполненными настроенными вами предметами и запрашивает поделки, когда они заканчиваются.",
+  "config.jade.plugin_applied_oritech.grid_node_state": "Применено Oritech Состояние сети.",
+  "config.jade.plugin_applied_oritech.pattern_provider": "Применен поставщик шаблонов Oritech"
+}

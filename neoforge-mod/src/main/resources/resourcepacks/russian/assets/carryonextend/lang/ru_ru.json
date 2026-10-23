@@ -1,0 +1,11 @@
+{
+  "message.carryonextend.power_level": "Сила броска: %1$s/%2$s (%3$s%%)",
+  "advancement.carryonextend.root.title": "Продолжать Продлевать",
+  "advancement.carryonextend.root.description": "Бросайте все, что носите",
+  "advancement.carryonextend.tnt_thrower.title": "ТНТ метатель",
+  "advancement.carryonextend.tnt_thrower.description": "Бросьте зажженный ТНТ",
+  "advancement.carryonextend.self_destruction.title": "Самоуничтожение",
+  "advancement.carryonextend.self_destruction.description": "Вас убьет тротил, который вы бросили",
+  "advancement.carryonextend.player_throw.title": "Воздушный полет",
+  "advancement.carryonextend.player_throw.description": "Бросить игрока"
+}

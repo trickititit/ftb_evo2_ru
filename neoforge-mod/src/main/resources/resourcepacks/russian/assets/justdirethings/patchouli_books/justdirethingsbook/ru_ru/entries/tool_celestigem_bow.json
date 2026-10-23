@@ -1,0 +1,17 @@
+{
+  "name": "Celestigem Лук",
+  "sortnum": 18,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:bow_celestigem[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Лук Celestigem превосходит лук $(l:justdirethings:tool_blazegold_bow)Blazegold Лук$(/l), используя энергию Forge вместо прочности. Он вмещает до 10 000 FE, что идеально подходит для длительного использования без износа.$(br2)В этом луке есть 3 слота для канистр для зелий, позволяющих настраивать эффекты. Загрузите в него $(l:justdirethings:item_potion_canister)Канистры с зельями$(/l), чтобы получить улучшенные стрелы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:bow_celestigem",
+      "text": "Celestigem Изготовление лука"
+    }
+  ]
+}

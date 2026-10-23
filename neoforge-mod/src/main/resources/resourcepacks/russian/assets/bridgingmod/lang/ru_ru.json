@@ -1,0 +1,11 @@
+{
+  "key.category.bridgingmod.category": "Мостовой мод",
+  "config.bridgingmod.value.percentage": "%1$.2f ％",
+  "config.bridgingmod.title": "Мостовой мод",
+  "config.bridgingmod.option.minBridgeDistance": "Минимальное расстояние перекрытия",
+  "config.bridgingmod.option.minBridgeDistance.description.0": "На каком расстоянии от вас должен находиться блок, чтобы его можно было преодолеть?",
+  "config.bridgingmod.option.minBridgeDistanceHorizontal": "Минимальное горизонтальное расстояние",
+  "config.bridgingmod.option.minBridgeDistanceHorizontal.description.0": "На каком расстоянии от вас по горизонтали должен находиться блок, чтобы его можно было преодолеть.",
+  "config.bridgingmod.option.minBridgeDistanceVertical": "Минимальное вертикальное расстояние",
+  "config.bridgingmod.option.minBridgeDistanceVertical.description.0": "На каком расстоянии от вас по вертикали должен находиться блок, чтобы его можно было преодолеть."
+}

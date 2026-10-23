@@ -1,0 +1,42 @@
+{
+  "name": "Сбор генов",
+  "icon": "productivebees:gene",
+  "category": "productivebees:genetics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ботлер вместе с поршнем можно использовать для бутылирования пчел. Поместите пчелу посередине и потяните за рычаг. Убедитесь, что внутри разливочной машины есть пустые бутылки. Бросьте пчелу из бутылки в центрифугу, чтобы отделить полезное от мусора."
+    },
+    {
+      "type": "multiblock",
+      "name": "Пчелиный разливщик",
+      "multiblock": {
+        "mapping": {
+          "P": "minecraft:piston[facing=down]",
+          "B": "productivebees:bottler[has_bottle=true]"
+        },
+        "pattern": [
+          [
+            "P"
+          ],
+          [
+            " "
+          ],
+          [
+            "B"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "symmetrical": true,
+        "offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "enable_visualize": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Леггинсы из сплава Eclipse",
+  "sortnum": 22,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:eclipsealloy_leggings[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эти леггинсы, созданные для максимальной выносливости, питаются от 500 000 FE энергии Forge. Используйте $(l:justdirethings:item_pocket_generator)Карманный генератор$(/l), чтобы поддерживать их уровень мощности и функциональность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Изготовление поножей из сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_leggings"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Настройки аппарата Копир",
+  "sortnum": 9,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:machinesettingscopier",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот инструмент позволяет копировать настройки машины. Shift — щелкните правой кнопкой мыши на $(l:justdirethings:machines)Машине$(/l), чтобы скопировать его настройки, затем щелкните правой кнопкой мыши на другом компьютере, чтобы вставить их. Нажмите в воздухе, чтобы открыть меню и выбрать определенные настройки для копирования."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Настройки машины Ксерокопирование",
+      "recipe": "justdirethings:machinesettingscopier"
+    }
+  ]
+}

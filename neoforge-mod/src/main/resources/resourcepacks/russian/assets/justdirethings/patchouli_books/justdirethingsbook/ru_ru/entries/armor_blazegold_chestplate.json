@@ -1,0 +1,17 @@
+{
+  "name": "Blazegold Нагрудник",
+  "sortnum": 6,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_chestplate",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Нагрудник Blazegold не только обеспечивает усиленную защиту, но и обладает способностью восстановления лавы. Бросьте этот нагрудник в блок источника лавы, чтобы полностью восстановить его."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Blazegold Изготовление нагрудника",
+      "recipe": "justdirethings:blazegold_chestplate"
+    }
+  ]
+}

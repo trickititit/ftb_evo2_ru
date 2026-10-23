@@ -1,0 +1,17 @@
+{
+  "name": "Полет",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_flight",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Получите возможность неограниченного полета с улучшением «Полет». Это улучшение позволяет вам свободно летать в режиме выживания, так же, как и в творческом режиме.$(br2)Он использует энергию кузницы, чтобы держать вас в воздухе, так что не исчерпайте ее!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание полетов",
+      "recipe": "justdirethings:upgrade_flight"
+    }
+  ]
+}

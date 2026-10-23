@@ -1,0 +1,17 @@
+{
+  "name": "Необработанный блок Ferricore",
+  "sortnum": 0,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_ferricore_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Когда железный блок поглощается слизью Primogel, он превращается в необработанный блок Ferricore. Добывайте этот блок, чтобы получить необработанные предметы Ferricore, которые можно переплавить в слитки $(l:justdirethings:res_ferricore)Ferricore$(/l)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "justdirethings:raw_ferricore",
+      "text": "Raw Ferricore выпадает, когда вы ломаете блок Raw Ferricore."
+    }
+  ]
+}

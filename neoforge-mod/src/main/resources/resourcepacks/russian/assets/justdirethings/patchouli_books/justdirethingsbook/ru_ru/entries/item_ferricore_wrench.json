@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Гаечный ключ",
+  "sortnum": 3,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:ferricore_wrench",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ключ Ferricore — это универсальный инструмент, используемый для вращения блоков и соединения своперов. Незаменимая вещь для строителей и технических специалистов, стремящихся оптимизировать свои конструкции."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ferricore Изготовление гаечных ключей",
+      "recipe": "justdirethings:ferricore_wrench"
+    }
+  ]
+}

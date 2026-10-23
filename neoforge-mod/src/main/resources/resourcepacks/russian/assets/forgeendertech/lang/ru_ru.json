@@ -1,0 +1,12 @@
+{
+  "forgeendertech.configuration.maxVentPipeLength": "МаксVentPipeLength",
+  "forgeendertech.configuration.maxBlocksInMultiblock": "maxBlocksInMultiblock",
+  "forgeendertech.configuration.SmokeContainers": "ДымКонтейнеры",
+  "forgeendertech.configuration.debug": "отладка",
+  "forgeendertech.configuration.requiresDye": "требуется Краситель",
+  "forgeendertech.configuration.Painting": "Живопись",
+  "forgeendertech.configuration.pumpedChimneyAirflow": "перекачиваемыйДымоходВоздушный поток",
+  "forgeendertech.configuration.suctionHoppers": "всасывающие бункеры",
+  "forgeendertech.configuration.requiresWaterBucket": "требуетсяВедро с водой",
+  "forgeendertech.configuration.ventReachDistance": "VentReachDistance"
+}

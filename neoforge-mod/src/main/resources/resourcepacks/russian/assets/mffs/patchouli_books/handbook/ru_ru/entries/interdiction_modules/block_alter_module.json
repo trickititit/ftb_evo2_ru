@@ -1,0 +1,18 @@
+{
+  "name": "Модуль изменения блока",
+  "icon": "mffs:block_alter_module",
+  "category": "mffs:interdiction_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:block_alter_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль изменения блока$() является дополнительным модулем для $(l:mffs:machines/interdiction_matrix)Матрицы запрета$(). Это позволяет Матрице блокировать способность игрока размещать или разбивать блоки. Если игрок попытается сломать или разместить блок, попадающий в зону действия $(l:mffs:machines/interdiction_matrix)Матрицы запрета$(), он сообщит игроку, что у него нет разрешения на это, а затем отменит все, что он мог сделать."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:block_alter_module",
+      "text": "Создание модуля $(5)Block Alter$()."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemGroup.thunderrelics": "Громовые реликвии",
+  "entity.thunderrelics.thunder_king": "Король Грома",
+  "entity.thunderrelics.thrown_royal_weapon": "Брошенная королевская глефа",
+  "item.thunderrelics.thunder_king_spawn_egg": "Яйцо призыва Короля Грома",
+  "item.thunderrelics.royal_helmet": "Громовая Корона",
+  "item.thunderrelics.royal_chestplate": "Кираса Громового королевства",
+  "item.thunderrelics.royal_leggings": "Поножи Королевского Грома",
+  "item.thunderrelics.royal_boots": "Громовые королевские сапоги",
+  "item.thunderrelics.royal_glaive": "Королевская глефа",
+  "item.thunderrelics.royal_helmet.tooltip": "Когда враг нацелился на вас: вызовите декоративную молнию во врага, наносящую 10 урона и поджигающую его на 10 секунд.",
+  "item.thunderrelics.royal_chestplate.tooltip": "При ранении 30% шанс вызвать у врага декоративную молнию, наносящую 3 урона и поджигающую его на 3 секунды. Время восстановления: 1 секунда.",
+  "item.thunderrelics.royal_leggings.tooltip": "Во время дождя или в воде: получите Регенерацию I и Силу II.",
+  "item.thunderrelics.royal_boots.tooltip": "Получите Скорость II и идите по воде по недолговечному слою льда.",
+  "item.thunderrelics.royal_glaive.tooltip": "Удерживайте правую кнопку мыши, чтобы бросить. При попадании нанесите в 1,5 раза больше урона от атаки, а затем вызовите декоративную молнию против ближайших врагов."
+}

@@ -1,0 +1,21 @@
+{
+  "config.terralith.title": "Конфигурация Терралита",
+  "config.terralith.default": "По умолчанию: ",
+  "config.terralith.text.warning": "Эта конфигурация универсальна и будет применяться всякий раз, когда вы загружаете мир, при этом конфигурации генерации вступают в силу во вновь загруженных фрагментах.",
+  "config.terralith.category.modules": "Модули",
+  "config.terralith.option.custom_structures": "Пользовательские структуры",
+  "config.terralith.option.custom_structures.tooltip": "Создает специальные структуры, такие как укрепленные деревни и башни магов.",
+  "config.terralith.option.fog_tweaks": "Изменения тумана",
+  "config.terralith.option.fog_tweaks.tooltip": "Изменяет расстояние и цвет тумана в некоторых биомах, например болотах и пещерах.",
+  "config.terralith.option.intro_message": "Вступительное сообщение",
+  "config.terralith.option.intro_message.tooltip": "Показывает тост при создании нового мира, дает ссылку на дискорд и предупреждает о трудностях при попытке удаления.",
+  "config.terralith.option.skylands": "Скайлендс",
+  "config.terralith.option.skylands.tooltip": "Набор из четырех сезонных биомов, образующих небесные острова над глубокими океанами.",
+  "config.terralith.option.terrain_slabs": "Плиты местности",
+  "config.terralith.option.terrain_slabs.tooltip": "В биомах с каменной поверхностью будут генерироваться каменные плиты для сглаживания ландшафта.",
+  "config.terralith.option.vanilla_stone_gen": "Генерация ванильного камня",
+  "config.terralith.option.vanilla_stone_gen.tooltip": "Следует ванильному поведению и генерирует небольшие капли гранита, андезита и диорита по всему подземелью.",
+  "config.terralith.option.recipe_changes": "Изменения рецептов",
+  "config.terralith.option.recipe_changes.tooltip": "Позволяет создавать некоторые предметы, созданные из булыжника, из альтернативных камней, а также добавляет рецепт преобразования каменных плит в булыжник.",
+  "biome.terralith.deep_warm_ocean": "Глубокий теплый океан"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Руда Рентген",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_orexray",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Откройте для себя скрытые богатства с улучшением Ore X-Ray. Этот мощный инструмент позволяет вам видеть сквозь твердые блоки, обнаруживая ценные руды, спрятанные в камне.$(br2)Это обновление заменяет обновление сканера руды и активируется таким же образом."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Рентгеновское производство руды",
+      "recipe": "justdirethings:upgrade_orexray"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Одурманить",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_stupefy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Запутайте своих врагов с помощью улучшения Stupefy. Если посмотреть на врага и активировать эту способность горячей клавишей, он сразу забудет о вас!.$(br2)Более того, в течение нескольких мгновений они не смогут снова нацелиться на вас. У этой способности есть время восстановления!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание обновлений Stupefy",
+      "recipe": "justdirethings:upgrade_stupefy"
+    }
+  ]
+}

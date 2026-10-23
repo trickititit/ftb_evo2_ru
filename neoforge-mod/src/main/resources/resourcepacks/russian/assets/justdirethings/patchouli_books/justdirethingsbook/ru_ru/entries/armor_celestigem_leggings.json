@@ -1,0 +1,17 @@
+{
+  "name": "Celestigem Леггинсы",
+  "sortnum": 11,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:celestigem_leggings[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Celestigem Поножи используют энергию Forge, емкость которой составляет 10 000 FE, что обеспечивает повышенную долговечность. Заряжайте их на ходу с помощью $(l:justdirethings:item_pocket_generator)Карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Celestigem Изготовление леггинсов",
+      "recipe": "justdirethings:celestigem_leggings"
+    }
+  ]
+}

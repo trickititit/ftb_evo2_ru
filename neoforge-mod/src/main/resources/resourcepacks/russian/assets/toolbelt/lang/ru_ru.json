@@ -1,0 +1,15 @@
+{
+  "text.toolbelt.config.category.common_general": "Общие настройки",
+  "text.toolbelt.config.category.client_display": "Настройки дисплея",
+  "text.toolbelt.config.category.client_menu": "Настройки кругового меню",
+  "text.toolbelt.config.enable_sewing_kit_support": "Включить рецепты SewingKit",
+  "text.toolbelt.config.anvil_upgrading": "Включить рецепты улучшения наковальни",
+  "text.toolbelt.config.enable_grid_crafting": "Включить рецепты сетки крафта",
+  "text.toolbelt.config.custom_belt_slot_mode": "Специальная прорезь для ремня",
+  "text.toolbelt.config.show_belt_on_players": "Показывать пояс игрокам",
+  "text.toolbelt.config.belt_item_scale": "Шкала пояса",
+  "text.toolbelt.config.release_to_swap": "Выпустить на обмен",
+  "text.toolbelt.config.clip_mouse_to_circle": "Закрепите мышь, чтобы обвести",
+  "text.toolbelt.config.click_outside_bounds": "Разрешить нажатие за пределами границ",
+  "text.toolbelt.config.display_empty_slots": "Отображение пустых слотов"
+}

@@ -1,0 +1,15 @@
+{
+  "itemGroup.quantumcubes": "Квантовые кубики",
+  "block.quantumcubes.quantum_cube_tier_1": "Квантовый куб, уровень 1",
+  "block.quantumcubes.quantum_cube_tier_2": "Квантовый куб, уровень 2",
+  "block.quantumcubes.quantum_cube_tier_3": "Квантовый куб 3-го уровня",
+  "block.quantumcubes.quantum_cube_tier_4": "Квантовый куб 4-го уровня",
+  "block.quantumcubes.quantum_cube_tier_5": "Квантовый куб 5-го уровня",
+  "block.quantumcubes.quantum_block": "Квантовый блок",
+  "item.quantumcubes.quantum_remote": "Квантовый пульт",
+  "tooltip.quantumcubes.interior": "Внутреннее пространство: %s",
+  "tooltip.quantumcubes.desc": "Личное измерение, содержащееся в этом блоке",
+  "tooltip.quantumcubes.bound": "Привязан к кубу %s",
+  "tooltip.quantumcubes.enter": "Используйте %s, чтобы войти и выйти.",
+  "gui.quantumcubes.dim_missing": "Квантовое измерение не загружено."
+}

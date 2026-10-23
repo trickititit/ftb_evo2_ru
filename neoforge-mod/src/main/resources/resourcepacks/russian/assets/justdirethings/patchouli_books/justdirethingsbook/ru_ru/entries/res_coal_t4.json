@@ -1,0 +1,12 @@
+{
+  "name": "Затмение Эмбер",
+  "sortnum": 24,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t4",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уголь Eclipse Ember — это последняя версия специализированного угля, созданная путем помещения блока $(l:justdirethings:res_coal_t3)Угля Пламени Бездны$(/l) рядом с $(l:justdirethings:gooblock_tier4)Пульс Тени Гу$(/l). Он предлагает самую высокую плотность энергии среди типов угля."
+    }
+  ]
+}

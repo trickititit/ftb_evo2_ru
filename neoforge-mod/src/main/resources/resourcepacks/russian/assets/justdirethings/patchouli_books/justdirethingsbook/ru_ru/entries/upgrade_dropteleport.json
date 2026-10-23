@@ -1,0 +1,17 @@
+{
+  "name": "Отбросить телепорт",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_dropteleport",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Обеспечьте безопасность своей добычи с помощью обновления Drop Teleport. Это инновационное обновление телепортирует предметы прямо в связанный инвентарь.$(br2)Shift щелкните правой кнопкой мыши инструмент в инвентаре, например сундуке, чтобы привязать его. Теперь любой дроп с руд или мобов будет телепортироваться прямо туда!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Дроп Телепорт Улучшение Крафт",
+      "recipe": "justdirethings:upgrade_dropteleport"
+    }
+  ]
+}

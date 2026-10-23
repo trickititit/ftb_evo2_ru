@@ -1,0 +1,332 @@
+# Third-party notices
+
+Original modpack and quest text: FTB Team, FTB Evolution 2 1.4.0. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
+
+The MIT grant in LICENSE-CODE.txt covers only the original integration code and build scripts. It does not grant rights to third-party text or change upstream licenses. License metadata below is reproduced for attribution; it is not evidence of permission to redistribute a particular translation. Check applicable terms and any required permissions before publication.
+
+Upstream license/notice files, when present at the JAR root or META-INF, are included under META-INF/ftbevo2ru/licenses. JAR binaries and original mod classes are not bundled.
+
+## Source metadata
+
+- **Adrenaline — benbenlaw**. Declared license: MIT. Namespaces: adrenaline.
+- **Advanced AE — Pedroksl**. Declared license: LGPL-3.0. Namespaces: advanced_ae, ae2.
+- **AdvancedCoreInfo — Yanny**. Declared license: MIT. Namespaces: aci.
+- **AdvancedLootInfo — Yanny**. Declared license: MIT. Namespaces: ali.
+- **AE2 Import Export Card — Ultramega**. Declared license: MIT. Namespaces: ae2, ae2importexportcard.
+- **AE2NetworkAnalyzer — GlodBlock**. Declared license: LGPL-3.0. Namespaces: ae2, ae2netanalyser.
+- **AE2WTLib — mari_023, Ridanisaurus**. Declared license: MIT. Namespaces: ae2, ae2wtlib.
+- **Agritech: Evolved — MisterD Modding**. Declared license: MIT. Namespaces: agritechevolved.
+- **Anima — TechnoVision**. Declared license: All Rights Reserved. Namespaces: anima.
+- **Animal Pen — BONNe**. Declared license: GNU GPL 3.0. Namespaces: animal_pen.
+- **Animal Garden - Alligator Gar — aquarius_playz**. Declared license: All rights reserved. Namespaces: animalgarden_alligatorgar.
+- **Animal Garden - Bull Shark — aquarius_playz**. Declared license: All rights reserved. Namespaces: animalgarden_bullshark.
+- **Animal Garden - Crocodile — aquarius_playz**. Declared license: All rights reserved. Namespaces: animalgarden_crocodile.
+- **Animal Garden - Sea Otter — aquarius_playz**. Declared license: All rights reserved. Namespaces: animalgarden_seaotter.
+- **Animus: NeoVitae — TeamDman, Saereth**. Declared license: MIT. Namespaces: animusnv.
+- **Another Config Manager — Unfamily, Iskandert**. Declared license: MIT. Namespaces: another_config_manager.
+- **Apotheosis — Shadows_of_Fire**. Declared license: MIT License (code) / All Rights Reserved (assets). Namespaces: apotheosis.
+- **Apothic Compats — ianm1647**. Declared license: MIT. Namespaces: apotheosis, apothic_compats.
+- **Apothic Attributes — Shadows_of_Fire**. Declared license: MIT License. Namespaces: apothic_attributes.
+- **Apothic Enchanting — Shadows_of_Fire**. Declared license: MIT License. Namespaces: apothic_enchanting.
+- **Apothic Spawners — Shadows_of_Fire**. Declared license: MIT License. Namespaces: apothic_spawners.
+- **AppleSkin — squeek**. Declared license: The Unlicense. Namespaces: appleskin.
+- **Applied Oritech — Jiu_Qianqi**. Declared license: MIT. Namespaces: applied_oritech.
+- **Applied Cooking — ItsSebastrn**. Declared license: MIT. Namespaces: appliedcooking.
+- **Applied Energistics 2 — Team AppliedEnergistics**. Declared license: See GitHub repository for details. Namespaces: ae2.
+- **AppliedFlux — GlodBlock**. Declared license: LGPL-3.0. Namespaces: ae2, appflux.
+- **Aquarius Libs — aquarius_playz**. Declared license: All rights reserved. Namespaces: aquarius_libs.
+- **Architectural Building Wand — in2bubble**. Declared license: All Rights Reserved. Namespaces: architectural_building_wand.
+- **Armor Cosmetic — skd**. Declared license: MMPL-1.0.1. Namespaces: armor_cosmetic.
+- **Armor Poser — Mrbysco, ShyNieke**. Declared license: MIT. Namespaces: armorposer.
+- **Ars Magica: Legacy — Minecraftschurli, IchHabeHunger54**. Declared license: MIT. Namespaces: arsmagicalegacy.
+- **Artifacts — Wouter**. Declared license: MIT. Namespaces: artifacts.
+- **Auroral — Saereth**. Declared license: PolyForm-Shield-1.0.0 AND PolyForm-Perimeter-1.0.0. Namespaces: auroral.
+- **Auth Me — axieum**. Declared license: MIT. Namespaces: authme.
+- **BaguetteLib — Leclowndu93150**. Declared license: MIT. Namespaces: baguettelib.
+- **Balm — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: balm.
+- **Baubley Heart Canisters — Traverse_Joe**. Declared license: MIT. Namespaces: bhc.
+- **BEER — TheonlyTazz, BreakingBlocks**. Declared license: MIT. Namespaces: beer.
+- **Simple Belts — Me!**. Declared license: Insert License Here. Namespaces: belts.
+- **Better Advanced Tooltips — latvian.dev**. Declared license: MIT. Namespaces: betteradvancedtooltips.
+- **Better Advancements — way2muchnoise**. Declared license: "Don't Be a Jerk" non-commercial care-free license. Namespaces: betteradvancements.
+- **BetterBlockZ — riciJak**. Declared license: All Rights Reserved. Namespaces: betterblockz.
+- **Better Fishtanks — MINT_Gaming_Studios**. Declared license: All Rights Reserved. Namespaces: betterfishtanks.
+- **BHMenu — BisectHosting**. Declared license: All Rights Reserved. Namespaces: bhmenu.
+- **Bridging Mod — CG360**. Declared license: MIT. Namespaces: bridgingmod.
+- **Build Guide — brentmaas**. Declared license: Creative Commons Attribution-NonCommercial 3.0 Unported. Namespaces: buildguide.
+- **Building Gadgets 2 — Direwolf20**. Declared license: MIT (https://github.com/Direwolf20-MC/BuildingGadgets2/blob/main/LICENSE). Namespaces: buildinggadgets2.
+- **Cable Facades — Leclowndu93150, Thepigcat76, SuperMartijn642, Heather White, IMS212**. Declared license: ARR. Namespaces: cable_facades.
+- **Cable Tiers — Ultramega**. Declared license: MIT. Namespaces: cabletiers.
+- **CakeStickLib — Not declared**. Declared license: Ora Et Labora License. Namespaces: cakesticklib.
+- **Carry On — Tschipp, PurpliciousCow**. Declared license: GNU LGPLv3. Namespaces: carryon.
+- **CarryOnExtend — LirxOwO**. Declared license: GNU GPL 3.0. Namespaces: carryonextend.
+- **CC: Tweaked — Daniel Ratcliffe, Aaron Mills, SquidDev**. Declared license: ComputerCraft Public License (https://raw.githubusercontent.com/dan200/ComputerCraft/master/LICENSE). Namespaces: computercraft.
+- **Cloth Config v26.1 API — Not declared**. Declared license: GNU LGPLv3. Namespaces: cloth-config2.
+- **Collapsible Groups — StarskyXIII**. Declared license: MIT. Namespaces: collapsible_groups.
+- **Collective — Rick South**. Declared license: All rights reserved. Namespaces: collective.
+- **Color Blindness — Cech12**. Declared license: The MIT License (MIT). Namespaces: colorblindness.
+- **Colossal Reactors — Unfamily, Iskandert**. Declared license: MIT. Namespaces: colossal_reactors.
+- **Combat Roll — Daedelus**. Declared license: GPL-3.0. Namespaces: combat_roll.
+- **Comforts — Illusive Soulworks**. Declared license: LGPL-3.0-or-later. Namespaces: comforts.
+- **CommonCapabilities — Not declared**. Declared license: MIT. Namespaces: commoncapabilities.
+- **Compressium — DinnerBeef**. Declared license: All Rights Reserved. Namespaces: compressium.
+- **Configured — MrCrayfish**. Declared license: GNU Lesser General Public License v3.0. Namespaces: configured.
+- **Connected Glass — SuperMartijn642**. Declared license: All rights reserved. Namespaces: connectedglass.
+- **ConTex — XFactHD**. Declared license: LGPL v3. Namespaces: contex.
+- **Construction Sticks — Mrbysco, ShyNieke**. Declared license: MIT License. Namespaces: constructionstick.
+- **Controlling — Jaredlll08**. Declared license: MIT. Namespaces: controlling.
+- **Cooking for Blockheads — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: cookingforblockheads.
+- **Crafting on a Stick — OfekN**. Declared license: GNU GENERAL PUBLIC LICENSE. Namespaces: crafting_on_a_stick.
+- **Crafting Station — Leclowndu93150**. Declared license: MIT. Namespaces: craftingstation.
+- **Crafting Tweaks — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: craftingtweaks.
+- **Crash Utilities — Darkere**. Declared license: MIT LICENSE. Namespaces: crashutilities.
+- **CreativeCore — CreativeMD**. Declared license: LGPL-3.0-only. Namespaces: creativecore.
+- **Crystalix — Satherov**. Declared license: LGPLv3. Namespaces: crystalix.
+- **Cucumber Library — BlakeBr0**. Declared license: MIT. Namespaces: cucumber.
+- **Curios API — C4**. Declared license: LGPL-3.0-or-later. Namespaces: curios.
+- **Cyclops Core — Not declared**. Declared license: MIT. Namespaces: cyclopscore.
+- **Dank Storage — Tfarcenim**. Declared license: CC0-1.0. Namespaces: dankstorage.
+- **Decorative wooden lattices — Alexander8VKHZ**. Declared license: All Rights Reserved. Namespaces: decorativewoodenlattices.
+- **BetterBlockZ: DecorZ — Not declared**. Declared license: All Rights Reserved. Namespaces: decorz.
+- **Dim Energy — benbenlaw**. Declared license: MIT. Namespaces: dimenergy.
+- **Dimensional Resources — benbenlaw**. Declared license: MIT. Namespaces: dimresources.
+- **DimStorage — Edivad99**. Declared license: GNU AGPLv3. Namespaces: dimstorage.
+- **Director's Camera — Breakin Blocks**. Declared license: All Rights Reserved. Namespaces: directorscamera.
+- **Dungeons and Taverns Ancient City Overhaul — NovaWostra, Konci, MiziraGamez**. Declared license: LicenseRef-All-Rights-Reserved. Namespaces: dnt.
+- **Modular Drones — KesslerCascade, rearth**. Declared license: CC-BY-4.0. Namespaces: drones, oracle_index.
+- **Easy Piglins — Max Henkel**. Declared license: All rights reserved. Namespaces: easy_piglins.
+- **Easy Villagers — Max Henkel**. Declared license: All rights reserved. Namespaces: easy_villagers.
+- **Easy NPC — Markus Bordihn**. Declared license: MIT. Namespaces: easy_npc, easy_npc_example.
+- **Eccentric Tome — EccentricVamp, Thepigcat76**. Declared license: LGPL-3.0. Namespaces: eccentrictome.
+- **EclipseUI — coredex-source**. Declared license: MIT. Namespaces: eclipseui.
+- **ElevatorMod — VsnGamer**. Declared license: MIT. Namespaces: elevatorid.
+- **Emojiful — HRZN**. Declared license: MIT. Namespaces: emojiful.
+- **EnchantmentDescriptions — Darkhax**. Declared license: LGPL 2.1. Namespaces: enchdesc.
+- **Ender IO — CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid, Rover656, HypherionSA, liliandev, Ferri_Arnus, dphaldes**. Declared license: CC0. Namespaces: enderio.
+- **Ender IO:Evolution — Not declared**. Declared license: All Rights Reserved. Namespaces: enderio_evolution.
+- **Energized Power — JDDev0**. Declared license: MIT. Namespaces: energizedpower.
+- **Energy Meter — Almost Reliable**. Declared license: All Rights Reserved. Namespaces: energymeter.
+- **Entangled — SuperMartijn642**. Declared license: All rights reserved. Namespaces: entangled.
+- **EntityCulling — tr7zw**. Declared license: tr7zw Protective License. Namespaces: entityculling.
+- **Euphoria Patcher — SpacEagle17**. Declared license: MPL-2.0. Namespaces: euphoria_patcher.
+- **EvilCraft — Not declared; EvilCraft-Compat — Not declared**. Declared license: MIT. Namespaces: evilcraft, evilcraftcompat.
+- **Explorer's Compass — ChaosTheDude**. Declared license: CC BY-NC-SA 4.0. Namespaces: explorerscompass.
+- **ExtendedAE — GlodBlock**. Declared license: LGPL-3.0. Namespaces: ae2, extendedae.
+- **ExtraStorage — Edivad99**. Declared license: GNU AGPLv3. Namespaces: extrastorage.
+- **Extreme Sound Muffler — LeoBeliik**. Declared license: GNU LESSER GENERAL PUBLIC LICENSE. Namespaces: extremesoundmuffler.
+- **FancyMenu — Keksuccino**. Declared license: DSMSLv3.1 (DON'T SNATCH MA STUFF LICENSE v3.1). Namespaces: fancymenu.
+- **Fancy Tab Sections — wdiscute, Kaupenjoe, nanoattack, NicciCage, SockyWocky7**. Declared license: MIT. Namespaces: fancytabsections.
+- **Farming for Blockheads — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: farmingforblockheads.
+- **Fast Workbench — Shadows_of_Fire**. Declared license: MIT License. Namespaces: fastbench.
+- **Fertilization — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: fertilization.
+- **Flopper — Not declared**. Declared license: MIT. Namespaces: flopper.
+- **ForgeEndertech — EnderLanky**. Declared license: All rights reserved. Namespaces: forgeendertech.
+- **FramedBlocks — XFactHD**. Declared license: LGPL v3. Namespaces: framedblocks.
+- **Framework — MrCrayfish**. Declared license: LGPLv2.1. Namespaces: framework.
+- **FrostBear — Fatin Ishraq**. Declared license: MIT. Namespaces: frostbear.
+- **FTB Armory — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbarmory, ironfurnaces, oritech.
+- **FTB Auxilium — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbauxilium.
+- **FTB Backups 3 — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbbackups3.
+- **FTB Chunks — FTB Team**. Declared license: All Rights Reserved. Namespaces: ae2, ftbchunks, integrateddynamics, mininggadgets.
+- **FTB Echoes — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbechoes.
+- **FTB Essentials — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbessentials.
+- **FTB Evolution 2 Companion — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftb, ftbevolutioncompanion.
+- **FTB Industrial Contraptions — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbic.
+- **FTB Library — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftblibrary.
+- **FTB Materials — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbmaterials.
+- **FTB Pack Companion — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbpc.
+- **FTB Quests — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbquests.
+- **FTB Teams — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbteams.
+- **FTB Ultimine — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftbultimine.
+- **FTB Ocean Mobs — FTB Team**. Declared license: All Rights Reserved. Namespaces: ftblibrary.
+- **FTB Promoter — FTB Team**. Declared license: ARR. Namespaces: ftbpromoter.
+- **Functional Storage — Buuz135, Rid**. Declared license: MIT. Namespaces: functionalstorage.
+- **Fusion — SuperMartijn642**. Declared license: All rights reserved. Namespaces: fusion.
+- **Fzzy Config — fzzyhmstrs**. Declared license: TDL-M (https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified). Namespaces: fzzy_config.
+- **Gateways To Eternity — Shadows_of_Fire**. Declared license: MIT License. Namespaces: gateways.
+- **GeOre — ShyNieke, Mrbysco**. Declared license: MIT. Namespaces: geore.
+- **Get It Together, Drops! — bl4ckscor3**. Declared license: MIT. Namespaces: getittogetherdrops.
+- **Glassential-renewed — Big_Energy**. Declared license: MIT. Namespaces: glassential.
+- **Goblin Traders — MrCrayfish**. Declared license: MIT. Namespaces: goblintraders.
+- **Graveless — BreakInBlocks**. Declared license: PolyForm-Shield-1.0.0 AND PolyForm-Perimeter-1.0.0. Namespaces: graveless.
+- **Growth Accelerator Tiers — Satherov**. Declared license: LGPLv3. Namespaces: growthacceleratortiers.
+- **GuideME — Not declared**. Declared license: See GitHub repository for details. Namespaces: guideme.
+- **Hats — Astryxion**. Declared license: All Rights Reserved. Namespaces: hats.
+- **Hephaestus Forge — Not declared**. Declared license: All rights reserved. Namespaces: hephaestus.
+- **Hephaestus Tools — Not declared**. Declared license: All rights reserved. Namespaces: hephaestus_tools.
+- **HoloSigns — Mrbysco, ShyNieke**. Declared license: MIT. Namespaces: holosigns.
+- **Horse Powered — BreakInBlocks**. Declared license: MIT. Namespaces: horsepowered.
+- **Horsing Around — Mrbysco, ShyNieke**. Declared license: MIT. Namespaces: horsingaround.
+- **Hostile Neural Networks — Shadows_of_Fire**. Declared license: MIT License. Namespaces: hostilenetworks.
+- **Huge Structure Blocks — SamB440**. Declared license: LGPL-3.0. Namespaces: hugestructureblocks.
+- **Ice And Fire Community Edition — IAFEnvoy, xiaowu, uoay**. Declared license: LGPL-3.0. Namespaces: iceandfire.
+- **imfast — Bielhiss**. Declared license: GNU LGPL 3.0. Namespaces: imfast.
+- **Infinity Storage — benbenlaw**. Declared license: MIT. Namespaces: infinitystorage.
+- **IntegratedDynamics — Not declared; IntegratedDynamics-Compat — Not declared**. Declared license: MIT. Namespaces: integrateddynamics, integrateddynamicscompat.
+- **IntegratedTerminals — Not declared; IntegratedTerminals-Compat — Not declared**. Declared license: MIT. Namespaces: cyclopscore, integratedterminals, integratedterminalscompat.
+- **IntegratedTunnels — Not declared; IntegratedTunnels-Compat — Not declared**. Declared license: MIT. Namespaces: integratedtunnels.
+- **Interdimensional Wireless Transmitter — Ultramega**. Declared license: MIT. Namespaces: interdimensionalwirelesstransmitter.
+- **Inventory Essentials — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: inventoryessentials.
+- **Iris — coderbot, IMS212**. Declared license: LGPL-3.0-only. Namespaces: iris.
+- **Iron Furnaces — Qelifern (pizzaatime), XenoMustache, Astryxion**. Declared license: Apache License Version 2.0. Namespaces: ironfurnaces.
+- **Iron Jetpacks — BlakeBr0**. Declared license: MIT. Namespaces: ironjetpacks.
+- **Iron's Arms 'n Artifice — Not declared**. Declared license: All Rights Reserved. Namespaces: irons_artifice.
+- **Iron's Gems 'n Jewelry — Iron431**. Declared license: All Rights Reserved. Namespaces: irons_jewelry.
+- **Iron's Lib — Not declared**. Declared license: All Rights Reserved. Namespaces: irons_lib.
+- **Iskandert Library — Unfamily, Iskandert**. Declared license: MIT. Namespaces: iska_lib.
+- **Item Collectors — SuperMartijn642**. Declared license: All rights reserved. Namespaces: itemcollectors.
+- **Jade — Snownee**. Declared license: CC-BY-NC-SA-4.0. Namespaces: jade.
+- **Just Another Mining Dimension — UnRealDinnerbone**. Declared license: All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks. Namespaces: jamd.
+- **Just Another Void Dimension — UnRealDinnerbone**. Declared license: All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks. Namespaces: javd.
+- **Just Enough Archaeology — LobsterJonn**. Declared license: All Rights Reserved. Namespaces: jearchaeology.
+- **Just Enough Items — mezz**. Declared license: The MIT License (MIT). Namespaces: jei.
+- **Jupiter — IAFEnvoy**. Declared license: LGPL-3.0. Namespaces: jupiter.
+- **Just Hammers — ErrorMikey**. Declared license: GPL3. Namespaces: justhammers.
+- **Just Dire Fuels — Saereth**. Declared license: MIT. Namespaces: justdirefuels.
+- **Just Dire Things — Direwolf20**. Declared license: MIT. Namespaces: justdirethings.
+- **Just Dyna Things — Not declared**. Declared license: Ora Et Labora License. Namespaces: justdirethings, justdynathings.
+- **Just Enough Professions (JEP) — Mrbysco, ShyNieke**. Declared license: MIT. Namespaces: justenoughprofessions.
+- **Just Zoom — Keksuccino**. Declared license: DSMSLv3.1 (DON'T SNATCH MA STUFF LICENSE v3.1). Namespaces: justzoom.
+- **KeyBind Bundles — Matyrobbrt**. Declared license: MIT. Namespaces: keybindbundles.
+- **Kindred Spirits — Saereth, AlfredGG**. Declared license: All Rights Reserved. Namespaces: kindredspirits, oracle_index.
+- **Laser Bridges — Mars**. Declared license: MIT. Namespaces: laserbridges.
+- **LaserIO — Direwolf20, ErrorMikey**. Declared license: MIT (https://github.com/Direwolf20-MC/LaserIO/blob/main/LICENSE.txt). Namespaces: laserio.
+- **wd's Tooltips Library — wdiscute**. Declared license: wd's license of Doom and Despair. Namespaces: libtooltips.
+- **LimaCore — liedge**. Declared license: LGPL-3.0-or-later. Namespaces: limacore.
+- **Little Big Redstone — Swedz**. Declared license: MIT. Namespaces: little_big_redstone.
+- **Little Joys — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: littlejoys.
+- **LogisticsNetworks — AlmanX21**. Declared license: All Rights Reserved. Namespaces: logisticsnetworks.
+- **Loot Journal — Obscuria**. Declared license: Obscuria Ecosystem (OEL). Namespaces: loot_journal.
+- **Lootr — Noobanidus**. Declared license: https://github.com/noobanidus/Lootr/blob/1.16/LICENSE. Namespaces: lootr.
+- **LTX Industries — liedge**. Declared license: Source Code: LGPLv3 / Assets: All Rights Reserved. Namespaces: ltxi.
+- **Magnum Torch — Fuzs**. Declared license: MPL-2.0. Namespaces: magnumtorch.
+- **Malisis Doors (Reborn) — Mostly Harmless**. Declared license: ARR. Namespaces: malisisdoorsreborn.
+- **Malisis Switches (Reborn) — MostlyHarmless**. Declared license: ARR. Namespaces: malisisswitchesreborn.
+- **Mystical Agriculture Tiered Crystals — Electrolyte**. Declared license: MIT. Namespaces: matc.
+- **Macaw's Bridges — Sketch Macaw & Peachy Macaw**. Declared license: All Rights Reserved. Namespaces: mcwbridges.
+- **Macaw's Doors — Sketch Macaw & Sketch Peachy**. Declared license: MIT. Namespaces: mcwdoors.
+- **Macaw's Lights and Lamps — Sketch Macaw & Peachy Macaw**. Declared license: All Rights Reserved. Namespaces: mcwlights.
+- **Macaw's Paths and Pavings — Sketch Macaw & Peachy Macaw**. Declared license: MIT. Namespaces: mcwpaths.
+- **Macaw's Roofs — Sketch Macaw & Sketch Peachy**. Declared license: All Rights Reserved. Namespaces: mcwroofs.
+- **Macaw's Windows — Sketch Macaw & Peachy Macaw**. Declared license: All Rights Reserved. Namespaces: mcwwindows.
+- **Measurements — Mrbysco**. Declared license: MIT. Namespaces: measurements.
+- **MEInfinityCell — Not declared**. Declared license: All Rights Reserved. Namespaces: meinfinitycell.
+- **MezzConfig GUI — mezz**. Declared license: The MIT License (MIT). Namespaces: mezz_config_gui.
+- **Modular Force Field System — Su5eD, Built Broken Modding**. Declared license: Code: MIT, Assets: All Rights Reserved. Namespaces: mffs.
+- **Mining Gadgets — Direwolf20, ErrorMikey**. Declared license: MIT (https://github.com/Direwolf20-MC/MiningGadgets/blob/master/LICENSE.txt). Namespaces: mininggadgets.
+- **MINT Lib — MINT_Gaming_Studios**. Declared license: All Rights Reserved. Namespaces: mint_lib.
+- **Mob Flow Utilities — MisterD Modding**. Declared license: MIT. Namespaces: mobflowutilities.
+- **ModernFix — embeddedt**. Declared license: GNU LGPL 3.0. Namespaces: modernfix.
+- **Modonomicon — Kli Kli**. Declared license: MIT AND CC-BY-4.0. Namespaces: modonomicon.
+- **Modular Routers — Not declared**. Declared license: MIT. Namespaces: modularrouters.
+- **MoogsEndStructures — FinnDog**. Declared license: GNU Lesser General Public License v3.0. Namespaces: mes.
+- **MoogsNetherStructures — FinnDog**. Declared license: GNU Lesser General Public License v3.0. Namespaces: mns.
+- **MoogsSoaringStructures — FinnDog**. Declared license: GNU Lesser General Public License v3.0. Namespaces: mss.
+- **Moog's Structure Lib — FinnDog**. Declared license: https://github.com/FinnSetchell/MoogsStructureLib/blob/1.21.5/LICENSE. Namespaces: moogs_structures.
+- **MoogsTemplesReimagined — FinnDog**. Declared license: GNU Lesser General Public License v3.0. Namespaces: mtr.
+- **MoogsVoyagerStructures — FinnDog**. Declared license: GNU Lesser General Public License v3.0. Namespaces: mvs.
+- **More Overlays Updated — feldim2425, RiDGo8**. Declared license: The MIT License (MIT). Namespaces: moreoverlays.
+- **More Red — Commoble**. Declared license: MIT License. Namespaces: morered.
+- **Mutant Monsters — shcott21, Chumbanotz, Fuzs, tdstress**. Declared license: AGPL-3.0-or-later. Namespaces: mutantmonsters.
+- **Mystian Apiary — XeramGaming**. Declared license: MIT. Namespaces: mystianapiary.
+- **Mystical Agradditions — BlakeBr0**. Declared license: MIT. Namespaces: mysticalagradditions, mysticalagriculture.
+- **Mystical Agriculture — BlakeBr0**. Declared license: MIT. Namespaces: mysticalagriculture.
+- **Mystical Automation — BlakeBr0**. Declared license: MIT. Namespaces: mysticalagriculture, mysticalautomation.
+- **Nature's Compass — ChaosTheDude**. Declared license: CC BY-NC-SA 4.0. Namespaces: naturescompass.
+- **NauTec 2 — Thepigcat76, Leclowndu93150, Ktpatient, Reclipse, Iglee42**. Declared license: PolyForm Shield License 1.0.0 AND PolyForm Perimeter License 1.0.0. Namespaces: nautec.
+- **NeoSync — BreakinBlocks**. Declared license: MIT. Namespaces: neosync.
+- **Neo Vitae — WayofTime, Saereth**. Declared license: MIT. Namespaces: neovitae.
+- **Nodeworks — Not declared**. Declared license: CC0-1.0. Namespaces: nodeworks.
+- **Nutritional — Saereth**. Declared license: MIT. Namespaces: nutritional.
+- **Obsidian Boat — UnRealDinnerbone**. Declared license: All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks. Namespaces: obsidianboat.
+- **Occult Cooking — ItsSebastrn**. Declared license: MIT. Namespaces: occultcooking.
+- **Occultism — Kli Kli**. Declared license: MIT. Namespaces: occultism.
+- **Oracle Index — Me! - Rearth**. Declared license: CC0. Namespaces: oracle_index.
+- **Oritech — rearth_neosample**. Declared license: All Rights Reserved. Namespaces: oracle_index, oritech.
+- **Pantry for Blockheads — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: pantryforblockheads.
+- **Paraglider — Tictim**. Declared license: GNU General Public License version 3 (GPLv3). Namespaces: paraglider.
+- **Patchouli — Vazkii, williewillus**. Declared license: CC BY-NC-SA 3.0. Namespaces: patchouli.
+- **Peekaboo! — The Love Tropics Modding team**. Declared license: Mozilla Public License Version 2.0. Namespaces: peekaboo.
+- **Pipe Connector — Heaser, PotatoPoweredWizard**. Declared license: MIT License. Namespaces: pipe_connector.
+- **Pipez — Max Henkel**. Declared license: All rights reserved. Namespaces: pipez.
+- **PipezLagFix — AlmanX21**. Declared license: All Rights Reserved. Namespaces: pipezlagfix.
+- **Placebo — Shadows_of_Fire**. Declared license: MIT License. Namespaces: placebo.
+- **Plonk — Plonk contributors**. Declared license: MIT. Namespaces: plonk.
+- **Polylib — CreeperHost**. Declared license: BSD 4-Clause. Namespaces: polylib.
+- **Powah — owmii,Technici4n,shartte**. Declared license: LGPLv3. Namespaces: lollipop, powah.
+- **Productive Bees — LobsterJonn**. Declared license: All Rights Reserved. Namespaces: productivebees.
+- **Productive Farming — LobsterJonn**. Declared license: All Rights Reserved. Namespaces: productivefarming.
+- **Pufferfish's Attributes — Pufferfish**. Declared license: LGPL-3.0. Namespaces: puffish_attributes.
+- **Pufferfish's Skills — Pufferfish**. Declared license: All Rights Reserved. Namespaces: puffish_skills.
+- **Pylons — Not declared**. Declared license: All Rights Reserved. Namespaces: pylons.
+- **Quantum Cubes — titammods**. Declared license: MIT License. Namespaces: quantumcubes.
+- **Rain Shield — Mrbysco**. Declared license: MIT. Namespaces: rainshield.
+- **BloodMagic Additions — edgemq**. Declared license: GNU GPLv3. Namespaces: ae2, bmaddon.
+- **Recursive AE2 Pattern Provider — Lumengrid**. Declared license: All Rights Reserved. Namespaces: recursiveae2patternprovider.
+- **Refined Types — Ultramega**. Declared license: MIT. Namespaces: refinedtypes.
+- **Refined Cooking — ItsSebastrn**. Declared license: MIT. Namespaces: refinedcooking.
+- **Refined Fluid Substitution — Ultramega**. Declared license: MIT. Namespaces: refinedfluidsubstitution.
+- **Refined Storage - Curios Integration — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage_curios_integration.
+- **Refined Storage - JEI Integration — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage_jei_integration.
+- **Refined Storage — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage.
+- **Refined Storage - Quartz Arsenal — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage_quartz_arsenal.
+- **Reliquary Reincarnations — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: reliquary.
+- **Replication — Buuz135, Rid**. Declared license: MIT. Namespaces: replication.
+- **Resonance — Comfy**. Declared license: All Rights Reserved. Namespaces: resonance.
+- **Retro Factory Manager — Saereth**. Declared license: MIT. Namespaces: retrofactorymanager.
+- **Rocket Game Platform Client — Rocket Platform**. Declared license: MIT. Namespaces: rgp_client.
+- **Roots Classic — Elucent, Lothrazar, Mrbysco**. Declared license: MIT. Namespaces: rootsclassic.
+- **RSRRequestify: Reforged — Gotlicked**. Declared license: MIT. Namespaces: rsrreforged.
+- **Scannable Reforged — Sangar (original author), txmmytwostraps (NeoForge 26.1.2 port)**. Declared license: MIT. Namespaces: scannable.
+- **Searchables — Jaredlll08**. Declared license: MIT. Namespaces: searchables.
+- **wd's Selling Bin — Not declared**. Declared license: MIT. Namespaces: selling_bin.
+- **SG Economy API — SirGrantd**. Declared license: SirGrantd License. Namespaces: sg_economy.
+- **Shogi — BlayTheNinth**. Declared license: MIT. Namespaces: shogi.
+- **Shrink — Gigabit101**. Declared license: LGPL-3.0. Namespaces: shrink.
+- **Simple Weather — Soaryn**. Declared license: All Rights Reserved. Namespaces: simple_weather.
+- **Simple Discord Rich Presence — Sunekaer**. Declared license: All Rights Reserved. Namespaces: sdrp.
+- **Simple Magnets — SuperMartijn642**. Declared license: All rights reserved. Namespaces: simplemagnets.
+- **Simple Teleporters — Mrbysco, ShyNieke, Saereth**. Declared license: MIT. Namespaces: simpleteleporters.
+- **Sky Aesthetics — The Stellaris Team**. Declared license: CC0-1.0. Namespaces: sky_aesthetics.
+- **Sophisticated Backpacks — P3pp3rF1y, Ridanisaurus**. Declared license: All Rights Reserved. Namespaces: sophisticatedbackpacks.
+- **Sophisticated Core — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: sophisticatedcore.
+- **Sophisticated Inventory Interactions — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: sophisticatedinventoryinteractions.
+- **Sophisticated Item Actions — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: sophisticateditemactions.
+- **Sophisticated Storage — P3pp3rF1y, Ridanisaurus**. Declared license: All Rights Reserved. Namespaces: sophisticatedstorage.
+- **Sophisticated Storage In Motion — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: sophisticatedstorageinmotion.
+- **Squat Grow — Gaz**. Declared license: All rights reserved. Namespaces: squatgrow.
+- **Starcatcher — Not declared**. Declared license: wd's license of doom and despair. Namespaces: starcatcher.
+- **Stellaris — Exodus Studio**. Declared license: MIT. Namespaces: stellaris.
+- **Step Crafter — Ultramega**. Declared license: MIT. Namespaces: stepcrafter.
+- **Structurify — Faboslav**. Declared license: CC-BY-NC-ND-4.0. Namespaces: structurify.
+- **Super Factory Manager (SFM) — TeamDman**. Declared license: Mozilla Public License Version 2.0. Namespaces: sfm.
+- **SuperMartijn642's Core Lib — SuperMartijn642**. Declared license: All rights reserved. Namespaces: supermartijn642corelib.
+- **Tectonic — Apollo**. Declared license: MIT. Namespaces: tectonic.
+- **Terralith — Starmute, catter1, Apollo, TheKingWhale**. Declared license: MIT. Namespaces: terralith.
+- **Tesseract — SuperMartijn642**. Declared license: All rights reserved. Namespaces: tesseract.
+- **Tesseract API — Swedz**. Declared license: MIT. Namespaces: tesseract_api.
+- **Thunder Relics — HP**. Declared license: All Rights Reserved. Namespaces: thunderrelics.
+- **Time In A Bottle — RealMangoRage, MangoRage**. Declared license: MIT. Namespaces: tiab.
+- **Titanium — Not declared**. Declared license: GNU LESSER GENERAL PUBLIC LICENSE. Namespaces: titanium.
+- **Tool Belt — gigaherz**. Declared license: BSD (3 clause). Namespaces: toolbelt.
+- **Training Dummy — Not declared**. Declared license: All Rights Reserved. Namespaces: trainingdummy.
+- **Transparent AE2 — rearth**. Declared license: All Rights Reserved. Namespaces: transparentae2.
+- **Trash Cans — SuperMartijn642**. Declared license: All rights reserved. Namespaces: trashcans.
+- **TrashSlot — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: trashslot.
+- **Traveler's Titles — YUNGNICKYOUNG**. Declared license: LGPLv3. Namespaces: travelerstitles.
+- **Underwater Village — Leonxkingx**. Declared license: All Rights Reserved. Namespaces: underwater_village.
+- **Universal Grid — Ultramega**. Declared license: MIT. Namespaces: universalgrid.
+- **Utilitarian — LobsterJonn**. Declared license: All Rights Reserved. Namespaces: utilitarian.
+- **Volumetrics — Soaryn**. Declared license: CC BY-ND 4.0. Namespaces: volumetrics.
+- **Wakes — Leclowndu93150**. Declared license: MIT. Namespaces: wakes.
+- **Waystones — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: waystones.
+- **Weather Gate — UnRealDinnerbone**. Declared license: All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks. Namespaces: weathergate.
+- **Witchery — mrsterner**. Declared license: ARR. Namespaces: witchery.
+- **Witchery: Forbidden Magic — mrsterner**. Declared license: ARR. Namespaces: witchery_forbidden_magic.
+- **XyCraft: Core — Soaryn**. Declared license: All Rights Reserved. Namespaces: xycraft_core.
+- **XyCraft: Machines — Soaryn**. Declared license: All Rights Reserved. Namespaces: xycraft_machines.
+- **XyCraft: World — Soaryn**. Declared license: All Rights Reserved. Namespaces: xycraft_world.
+- **YUNG's API — YUNGNICKYOUNG**. Declared license: LGPLv3. Namespaces: yungsapi.
+- **YUNG's Better Caves — YUNGNICKYOUNG**. Declared license: LGPLv3. Namespaces: bettercaves.
+- **YUNG's Cave Biomes — YUNGNICKYOUNG, HellionGames, Sully, LudoCrypt, Jasmine, K.jpg, Neko, Frenderman, Refresh Studios**. Declared license: ARR. Namespaces: yungscavebiomes.
+- **Z-Core — riciJak**. Declared license: All Rights Reserved. Namespaces: z_core.

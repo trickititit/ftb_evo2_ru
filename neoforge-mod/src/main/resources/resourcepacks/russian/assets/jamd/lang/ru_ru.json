@@ -1,0 +1,19 @@
+{
+  "advancements.jamd.mining.description": "Введите измерение добычи полезных ископаемых",
+  "advancements.jamd.mining.title": "В бесконечность и под землю",
+  "biome.jamd.end": "Конец майнинга",
+  "biome.jamd.mining": "Добыча",
+  "biome.jamd.nether": "Пустота Горное дело",
+  "block.jamd.end_portal": "Портал конца майнинга",
+  "block.jamd.nether_portal": "Горный портал Пустоты",
+  "block.jamd.portal_block": "Горный портал",
+  "dimension.jamd.end": "Конец майнинга",
+  "dimension.jamd.mining": "Добыча",
+  "dimension.jamd.nether": "Пустота Горное дело",
+  "item.jamd.end_portal": "Портал конца майнинга",
+  "item.jamd.nether_portal": "Горный портал Пустоты",
+  "item.jamd.portal_block": "Горный портал",
+  "jamd.argument.world_type.invalid": "Неверный тип мира «%s»",
+  "jamd.invalid.pos": "Не удалось найти допустимое местоположение портала.",
+  "jamd.invalid.world": "Невозможно найти мир «%s»"
+}

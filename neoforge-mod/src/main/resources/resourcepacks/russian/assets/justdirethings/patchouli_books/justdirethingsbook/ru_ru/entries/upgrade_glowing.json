@@ -1,0 +1,17 @@
+{
+  "name": "Светящийся",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_glowing",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Это улучшение применит эффект «свечения» ко всем находящимся рядом живым существам — как к мобам, так и к пассивным животным!$(br2)Это активируемая способность, заменяющая сканер мобов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Светящееся ремесло",
+      "recipe": "justdirethings:upgrade_glowing"
+    }
+  ]
+}

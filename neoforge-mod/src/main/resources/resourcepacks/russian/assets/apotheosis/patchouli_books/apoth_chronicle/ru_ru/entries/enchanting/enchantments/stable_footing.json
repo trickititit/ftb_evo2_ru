@@ -1,0 +1,17 @@
+{
+  "name": "Стабильная опора",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Устойчивая опора$() — это чары для ботинок.$(p)Отменяет штраф за скорость отрыва при полете.$(p)Это включает в себя все штрафы за то, что вы не стоите на земле."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "В сочетании с $(9)Aqua Affinity$() вы можете плавать на полной скорости."
+    }
+  ]
+}

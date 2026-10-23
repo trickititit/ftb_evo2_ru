@@ -1,0 +1,17 @@
+{
+  "name": "Ferricore Топор",
+  "sortnum": 4,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_axe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Топор Ferricore не только эффективен при рубке дров, но и эффективен в качестве оружия. Он превосходит железный топор как по долговечности, так и по скорости резки и может быть дополнительно улучшен с помощью улучшений."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_axe",
+      "text": "Ferricore Изготовление топора"
+    }
+  ]
+}

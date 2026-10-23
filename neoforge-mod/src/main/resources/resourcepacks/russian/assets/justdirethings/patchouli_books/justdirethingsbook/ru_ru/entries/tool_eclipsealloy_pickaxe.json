@@ -1,0 +1,17 @@
+{
+  "name": "Кирка из сплава «Затмение»",
+  "sortnum": 21,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_pickaxe[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Кирка Eclipse Alloy сочетает в себе огромную прочность и мощный аккумулятор энергии, что делает ее идеальной для добычи даже самых твердых материалов. $(br2)Он способен поддерживать улучшения майнинга высокого уровня."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_pickaxe",
+      "text": "Изготовление кирки из сплава Eclipse"
+    }
+  ]
+}

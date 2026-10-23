@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "text": "Ветки навыков"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Как повышается уровень каждого дерева навыков в FTB Evolution 2",
+        "color": "dark_gray"
+      }
+    ]
+  },
+  "default_language": "en_us"
+}

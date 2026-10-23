@@ -1,0 +1,7 @@
+{
+  "name": "Новые чары",
+  "description": "В каждой записи в этом разделе подробно описаны новые чары, добавленные Apothic Enchanting.$(p)Чары из других модов Apothic, таких как Capturing, описаны в отдельных разделах.",
+  "icon": "minecraft:enchanted_book",
+  "flag": "apotheosis:enchanting",
+  "parent": "apotheosis:enchanting/enchanting"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Курица",
+  "icon": "minecraft:chicken_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:chicken",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:chicken_food",
+      "text": "Кормите цыплят семенами пшеницы, чтобы размножить их и увеличить их количество в загоне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "Использование меча или топора на загоне для животных убьет цыплят и уронит их добычу."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "Используйте ведро на Курином загоне, чтобы собрать яйца. Больше кур – больше яиц. [редстоун-взаимодействие 1]"
+    }
+  ]
+}

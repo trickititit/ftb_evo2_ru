@@ -1,0 +1,17 @@
+{
+  "gui.ae2wtlib.magnetcard.desc.me_no_magnet": "Магнит выключен, самовывоз до меня",
+  "gui.ae2wtlib.current_terminal": "Текущий терминал: %s",
+  "gui.ae2wtlib.terminal_empty": "Этот терминал не содержит других терминалов",
+  "gui.ae2wtlib.wireless_terminal_settings_title": "Настройки беспроводного терминала",
+  "gui.ae2wtlib.magnet_settings_title": "Настройки магнита",
+  "gui.ae2wtlib.pick_block.text": "Включить блокировку выбора",
+  "gui.ae2wtlib.craft_if_missing.text": "Крафт, если пропал",
+  "gui.ae2wtlib.restock.text": "Пополнение запасов",
+  "gui.ae2wtlib.magnet.text": "Магнит",
+  "gui.ae2wtlib.pickup_to_me.text": "Самовывоз в систему ME",
+  "gui.ae2wtlib.allow": "Разрешить",
+  "gui.ae2wtlib.deny": "Запретить",
+  "key.ae2.ae2wtlib_stow": "Уложите штабель в систему ME",
+  "ae2wtlib.configuration.magnet_card_range": "Диапазон магнитных карт",
+  "ae2wtlib.configuration.always_show_terminal_selector": "Всегда показывать универсальный выбор терминала"
+}

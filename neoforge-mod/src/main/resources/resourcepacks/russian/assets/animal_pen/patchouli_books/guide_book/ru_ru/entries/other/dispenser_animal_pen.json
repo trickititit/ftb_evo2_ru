@@ -1,0 +1,27 @@
+{
+  "name": "Диспенсер",
+  "icon": "minecraft:dispenser",
+  "category": "animal_pen:category_animal_pen",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "С некоторыми инструментами можно взаимодействовать с помощью дозатора."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "Вы можете использовать ножницы для загона для животных, в котором содержатся овцы."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "Вы можете использовать ведро на загоне для животных, в котором содержатся курица, корова, коза."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bowl",
+      "text": "Вы можете использовать миску на загоне для животных, в которой находится грибная корова."
+    }
+  ]
+}

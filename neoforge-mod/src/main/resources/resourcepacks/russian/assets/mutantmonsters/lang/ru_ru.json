@@ -1,0 +1,9 @@
+{
+  "advancements.mutantmonsters.root.description": "Существа-мутанты и звери, с которыми вам предстоит сразиться. Победишь ли ты или погибнешь?",
+  "advancements.mutantmonsters.root.title": "Монстры-мутанты",
+  "block.mutantmonsters.mutant_skeleton_skull.description": "Открывает мультивыстрел для луков.",
+  "item.mutantmonsters.mutant_skeleton_boots.description": "Предоставляет владельцу увеличенную высоту прыжка.",
+  "item.mutantmonsters.mutant_skeleton_chestplate.description": "Открывает возможность быстрого натягивания луков.",
+  "item.mutantmonsters.mutant_skeleton_leggings.description": "Увеличивает скорость владельца.",
+  "itemGroup.mutantmonsters.main": "Монстры-мутанты"
+}

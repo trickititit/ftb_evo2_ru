@@ -1,0 +1,17 @@
+{
+  "name": "Листолом",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_leafbreaker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение листолома — это активируемая способность. Просто щелкните правой кнопкой мыши блок листьев, чтобы активировать его, и все соседние блоки листьев также будут сломаны. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Улучшение Листолома",
+      "recipe": "justdirethings:upgrade_leafbreaker"
+    }
+  ]
+}
