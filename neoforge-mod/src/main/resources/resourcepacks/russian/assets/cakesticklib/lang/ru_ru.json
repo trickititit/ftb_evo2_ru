@@ -113,8 +113,8 @@
   "cakesticklib.tank_interact.empty": "Пусто",
   "cakesticklib.ui.dont_consume": "§cНе употреблять",
   "cakesticklib.upgrades.modifier.eject": "§7Выброс в: %s §7| Тип: %s",
-  "cakesticklib.upgrades.modifier.eject.shift": "§8§o<Shift-RightClick to configure>",
-  "cakesticklib.upgrades.modifier.empty": "§8§o<Put on a crafting grid to reset>",
+  "cakesticklib.upgrades.modifier.eject.shift": "§8§o<Shift + ПКМ для настройки>",
+  "cakesticklib.upgrades.modifier.empty": "§8§o<Поместите в сетку создания для сброса>",
   "cakesticklib.upgrades.modifier.energy": "§7Потребление энергии: %s",
   "cakesticklib.upgrades.modifier.fluid": "§7Использование жидкости: %s",
   "cakesticklib.upgrades.modifier.luck": "§7Вторичный выход: %s",
@@ -266,5 +266,13 @@
   "item.cakesticklib.wrought_iron_ingot": "Слиток кованого железа",
   "item.cakesticklib.wrought_iron_nugget": "Кованый железный самородок",
   "item.cakesticklib.wrought_iron_plate": "Кованая Железная Тарелка",
-  "item.cakesticklib.xenothite_deposit": "Месторождение ксенотита"
+  "item.cakesticklib.xenothite_deposit": "Месторождение ксенотита",
+  "cakesticklib.hold.ctrl": "§8Удерживайте [§7Control§8], чтобы увидеть подробности",
+  "cakesticklib.jade.hold.ctrl": "§7Удерживайте [§eControl§7], чтобы увидеть подробности",
+  "cakesticklib.jade.hold.shift": "§7Удерживайте [§eShift§7], чтобы увидеть подробности",
+  "cakesticklib.jade.textual_delay.multiplier": "[%sx§7] ",
+  "cakesticklib.jade.textual_delay.time.empty": "§eОжидание",
+  "cakesticklib.jade.textual_delay.time.left": "§7Ремесло§7 : §f%s",
+  "config.jade.plugin_cakesticklib.progressbar_delay": "Информация о рецептах индикатора прогресса",
+  "config.jade.plugin_cakesticklib.textual_delay": "Текстовая информация о рецептах прогресса"
 }

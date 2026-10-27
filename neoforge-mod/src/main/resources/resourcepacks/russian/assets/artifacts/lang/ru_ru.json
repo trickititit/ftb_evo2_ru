@@ -118,6 +118,9 @@
   "artifacts.tooltip.ability.attribute_modifiers.oxygen_bonus": "Увеличивает время, в течение которого владелец может оставаться под водой.",
   "artifacts.tooltip.ability.damage_absorption.chance": "Атаки ближнего боя владельца имеют шанс %s%% поглотить здоровье.",
   "artifacts.tooltip.ability.phantom_repellent": "Шипит на атакующих фантомов",
+  "artifacts.tooltip.ability.retaliation_effects.fire.chance": "С шансом %s%% поджигает нападающих",
+  "artifacts.tooltip.ability.retaliation_effects.lightning.chance": "С шансом %s%% поражает нападающих молнией",
+  "artifacts.tooltip.ability.retaliation_effects.thorns.chance": "С шансом %s%% наносит урон нападающим",
   "artifacts.tooltip.broken": "Сломанный",
   "artifacts.tooltip.missing_dependency": "Установите Curios, Trinkets Updated или Accessories, чтобы использовать этот предмет.",
   "artifacts.tooltip.plus_mob_effect": "+%s",
@@ -172,8 +175,5 @@
   "tag.item.artifacts.repairs_warp_drive": "Ремонт варп-двигателя",
   "tag.item.artifacts.repairs_whoopee_cushion": "Ремонт подушки Whoopee",
   "tag.item.artifacts.repairs_withered_bracelet": "Ремонт увядшего браслета",
-  "tag.item.artifacts.slot.face": "Артефакты, которые можно оборудовать в лицевой ячейке",
-  "artifacts.tooltip.ability.retaliation_effects.fire.chance": "С шансом %s%% поджигает нападающих",
-  "artifacts.tooltip.ability.retaliation_effects.lightning.chance": "С шансом %s%% поражает нападающих молнией",
-  "artifacts.tooltip.ability.retaliation_effects.thorns.chance": "С шансом %s%% наносит урон нападающим"
+  "tag.item.artifacts.slot.face": "Артефакты, которые можно оборудовать в лицевой ячейке"
 }

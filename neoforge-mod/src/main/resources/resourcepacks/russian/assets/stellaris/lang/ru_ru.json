@@ -127,5 +127,11 @@
   "painting.stellaris.proxima_centaury.title": "Проксима Центавра",
   "painting.stellaris.glacio.title": "Гласио",
   "subtitles.stellaris.beep": "Предупреждающие звуковые сигналы посадочного модуля",
-  "subtitles.stellaris.sonic_boom": "Звуковой бум"
+  "subtitles.stellaris.sonic_boom": "Звуковой бум",
+  "config.stellaris.foodConfig": "Настройки еды",
+  "config.stellaris.fluidCellWaterPerCan": "Жидкая клеточная вода в банке",
+  "config.stellaris.foodConfig.desc": "Настройки, связанные с употреблением консервов.",
+  "config.stellaris.foodConfig.fluidCellWaterPerCan.desc": "Минимальное количество воды, которое можно съесть",
+  "item.stellaris.tablet": "Планшет",
+  "item.stellaris.fluid_cell": "Жидкостная ячейка"
 }

@@ -23,7 +23,11 @@ def executable(name):
     if not resolved:
         parser.error('JDK 25 executable not found: ' + name)
     return resolved
-jar = next(p for p in (project / 'build/libs').glob('*.jar') if not p.name.endswith('-sources.jar'))
+version = next(line.split('=', 1)[1].strip() for line in (project / 'gradle.properties').read_text().splitlines() if line.startswith('mod_version='))
+artifacts = list((project / 'build/libs').glob('*-' + version + '.jar'))
+if len(artifacts) != 1:
+    parser.error('Build exactly one main JAR for mod_version=' + version + ' before running checks')
+jar = artifacts[0]
 ftb_library = pack / 'mods/ftb-library-neoforge-26.1.2.9.jar'
 with zipfile.ZipFile(ftb_library) as z:
     (work / 'json5-java.jar').write_bytes(z.read('META-INF/jarjar/json5-java-3.0.0.jar'))

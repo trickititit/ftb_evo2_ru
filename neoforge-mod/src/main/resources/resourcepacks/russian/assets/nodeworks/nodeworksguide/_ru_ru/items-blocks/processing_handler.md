@@ -5,6 +5,7 @@ navigation:
   title: "Обработчик обработки"
 categories:
   - autocrafting
+  - requires_controller
 description: "регистрирует обработчик набора обработки с использованием микросети"
 item_ids:
 - nodeworks:processing_handler
@@ -12,16 +13,18 @@ item_ids:
 
 # <a name="processing-handler" />Обработчик обработки
 
-Блочный обработчик для рецептов [Набор обработки](./recipe_sets.md#processing-set). Добавьте один из них в сеть, привяжите его к рецепту, и [Создание процессора](./crafting_cpu.md) направит ингредиенты рецепта на вашу машину и получит выходные данные обратно без необходимости писать какие-либо Lua.
+Блочный обработчик для рецептов [Набор обработки](./recipe_sets.md#processing-set). Добавьте один из них в сеть, привяжите его к рецепту, и [Процессор создания](./crafting_cpu.md) направит ингредиенты рецепта на вашу машину и получит выходные данные обратно без необходимости писать какие-либо Lua.
+
+> Для использования требуется <ItemLink id="network_controller" />
 
 <GameScene zoom="5" interactive={true} paddingLeft="30" paddingRight="30">
   <IsometricCamera yaw="160" roll="0" pitch="10" />
   <ImportStructure src="../assets/assemblies/basic_processing_handler.snbt" />
   <BoxAnnotation min="0 2 0" max="1 2.25 1" color="#3C44AA">
-    Карта памяти синего канала, указывающая на верхнюю часть печи.
+    <ItemImage id="storage_card" /> Карта памяти синего канала
   </BoxAnnotation>
   <BoxAnnotation min="0 0.75 0" max="1 1 1" color="#B02E26">
-    Карта памяти красного канала, указывающая на дно печи.
+    <ItemImage id="storage_card" /> Карта памяти красного канала
   </BoxAnnotation>
 </GameScene>
 

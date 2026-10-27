@@ -23,13 +23,13 @@
   "gui.extendedae.crystal_assembler.amount": "%s mb / %s mb",
   "gui.extendedae.config_modifier": "Модификатор конфигурации",
   "gui.extendedae.config_modifier.data_input": "Введите номер здесь",
+  "chat.ex_pattern_access_terminal.pos": "Поставщик шаблонов подсвечен в точке %s, измерение: %s (расстояние: %s блоков)",
   "chat.wireless_connect.out_of_port": "У беспроводного концентратора нет свободного порта",
+  "chat.wireless.highlight": "Беспроводной соединитель подсвечен в точке %s, измерение: %s (расстояние: %s блоков)",
   "jade.wireless_connector.used": "Используемый канал: %s",
   "key.extendedae.set_amount": "Установить сумму",
   "key.extendedae.category": "Расширенная АЭ",
   "emi.extendedae.category.fixer": "Кристальный фиксатор",
   "emi.extendedae.text.success_chance": "Шанс успеха: %s",
-  "emi.extendedae.text.energy": "%s АЭ",
-  "chat.ex_pattern_access_terminal.pos": "Поставщик шаблонов подсвечен в точке %s, измерение: %s (расстояние: %s блоков)",
-  "chat.wireless.highlight": "Беспроводной соединитель подсвечен в точке %s, измерение: %s (расстояние: %s блоков)"
+  "emi.extendedae.text.energy": "%s АЭ"
 }

@@ -1,6 +1,8 @@
 {
   "itemGroup.reliquary": "Reliquary",
   "item.reliquary.alkahestry_tome.tooltip3": "Щелкните правой кнопкой мыши, чтобы прочитать.",
+  "item.reliquary.elsewhere_flask.tooltip": "Позволяет одновременно выпить находящиеся внутри зелья.",
+  "item.reliquary.ender_staff.tooltip2": "Shift + колёсико мыши для переключения режимов:\n[Бросок, дальний бросок, телепортация к узлу или привязка]",
   "item.reliquary.ender_staff.tooltip.charge": "Эндер Жемчуг: %s",
   "item.reliquary.ender_staff.tooltip.position": "В настоящее время привязан к %s, %s, %s в %s",
   "item.reliquary.ender_staff.tooltip.position.nowhere": "На данный момент никуда не привязан.",
@@ -249,7 +251,5 @@
   "reliquary.configuration.shearsWrapperCooldown": "Перезарядка ножниц",
   "reliquary.configuration.redstoneWrapperRange": "Диапазон активации красного камня",
   "reliquary.configuration.fishingWrapperSuccessRate": "Вероятность успеха рыбалки (%)",
-  "reliquary.configuration.fishingWrapperRetractDelay": "Задержка втягивания ловли рыбы",
-  "item.reliquary.elsewhere_flask.tooltip": "Позволяет одновременно выпить находящиеся внутри зелья.",
-  "item.reliquary.ender_staff.tooltip2": "Shift + колёсико мыши для переключения режимов:\n[Бросок, дальний бросок, телепортация к узлу или привязка]"
+  "reliquary.configuration.fishingWrapperRetractDelay": "Задержка втягивания ловли рыбы"
 }

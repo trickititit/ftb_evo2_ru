@@ -186,7 +186,7 @@
     ]
   },
   {
-    "jar": "animusnv-26.1.2-5.2.19.jar",
+    "jar": "animusnv-26.1.2-5.2.20.jar",
     "namespaces": [
       "animusnv"
     ],
@@ -357,7 +357,7 @@
     ]
   },
   {
-    "jar": "architectural-building-wand-1.3.jar",
+    "jar": "architectural-building-wand-1.3.1.jar",
     "namespaces": [
       "architectural_building_wand"
     ],
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "jar": "arsmagicalegacy-26.1.2-1.7.0.jar",
+    "jar": "arsmagicalegacy-26.1.2-1.7.1.jar",
     "namespaces": [
       "arsmagicalegacy"
     ],
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "jar": "auroral-26.1.2-1.5.9.jar",
+    "jar": "auroral-26.1.2-1.5.10.jar",
     "namespaces": [
       "auroral"
     ],
@@ -643,7 +643,7 @@
     ]
   },
   {
-    "jar": "cakesticklib-1.17.5-hotfix-1.jar",
+    "jar": "cakesticklib-1.18.jar",
     "namespaces": [
       "cakesticklib"
     ],
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.jar",
+    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar",
     "namespaces": [
       "collapsible_groups"
     ],
@@ -903,7 +903,7 @@
     ]
   },
   {
-    "jar": "craftingstationjei-26.1.1-NeoForge-2.2.0.jar",
+    "jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
     "namespaces": [
       "craftingstation"
     ],
@@ -955,7 +955,7 @@
     ]
   },
   {
-    "jar": "crystalix-4.1.0+26.1.2.jar",
+    "jar": "crystalix-4.1.1+26.1.2.jar",
     "namespaces": [
       "crystalix"
     ],
@@ -1007,7 +1007,7 @@
     ]
   },
   {
-    "jar": "dankstorage-neoforge-26.1.2-1.jar",
+    "jar": "dankstorage-neoforge-26.1.2-2.jar",
     "namespaces": [
       "dankstorage"
     ],
@@ -1366,7 +1366,7 @@
     ]
   },
   {
-    "jar": "ExtraStorage-26.1.2-6.0.0.jar",
+    "jar": "ExtraStorage-26.1.2-6.1.0.jar",
     "namespaces": [
       "extrastorage"
     ],
@@ -1522,7 +1522,7 @@
     ]
   },
   {
-    "jar": "ftb-armory-26.1.2.8.jar",
+    "jar": "ftb-armory-26.1.2.10.jar",
     "namespaces": [
       "ftbarmory",
       "ironfurnaces",
@@ -1605,7 +1605,7 @@
     ]
   },
   {
-    "jar": "ftb-evolution-companion-26.1.2.22.jar",
+    "jar": "ftb-evolution-companion-26.1.2.24.jar",
     "namespaces": [
       "ftb",
       "ftbevolutioncompanion"
@@ -1892,7 +1892,7 @@
     ]
   },
   {
-    "jar": "hephaestus-neoforge-26.1.2-1.0.16.jar",
+    "jar": "hephaestus-neoforge-26.1.2-1.0.18.jar",
     "namespaces": [
       "hephaestus"
     ],
@@ -1905,7 +1905,7 @@
     ]
   },
   {
-    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.8.jar",
+    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.9.jar",
     "namespaces": [
       "hephaestus_tools"
     ],
@@ -1931,7 +1931,7 @@
     ]
   },
   {
-    "jar": "horsepowered-26.1.2-3.11.5.jar",
+    "jar": "horsepowered-26.1.2-3.11.6.jar",
     "namespaces": [
       "horsepowered"
     ],
@@ -2009,7 +2009,7 @@
     ]
   },
   {
-    "jar": "infinitystorage-26.1.2-2.0.2.jar",
+    "jar": "infinitystorage-26.1.2-2.0.3.jar",
     "namespaces": [
       "infinitystorage"
     ],
@@ -2022,7 +2022,7 @@
     ]
   },
   {
-    "jar": "integrateddynamics-26.1.2-neoforge-1.36.1.jar",
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
     "namespaces": [
       "integrateddynamics",
       "integrateddynamicscompat"
@@ -2040,7 +2040,7 @@
     ]
   },
   {
-    "jar": "integratedterminals-26.1.2-neoforge-1.10.0.jar",
+    "jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
     "namespaces": [
       "cyclopscore",
       "integratedterminals",
@@ -2429,7 +2429,7 @@
     ]
   },
   {
-    "jar": "limacore-26.1.2-2.11.0.jar",
+    "jar": "limacore-26.1.2-2.11.3.jar",
     "namespaces": [
       "limacore"
     ],
@@ -2507,7 +2507,7 @@
     ]
   },
   {
-    "jar": "ltxi-26.1.2-2.3.3.jar",
+    "jar": "ltxi-26.1.2-2.4.1.jar",
     "namespaces": [
       "ltxi"
     ],
@@ -2546,7 +2546,7 @@
     ]
   },
   {
-    "jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.9.jar",
+    "jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.10.jar",
     "namespaces": [
       "malisisswitchesreborn"
     ],
@@ -2964,7 +2964,7 @@
     ]
   },
   {
-    "jar": "nautec-26.1.2-NeoForge-2.0.14.jar",
+    "jar": "nautec-26.1.2-NeoForge-2.0.19.jar",
     "namespaces": [
       "nautec"
     ],
@@ -2977,7 +2977,7 @@
     ]
   },
   {
-    "jar": "NeoSync-26.1.2-1.7.2.jar",
+    "jar": "NeoSync-26.1.2-1.7.3.jar",
     "namespaces": [
       "neosync"
     ],
@@ -2990,7 +2990,7 @@
     ]
   },
   {
-    "jar": "neovitae-26.1.2-1.1.43.jar",
+    "jar": "neovitae-26.1.2-1.1.49.jar",
     "namespaces": [
       "neovitae"
     ],
@@ -3003,7 +3003,7 @@
     ]
   },
   {
-    "jar": "nodeworks-0.9.21.jar",
+    "jar": "nodeworks-0.11.1.jar",
     "namespaces": [
       "nodeworks"
     ],
@@ -3016,7 +3016,7 @@
     ]
   },
   {
-    "jar": "nutritional-26.1.2-1.2.3.jar",
+    "jar": "nutritional-26.1.2-1.2.4.jar",
     "namespaces": [
       "nutritional"
     ],
@@ -3081,7 +3081,7 @@
     ]
   },
   {
-    "jar": "oritech-2.0.0-exp11.jar",
+    "jar": "oritech-2.0.0-exp12.jar",
     "namespaces": [
       "oracle_index",
       "oritech"
@@ -3239,7 +3239,7 @@
     ]
   },
   {
-    "jar": "productivebees-26.1.2-15.3.0.jar",
+    "jar": "productivebees-26.1.2-15.4.0.jar",
     "namespaces": [
       "productivebees"
     ],
@@ -3448,7 +3448,7 @@
     ]
   },
   {
-    "jar": "reliquary-26.1.2-2.0.92.1563.jar",
+    "jar": "reliquary-26.1.2-2.0.94.1582.jar",
     "namespaces": [
       "reliquary"
     ],
@@ -3461,7 +3461,7 @@
     ]
   },
   {
-    "jar": "Replication-26.1.2-1.2.7.jar",
+    "jar": "Replication-26.1.2-1.2.8.jar",
     "namespaces": [
       "replication"
     ],
@@ -3470,6 +3470,19 @@
       {
         "name": "Replication",
         "authors": "Buuz135, Rid"
+      }
+    ]
+  },
+  {
+    "jar": "resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar",
+    "namespaces": [
+      "resettable_trial_chambers"
+    ],
+    "license": "MIT License",
+    "mods": [
+      {
+        "name": "Resettable Trial Vaults & Spawners",
+        "authors": "LitQA"
       }
     ]
   },
@@ -3669,7 +3682,7 @@
     ]
   },
   {
-    "jar": "sky_aesthetics-neoforge-2.1.4.jar",
+    "jar": "sky_aesthetics-neoforge-2.2.0.jar",
     "namespaces": [
       "sky_aesthetics"
     ],
@@ -3682,7 +3695,7 @@
     ]
   },
   {
-    "jar": "sophisticatedbackpacks-26.1.2-3.26.11.2198.jar",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.15.2224.jar",
     "namespaces": [
       "sophisticatedbackpacks"
     ],
@@ -3695,7 +3708,7 @@
     ]
   },
   {
-    "jar": "sophisticatedcore-26.1.2-1.5.14.2408.jar",
+    "jar": "sophisticatedcore-26.1.2-1.5.18.2424.jar",
     "namespaces": [
       "sophisticatedcore"
     ],
@@ -3721,7 +3734,7 @@
     ]
   },
   {
-    "jar": "sophisticateditemactions-26.1.2-0.4.17.432.jar",
+    "jar": "sophisticateditemactions-26.1.2-0.4.18.439.jar",
     "namespaces": [
       "sophisticateditemactions"
     ],
@@ -3734,7 +3747,7 @@
     ]
   },
   {
-    "jar": "sophisticatedstorage-26.1.2-1.5.122.2185.jar",
+    "jar": "sophisticatedstorage-26.1.2-1.5.123.2190.jar",
     "namespaces": [
       "sophisticatedstorage"
     ],
@@ -3786,7 +3799,7 @@
     ]
   },
   {
-    "jar": "stellaris-26.1.2-neoforge-2.0.8.jar",
+    "jar": "stellaris-26.1.2-neoforge-2.0.9.jar",
     "namespaces": [
       "stellaris"
     ],
@@ -3799,7 +3812,7 @@
     ]
   },
   {
-    "jar": "stepcrafter-neoforge-26.1.2-1.0.3.jar",
+    "jar": "stepcrafter-neoforge-26.1.2-1.0.4.jar",
     "namespaces": [
       "stepcrafter"
     ],
@@ -3929,7 +3942,7 @@
     ]
   },
   {
-    "jar": "titanium-26.1.2-4.0.12.jar",
+    "jar": "titanium-26.1.2-4.0.14.jar",
     "namespaces": [
       "titanium"
     ],
@@ -4072,19 +4085,6 @@
     ]
   },
   {
-    "jar": "wakes-26.1.2-NeoForge-1.4.1.jar",
-    "namespaces": [
-      "wakes"
-    ],
-    "license": "MIT",
-    "mods": [
-      {
-        "name": "Wakes",
-        "authors": "Leclowndu93150"
-      }
-    ]
-  },
-  {
     "jar": "waystones-neoforge-26.1.2-26.1.2.16.jar",
     "namespaces": [
       "waystones"
@@ -4111,7 +4111,7 @@
     ]
   },
   {
-    "jar": "witchery-0.5.22+mc26.1.2.jar",
+    "jar": "witchery-0.5.26+mc26.1.2.jar",
     "namespaces": [
       "witchery"
     ],

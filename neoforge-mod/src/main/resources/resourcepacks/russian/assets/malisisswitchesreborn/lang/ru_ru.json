@@ -133,5 +133,13 @@
   "message.malisisswitchesreborn.remote_transmitter.location": "[%1$s; %2$s]",
   "message.malisisswitchesreborn.remote_transmitter.cleared": "Ссылки очищены (%s / %s)",
   "message.malisisswitchesreborn.remote_transmitter.link_full": "Достигнут предел удаленного соединения (%s / %s)",
-  "message.malisisswitchesreborn.remote_transmitter.activated": "Активированные устройства: %s / %s"
+  "message.malisisswitchesreborn.remote_transmitter.activated": "Активированные устройства: %s / %s",
+  "block.malisisswitchesreborn.industrial_rotary_lever": "Промышленный поворотный рычаг",
+  "tooltip.malisisswitchesreborn.industrial_rotary_lever": "Поворотный рычаг в индустриальном стиле, который может управлять током красного камня на расстоянии.",
+  "block.malisisswitchesreborn.emergency_stop": "Аварийная остановка",
+  "tooltip.malisisswitchesreborn.emergency_stop": "Мигающая кнопка аварийной остановки, которая может управлять током красного камня на расстоянии.",
+  "subtitles.malisisswitchesreborn.emergency_stop_activate": "Аварийная остановка активирована",
+  "subtitles.malisisswitchesreborn.emergency_stop_reset": "Сброс аварийной остановки",
+  "block.malisisswitchesreborn.analog_bar": "Аналоговая панель",
+  "tooltip.malisisswitchesreborn.analog_bar": "Аналоговый индикатор для мониторинга уровня мощности красного камня."
 }

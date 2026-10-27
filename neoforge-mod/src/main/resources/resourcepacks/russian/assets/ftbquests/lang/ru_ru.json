@@ -157,7 +157,7 @@
   "ftbquests.quest.shape.octagon": "Октагон",
   "ftbquests.quest.shape.heart": "Сердце",
   "ftbquests.quest.shape.gear": "Шестерня",
-  "ftbquests.quest.shape.none": "<None>",
+  "ftbquests.quest.shape.none": "<Нет>",
   "ftbquests.quest.misc.completion_count": "Завершено %s раз",
   "ftbquests.quest.misc.completion_count.plural": "Выполнено %s раз.",
   "ftbquests.quest.misc.repeat_cooldown": "Время восстановления повторения задания",
@@ -272,6 +272,7 @@
   "ftbquests.task.task_screen_only": "Предметы можно отправлять ТОЛЬКО через экран задач!",
   "ftbquests.task.grab_item": "Захватить копию предмета",
   "ftbquests.task.gave_item": "Дал элемент задачи: %s",
+  "ftbquests.task.ftbquests.item.convert_tag": "Преобразовать в фильтр по тегу «%s»",
   "ftbquests.task.ftbquests.item.select_tag": "Выберите тег элемента",
   "ftbquests.task.ftbquests.item.match_components": "Соответствие компонентов данных",
   "ftbquests.task.ftbquests.item.match_components.tooltip": "Нет: игнорировать данные компонента элемента.\nНечеткий: проверяйте только компоненты данных, присутствующие в стеке фильтров.\nСтрогий: компоненты данных стека фильтров должны точно соответствовать проверенному элементу.",
@@ -436,6 +437,5 @@
   "ftbquests.event.move_chapter_across": "Переместите %s '%s' -> %s '%s'",
   "ftbquests.event.move_object": "Переместить %s '%s' %s",
   "ftbquests.event.move_movable": "Переместить %s '%s'",
-  "ftbquests.event.update_translation": "Обновить перевод %s %s '%s'",
-  "ftbquests.task.ftbquests.item.convert_tag": "Преобразовать в фильтр по тегу «%s»"
+  "ftbquests.event.update_translation": "Обновить перевод %s %s '%s'"
 }

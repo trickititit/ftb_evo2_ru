@@ -9,7 +9,11 @@ categories:
 
 # <a name="celestine-farm" />Ферма целестина
 
-<ItemLink id="budding_celestine" /> можно легко фармить, используя <ItemLink id="breaker" /> и <ItemLink id="terminal" />.
+<ItemLink id="budding_celestine" /> можно легко фармить, используя <ItemLink id="breaker" /> и, опционально, <ItemLink id="terminal" />.
+
+Брейкеры должны быть отфильтрованы, чтобы сломать `#c:clusters`
+
+![изображение графического интерфейса прерывателя с кластерами, установленными в качестве фильтра для разрушения](../assets/images/breaker_clusters.png)
 
 <GameScene zoom="4" interactive={true} paddingLeft="30" paddingRight="30">
   <ImportStructure src="../assets/assemblies/celestine_farm.snbt" />

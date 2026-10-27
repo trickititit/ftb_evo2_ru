@@ -96,7 +96,6 @@
   "item.ftbmaterials.plutonium_chunk": "Кусок плутония",
   "jukebox_song.ftb.hyper_evolution": "Гипер Эволюция",
   "key.category.configured.configured": "Настроен",
-  "key.category.deepnullreforged.general": "ДипНулл",
   "key.category.justzoom.keybind.category.main": "Просто увеличить",
   "key.category.moreoverlays.main": "Больше наложений",
   "key.category.nutritional.nutritional": "Пищевая",
@@ -611,7 +610,6 @@
   "skill.ftb.melee.swordsman_cap.title": "Мечник",
   "skill.ftb.melee.swordsman_cap.description": "Ваш блок меча теперь сводит на нет весь урон спереди. Еще 10% шанс эха, 10% шанс встряски и +2,5 урона от атаки.",
   "skill.ftb.melee.unarmed_hub.title": "Мастерство безоружного боя",
-  "skill.ftb.melee.unarmed_hub.description": "+5% урона в ближнем бою. Открывает пути Драка и Джаггернаута.",
   "skill.ftb.melee.wargod_cap.title": "Бог войны",
   "skill.ftb.melee.wargod_cap.description": "Еще +25% урона от двуручного оружия, +25% урона от смертельного удара и +2,5 урона от атаки.",
   "skill.ftb.melee.armor_+1.title": "Поднятая защита",
@@ -1159,10 +1157,8 @@
   "skill.ftb.ranged.doom.description": "Раз в 10 секунд попадание метательного оружия ослепляет цель и дает ей Медлительность IV на 2 секунды и наносит тем больше урона, чем ниже ее здоровье: + 100% при половине здоровья, до + 200% при смерти.",
   "skill.ftb.ranged.volley_cap.title": "Залп",
   "skill.ftb.ranged.volley_cap.description": "25% шанс, что в результате броска рядом с ним разлетятся 2 дополнительные копии. Копии невозможно забрать. +10% к скорости броска и +15% к шансу удержания.",
-  "item.ftb.adamantite_capacitor": "Адамантитовый конденсатор",
-  "item.ftb.aeternium_capacitor": "Этерниевый конденсатор",
-  "item.ftb.aurichalcum_capacitor": "Аурихальковый конденсатор",
-  "fluid_type.ftb.bio_resin": "Биосмола",
-  "block.ftb.bio_resin": "Биосмола",
-  "item.ftb.bio_resin_bucket": "Ведро биосмолы"
+  "block.ftb.adamantite_coolant": "Адамантитовый охладитель",
+  "block.ftb.aeternium_coolant": "Этерниевый охладитель",
+  "block.ftb.aurichalcum_coolant": "Аурихалковый охладитель",
+  "skill.ftb.melee.unarmed_hub.description": "+3 урона без оружия. Открывает пути Драка и Джаггернаута."
 }

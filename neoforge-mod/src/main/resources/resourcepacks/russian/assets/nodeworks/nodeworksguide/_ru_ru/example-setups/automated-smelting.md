@@ -14,13 +14,25 @@ categories:
 <GameScene zoom="4" interactive={true} paddingLeft="30" paddingRight="30">
   <ImportStructure src="../assets/assemblies/automated_smelting.snbt" />
   <IsometricCamera yaw="190" pitch="10" />
+  <BlockAnnotation x="7" y="4">
+  ![](../assets/images/automated_smelting_export_raw.png)
+  </BlockAnnotation>
+  <BlockAnnotation x="7" y="3">
+  ![](../assets/images/automated_smelting_import_raw.png)
+  </BlockAnnotation>
+  <BlockAnnotation x="5" y="3">
+  ![](../assets/images/automated_smelting_export_cooked.png)
+  </BlockAnnotation>
+  <BlockAnnotation x="5" y="4">
+  ![](../assets/images/automated_smelting_import_cooked.png)
+  </BlockAnnotation>
   <DiamondAnnotation pos="7.5 4 0.5" color="#ff0000">
-    В графическом интерфейсе экспортного сундука из синей сети есть элементы, нажимающие вниз.
+    При экспорте сундука из сети хранения в его графическом интерфейсе установлены элементы, перемещаемые вниз.
 
     **Эти два сундука не связаны друг с другом, они являются частью двух отдельных сетей.**
   </DiamondAnnotation>
   <DiamondAnnotation pos="5.5 4 0.5" color="#ff0000">
-    Экспортный сундук из Зеленой сети перемещает свои предметы вверх, что установлено в его графическом интерфейсе.
+    Экспортировать сундук из печи. Сеть перемещает свои предметы вверх, что установлено в его графическом интерфейсе.
 
     **Эти два сундука не связаны друг с другом, они являются частью двух отдельных сетей.**
   </DiamondAnnotation>
@@ -32,3 +44,33 @@ categories:
   </BoxAnnotation>
 </GameScene>
 
+При желании вы можете использовать <ItemLink id="terminal" />, чтобы добиться того же с большей гибкостью.
+
+<GameScene zoom="4" interactive={true} paddingLeft="30" paddingRight="30">
+  <ImportStructure src="../assets/assemblies/automated_smelting_scripting.snbt" />
+  <IsometricCamera yaw="190" pitch="10" />
+  <BoxAnnotation min="5 1 0" max="8 1.25 1" color="#22C55E">
+    <ItemImage id="io_card" /> Карты ввода-вывода
+  </BoxAnnotation>
+</GameScene>
+
+С помощью следующего скрипта:
+
+<LuaCode>
+```lua
+local furnaces = network:cards("furnace_*")
+-- put raw materials and ores into the furnaces
+importer
+    :from(network)
+    :to(furnaces:face("top"))
+    :filter("#c:raw_materials")
+    :filter("#c:ores")
+    :roundrobin()
+    :start()
+-- take the finished ingots out of the furnaces
+importer
+    :from(furnaces:face("bottom"))
+    :to(network)
+    :start()
+```
+</LuaCode>

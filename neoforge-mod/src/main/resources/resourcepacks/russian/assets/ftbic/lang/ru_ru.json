@@ -369,6 +369,7 @@
   "ftbic.unit.zaps": "%s хлопает",
   "ftbic.unit.zaps_per_tick": "%s z/t",
   "ftbic.upgrade.cannot_insert": "Эта машина не может принять больше этого обновления",
+  "ftbic.zap_to_fe_conversion": "%s = %s FE",
   "item.ftbic.active_nuke": "Активная ядерная бомба",
   "item.ftbic.advanced_canning_machine": "Усовершенствованная консервная машина",
   "item.ftbic.advanced_centrifuge": "Усовершенствованная центрифуга",
@@ -660,6 +661,5 @@
   "subtitles.ftbic.radiation": "Радиационные потрескивания",
   "subtitles.ftbic.reactor_critical": "Критическая температура реактора",
   "subtitles.ftbic.reactor_warning": "Предупреждение о перегреве реактора",
-  "subtitles.ftbic.teleport": "Телепорт активируется",
-  "ftbic.zap_to_fe_conversion": "%s = %s FE"
+  "subtitles.ftbic.teleport": "Телепорт активируется"
 }

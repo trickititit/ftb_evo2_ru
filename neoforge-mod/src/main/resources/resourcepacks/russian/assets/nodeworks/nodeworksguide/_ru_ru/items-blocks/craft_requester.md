@@ -5,6 +5,7 @@ navigation:
   title: "Запрашивающий ремесло"
 categories:
   - device
+  - requires_controller
 description: "начинает работу по автокрафту по сигналу красного камня"
 item_ids:
 - nodeworks:craft_requester
@@ -13,6 +14,8 @@ item_ids:
 # <a name="craft-requester" />Запрашивающий ремесло
 
 Запрашивающий ремесло начинает работу по автокрафту, когда получает сигнал красного камня. Настройте его, указав предмет для изготовления и размер партии.
+
+> Для использования требуется <ItemLink id="network_controller" />
 
 <GameScene interactive={true} zoom="5" paddingLeft="40" paddingRight="40">
   <ImportStructure src="../assets/assemblies/craft_requester_door.snbt" />

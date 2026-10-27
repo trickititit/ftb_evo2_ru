@@ -1442,6 +1442,7 @@
   "item.occultism.familiar_glove.tooltip": "Занят знакомым %s",
   "item.occultism.familiar_glove.tooltip.empty": "Не содержит знакомых.",
   "item.occultism.familiar_glove.tooltip.familiar_type": "[Тип: %s]",
+  "item.occultism.familiar_ring.tooltip": "Занято фамильяром %s",
   "item.occultism.familiar_tablet": "Знакомый планшет",
   "item.occultism.familiar_tablet.auto_tooltip": "Щелкните правой кнопкой мыши, чтобы настроить знакомые эффекты.",
   "item.occultism.flame_of_automation": "Пламя автоматизации",
@@ -3019,10 +3020,9 @@
   "trim_material.occultism.iesnium": "Иесниевый материал",
   "trim_material.occultism.silver": "Серебряный материал",
   "trim_material.occultism.spirit_gem": "Материал, настроенный духом",
-  "item.occultism.familiar_ring.tooltip": "Занято фамильяром %s",
-  "Otherrock is the nether variant, mined from the nether mining dimension. It has the same block variants as otherstone.\n": "Otherrock — это нижний вариант, добываемый в нижнем горнодобывающем измерении. Он имеет те же варианты блоков, что и другой камень.",
   "Otherstone is mined from the overworld mining dimension using Dimensional Mineshafts and miner spirits. It is the primary building material of the mod.\n": "Другой камень добывается в горнодобывающем измерении надземного мира с использованием Пространственных шахт и шахтерских духов. Это основной строительный материал мода.",
-  "Natural variants of otherworld wood can be found in underground groves, already placed as part of the generation.\n": "Естественные варианты древесины потустороннего мира можно найти в подземных рощах, уже размещенных как часть генерации.",
+  "Otherrock is the nether variant, mined from the nether mining dimension. It has the same block variants as otherstone.\n": "Otherrock — это нижний вариант, добываемый в нижнем горнодобывающем измерении. Он имеет те же варианты блоков, что и другой камень.",
   "Otherworld logs can be stripped and crafted into otherplanks, the base material for the full otherworld wood set.\n": "Бревна потустороннего мира можно разобрать и изготовить из них доски иного мира — основной материал для полного набора древесины потустороннего мира.",
+  "Natural variants of otherworld wood can be found in underground groves, already placed as part of the generation.\n": "Естественные варианты древесины потустороннего мира можно найти в подземных рощах, уже размещенных как часть генерации.",
   "Otherworld saplings can be found in underground groves and traded by Otherworld Sapling Trader spirits. Plant them to grow otherworld trees.\n": "Саженцы потустороннего мира можно найти в подземных рощах и продать духам Торговца саженцами потустороннего мира. Посадите их, чтобы вырастить деревья из потустороннего мира."
 }

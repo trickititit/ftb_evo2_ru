@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: example-setups/index.md
+  parent: nodeworks-mechanics/index.md
   icon: minecraft:hopper
   title: "Перемещение предметов"
 categories:
@@ -9,7 +9,7 @@ categories:
 
 # <a name="moving-items" />Перемещение предметов
 
-Самая простая задача, которую может выполнить сеть Nodeworks: извлекать элементы из контейнера в сетевое хранилище. На этой странице рассматриваются два варианта: сначала базовый вариант, затем та же настройка с фильтрацией.
+Самая простая задача, которую может выполнить сеть Nodeworks: извлекать элементы из контейнера в сетевое хранилище. На этой странице рассмотрено несколько вариантов: сначала базовый вариант, затем та же настройка с фильтрацией.
 
 ---
 
@@ -25,7 +25,7 @@ categories:
   <BoxAnnotation min="1 0.1 0.1" max="1.25 0.9 0.9" color="#AA83E0">
     <ItemImage id="nodeworks:storage_card" />
   </BoxAnnotation>
-  <BlockAnnotation x="4">
+  <BlockAnnotation x="2">
     Предметы, помещенные в сундук импорта, будут автоматически добавлены в сеть.
   </BlockAnnotation>
 </GameScene>
@@ -40,10 +40,44 @@ categories:
   <BoxAnnotation min="1 0.1 0.1" max="1.25 0.9 0.9" color="#AA83E0">
     <ItemImage id="nodeworks:storage_card" />
   </BoxAnnotation>
-  <BlockAnnotation x="4">
+  <BlockAnnotation x="2">
     Предметы, помещенные в сундук импорта, будут автоматически добавлены в сеть.
   </BlockAnnotation>
 </GameScene>
+
+### <a name="moving-items-between-two-blocks" />Перемещение элементов между двумя блоками
+
+Если вам специально нужно переместить элементы между двумя разными блоками, вы можете сделать это с помощью комбинации <ItemLink id="export_chest"/> и <ItemLink id="node"/> с <ItemLink id="storage_card"/> внутри.
+
+<GameScene zoom="5" interactive={true}>
+  <ImportStructure src="../assets/assemblies/moving_items_export_push.snbt" />
+  <IsometricCamera yaw="200" pitch="20" />
+  <BoxAnnotation min="1 0.1 0.1" max="1.25 0.9 0.9" color="#AA83E0">
+    <ItemImage id="nodeworks:storage_card" />
+  </BoxAnnotation>
+  <BlockAnnotation x="2">
+    Экспортный сундук помещает предметы в Шалкер-бокс ![](../assets/images/export_chest_push_left.png)
+  </BlockAnnotation>
+</GameScene>
+
+### <a name="moving-items-from-network-to-network" />Перемещение объектов из сети в сеть
+
+Если вам нужно переместить предметы между несколькими сундуками в другую сеть из нескольких сундуков, вы можете использовать импорт и экспорт сундуков вместе. Вы можете настроить ящик экспорта так, чтобы его содержимое помещалось в ящик импорта.
+
+<GameScene zoom="3" interactive={true} paddingTop="20" paddingBottom="20">
+  <ImportStructure src="../assets/assemblies/moving_items_net_to_net.snbt" />
+  <IsometricCamera yaw="200" pitch="20" />
+  <BoxAnnotation min="2 0.1 0.1" max="2.25 1.9 0.9" color="#AA83E0">
+    <ItemImage id="nodeworks:storage_card" />
+  </BoxAnnotation>
+  <BoxAnnotation min="6 0.1 0.1" max="5.75 1.9 0.9" color="#AA83E0">
+    <ItemImage id="nodeworks:storage_card" />
+  </BoxAnnotation>
+  <BlockAnnotation x="3">
+    Экспортный сундук вставляется в импортный сундук ![](../assets/images/export_chest_push_left.png)
+  </BlockAnnotation>
+</GameScene>
+
 
 ---
 

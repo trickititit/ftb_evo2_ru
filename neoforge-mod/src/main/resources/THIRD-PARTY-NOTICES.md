@@ -1,6 +1,6 @@
 # Third-party notices
 
-Original modpack and quest text: FTB Team, FTB Evolution 2 1.4.0. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
+Original modpack and quest text: FTB Team, FTB Evolution 2 1.5.1. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
 
 The MIT grant in LICENSE-CODE.txt covers only the original integration code and build scripts. It does not grant rights to third-party text or change upstream licenses. License metadata below is reproduced for attribution; it is not evidence of permission to redistribute a particular translation. Check applicable terms and any required permissions before publication.
 
@@ -272,6 +272,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Refined Storage - Quartz Arsenal — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage_quartz_arsenal.
 - **Reliquary Reincarnations — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: reliquary.
 - **Replication — Buuz135, Rid**. Declared license: MIT. Namespaces: replication.
+- **Resettable Trial Vaults & Spawners — LitQA**. Declared license: MIT License. Namespaces: resettable_trial_chambers.
 - **Resonance — Comfy**. Declared license: All Rights Reserved. Namespaces: resonance.
 - **Retro Factory Manager — Saereth**. Declared license: MIT. Namespaces: retrofactorymanager.
 - **Rocket Game Platform Client — Rocket Platform**. Declared license: MIT. Namespaces: rgp_client.
@@ -318,7 +319,6 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Universal Grid — Ultramega**. Declared license: MIT. Namespaces: universalgrid.
 - **Utilitarian — LobsterJonn**. Declared license: All Rights Reserved. Namespaces: utilitarian.
 - **Volumetrics — Soaryn**. Declared license: CC BY-ND 4.0. Namespaces: volumetrics.
-- **Wakes — Leclowndu93150**. Declared license: MIT. Namespaces: wakes.
 - **Waystones — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: waystones.
 - **Weather Gate — UnRealDinnerbone**. Declared license: All Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast and CurseForge for use in modpacks. Namespaces: weathergate.
 - **Witchery — mrsterner**. Declared license: ARR. Namespaces: witchery.

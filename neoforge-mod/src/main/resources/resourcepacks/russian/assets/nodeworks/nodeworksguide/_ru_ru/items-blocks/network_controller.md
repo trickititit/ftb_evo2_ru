@@ -12,7 +12,7 @@ item_ids:
 
 # <a name="network-controller" />Сетевой контроллер
 
-Каждой сети Nodeworks нужен ровно один контроллер. Без него связанные с ним [Трубы](pipe.md) и [Узлы](node.md) остаются бездействующими.
+Любая сеть Nodeworks, в которой требуется автоматический ЦП или возможности написания сценариев, нуждается в **ровно одном контроллере**.
 
 <GameScene interactive={true} zoom="5">
   <IsometricCamera yaw="200" pitch="10" />
@@ -20,6 +20,10 @@ item_ids:
 </GameScene>
 
 Разместите контроллер, запустите от него каналы, и любой блок, который подключается к этим каналам, присоединяется к сети.
+
+## <a name="what-requires-a-controller?" />Что требует контроллера?
+
+<CategoryIndexDescriptions category="requires_controller" />
 
 ## <a name="identity" />идентичность
 

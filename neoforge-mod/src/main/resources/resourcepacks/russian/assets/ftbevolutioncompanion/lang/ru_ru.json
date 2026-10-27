@@ -327,20 +327,16 @@
   "ftbevolutioncompanion.treasure_goblin.coins": "Вы поймали гоблина-сокровищника за %2$s с и получили %1$s бонусных монет!",
   "ftbevolutioncompanion.magic.otherworld.soul_thrift": "Шанс не потратить души при заклинании: %s%%",
   "ftbevolutioncompanion.magic.otherworld.spell_cooldown": "Перезарядка: %s с",
-  "trait.ftbevolutioncompanion.magical": "Магический",
-  "trait.ftbevolutioncompanion.magically_jagged": "Магически зазубренный",
   "trait.ftbevolutioncompanion.demonic": "Демонический",
   "trait.ftbevolutioncompanion.nautical": "Морской",
   "trait.ftbevolutioncompanion.dragonfire": "Пламя дракона",
   "trait.ftbevolutioncompanion.dragonfrost": "Мороз дракона",
   "trait.ftbevolutioncompanion.dragonstorm": "Буря дракона",
-  "trait.ftbevolutioncompanion.magical.desc": "Иногда высвобождает сферы аспектов из руд и поверженных врагов, а также собирает больше из вис-кристаллов.",
-  "trait.ftbevolutioncompanion.magically_jagged.desc": "Магический и зазубренный: наносит дополнительный магический урон, восстанавливает себя, несёт искажение и может восстанавливать рунический щит.",
-  "trait.ftbevolutioncompanion.demonic.desc": "Зазубренный: вытягивает кровь при ударе и восстанавливается кровавой починкой.",
   "trait.ftbevolutioncompanion.nautical.desc": "Нет штрафов под водой; при погружении действуют Удача III и Добыча III.",
   "trait.ftbevolutioncompanion.dragonfire.desc": "Поджигает цели и притягивает их к вам.",
   "trait.ftbevolutioncompanion.dragonfrost.desc": "Замораживает и замедляет цели.",
   "trait.ftbevolutioncompanion.dragonstorm.desc": "Молнии перескакивают на ближайших врагов.",
   "stage.ftbevolutioncompanion.wither_killed": "Победите иссушителя",
-  "stage.ftbevolutioncompanion.oritech_atomic_forge": "Постройте атомную кузницу Oritech"
+  "stage.ftbevolutioncompanion.oritech_atomic_forge": "Постройте атомную кузницу Oritech",
+  "trait.ftbevolutioncompanion.demonic.desc": "Выкачивает кровь при ударе и лечит с помощью Blood Mending."
 }

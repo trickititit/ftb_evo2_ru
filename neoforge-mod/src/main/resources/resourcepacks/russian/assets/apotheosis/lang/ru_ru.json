@@ -70,6 +70,7 @@
   "text.apotheosis.cost": "%sx %s",
   "text.apotheosis.dot_prefix": "• %s",
   "text.apotheosis.star_prefix": "🌟 %s",
+  "text.apotheosis.touched_by_malice": "Тронут злобой (×%s)",
   "text.apotheosis.malice_notice_final": "Злоба переплетается с %s и полностью забирает ваш предмет!",
   "title.apotheosis.stoneforming": "Камнеобразование",
   "info.apotheosis.stoneforming": "Инструмент с аффиксом %s может конвертировать эти блоки.",
@@ -92,6 +93,5 @@
   "advancements.apotheosis.progression.ascent.criteria.previous_tier": "Разблокируйте мировой уровень Frontier",
   "advancements.apotheosis.progression.summit.criteria.previous_tier": "Разблокируйте мировой уровень восхождения",
   "advancements.apotheosis.progression.pinnacle.criteria.previous_tier": "Разблокируйте мировой уровень Summit",
-  "misc.apotheosis.aurichalcum": "аурихалк",
-  "text.apotheosis.touched_by_malice": "Тронут злобой (×%s)"
+  "misc.apotheosis.aurichalcum": "аурихалк"
 }

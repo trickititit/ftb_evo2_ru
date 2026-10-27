@@ -96,18 +96,29 @@ StockerBuilder:keep(amount: number): StockerBuilder
 
 ### <a name="filter" />фильтр
 
+Что учитывается при расчете `:keep(n)`, а что притягивается к `:from`. Оставьте его для подсчета любого предмета. Вы можете передать несколько правил, вызвать его несколько раз или передать ему таблицу. Назовите это без ничего, чтобы начать все сначала. **`:ensure` и `:craft` задают это для вас**, поэтому вам нужно это только с `:from`.
+
 <LuaCode>
 ```lua
-StockerBuilder:filter(pattern: string): StockerBuilder
+stocker
+  :from("buffer")
+  :filter("$item:arrow")
+  :to("dispenser")
+  :keep(64)
+  :start()
 ```
 </LuaCode>
 
-Сужает то, что стокер считает, до `:keep(n)` в цели. По умолчанию `*` (любой элемент). Установите его, если вы хотите, чтобы поставщик заботился только об определенном типе товаров, полученных из разнородного источника. **`:ensure` и `:craft` автоматически** устанавливают идентификатор своего предмета, поэтому вам нужно только `:filter` с `:from`.
+### <a name="except" />кроме
+
+Что оставить вне счета и притяжения, даже если `:filter` возьмет это.
 
 <LuaCode>
 ```lua
+-- A stack of arrows, but never the tipped ones
 stocker:from("buffer")
-  :filter("$item:arrow")
+  :filter("#minecraft:arrows")
+  :except("minecraft:tipped_arrow")
   :to("dispenser")
   :keep(64)
   :start()

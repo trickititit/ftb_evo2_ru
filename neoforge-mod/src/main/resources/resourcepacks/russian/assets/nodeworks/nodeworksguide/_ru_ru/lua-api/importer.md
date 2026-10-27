@@ -6,12 +6,12 @@ navigation:
 categories:
   - api_types
   - api_preset
-description: "перемещать товары из А в Б, используя стратегию распределения"
+description: "перемещайте предметы и жидкости из А в Б, используя стратегию распределения"
 ---
 
 # <a name="importer" />Импортер
 
-Глобальный `importer` создает движители, которые извлекают предметы из одного или нескольких источников и помещают их в одну или несколько целей. Каждый импортер представляет собой запланированную задачу, поэтому он продолжает работать с заданным интервалом до тех пор, пока сценарий не остановится или пока вы не вызовете `:stop()` в дескрипторе.
+Глобальный `importer` создает двигатели, которые извлекают предметы и жидкости из одного или нескольких источников и помещают их в одну или несколько целей. Каждый импортер представляет собой запланированную задачу, поэтому он продолжает работать с заданным интервалом до тех пор, пока сценарий не остановится или пока вы не вызовете `:stop()` в дескрипторе.
 
 ## <a name="from" />из
 
@@ -52,30 +52,66 @@ importer:from("mobFarm"):to(network):start()  -- deposit into the pool
 
 ## <a name="filter" />фильтр
 
-<LuaCode>
-```lua
-ImporterBuilder:filter(pattern: string): ImporterBuilder
-```
-</LuaCode>
+Что переместить. Все, что соответствует одному из правил, перемещается. Оставьте его, чтобы переместить все. Синтаксис фильтра такой же, как и у [Сеть:найти](network.md#find).
 
-Сужает средство перемещения до предметов (или жидкостей), соответствующих фильтру. **Необязательно.** Значение по умолчанию — `*`, которое перемещает каждый элемент. Используйте синтаксис фильтра из [Сеть:найти](network.md#find), включая `$item:id`, `$fluid:id`, `#tag`, `modname:*` и регулярное выражение.
+Вы можете использовать `:filter()` несколько раз, чтобы применить несколько фильтров, или вызвать его без параметра, чтобы сбросить фильтр.
 
 <LuaCode>
 ```lua
--- Move only cobblestone
-importer:from(network)
+importer
+  :from(network)
   :filter("$item:minecraft:cobblestone")
+  :filter("$item:minecraft:stone")
   :to("io_*")
   :start()
 
--- Move all c:ores items
-importer:from("mobFarm"):filter("#c:ores"):to("storage"):start()
+local puller = importer
+  :from("quarry")
+  :filter("#c:ores")
+  :to(network)
+
+puller:filter() -- resets the filters
+puller:start() -- starts the importer
+```
+</LuaCode>
+
+## <a name="except" />кроме
+
+Позволяет вам указать любые элементы, которые вы явно **не** хотите перемещать.
+
+<LuaCode>
+```lua
+-- All ores, except one the furnaces can't smelt
+importer
+  :from(network)
+  :to("furnace_*")
+  :filter("#c:ores")
+  :except("mod:uranium")
+  :roundrobin()
+  :start()
+
+-- Empty a machine, but leave its slag in it
+importer:from("crusher"):to(network):except("mod:slag"):start()
+```
+</LuaCode>
+
+## <a name="fluids" />Жидкости
+
+Импортеры также перевозят жидкости. Любое правило может дать имя жидкости, а `$fluid:` выбирает жидкость, если элемент имеет такое же имя. Суммы указаны в миллибакетах, ведро — `1000`. Цель без резервуара просто пропускается для жидкостей.
+
+<LuaCode>
+```lua
+importer
+  :from(network)
+  :to("boiler")
+  :filter("$fluid:minecraft:water")
+  :start()
 ```
 </LuaCode>
 
 ## <a name="distribution" />Распространение
 
-У импортера есть два способа разделения товаров по целям. По умолчанию используется заполнение, вы явно включаете циклический перебор.
+У импортера есть два способа разделения того, что он перемещает, по целям. По умолчанию используется заполнение, вы явно включаете циклический перебор.
 
 ### <a name="fill-(default)" />Заполнить (по умолчанию)
 
@@ -83,7 +119,8 @@ importer:from("mobFarm"):filter("#c:ores"):to("storage"):start()
 
 <LuaCode>
 ```lua
-importer:from("furnaceOutput")
+importer
+  :from("furnaceOutput")
   :filter("$item:iron_ingot")
   :to("mainChest", "overflow")
   :start()
@@ -92,20 +129,21 @@ importer:from("furnaceOutput")
 
 ### <a name="roundrobin" />круговой перебор
 
-<LuaCode>
-```lua
-ImporterBuilder:roundrobin(step: number?): ImporterBuilder
-```
-</LuaCode>
-
-Распределяется равномерно по каждой цели на каждом тике. `step` — максимальное количество предметов, доставляемых каждой цели за такт (по умолчанию 1). При шаге = 1 три элемента в источнике попадают по одному в каждую из трех целей за один такт. Для массового потока увеличьте шаг или увеличьте скорость тика с помощью `:every(1)`.
+Распределяется равномерно по каждой цели. Укажите число, чтобы указать, сколько каждая цель получает за ход, по умолчанию 1. Для предметов, которые являются предметами, для жидкостей — милливедеры, поэтому задайте импортеру жидкости шаг, например 1000, для ведра за ход.
 
 <LuaCode>
 ```lua
-importer:from("bufferChest")
+importer
+  :from("bufferChest")
   :to("furnace1", "furnace2", "furnace3")
   :roundrobin()
-  :every(10)
+  :start()
+
+importer
+  :from(network)
+  :to("boiler_*")
+  :filter("$fluid:minecraft:water")
+  :roundrobin(1000)
   :start()
 ```
 </LuaCode>
@@ -128,22 +166,24 @@ importer:from("farm_*"):to("storage"):start()
 
 ## <a name="example:-two-stage-smelter-array" />Пример: двухступенчатая установка плавильни.
 
-Руда подается по круговому принципу в три печи, а продукция собирается в центральный сундук.
+Руда и сырье подаются по круговому принципу в каждую печь, готовые слитки собираются обратно в сеть.
 
 <LuaCode>
 ```lua
--- Feed ore evenly to three furnaces
-importer:from("oreBuffer")
-  :filter("$item:iron_ore")
-  :to("furnace1", "furnace2", "furnace3")
+local furnaces = network:cards("furnace_*")
+
+-- Feed the furnaces evenly
+importer:from(network)
+  :to(furnaces:face("top"))
+  :filter("#c:ores", "#c:raw_materials")
+  :except("mod:uranium")
   :roundrobin()
   :every(10)
   :start()
 
--- Collect ingots from all three into the output chest
-importer:from("furnace1", "furnace2", "furnace3")
-  :filter("$item:iron_ingot")
-  :to("outputChest")
+-- Collect whatever comes out
+importer:from(furnaces:face("bottom"))
+  :to(network)
   :start()
 ```
 </LuaCode>

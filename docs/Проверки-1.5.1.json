@@ -1,0 +1,287 @@
+{
+  "status": "PASS",
+  "date": "2026-10-27",
+  "pack_version": "1.5.1",
+  "mod_version": "1.1.0",
+  "jar_sha256": "47a5363cc6e6d779a5a9db101bfd413772ed134b4a9423b1b603d2dd517086bc",
+  "static": {
+    "status": "PASS",
+    "checks": 86490,
+    "jar_sha256": "47a5363cc6e6d779a5a9db101bfd413772ed134b4a9423b1b603d2dd517086bc",
+    "quest_entries": 4193,
+    "language_entries": 45844,
+    "unchanged_technical_or_proper_names": 1012,
+    "guide_counts": {
+      "guideme": 753,
+      "patchouli": 894,
+      "meta": 25,
+      "oracle": 197,
+      "stellaris": 61
+    },
+    "client_rendering_tested": false
+  },
+  "quest_overlay": {
+    "status": "PASS",
+    "entries": 4193,
+    "real_ftb_classes": true,
+    "source_guard": true,
+    "user_override": true,
+    "cache_invalidation": true
+  },
+  "installer": {
+    "status": "PASS",
+    "checks": 32,
+    "cases": [
+      {
+        "target": "fresh-client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Rollback",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "wrong-version",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "custom-russian",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "modified-dependency",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "traversal",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "corrupt-payload",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "damaged-backup",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "damaged-backup",
+        "action": "Rollback",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "damaged-backup",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      }
+    ],
+    "payload_sha256": "47a5363cc6e6d779a5a9db101bfd413772ed134b4a9423b1b603d2dd517086bc",
+    "world_sentinel_preserved": true,
+    "legacy_files_restored_byte_identically": true,
+    "windows_powershell": "5.1",
+    "real_game_directories_modified": false
+  },
+  "server": {
+    "install": {
+      "mode": "install",
+      "ready": true,
+      "exit_code": 0,
+      "timed_out": false,
+      "seconds": 194,
+      "integration_pass": true,
+      "quest_config_byte_unchanged": true,
+      "quest_config_semantic_unchanged": true,
+      "no_legacy_russian_files": true,
+      "no_kubejs_wiki_patch": true,
+      "test_world_only": true,
+      "client_rendering_tested": false,
+      "jar_sha256": "47a5363cc6e6d779a5a9db101bfd413772ed134b4a9423b1b603d2dd517086bc",
+      "builtin_client_pack_api_tested": true
+    },
+    "uninstall": {
+      "mode": "uninstall",
+      "ready": true,
+      "exit_code": 0,
+      "timed_out": false,
+      "seconds": 146,
+      "integration_pass": true,
+      "quest_config_byte_unchanged": false,
+      "quest_config_semantic_unchanged": true,
+      "no_legacy_russian_files": true,
+      "no_kubejs_wiki_patch": true,
+      "test_world_only": true,
+      "client_rendering_tested": false,
+      "jar_sha256": null,
+      "builtin_client_pack_api_tested": false
+    },
+    "incompatible": {
+      "mode": "incompatible",
+      "ready": false,
+      "exit_code": 1,
+      "timed_out": false,
+      "seconds": 63,
+      "integration_pass": false,
+      "quest_config_byte_unchanged": true,
+      "quest_config_semantic_unchanged": true,
+      "no_legacy_russian_files": true,
+      "no_kubejs_wiki_patch": true,
+      "test_world_only": true,
+      "client_rendering_tested": false,
+      "jar_sha256": "47a5363cc6e6d779a5a9db101bfd413772ed134b4a9423b1b603d2dd517086bc",
+      "builtin_client_pack_api_tested": false,
+      "compatibility_rejected": true
+    }
+  },
+  "client_rendering_tested": false,
+  "production_game_folders_modified": false
+}

@@ -1629,5 +1629,6 @@
   "tag.item.c.storage_blocks.sunstone": "Блоки хранения солнечного камня",
   "tag.item.c.storage_blocks.topaz": "Блоки хранения топаза",
   "tag.item.c.storage_blocks.vinteum": "Блоки хранения данных Vinteum",
-  "tag.worldgen.biome.arsmagicalegacy.can_summon_water_guardian": "Можно вызвать водного стража"
+  "tag.worldgen.biome.arsmagicalegacy.can_summon_water_guardian": "Можно вызвать водного стража",
+  "tag.item.arsmagicalegacy.spell_books": "Книги Заклинаний"
 }

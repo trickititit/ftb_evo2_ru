@@ -5,6 +5,7 @@ navigation:
   title: "Блоки для хранения рецептов"
 categories:
   - autocrafting
+  - requires_controller
 description: "содержит наборы рецептов, поэтому крафтовые процессоры могут их видеть"
 item_ids:
 - nodeworks:instruction_storage

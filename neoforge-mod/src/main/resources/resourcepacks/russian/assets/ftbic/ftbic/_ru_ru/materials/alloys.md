@@ -9,10 +9,10 @@ item_ids:
   - ftbic:advanced_alloy
   - ftbic:industrial_grade_metal
   - ftbic:steel_ingot
-  - ftbic:bronze_ingot
-  - ftbic:electrum_ingot
-  - ftbic:invar_ingot
-  - ftbic:constantan_ingot
+  - ftbmaterials:bronze_ingot
+  - ftbmaterials:electrum_ingot
+  - ftbmaterials:invar_ingot
+  - ftbmaterials:constantan_ingot
   - ftbic:iridium_alloy
   - ftbic:machine_block
   - ftbic:advanced_machine_block
@@ -43,40 +43,40 @@ item_ids:
 Сделано в <ItemLink id="alloy_smelter" /> из необработанных слитков. Каждый из них можно повторно измельчить в пыль и повторно переплавить для восстановления.
 
 <Row>
-  <ItemImage id="bronze_ingot" />
+  <ItemImage id="ftbmaterials:bronze_ingot" />
   ### <Color id="aqua">Бронза</Color>
 </Row>
 
 3 меди + 1 олово → 4 бронзы. Сплав среднего уровня, используемый в усовершенствованных сплавах бронзы.
 
-<RecipeFor id="bronze_ingot" />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/bronze" />
 
 <Row>
-  <ItemImage id="electrum_ingot" />
+  <ItemImage id="ftbmaterials:electrum_ingot" />
   ### <Color id="aqua">Электрум</Color>
 </Row>
 
 1 серебро + 1 золото → 2 электрума. Используется в усовершенствованных сплавах электрума и в цепях из проводящих сплавов.
 
-<RecipeFor id="electrum_ingot" />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/electrum" />
 
 <Row>
-  <ItemImage id="invar_ingot" />
+  <ItemImage id="ftbmaterials:invar_ingot" />
   ### <Color id="aqua">Инвар</Color>
 </Row>
 
 2 железа + 1 никель → 3 инвара. Используется в передовых инварных сплавах и в качестве термостойкого промежуточного продукта.
 
-<RecipeFor id="invar_ingot" />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/invar" />
 
 <Row>
-  <ItemImage id="constantan_ingot" />
+  <ItemImage id="ftbmaterials:constantan_ingot" />
   ### <Color id="aqua">Константан</Color>
 </Row>
 
-1 медь + 1 никель → 2 константан. Промежуточный сплав общего назначения.
+Промежуточный сплав общего назначения. На заводе по производству сплавов нет рецепта константана; слитки получаются в результате плавки константановой пыли или из самородков и блоков.
 
-<RecipeFor id="constantan_ingot" />
+<RecipesFor id="ftbmaterials:constantan_ingot" fallbackText="No recipes found for constantan." />
 
 <ItemImage id="minecraft:air" scale="0.25"/>
 ***
@@ -169,11 +169,9 @@ item_ids:
   ### <Color id="aqua">Слиток Эндериума</Color>
 </Row>
 
-Сделано исключительно в <ItemLink id="alloy_smelter" />: 3 свинца + 1 алмазная пыль + 2 жемчужины Эндера → 2 слитка эндериума. Формованного пути нет.
+Сделано в <ItemLink id="alloy_smelter" />: 1 свинец + 1 алмаз + 1 жемчужина Эндера → 1 слиток эндериума. Формованного пути нет.
 
-<Recipe id="ftbic:alloy_smelting/enderium_ingot" />
-
-<RecipesFor id="enderium_ingot" fallbackText="See the Alloy Smelter for the recipe." />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/enderium" />
 
 <Row>
   <ItemImage id="enderium_block" />

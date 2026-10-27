@@ -6,6 +6,8 @@
   "advancements.oritech.resonator.description": "Получите резонатор, чтобы найти близлежащие ресурсы. Вы улавливаете хорошие вибрации!",
   "button.oritech.input_mode_sided": "Односторонний",
   "tooltip.oritech.input_mode_sided": "Взаимодействие предметов одностороннее.",
+  "tooltip.oritech.mode_sided_top": ": только вход\n",
+  "tooltip.oritech.mode_sided_bottom": ": только выход\n",
   "tooltip.oritech.schrodingers_safe.4": "",
   "tooltip.oritech.smart_splitter.configure": "Входные стороны определяются автоматически. Щелкните правой кнопкой мыши сторону, чтобы переключить ее вывод. Нажмите правой кнопкой мыши, чтобы изменить режим.",
   "message.oritech.smart_splitter.output_enabled": "выход %s включен",
@@ -68,6 +70,7 @@
   "tooltip.oritech.enderic_railgun.status.begin": "Режим добычи: ",
   "tooltip.oritech.enderic_railgun.status.shot_mining_error": "Ни одного выстрела, режим добычи включен.",
   "tooltip.oritech.enderic_railgun.status.hint": "(Скрытность + щелчок правой кнопкой мыши для переключения)",
+  "tooltip.oritech.energy_stored": "Запас: %d/%d RF",
   "tooltip.oritech.energy_indicator": "%d/%d RF",
   "tooltip.oritech.energy_capacity": "%d RF",
   "tooltip.oritech.thousand_abbrev": "K",
@@ -173,8 +176,5 @@
   "oritech.configuration.baseEnergyUsage": "Базовое потребление энергии за поездку",
   "oritech.configuration.distanceEnergyUsage": "Множитель энергии на расстояние путешествия",
   "oritech.configuration.interaction": "Взаимодействующие машины",
-  "oritech.configuration.showOracleIndexWarning": "Показать Oracle Index Предупреждение",
-  "tooltip.oritech.mode_sided_top": ": только вход\n",
-  "tooltip.oritech.mode_sided_bottom": ": только выход\n",
-  "tooltip.oritech.energy_stored": "Запас: %d/%d RF"
+  "oritech.configuration.showOracleIndexWarning": "Показать Oracle Index Предупреждение"
 }

@@ -1,12 +1,12 @@
 # FTB Evolution 2 - Russian Localization
 
-Unofficial Russian localization for **FTB Evolution 2 1.4.0** on **Minecraft 26.1.2 / NeoForge 26.1.2.121**.
+Unofficial Russian localization for **FTB Evolution 2 1.5.1** on **Minecraft 26.1.2 / NeoForge 26.1.2.121**.
 
 This is a localization add-on, not a modpack. Install the original FTB Evolution 2 modpack first. Other pack versions and Minecraft versions are not supported.
 
 ## Included translations
 
-- All 4,178 source FTB Quests language entries, including quest descriptions, chapter titles and reward labels.
+- All 4,193 source FTB Quests language entries, including quest descriptions, chapter titles and reward labels.
 - Mod item names, tooltips and interfaces through bundled language resources.
 - Patchouli books, GuideME documentation (including Nodeworks and Applied Energistics 2), and Oracle Index guides.
 - Additional Modonomicon strings and the Stellaris wiki.
@@ -32,3 +32,19 @@ Stop the game/server and remove this add-on JAR. The mod does not install transl
 Original modpack: FTB Team. Original mods and documentation: their respective authors; see the bundled third-party notices and project source. Localization integration: trickititit. This project is not affiliated with or endorsed by FTB or the original mod authors.
 
 For the exact validation performed on this release, see the accompanying release notes. Server startup testing does not imply that every client screen has been visually tested.
+
+---
+
+# FTB Evolution 2 — Русификатор
+
+Неофициальный перевод FTB Evolution 2 **1.5.1** для Minecraft **26.1.2 / NeoForge 26.1.2.121**. Сначала установите оригинальную сборку.
+
+Переведены все **4 193 записи FTB Quests**, названия и подсказки модов, **894 файла Patchouli**, **753 страницы GuideME**, **197 страниц Oracle Index** и **61 страница Stellaris**. Ресурсы Chisel исключены. В обновлении 1.1.0 вручную переведены 15 новых и 8 изменённых записей заданий; обновлены руководства Nodeworks, Nautec и LTX, а также страницы консервов и жидкостной ячейки Stellaris.
+
+Поместите JAR в `mods` клиента и выберите русский язык. Встроенный ресурс-пак активируется автоматически. Для вики Stellaris установите тот же JAR на выделенный сервер: её текст передаётся сервером и будет русским у всех игроков. В одиночной игре достаточно клиента. При обновлении удалите предыдущий JAR. Перед переходом со старого комплекта со скриптами выполните его откат.
+
+Мод не изменяет прогресс, определения заданий, рецепты и баланс. Для удаления закройте игру/сервер и уберите JAR из `mods`.
+
+Значительная часть перевода автоматическая, с выборочными ручными правками и проверкой структуры. Полная литературная вычитка не проводилась. Примеры кода, имена API, текст изображений, внешняя документация и некоторые жёстко заданные строки остаются на исходном языке. Клиентские экраны визуально не проверены.
+
+Сборка — FTB Team, моды и руководства — их авторы, интеграция перевода — trickititit. Проект неофициальный. Исходники и сообщения об ошибках: https://github.com/trickititit/ftb_evo2_ru .

@@ -570,5 +570,18 @@
   "tag.item.productivebees.flowers.quarry": "Цветочные блоки карьерной пчелы",
   "tag.item.productivebees.flowers.rose_quartz": "Цветочные блоки из розового кварца",
   "tag.item.productivebees.solitary_overworld_nests": "Гнезда надземного мира",
-  "entity.productivebees.nether_star_bee": "Звездная пчела Пустоты"
+  "entity.productivebees.nether_star_bee": "Звездная пчела Пустоты",
+  "block.productivebees.bee_squisher": "Пчелиный сквишер",
+  "productivebees.bee_squisher.tooltip.bottle_item": "Вот пустая стеклянная бутылка",
+  "productivebees.bee_squisher.tooltip.cage_item": "Вот пчелиная клетка с пчелой в ней.",
+  "productivebees.devices.bee_squisher": "Пчелиный сквишер",
+  "productivebees.devices.heated_centrifuge": "Центрифуга с подогревом",
+  "productivebees.information.upgrade.upgrade_productivity.bee_squisher": "Увеличивает чистоту каждого извлеченного гена на 4 за счет большей мощности.\n   Для большего увеличения можно установить несколько обновлений.",
+  "productivebees.information.upgrade.upgrade_productivity_2.bee_squisher": "Увеличивает чистоту каждого извлеченного гена на 8 за счет большей мощности.\n   Для большего увеличения можно установить несколько обновлений.",
+  "productivebees.information.upgrade.upgrade_productivity_3.bee_squisher": "Увеличивает чистоту каждого извлеченного гена на 16 за счет большей мощности.\n   Для большего увеличения можно установить несколько обновлений.",
+  "productivebees.information.upgrade.upgrade_productivity_4.bee_squisher": "Увеличивает чистоту каждого извлеченного гена на 32 за счет большей мощности.\n   Для большего увеличения можно установить несколько обновлений.",
+  "productivebees.information.upgrade.upgrade_stability.bee_squisher": "Выбрасывает все, кроме гена пчелиного типа, и делает его намного чище.",
+  "productivebees.information.upgrade.upgrade_stability.heated_centrifuge": "Увеличивает вероятность успеха для гребен с негарантированным выходом на %s%%.\n   Также предотвращает сжигание воска при нагревании, поэтому гребенчатые блоки продолжают выделять его.",
+  "productivebees.information.upgrade.upgrade_time.bee_squisher": "Раздавливает пчел быстрее, ценой большей мощности.\n   Можно установить несколько обновлений.",
+  "productivebees.information.upgrade.upgrade_time_2.bee_squisher": "Он в два раза лучше предыдущего."
 }

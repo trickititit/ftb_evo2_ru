@@ -5,6 +5,7 @@ navigation:
   title: "Скриптовый терминал"
 categories:
   - terminal
+  - requires_controller
 description: "где вы пишете и запускаете сценарии Lua, управляющие сетью"
 item_ids:
 - nodeworks:terminal
@@ -13,6 +14,8 @@ item_ids:
 # <a name="scripting-terminal" />Скриптовый терминал
 
 Терминал сценариев — это место, где вы пишете и запускаете сценарии Lua, управляющие сетью.
+
+> Для использования требуется <ItemLink id="network_controller" />
 
 <BlockImage scale="6" id="terminal" />
 

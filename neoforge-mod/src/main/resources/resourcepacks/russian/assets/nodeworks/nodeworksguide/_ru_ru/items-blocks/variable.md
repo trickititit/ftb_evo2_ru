@@ -5,6 +5,7 @@ navigation:
   title: "Переменная"
 categories:
   - device
+  - requires_controller
 description: "общая сетевая переменная"
 item_ids:
 - nodeworks:variable
@@ -13,6 +14,8 @@ item_ids:
 # <a name="variable-block" />Переменный блок
 
 Блок переменных — это значение, которое может использоваться во всей сети.
+
+> Для использования требуется <ItemLink id="network_controller" />.
 
 <BlockImage scale="6" id="variable" />
 

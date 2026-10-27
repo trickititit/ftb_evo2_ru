@@ -5,6 +5,7 @@ navigation:
   title: "Портативный инвентарный терминал"
 categories:
   - tool
+  - requires_controller
 description: "портативное окно просмотра в хранилище любой связанной сети"
 item_ids:
 - nodeworks:portable_inventory_terminal

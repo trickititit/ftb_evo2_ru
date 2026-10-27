@@ -5,6 +5,7 @@ navigation:
   title: "Карта Редстоуна"
 categories:
   - card
+  - requires_controller
 description: "читает и записывает сигналы красного камня на установленном узле"
 item_ids:
 - nodeworks:redstone_card
@@ -14,11 +15,13 @@ item_ids:
 
 Считывает и записывает сигналы красного камня на установленном лице.
 
+> Если вы хотите использовать эту карту, вам сначала понадобится <ItemLink id="network_controller" /> в сети.
+
 <ItemImage scale="6" id="redstone_card" />
 
 ## <a name="installing-and-scripting" />Установка и создание сценариев
 
-Устанавливается на лицевую сторону узла так же, как и <ItemLink id="io_card" />. См. [Установка карты ввода-вывода](./io_card.md#installing) для прохождения. Карта считывает и записывает сигнал красного камня на *этом лице*.
+Устанавливается на грани узла так же, как и <ItemLink id="io_card" />. См. [Установка карты ввода-вывода](./io_card.md#installing) для прохождения. Карта считывает и записывает сигнал красного камня на *этом лице*.
 
 Видите, [API сценариев RedstoneCard](../lua-api/card-handle.md#redstone-card) отличается от других карт.
 

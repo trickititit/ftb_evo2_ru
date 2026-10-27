@@ -5,6 +5,7 @@ navigation:
   title: "Счетчик хранения"
 categories:
   - device
+  - requires_controller
 description: "отслеживает количество предметов/жидкостей, которые он настроен для просмотра"
 item_ids:
 - nodeworks:storage_meter
@@ -13,6 +14,8 @@ item_ids:
 # <a name="storage-meter" />Счетчик хранения
 
 Счетчик хранилища отслеживает предмет в сети и подает сигнал красного камня, когда его запас падает ниже вашего порога. Он также может начать работу по автокрафту, чтобы пополнить запасы.
+
+> Для использования требуется <ItemLink id="network_controller" />
 
 <GameScene interactive={true} zoom="5" paddingLeft="40" paddingRight="40">
   <ImportStructure src="../assets/assemblies/stock_meter_door.snbt" />
