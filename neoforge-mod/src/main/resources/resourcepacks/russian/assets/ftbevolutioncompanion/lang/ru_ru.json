@@ -332,11 +332,14 @@
   "trait.ftbevolutioncompanion.dragonfire": "Пламя дракона",
   "trait.ftbevolutioncompanion.dragonfrost": "Мороз дракона",
   "trait.ftbevolutioncompanion.dragonstorm": "Буря дракона",
+  "trait.ftbevolutioncompanion.demonic.desc": "Выкачивает кровь при ударе и лечит с помощью Blood Mending.",
   "trait.ftbevolutioncompanion.nautical.desc": "Нет штрафов под водой; при погружении действуют Удача III и Добыча III.",
   "trait.ftbevolutioncompanion.dragonfire.desc": "Поджигает цели и притягивает их к вам.",
   "trait.ftbevolutioncompanion.dragonfrost.desc": "Замораживает и замедляет цели.",
   "trait.ftbevolutioncompanion.dragonstorm.desc": "Молнии перескакивают на ближайших врагов.",
   "stage.ftbevolutioncompanion.wither_killed": "Победите иссушителя",
   "stage.ftbevolutioncompanion.oritech_atomic_forge": "Постройте атомную кузницу Oritech",
-  "trait.ftbevolutioncompanion.demonic.desc": "Выкачивает кровь при ударе и лечит с помощью Blood Mending."
+  "key.ftbevolutioncompanion.toggle_sword_block": "Переключить блокировку меча",
+  "ftbevolutioncompanion.skills.toggle.sword_block.on": "Блокировка меча включена",
+  "ftbevolutioncompanion.skills.toggle.sword_block.off": "Блокировка меча отключена"
 }

@@ -30,18 +30,18 @@ public final class RussianLocalization {
             JsonObject pack = JsonParser.parseReader(reader).getAsJsonObject();
             if (pack.get("id").getAsInt() != 135
                     || !"FTB Evolution 2".equals(pack.get("name").getAsString())
-                    || !"1.5.1".equals(pack.getAsJsonObject("version").get("name").getAsString())) {
-                throw new IllegalStateException("Unsupported modpack. Requires FTB Evolution 2 1.5.1 (pack 135).");
+                    || !"1.6.1".equals(pack.getAsJsonObject("version").get("name").getAsString())) {
+                throw new IllegalStateException("Unsupported modpack. Requires FTB Evolution 2 1.6.1 (pack 135).");
             }
         } catch (IOException | RuntimeException exception) {
-            throw new IllegalStateException("FTB Evolution 2 Russian Localization requires FTB Evolution 2 1.5.1. "
+            throw new IllegalStateException("FTB Evolution 2 Russian Localization requires FTB Evolution 2 1.6.1. "
                     + "Check config/metadata.json. This JAR does not support other modpacks or versions.", exception);
         }
         QuestTranslations.load();
         // An always-active built-in pack gives corrections priority over original mod resources.
         // Registration does not edit options.txt or any player's resource-pack selection.
         modBus.addListener(RussianLocalization::addTranslationPack);
-        LOGGER.info("FTB Evolution 2 Russian Localization 1.1.0: translation resources loaded; no config files modified.");
+        LOGGER.info("FTB Evolution 2 Russian Localization 1.2.0: translation resources loaded; no config files modified.");
     }
 
     public static void addTranslationPack(AddPackFindersEvent event) {

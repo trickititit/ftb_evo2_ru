@@ -36,6 +36,13 @@ function Save($Value) {
     Move-Item -LiteralPath $temp -Destination $statePath -Force
 }
 function Current([string]$Path) { if (Test-Path -LiteralPath $Path -PathType Leaf) { return Hash $Path }; return $null }
+function Check-Backups($State) {
+    foreach ($entry in $State.files) {
+        if ($null -ne $entry.before -and (Current (Safe $stateDir $entry.backup)) -ne $entry.before) {
+            throw "Повреждена исходная резервная копия: $($entry.path)"
+        }
+    }
+}
 try {
     $manifest=Read-Json (Join-Path $PSScriptRoot 'manifest.json')
     if (-not $Target) { $Target=(Read-Host 'Папка экземпляра Prism, minecraft/.minecraft или выделенного сервера').Trim('"') }
@@ -51,8 +58,14 @@ try {
         if ($Action -eq 'Rollback') {
             if (-not (Test-Path -LiteralPath $statePath)) { Write-Host 'Установки через этот скрипт нет; откат не требуется.'; return }
             $state=Read-Json $statePath
-            if ($state.id -ne $manifest.id) { throw 'Состояние относится к другому выпуску. Используйте комплект, которым выполнена установка.' }
+            if ($state.id -ne $manifest.id) {
+                if ($state.id -in @($manifest.upgradeFrom) -and $state.status -eq 'Installed') {
+                    Write-Host 'Версия этого комплекта не установлена. Состояние предыдущей версии сохранено.'; return
+                }
+                throw 'Состояние относится к другому выпуску. Используйте комплект, которым выполнена установка.'
+            }
             if ($state.status -eq 'RolledBack') { Write-Host 'Откат уже выполнен.'; return }
+            if ($state.PSObject.Properties['previousState'] -and $null -ne $state.previousState) { Check-Backups $state.previousState }
             foreach ($entry in $state.files) {
                 $dest=Safe $root $entry.path; $now=Current $dest
                 if ($now -ne $entry.after -and $now -ne $entry.before) { throw "Файл изменён после установки: $($entry.path). Откат остановлен для сохранения ваших изменений." }
@@ -66,7 +79,8 @@ try {
                 if ($null -ne $entry.before) { Put (Safe $stateDir $entry.backup) $dest }
                 elseif (Test-Path -LiteralPath $dest -PathType Leaf) { Remove-Item -LiteralPath $dest }
             }
-            $state.status='RolledBack'; Save $state
+            if ($state.PSObject.Properties['previousState'] -and $null -ne $state.previousState) { Save $state.previousState }
+            else { $state.status='RolledBack'; Save $state }
             Write-Host 'Откат выполнен. Состояние до установки восстановлено, резервные копии сохранены.'
             return
         }
@@ -83,15 +97,19 @@ try {
         }
         $source=Safe $PSScriptRoot $manifest.payload
         if ((Current $source) -ne $manifest.sha256) { throw 'JAR русификатора повреждён. Скачайте архив заново.' }
+        $previousState=$null
         if (Test-Path -LiteralPath $statePath) {
             $state=Read-Json $statePath
             if ($state.status -ne 'RolledBack') {
-                if ($state.id -ne $manifest.id -or $state.status -ne 'Installed') { throw 'Сначала выполните откат предыдущей или прерванной установки.' }
+                if ($state.status -ne 'Installed' -or ($state.id -ne $manifest.id -and $state.id -notin @($manifest.upgradeFrom))) { throw 'Сначала выполните откат предыдущей или прерванной установки.' }
                 foreach ($entry in $state.files) {
                     if ((Current (Safe $root $entry.path)) -ne $entry.after) { throw "Установленный файл изменён: $($entry.path)" }
                 }
-                Write-Host 'Русификатор уже установлен. Целостность проверена; исходные резервные копии сохранены.'
-                return
+                Check-Backups $state
+                if ($state.id -eq $manifest.id) {
+                    Write-Host 'Русификатор уже установлен. Целостность проверена; исходные резервные копии сохранены.'; return
+                }
+                $previousState=$state
             }
         }
         $changes=@{}
@@ -102,7 +120,7 @@ try {
         # Migrate only files tracked by the earlier official localization installer.
         $legacy=Safe $root '.ftb-evolution-ru/state.json'
         $tracked=@{}
-        if (Test-Path -LiteralPath $legacy) {
+        if ($null -eq $previousState -and (Test-Path -LiteralPath $legacy)) {
             $old=Read-Json $legacy
             if ($old.status -eq 'Installed') {
                 if ($old.id -notmatch '^FTB-Evolution-2-RU-1\.4\.0-r[1-4]$') { throw 'Неизвестная старая установка перевода. Сначала используйте её скрипт отката.' }
@@ -136,7 +154,7 @@ try {
             }
             $entries += [pscustomobject]@{path=$rel;before=$before;after=$changes[$rel];backup=$backup}
         }
-        $state=[pscustomobject]@{id=$manifest.id;status='Installing';files=$entries}; Save $state
+        $state=[pscustomobject]@{id=$manifest.id;status='Installing';files=$entries;previousState=$previousState}; Save $state
         foreach ($entry in $entries) {
             $dest=Safe $root $entry.path
             if ($null -eq $entry.after) { if (Test-Path -LiteralPath $dest -PathType Leaf) { Remove-Item -LiteralPath $dest } }

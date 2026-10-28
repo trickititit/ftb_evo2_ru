@@ -17,5 +17,6 @@
   "sophisticatedinventoryinteractions.configuration.include.screenClasses": "Разрешенные экраны",
   "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides": "Исключения слотов экрана",
   "sophisticatedinventoryinteractions.configuration.defaultPolicy.deny_by_default": "Запретить по умолчанию",
-  "sophisticatedinventoryinteractions.configuration.defaultPolicy.allow_by_default": "Разрешить по умолчанию"
+  "sophisticatedinventoryinteractions.configuration.defaultPolicy.allow_by_default": "Разрешить по умолчанию",
+  "sophisticatedinventoryinteractions.configuration.layout.playerSortOffsetOverrides": "Смещения сортировки игроков"
 }

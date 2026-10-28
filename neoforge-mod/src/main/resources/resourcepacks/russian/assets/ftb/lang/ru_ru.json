@@ -104,6 +104,9 @@
   "fluid_type.ftb.industrial_coolant": "Промышленный хладагент",
   "block.ftb.industrial_coolant": "Промышленный хладагент",
   "block.ftb.blaze_block": "Ифритовый блок",
+  "block.ftb.adamantite_coolant": "Адамантитовый охладитель",
+  "block.ftb.aeternium_coolant": "Этерниевый охладитель",
+  "block.ftb.aurichalcum_coolant": "Аурихалковый охладитель",
   "item.ftb.industrial_coolant_bucket": "Ведро промышленного хладагента",
   "ftb.shopkeeper.broker_early": "Посредник",
   "ftb.shopkeeper.broker_mid": "Агент посредника",
@@ -610,6 +613,7 @@
   "skill.ftb.melee.swordsman_cap.title": "Мечник",
   "skill.ftb.melee.swordsman_cap.description": "Ваш блок меча теперь сводит на нет весь урон спереди. Еще 10% шанс эха, 10% шанс встряски и +2,5 урона от атаки.",
   "skill.ftb.melee.unarmed_hub.title": "Мастерство безоружного боя",
+  "skill.ftb.melee.unarmed_hub.description": "+3 урона без оружия. Открывает пути Драка и Джаггернаута.",
   "skill.ftb.melee.wargod_cap.title": "Бог войны",
   "skill.ftb.melee.wargod_cap.description": "Еще +25% урона от двуручного оружия, +25% урона от смертельного удара и +2,5 урона от атаки.",
   "skill.ftb.melee.armor_+1.title": "Поднятая защита",
@@ -1156,9 +1160,5 @@
   "skill.ftb.ranged.doom.title": "Рок",
   "skill.ftb.ranged.doom.description": "Раз в 10 секунд попадание метательного оружия ослепляет цель и дает ей Медлительность IV на 2 секунды и наносит тем больше урона, чем ниже ее здоровье: + 100% при половине здоровья, до + 200% при смерти.",
   "skill.ftb.ranged.volley_cap.title": "Залп",
-  "skill.ftb.ranged.volley_cap.description": "25% шанс, что в результате броска рядом с ним разлетятся 2 дополнительные копии. Копии невозможно забрать. +10% к скорости броска и +15% к шансу удержания.",
-  "block.ftb.adamantite_coolant": "Адамантитовый охладитель",
-  "block.ftb.aeternium_coolant": "Этерниевый охладитель",
-  "block.ftb.aurichalcum_coolant": "Аурихалковый охладитель",
-  "skill.ftb.melee.unarmed_hub.description": "+3 урона без оружия. Открывает пути Драка и Джаггернаута."
+  "skill.ftb.ranged.volley_cap.description": "25% шанс, что в результате броска рядом с ним разлетятся 2 дополнительные копии. Копии невозможно забрать. +10% к скорости броска и +15% к шансу удержания."
 }

@@ -73,5 +73,11 @@
   "jade.horsepowered.trap_next_drop": "Следующая капля: %s",
   "jade.horsepowered.trap_wrong_biome": "Неправильный биом",
   "jade.horsepowered.trap_needs_water": "Нужна вода",
-  "biome.horsepowered.fish_habitat": "Реки и океаны"
+  "biome.horsepowered.fish_habitat": "Реки и океаны",
+  "gui.horsepowered.jei.trap_dimension": "Размерность: %s",
+  "gui.horsepowered.jei.trap_dimensions": "Допустимые размеры:",
+  "jade.horsepowered.trap_wrong_dimension": "Неправильный размер",
+  "dimension.minecraft.overworld": "Верхний мир",
+  "dimension.minecraft.the_nether": "Пустота",
+  "dimension.minecraft.the_end": "Конец"
 }

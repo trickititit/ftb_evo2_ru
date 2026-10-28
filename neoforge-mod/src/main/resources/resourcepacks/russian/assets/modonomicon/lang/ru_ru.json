@@ -611,5 +611,8 @@
   "tooltip.modonomicon.fluid.amount": "%s mb",
   "tooltip.modonomicon.fluid.amount_and_capacity": "%s / %s mb",
   "tooltip.modonomicon.no_book_found_for_stack": "В базе данных книг modonomicon книга по данному товару не найдена! Примечание: %s",
-  "tooltip.modonomicon.recipe.crafting_shapeless": "Бесформенный"
+  "tooltip.modonomicon.recipe.crafting_shapeless": "Бесформенный",
+  "book.modonomicon.demo.conditional.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
+  "book.modonomicon.demo.formatting.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
+  "book.modonomicon.demo_index.conditional.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние."
 }

@@ -505,5 +505,8 @@
   "jade.hephaestus.melting_entry": "%s %s%%",
   "jade.hephaestus.melting_more": "+%s ещё…",
   "config.jade.plugin_hephaestus.smeltery_progress": "Ход плавки плавильни",
-  "config.jade.plugin_hephaestus.melter_progress": "Процесс плавления плавильной печи"
+  "config.jade.plugin_hephaestus.melter_progress": "Процесс плавления плавильной печи",
+  "fluid_type.hephaestus.molten_replica": "Расплавленная копия",
+  "item.hephaestus.molten_replica_bucket": "Ведро с расплавленной копией",
+  "block.hephaestus.molten_replica_block": "Расплавленная копия"
 }

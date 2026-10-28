@@ -14,5 +14,22 @@
   "text.little_big_redstone.logic_gate_algebra_not": "¬A",
   "text.little_big_redstone.logic_gate_algebra_or": "A ∨ B",
   "text.little_big_redstone.logic_gate_algebra_xor": "A ⊻ B",
-  "text.little_big_redstone.logic_help_battery": "Выходной сигнал всегда будет равен настроенному уровню сигнала."
+  "text.little_big_redstone.logic_help_battery": "Выходной сигнал всегда будет равен настроенному уровню сигнала.",
+  "entity.little_big_redstone.sticky_note": "Заметка",
+  "entity.little_big_redstone.sticky_note.black": "Черная записка",
+  "entity.little_big_redstone.sticky_note.blue": "Синяя записка",
+  "entity.little_big_redstone.sticky_note.brown": "Коричневая записка",
+  "entity.little_big_redstone.sticky_note.cyan": "Голубая заметка",
+  "entity.little_big_redstone.sticky_note.gray": "Серая записка",
+  "entity.little_big_redstone.sticky_note.green": "Зеленая записка",
+  "entity.little_big_redstone.sticky_note.light_blue": "Светло-голубая записка",
+  "entity.little_big_redstone.sticky_note.light_gray": "Светло-серая заметка",
+  "entity.little_big_redstone.sticky_note.lime": "Лаймовая записка",
+  "entity.little_big_redstone.sticky_note.magenta": "Пурпурная заметка",
+  "entity.little_big_redstone.sticky_note.orange": "Оранжевая записка",
+  "entity.little_big_redstone.sticky_note.pink": "Розовая записка",
+  "entity.little_big_redstone.sticky_note.purple": "Фиолетовая записка",
+  "entity.little_big_redstone.sticky_note.red": "Красная записка",
+  "entity.little_big_redstone.sticky_note.white": "Белая записка",
+  "entity.little_big_redstone.sticky_note.yellow": "Желтая записка"
 }

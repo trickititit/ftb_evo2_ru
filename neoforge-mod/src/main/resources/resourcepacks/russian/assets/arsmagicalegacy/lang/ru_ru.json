@@ -1608,6 +1608,7 @@
   "tag.item.arsmagicalegacy.runes": "Руны",
   "tag.item.arsmagicalegacy.shows_bars_layer": "Показывает слой полос",
   "tag.item.arsmagicalegacy.shows_spell_visuals": "Показывает визуальные эффекты заклинаний",
+  "tag.item.arsmagicalegacy.spell_books": "Книги Заклинаний",
   "tag.item.arsmagicalegacy.spellcrafting_end": "Конечные предметы для создания заклинаний",
   "tag.item.arsmagicalegacy.spellcrafting_start": "Начальные предметы для создания заклинаний",
   "tag.item.arsmagicalegacy.witchwood_logs": "Бревна ведьминого леса",
@@ -1629,6 +1630,5 @@
   "tag.item.c.storage_blocks.sunstone": "Блоки хранения солнечного камня",
   "tag.item.c.storage_blocks.topaz": "Блоки хранения топаза",
   "tag.item.c.storage_blocks.vinteum": "Блоки хранения данных Vinteum",
-  "tag.worldgen.biome.arsmagicalegacy.can_summon_water_guardian": "Можно вызвать водного стража",
-  "tag.item.arsmagicalegacy.spell_books": "Книги Заклинаний"
+  "tag.worldgen.biome.arsmagicalegacy.can_summon_water_guardian": "Можно вызвать водного стража"
 }

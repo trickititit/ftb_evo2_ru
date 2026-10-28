@@ -21,5 +21,10 @@
   "ftbchunks.gui.edit": "Изменить",
   "ftbchunks.gui.edit_waypoint": "Изменить метку",
   "key.category.ftbchunks.keys": "ФТБ-куски",
-  "minimap.info.ftbchunks.fps.title": "ФПС"
+  "minimap.info.ftbchunks.fps.title": "ФПС",
+  "ftbchunks.nether_portal.failure": "Невозможно телепортироваться сюда: создание удаленного портала запрещено!",
+  "ftbchunks.nether_portal.no_portal": "Телепортация разрешена, создание портала запрещено.",
+  "ftbchunks.admin_bypass_reminder": "Напоминание: обход администратора FTB Chunks в настоящее время включен.\nВы можете переключить это с помощью «/ftbchunks admin bypass_protection».",
+  "ftbchunks.config.server.nether_portal_creation": "Создание портала Пустоты",
+  "ftbchunks.config.server.nether_portal_creation.tooltip": "Как действовать, если ваниль попытается создать портал в Пустоту для игрока в чане, на который претендует другая команда\nno_portal: разрешить игроку телепортироваться, но не создавать структуру портала.\nпровал: полностью предотвратить телепортацию\nРазрешить: просто создайте портал как обычно."
 }

@@ -1,12 +1,13 @@
 {
   "pack": "FTB Evolution 2",
   "pack_id": 135,
-  "pack_version": "1.5.1",
-  "ftb_version_id": 100577,
+  "pack_version": "1.6.1",
+  "ftb_version_id": 100580,
   "minecraft": "26.1.2",
   "neoforge": "26.1.2.121",
   "ftbquests": "26.1.2.9",
   "stellaris": "2.0.9",
-  "mod_version": "1.1.0",
-  "quest_entries": 4193
+  "mod_version": "1.2.0",
+  "quest_entries": 4194,
+  "ftblibrary": "26.1.2.10"
 }

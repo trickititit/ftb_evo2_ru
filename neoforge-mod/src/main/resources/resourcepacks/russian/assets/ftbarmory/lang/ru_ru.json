@@ -148,9 +148,7 @@
   "item.ftbarmory.adamantite_cell_component": "1M Адамантитовый компонент хранения ME",
   "item.ftbarmory.adamantite_item_storage_cell": "Адамантитовая ячейка для хранения предметов ME 1M",
   "item.ftbarmory.adamantite_storage_stack_upgrade": "Обновление адамантитового хранилища",
-  "item.ftbarmory.adamantite_storage_stack_upgrade.tooltip": "Умножает количество стопок, которые могут поместиться в слот, на 32.",
   "item.ftbarmory.adamantite_backpack_stack_upgrade": "Улучшение стопки адамантитового рюкзака",
-  "item.ftbarmory.adamantite_backpack_stack_upgrade.tooltip": "Умножает количество стопок, которые могут поместиться в слот, на 16.",
   "item.ftbarmory.adamantite_rounds": "Адамантитовые раунды",
   "item.ftbarmory.adamantite_overclocker_upgrade": "Адамантитовое обновление оверклокера",
   "item.ftbarmory.adamantite_productivity_upgrade": "Повышение производительности адамантита",
@@ -210,5 +208,8 @@
   "wand.thaumaturge.cap.adamantite": "Адамантитовый выступ",
   "wand.thaumaturge.cap.aeternium": "Этерний полосатый",
   "pack.ftbarmory.ae2": "Оружейная палата ФТБ: AE2",
-  "pack.ftbarmory.thaumaturge": "Оружейная FTB: Чудотворец"
+  "pack.ftbarmory.thaumaturge": "Оружейная FTB: Чудотворец",
+  "item.ftbarmory.productivity_upgrade.tooltip.mystian": "%sx производительность на Мистийской пасеке, удваивающаяся с каждым дополнительным до четырех",
+  "item.ftbarmory.adamantite_storage_stack_upgrade.tooltip": "Умножает количество стопок, которые могут поместиться в слот, на 36.",
+  "item.ftbarmory.adamantite_backpack_stack_upgrade.tooltip": "Умножает количество стопок, которые могут поместиться в слот, на 20."
 }

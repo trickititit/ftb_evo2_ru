@@ -1,6 +1,6 @@
 # Third-party notices
 
-Original modpack and quest text: FTB Team, FTB Evolution 2 1.5.1. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
+Original modpack and quest text: FTB Team, FTB Evolution 2 1.6.1. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
 
 The MIT grant in LICENSE-CODE.txt covers only the original integration code and build scripts. It does not grant rights to third-party text or change upstream licenses. License metadata below is reproduced for attribution; it is not evidence of permission to redistribute a particular translation. Check applicable terms and any required permissions before publication.
 
@@ -8,6 +8,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 
 ## Source metadata
 
+- **Thunder Relics — HP**. Declared license: All Rights Reserved. Namespaces: thunderrelics.
 - **Adrenaline — benbenlaw**. Declared license: MIT. Namespaces: adrenaline.
 - **Advanced AE — Pedroksl**. Declared license: LGPL-3.0. Namespaces: advanced_ae, ae2.
 - **AdvancedCoreInfo — Yanny**. Declared license: MIT. Namespaces: aci.
@@ -50,7 +51,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Better Advanced Tooltips — latvian.dev**. Declared license: MIT. Namespaces: betteradvancedtooltips.
 - **Better Advancements — way2muchnoise**. Declared license: "Don't Be a Jerk" non-commercial care-free license. Namespaces: betteradvancements.
 - **BetterBlockZ — riciJak**. Declared license: All Rights Reserved. Namespaces: betterblockz.
-- **Better Fishtanks — MINT_Gaming_Studios**. Declared license: All Rights Reserved. Namespaces: betterfishtanks.
+- **Better Fishtanks — MINT Gaming Studios, N0drake**. Declared license: All Rights Reserved. Namespaces: betterfishtanks.
 - **BHMenu — BisectHosting**. Declared license: All Rights Reserved. Namespaces: bhmenu.
 - **Bridging Mod — CG360**. Declared license: MIT. Namespaces: bridgingmod.
 - **Build Guide — brentmaas**. Declared license: Creative Commons Attribution-NonCommercial 3.0 Unported. Namespaces: buildguide.
@@ -63,7 +64,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **CC: Tweaked — Daniel Ratcliffe, Aaron Mills, SquidDev**. Declared license: ComputerCraft Public License (https://raw.githubusercontent.com/dan200/ComputerCraft/master/LICENSE). Namespaces: computercraft.
 - **Cloth Config v26.1 API — Not declared**. Declared license: GNU LGPLv3. Namespaces: cloth-config2.
 - **Collapsible Groups — StarskyXIII**. Declared license: MIT. Namespaces: collapsible_groups.
-- **Collective — Rick South**. Declared license: All rights reserved. Namespaces: collective.
+- **Collective — Serilum**. Declared license: All Rights Reserved. Namespaces: collective.
 - **Color Blindness — Cech12**. Declared license: The MIT License (MIT). Namespaces: colorblindness.
 - **Colossal Reactors — Unfamily, Iskandert**. Declared license: MIT. Namespaces: colossal_reactors.
 - **Combat Roll — Daedelus**. Declared license: GPL-3.0. Namespaces: combat_roll.
@@ -77,7 +78,6 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Controlling — Jaredlll08**. Declared license: MIT. Namespaces: controlling.
 - **Cooking for Blockheads — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: cookingforblockheads.
 - **Crafting on a Stick — OfekN**. Declared license: GNU GENERAL PUBLIC LICENSE. Namespaces: crafting_on_a_stick.
-- **Crafting Station — Leclowndu93150**. Declared license: MIT. Namespaces: craftingstation.
 - **Crafting Tweaks — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: craftingtweaks.
 - **Crash Utilities — Darkere**. Declared license: MIT LICENSE. Namespaces: crashutilities.
 - **CreativeCore — CreativeMD**. Declared license: LGPL-3.0-only. Namespaces: creativecore.
@@ -185,6 +185,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Just Dire Fuels — Saereth**. Declared license: MIT. Namespaces: justdirefuels.
 - **Just Dire Things — Direwolf20**. Declared license: MIT. Namespaces: justdirethings.
 - **Just Dyna Things — Not declared**. Declared license: Ora Et Labora License. Namespaces: justdirethings, justdynathings.
+- **Just Enough Crafting Tables — BreakInBlocks**. Declared license: PolyForm-Shield-1.0.0 AND PolyForm-Perimeter-1.0.0. Namespaces: justenoughcraftingtables.
 - **Just Enough Professions (JEP) — Mrbysco, ShyNieke**. Declared license: MIT. Namespaces: justenoughprofessions.
 - **Just Zoom — Keksuccino**. Declared license: DSMSLv3.1 (DON'T SNATCH MA STUFF LICENSE v3.1). Namespaces: justzoom.
 - **KeyBind Bundles — Matyrobbrt**. Declared license: MIT. Namespaces: keybindbundles.
@@ -214,7 +215,6 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **MezzConfig GUI — mezz**. Declared license: The MIT License (MIT). Namespaces: mezz_config_gui.
 - **Modular Force Field System — Su5eD, Built Broken Modding**. Declared license: Code: MIT, Assets: All Rights Reserved. Namespaces: mffs.
 - **Mining Gadgets — Direwolf20, ErrorMikey**. Declared license: MIT (https://github.com/Direwolf20-MC/MiningGadgets/blob/master/LICENSE.txt). Namespaces: mininggadgets.
-- **MINT Lib — MINT_Gaming_Studios**. Declared license: All Rights Reserved. Namespaces: mint_lib.
 - **Mob Flow Utilities — MisterD Modding**. Declared license: MIT. Namespaces: mobflowutilities.
 - **ModernFix — embeddedt**. Declared license: GNU LGPL 3.0. Namespaces: modernfix.
 - **Modonomicon — Kli Kli**. Declared license: MIT AND CC-BY-4.0. Namespaces: modonomicon.
@@ -270,7 +270,9 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Refined Storage - JEI Integration — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage_jei_integration.
 - **Refined Storage — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage.
 - **Refined Storage - Quartz Arsenal — Refined Mods**. Declared license: MIT. Namespaces: refinedstorage_quartz_arsenal.
+- **Refined Wireless Upgrades — Ultramega**. Declared license: MIT. Namespaces: rsinsertexportupgrade.
 - **Reliquary Reincarnations — P3pp3rF1y**. Declared license: All Rights Reserved. Namespaces: reliquary.
+- **Replication AE2 Bridge — Unfamily**. Declared license: MIT. Namespaces: ae2, rep_ae2_bridge.
 - **Replication — Buuz135, Rid**. Declared license: MIT. Namespaces: replication.
 - **Resettable Trial Vaults & Spawners — LitQA**. Declared license: MIT License. Namespaces: resettable_trial_chambers.
 - **Resonance — Comfy**. Declared license: All Rights Reserved. Namespaces: resonance.
@@ -306,7 +308,6 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Terralith — Starmute, catter1, Apollo, TheKingWhale**. Declared license: MIT. Namespaces: terralith.
 - **Tesseract — SuperMartijn642**. Declared license: All rights reserved. Namespaces: tesseract.
 - **Tesseract API — Swedz**. Declared license: MIT. Namespaces: tesseract_api.
-- **Thunder Relics — HP**. Declared license: All Rights Reserved. Namespaces: thunderrelics.
 - **Time In A Bottle — RealMangoRage, MangoRage**. Declared license: MIT. Namespaces: tiab.
 - **Titanium — Not declared**. Declared license: GNU LESSER GENERAL PUBLIC LICENSE. Namespaces: titanium.
 - **Tool Belt — gigaherz**. Declared license: BSD (3 clause). Namespaces: toolbelt.

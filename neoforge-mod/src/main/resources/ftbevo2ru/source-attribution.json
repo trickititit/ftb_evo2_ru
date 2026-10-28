@@ -1,5 +1,18 @@
 [
   {
+    "jar": "26.1.2-neoforge-Thunder Relics-1.4.jar",
+    "namespaces": [
+      "thunderrelics"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Thunder Relics",
+        "authors": "HP"
+      }
+    ]
+  },
+  {
     "jar": "adrenaline-26.1.2-1.0.2.jar",
     "namespaces": [
       "adrenaline"
@@ -121,7 +134,7 @@
     ]
   },
   {
-    "jar": "animal_pen-neoforge-26.1-2.5.1.jar",
+    "jar": "animal_pen-neoforge-26.1-2.5.2.jar",
     "namespaces": [
       "animal_pen"
     ],
@@ -330,7 +343,7 @@
     ]
   },
   {
-    "jar": "AppliedFlux-26.1-1.0.2-neoforge.jar",
+    "jar": "AppliedFlux-26.1-1.0.4-neoforge.jar",
     "namespaces": [
       "ae2",
       "appflux"
@@ -370,7 +383,7 @@
     ]
   },
   {
-    "jar": "armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+    "jar": "armor_cosmetic-26.1.2-neoforge-26.1.2.78-1.1.3.jar",
     "namespaces": [
       "armor_cosmetic"
     ],
@@ -422,7 +435,7 @@
     ]
   },
   {
-    "jar": "auroral-26.1.2-1.5.10.jar",
+    "jar": "auroral-26.1.2-1.5.11.jar",
     "namespaces": [
       "auroral"
     ],
@@ -474,7 +487,7 @@
     ]
   },
   {
-    "jar": "baubley-heart-canisters-26.1.2-1.7.3.jar",
+    "jar": "baubley-heart-canisters-26.1.2-1.7.4.jar",
     "namespaces": [
       "bhc"
     ],
@@ -552,7 +565,7 @@
     ]
   },
   {
-    "jar": "betterfishtanks-1.3.0-26.1-NeoForge.jar",
+    "jar": "betterfishtanks-1.4.1-26.1-neoforge.jar",
     "namespaces": [
       "betterfishtanks"
     ],
@@ -560,7 +573,7 @@
     "mods": [
       {
         "name": "Better Fishtanks",
-        "authors": "MINT_Gaming_Studios"
+        "authors": "MINT Gaming Studios, N0drake"
       }
     ]
   },
@@ -604,7 +617,7 @@
     ]
   },
   {
-    "jar": "buildinggadgets2-1.4.6.jar",
+    "jar": "buildinggadgets2-26.1.2.1.jar",
     "namespaces": [
       "buildinggadgets2"
     ],
@@ -643,7 +656,7 @@
     ]
   },
   {
-    "jar": "cakesticklib-1.18.jar",
+    "jar": "cakesticklib-1.18.2.jar",
     "namespaces": [
       "cakesticklib"
     ],
@@ -708,7 +721,7 @@
     ]
   },
   {
-    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar",
+    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta5.jar",
     "namespaces": [
       "collapsible_groups"
     ],
@@ -721,15 +734,15 @@
     ]
   },
   {
-    "jar": "collective-26.1.2-8.32.jar",
+    "jar": "collective-26.1.2-8.67.jar",
     "namespaces": [
       "collective"
     ],
-    "license": "All rights reserved",
+    "license": "All Rights Reserved",
     "mods": [
       {
         "name": "Collective",
-        "authors": "Rick South"
+        "authors": "Serilum"
       }
     ]
   },
@@ -747,7 +760,7 @@
     ]
   },
   {
-    "jar": "colossal_reactors-2.4.1.0.0-neoforge-26.1.2.jar",
+    "jar": "colossal_reactors-2.5.0.0.0-neoforge-26.1.2.jar",
     "namespaces": [
       "colossal_reactors"
     ],
@@ -903,19 +916,6 @@
     ]
   },
   {
-    "jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
-    "namespaces": [
-      "craftingstation"
-    ],
-    "license": "MIT",
-    "mods": [
-      {
-        "name": "Crafting Station",
-        "authors": "Leclowndu93150"
-      }
-    ]
-  },
-  {
     "jar": "craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
     "namespaces": [
       "craftingtweaks"
@@ -968,7 +968,7 @@
     ]
   },
   {
-    "jar": "Cucumber-26.1.2-9.0.6.jar",
+    "jar": "Cucumber-26.1.2-9.0.7.jar",
     "namespaces": [
       "cucumber"
     ],
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "jar": "dimenergy-26.1.2-1.0.1.jar",
+    "jar": "dimenergy-26.1.2-1.1.0.jar",
     "namespaces": [
       "dimenergy"
     ],
@@ -1151,7 +1151,7 @@
     ]
   },
   {
-    "jar": "easy_npc-neoforge-26.1.2-7.16.0.jar",
+    "jar": "easy_npc-neoforge-26.1.2-7.17.1.jar",
     "namespaces": [
       "easy_npc",
       "easy_npc_example"
@@ -1256,7 +1256,7 @@
     ]
   },
   {
-    "jar": "energizedpower-3.0.1+26.1.x-neoforge.jar",
+    "jar": "energizedpower-3.0.5+26.1.x-neoforge.jar",
     "namespaces": [
       "energizedpower"
     ],
@@ -1522,7 +1522,7 @@
     ]
   },
   {
-    "jar": "ftb-armory-26.1.2.10.jar",
+    "jar": "ftb-armory-26.1.2.11.jar",
     "namespaces": [
       "ftbarmory",
       "ironfurnaces",
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "jar": "ftb-chunks-neoforge-26.1.2.8.jar",
+    "jar": "ftb-chunks-neoforge-26.1.2.9.jar",
     "namespaces": [
       "ae2",
       "ftbchunks",
@@ -1579,7 +1579,7 @@
     ]
   },
   {
-    "jar": "ftb-echoes-26.1.2.1.jar",
+    "jar": "ftb-echoes-26.1.2.2.jar",
     "namespaces": [
       "ftbechoes"
     ],
@@ -1605,7 +1605,7 @@
     ]
   },
   {
-    "jar": "ftb-evolution-companion-26.1.2.24.jar",
+    "jar": "ftb-evolution-companion-26.1.2.25.jar",
     "namespaces": [
       "ftb",
       "ftbevolutioncompanion"
@@ -1619,7 +1619,7 @@
     ]
   },
   {
-    "jar": "ftb-industrial-contraptions-26.1.2.18.jar",
+    "jar": "ftb-industrial-contraptions-26.1.2.20.jar",
     "namespaces": [
       "ftbic"
     ],
@@ -1632,7 +1632,7 @@
     ]
   },
   {
-    "jar": "ftb-library-neoforge-26.1.2.9.jar",
+    "jar": "ftb-library-neoforge-26.1.2.10.jar",
     "namespaces": [
       "ftblibrary"
     ],
@@ -1658,7 +1658,7 @@
     ]
   },
   {
-    "jar": "ftb-pack-companion-26.1.2.5.jar",
+    "jar": "ftb-pack-companion-26.1.2.6.jar",
     "namespaces": [
       "ftbpc"
     ],
@@ -1866,7 +1866,7 @@
     ]
   },
   {
-    "jar": "guideme-26.1.15-beta.jar",
+    "jar": "guideme-26.1.16-beta.jar",
     "namespaces": [
       "guideme"
     ],
@@ -1892,7 +1892,7 @@
     ]
   },
   {
-    "jar": "hephaestus-neoforge-26.1.2-1.0.18.jar",
+    "jar": "hephaestus-neoforge-26.1.2-1.0.19.jar",
     "namespaces": [
       "hephaestus"
     ],
@@ -1905,7 +1905,7 @@
     ]
   },
   {
-    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.9.jar",
+    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.11.jar",
     "namespaces": [
       "hephaestus_tools"
     ],
@@ -1931,7 +1931,7 @@
     ]
   },
   {
-    "jar": "horsepowered-26.1.2-3.11.6.jar",
+    "jar": "horsepowered-26.1.2-3.11.7.jar",
     "namespaces": [
       "horsepowered"
     ],
@@ -2141,7 +2141,7 @@
     ]
   },
   {
-    "jar": "irons_artifice-26.1.2-1.1.0.jar",
+    "jar": "irons_artifice-26.1.2-1.1.1.jar",
     "namespaces": [
       "irons_artifice"
     ],
@@ -2167,7 +2167,7 @@
     ]
   },
   {
-    "jar": "irons_lib-26.1.2-2.2.0.jar",
+    "jar": "irons_lib-26.1.2-2.3.0.jar",
     "namespaces": [
       "irons_lib"
     ],
@@ -2337,6 +2337,19 @@
     ]
   },
   {
+    "jar": "justenoughcraftingtables-26.1.2-1.0.0.jar",
+    "namespaces": [
+      "justenoughcraftingtables"
+    ],
+    "license": "PolyForm-Shield-1.0.0 AND PolyForm-Perimeter-1.0.0",
+    "mods": [
+      {
+        "name": "Just Enough Crafting Tables",
+        "authors": "BreakInBlocks"
+      }
+    ]
+  },
+  {
     "jar": "JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
     "namespaces": [
       "justenoughprofessions"
@@ -2350,7 +2363,7 @@
     ]
   },
   {
-    "jar": "justzoom_neoforge_3.0.1_MC_26.1.2.jar",
+    "jar": "justzoom_neoforge_3.1.0_MC_26.1.2.jar",
     "namespaces": [
       "justzoom"
     ],
@@ -2442,7 +2455,7 @@
     ]
   },
   {
-    "jar": "little-big-redstone-1.9.10-alpha-26.1.2.jar",
+    "jar": "little-big-redstone-1.9.11-26.1.2.jar",
     "namespaces": [
       "little_big_redstone"
     ],
@@ -2507,7 +2520,7 @@
     ]
   },
   {
-    "jar": "ltxi-26.1.2-2.4.1.jar",
+    "jar": "ltxi-26.1.2-2.4.3.jar",
     "namespaces": [
       "ltxi"
     ],
@@ -2533,7 +2546,7 @@
     ]
   },
   {
-    "jar": "malisisdoorsreborn-neoforge-26.1.2-1.0.15.jar",
+    "jar": "malisisdoorsreborn-neoforge-26.1.2-1.0.16.jar",
     "namespaces": [
       "malisisdoorsreborn"
     ],
@@ -2715,19 +2728,6 @@
     ]
   },
   {
-    "jar": "mint_lib-0.4.0-26.1b.jar",
-    "namespaces": [
-      "mint_lib"
-    ],
-    "license": "All Rights Reserved",
-    "mods": [
-      {
-        "name": "MINT Lib",
-        "authors": "MINT_Gaming_Studios"
-      }
-    ]
-  },
-  {
     "jar": "mobflowutilities-3.2.1.9-mc-26.1.2.jar",
     "namespaces": [
       "mobflowutilities"
@@ -2741,7 +2741,7 @@
     ]
   },
   {
-    "jar": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
+    "jar": "modernfix-neoforge-5.27.25+mc26.1.2.jar",
     "namespaces": [
       "modernfix"
     ],
@@ -2754,7 +2754,7 @@
     ]
   },
   {
-    "jar": "modonomicon-26.1.2-neoforge-2.17.1.jar",
+    "jar": "modonomicon-26.1.2-neoforge-2.19.0.jar",
     "namespaces": [
       "modonomicon"
     ],
@@ -2924,7 +2924,7 @@
     ]
   },
   {
-    "jar": "MysticalAgriculture-26.1.2-9.0.10.jar",
+    "jar": "MysticalAgriculture-26.1.2-9.0.11.jar",
     "namespaces": [
       "mysticalagriculture"
     ],
@@ -2964,7 +2964,7 @@
     ]
   },
   {
-    "jar": "nautec-26.1.2-NeoForge-2.0.19.jar",
+    "jar": "nautec-26.1.2-NeoForge-2.0.21.jar",
     "namespaces": [
       "nautec"
     ],
@@ -3003,7 +3003,7 @@
     ]
   },
   {
-    "jar": "nodeworks-0.11.1.jar",
+    "jar": "nodeworks-0.11.3.jar",
     "namespaces": [
       "nodeworks"
     ],
@@ -3055,7 +3055,7 @@
     ]
   },
   {
-    "jar": "occultism-26.1.2-neoforge-1.256.1.jar",
+    "jar": "occultism-26.1.2-neoforge-1.257.2.jar",
     "namespaces": [
       "occultism"
     ],
@@ -3344,7 +3344,7 @@
     ]
   },
   {
-    "jar": "recursiveae2patternprovider-1.1.1.jar",
+    "jar": "recursiveae2patternprovider-1.1.2.jar",
     "namespaces": [
       "recursiveae2patternprovider"
     ],
@@ -3448,6 +3448,19 @@
     ]
   },
   {
+    "jar": "refinedwirelessupgrades-neoforge-26.1.2-3.0.1.jar",
+    "namespaces": [
+      "rsinsertexportupgrade"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Refined Wireless Upgrades",
+        "authors": "Ultramega"
+      }
+    ]
+  },
+  {
     "jar": "reliquary-26.1.2-2.0.94.1582.jar",
     "namespaces": [
       "reliquary"
@@ -3457,6 +3470,20 @@
       {
         "name": "Reliquary Reincarnations",
         "authors": "P3pp3rF1y"
+      }
+    ]
+  },
+  {
+    "jar": "rep_ae2_bridge-3.0.0.0.0-neoforge-26.1.2.jar",
+    "namespaces": [
+      "ae2",
+      "rep_ae2_bridge"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "Replication AE2 Bridge",
+        "authors": "Unfamily"
       }
     ]
   },
@@ -3695,7 +3722,7 @@
     ]
   },
   {
-    "jar": "sophisticatedbackpacks-26.1.2-3.26.15.2224.jar",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.17.2229.jar",
     "namespaces": [
       "sophisticatedbackpacks"
     ],
@@ -3708,7 +3735,7 @@
     ]
   },
   {
-    "jar": "sophisticatedcore-26.1.2-1.5.18.2424.jar",
+    "jar": "sophisticatedcore-26.1.2-1.5.20.2437.jar",
     "namespaces": [
       "sophisticatedcore"
     ],
@@ -3721,7 +3748,7 @@
     ]
   },
   {
-    "jar": "sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+    "jar": "sophisticatedinventoryinteractions-26.1.2-0.1.19.231.jar",
     "namespaces": [
       "sophisticatedinventoryinteractions"
     ],
@@ -3747,7 +3774,7 @@
     ]
   },
   {
-    "jar": "sophisticatedstorage-26.1.2-1.5.123.2190.jar",
+    "jar": "sophisticatedstorage-26.1.2-1.5.125.2202.jar",
     "namespaces": [
       "sophisticatedstorage"
     ],
@@ -3760,7 +3787,7 @@
     ]
   },
   {
-    "jar": "sophisticatedstorageinmotion-26.1.2-0.10.37.378.jar",
+    "jar": "sophisticatedstorageinmotion-26.1.2-0.10.38.384.jar",
     "namespaces": [
       "sophisticatedstorageinmotion"
     ],
@@ -3786,7 +3813,7 @@
     ]
   },
   {
-    "jar": "starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+    "jar": "starcatcher-3.3.10.2-NEOFORGE-26.1.2.jar",
     "namespaces": [
       "starcatcher"
     ],
@@ -3851,7 +3878,7 @@
     ]
   },
   {
-    "jar": "supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+    "jar": "supermartijn642corelib-1.1.26-neoforge-mc26.1.jar",
     "namespaces": [
       "supermartijn642corelib"
     ],
@@ -3903,7 +3930,7 @@
     ]
   },
   {
-    "jar": "tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
+    "jar": "tesseract-api-neoforge-1.13.6-26.1.2.jar",
     "namespaces": [
       "tesseract_api"
     ],
@@ -3912,19 +3939,6 @@
       {
         "name": "Tesseract API",
         "authors": "Swedz"
-      }
-    ]
-  },
-  {
-    "jar": "thunderrelics-1.3.jar",
-    "namespaces": [
-      "thunderrelics"
-    ],
-    "license": "All Rights Reserved",
-    "mods": [
-      {
-        "name": "Thunder Relics",
-        "authors": "HP"
       }
     ]
   },
@@ -3942,7 +3956,7 @@
     ]
   },
   {
-    "jar": "titanium-26.1.2-4.0.14.jar",
+    "jar": "titanium-26.1.2-4.0.16.jar",
     "namespaces": [
       "titanium"
     ],
@@ -3994,7 +4008,7 @@
     ]
   },
   {
-    "jar": "trashcans-1.1.1a-neoforge-mc26.1.jar",
+    "jar": "trashcans-1.1.2-neoforge-mc26.1.jar",
     "namespaces": [
       "trashcans"
     ],
@@ -4111,7 +4125,7 @@
     ]
   },
   {
-    "jar": "witchery-0.5.26+mc26.1.2.jar",
+    "jar": "witchery-0.5.34+mc26.1.2.jar",
     "namespaces": [
       "witchery"
     ],
@@ -4124,7 +4138,7 @@
     ]
   },
   {
-    "jar": "witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+    "jar": "witchery_forbidden_magic-0.5.27+mc26.1.2.jar",
     "namespaces": [
       "witchery_forbidden_magic"
     ],

@@ -1,3 +1,7 @@
 {
-  "block.dimenergy.dimensional_energy": "Пространственная энергетическая ячейка"
+  "block.dimenergy.dimensional_energy": "Пространственная энергетическая ячейка",
+  "block.dimenergy.dimensional_rift_energy": "Энергетическая ячейка межпространственного разлома",
+  "gui.dimenergy.exporting": "Экспорт:",
+  "gui.dimenergy.true": "Правда",
+  "gui.dimenergy.false": "Ложь"
 }

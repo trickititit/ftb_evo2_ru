@@ -1,12 +1,12 @@
 # Публикация на CurseForge
 
-Создайте проект **Minecraft → Mods**, загрузчик **NeoForge**, версия игры **26.1.2**. Загрузите основной файл `ftb-evolution-2-russian-neoforge-26.1.2-1.1.0.jar`; не загружайте вместо него `-sources.jar`, исходный ZIP проекта или старый Client.zip.
+Создайте проект **Minecraft → Mods**, загрузчик **NeoForge**, версия игры **26.1.2**. Загрузите основной файл `ftb-evolution-2-russian-neoforge-26.1.2-1.2.0.jar`; не загружайте вместо него `-sources.jar`, исходный ZIP проекта или старый Client.zip.
 
 Название: **FTB Evolution 2 - Russian Localization**.
 
 Краткое описание (Summary):
 
-> Unofficial Russian quest, book and guide localization for FTB Evolution 2 1.5.1.
+> Unofficial Russian quest, book and guide localization for FTB Evolution 2 1.6.1.
 
 Основное английское описание подготовлено в `CURSEFORGE-DESCRIPTION.md`. В качестве исходников укажите репозиторий проекта, а в Issue tracker — его раздел Issues. Категория: локализация/Utility, если соответствующий вариант доступен в форме; не отмечайте несвязанные категории.
 

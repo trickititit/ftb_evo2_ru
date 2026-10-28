@@ -214,7 +214,6 @@
   "ftbic.hydro.soil": "Многоразовый ввод почвы",
   "ftbic.hydro.soil_speed": "Скорость почвы: %sx",
   "ftbic.hydro.water": "Вода",
-  "ftbic.jade.burnt": "Â§cСгоревший",
   "ftbic.jade.cable_tier": "Уровень: %s",
   "ftbic.jade.fluid": "Жидкость: %s / %s mB",
   "ftbic.jade.fluid_empty": "Бак: Пустой",
@@ -661,5 +660,6 @@
   "subtitles.ftbic.radiation": "Радиационные потрескивания",
   "subtitles.ftbic.reactor_critical": "Критическая температура реактора",
   "subtitles.ftbic.reactor_warning": "Предупреждение о перегреве реактора",
-  "subtitles.ftbic.teleport": "Телепорт активируется"
+  "subtitles.ftbic.teleport": "Телепорт активируется",
+  "ftbic.jade.burnt": "§cСгоревший"
 }
