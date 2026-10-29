@@ -15,10 +15,10 @@ dependencies {
     if (project.hasProperty('modpackDir')) {
         // Optional offline build against an existing installation. The JARs are never bundled.
         compileOnly fileTree(dir: "${project.property('modpackDir')}/mods", include: [
-                'ftb-quests-neoforge-26.1.2.9.jar', 'ftb-library-neoforge-26.1.2.10.jar'])
+                'ftb-quests-neoforge-26.1.2.9.jar', 'ftb-library-neoforge-26.1.2.11.jar'])
     } else {
         compileOnly 'dev.ftb.mods:ftb-quests-neoforge:26.1.2.9'
-        compileOnly 'dev.ftb.mods:ftb-library-neoforge:26.1.2.10'
+        compileOnly 'dev.ftb.mods:ftb-library-neoforge:26.1.2.11'
     }
 }
 tasks.withType(JavaCompile).configureEach {

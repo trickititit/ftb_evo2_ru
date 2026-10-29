@@ -28,7 +28,7 @@ artifacts = list((project / 'build/libs').glob('*-' + version + '.jar'))
 if len(artifacts) != 1:
     parser.error('Build exactly one main JAR for mod_version=' + version + ' before running checks')
 jar = artifacts[0]
-ftb_library = pack / 'mods/ftb-library-neoforge-26.1.2.10.jar'
+ftb_library = pack / 'mods/ftb-library-neoforge-26.1.2.11.jar'
 with zipfile.ZipFile(ftb_library) as z:
     (work / 'json5-java.jar').write_bytes(z.read('META-INF/jarjar/json5-java-3.0.0.jar'))
 classes = work / 'classes'

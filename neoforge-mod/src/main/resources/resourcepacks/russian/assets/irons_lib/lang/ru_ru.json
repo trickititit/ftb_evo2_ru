@@ -55,6 +55,11 @@
   "transmog.irons_lib.ruby_warrior": "Рубиновый воин",
   "transmog.irons_lib.onyx_shadow": "Оникс Тень",
   "transmog.irons_lib.sapphire_scholar": "Сапфировый ученый",
+  "transmog.irons_lib.autumn_knight": "Осенний рыцарь",
+  "transmog.irons_lib.pumpkin_head": "Тыквенная голова",
+  "transmog.irons_lib.pumpkin_head_creeper": "Тыквенная Голова - Крипер",
+  "transmog.irons_lib.pumpkin_head_happy": "Тыквенная голова - Счастье",
+  "transmog.irons_lib.pumpkin_head_sad": "Тыквенная Голова - Грустно",
   "attribute.name.irons_lib.armor_pierce": "Пробивание брони",
   "attribute.name.irons_lib.armor_pierce.desc": "Обходит указанное количество очков брони противника.",
   "attribute.name.irons_lib.mining_speed": "Скорость добычи",
@@ -70,10 +75,5 @@
   "attribute.name.irons_lib.dodge_chance": "Шанс уклонения",
   "attribute.name.irons_lib.dodge_chance.desc": "Процентный шанс свести на нет входящий урон при наличии чутья",
   "attribute.name.irons_lib.healing_received": "Исцеление получено",
-  "attribute.name.irons_lib.healing_received.desc": "Процентное увеличение получаемого исцеления",
-  "transmog.irons_lib.autumn_knight": "Осенний рыцарь",
-  "transmog.irons_lib.pumpkin_head": "Тыквенная голова",
-  "transmog.irons_lib.pumpkin_head_creeper": "Тыквенная Голова - Крипер",
-  "transmog.irons_lib.pumpkin_head_happy": "Тыквенная голова - Счастье",
-  "transmog.irons_lib.pumpkin_head_sad": "Тыквенная Голова - Грустно"
+  "attribute.name.irons_lib.healing_received.desc": "Процентное увеличение получаемого исцеления"
 }

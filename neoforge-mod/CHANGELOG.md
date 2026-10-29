@@ -1,3 +1,12 @@
+# 1.2.1 — FTB Evolution 2 1.6.3
+
+- Updated compatibility to pack 135 / version 100583 and FTB Library 26.1.2.11.
+- Manually reviewed/updated five quest entries: Jeweler naming, tavern shopkeepers, Argon task submission, Crystal Assembler energy supply and Awakened Supremium. All 4,194 entries have current English fingerprints.
+- Manually translated four language strings: Jeweler, remote projector range, fish size and weight. Removed 17 obsolete Better Fish Tanks keys absent from current English resources.
+- GuideME, Patchouli, Oracle Index and Stellaris documentation sources are unchanged from 1.6.1; their translations are retained.
+- Added direct managed upgrades from 1.2.0 alongside 1.1.0, with recursive backup validation and restoration of previous installer state for a full rollback chain.
+- Chisel remains excluded. See VALIDATION.md for actual checks; client rendering was not tested.
+
 # 1.2.0 — FTB Evolution 2 1.6.1
 
 - Updated compatibility to pack 135 / version 100580 and FTB Library 26.1.2.10. Minecraft 26.1.2, NeoForge 26.1.2.121, FTB Quests 26.1.2.9 and Stellaris 2.0.9 remain unchanged.

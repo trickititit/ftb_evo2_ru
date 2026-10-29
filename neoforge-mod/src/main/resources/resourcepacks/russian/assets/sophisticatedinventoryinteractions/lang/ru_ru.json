@@ -9,6 +9,7 @@
   "sophisticatedinventoryinteractions.configuration.controls.search.hideAtOrBelowActionableContainerSlots": "Скрыть поиск в X доступных слотах",
   "sophisticatedinventoryinteractions.configuration.controls.sortBy.hideAtOrBelowActionableContainerSlots": "Скрыть сортировку в X доступных слотов",
   "sophisticatedinventoryinteractions.configuration.layout.anchorOffsetOverrides": "Смещения управления",
+  "sophisticatedinventoryinteractions.configuration.layout.playerSortOffsetOverrides": "Смещения сортировки игроков",
   "sophisticatedinventoryinteractions.configuration.rememberSearchPhrase": "Запомнить поисковую фразу",
   "sophisticatedinventoryinteractions.configuration.compatibility": "Совместимость",
   "sophisticatedinventoryinteractions.configuration.defaultScreenPolicy": "Политика экрана по умолчанию",
@@ -17,6 +18,5 @@
   "sophisticatedinventoryinteractions.configuration.include.screenClasses": "Разрешенные экраны",
   "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides": "Исключения слотов экрана",
   "sophisticatedinventoryinteractions.configuration.defaultPolicy.deny_by_default": "Запретить по умолчанию",
-  "sophisticatedinventoryinteractions.configuration.defaultPolicy.allow_by_default": "Разрешить по умолчанию",
-  "sophisticatedinventoryinteractions.configuration.layout.playerSortOffsetOverrides": "Смещения сортировки игроков"
+  "sophisticatedinventoryinteractions.configuration.defaultPolicy.allow_by_default": "Разрешить по умолчанию"
 }

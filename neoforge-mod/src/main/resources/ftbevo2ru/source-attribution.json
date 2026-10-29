@@ -565,7 +565,7 @@
     ]
   },
   {
-    "jar": "betterfishtanks-1.4.1-26.1-neoforge.jar",
+    "jar": "betterfishtanks-1.3.0-26.1-NeoForge.jar",
     "namespaces": [
       "betterfishtanks"
     ],
@@ -573,7 +573,7 @@
     "mods": [
       {
         "name": "Better Fishtanks",
-        "authors": "MINT Gaming Studios, N0drake"
+        "authors": "MINT_Gaming_Studios"
       }
     ]
   },
@@ -1605,7 +1605,7 @@
     ]
   },
   {
-    "jar": "ftb-evolution-companion-26.1.2.25.jar",
+    "jar": "ftb-evolution-companion-26.1.2.26.jar",
     "namespaces": [
       "ftb",
       "ftbevolutioncompanion"
@@ -1632,7 +1632,7 @@
     ]
   },
   {
-    "jar": "ftb-library-neoforge-26.1.2.10.jar",
+    "jar": "ftb-library-neoforge-26.1.2.11.jar",
     "namespaces": [
       "ftblibrary"
     ],
@@ -2724,6 +2724,19 @@
       {
         "name": "Mining Gadgets",
         "authors": "Direwolf20, ErrorMikey"
+      }
+    ]
+  },
+  {
+    "jar": "mint_lib-0.4.0-26.1b.jar",
+    "namespaces": [
+      "mint_lib"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "MINT Lib",
+        "authors": "MINT_Gaming_Studios"
       }
     ]
   },
@@ -4125,7 +4138,7 @@
     ]
   },
   {
-    "jar": "witchery-0.5.34+mc26.1.2.jar",
+    "jar": "witchery-0.5.36-mc26.1.2.jar",
     "namespaces": [
       "witchery"
     ],
@@ -4138,7 +4151,7 @@
     ]
   },
   {
-    "jar": "witchery_forbidden_magic-0.5.27+mc26.1.2.jar",
+    "jar": "witchery_forbidden_magic-0.5.28-mc26.1.2.jar",
     "namespaces": [
       "witchery_forbidden_magic"
     ],

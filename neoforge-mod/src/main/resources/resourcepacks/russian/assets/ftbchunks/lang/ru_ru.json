@@ -1,4 +1,7 @@
 {
+  "ftbchunks.nether_portal.failure": "Невозможно телепортироваться сюда: создание удаленного портала запрещено!",
+  "ftbchunks.nether_portal.no_portal": "Телепортация разрешена, создание портала запрещено.",
+  "ftbchunks.admin_bypass_reminder": "Напоминание: обход администратора FTB Chunks в настоящее время включен.\nВы можете переключить это с помощью «/ftbchunks admin bypass_protection».",
   "ftbchunks.claim_mode.circle": "Защита по кругу",
   "ftbchunks.claim_mode.freehand": "Произвольное выделение",
   "ftbchunks.claim_mode.rectangle": "Прямоугольное выделение",
@@ -16,15 +19,12 @@
   "ftbchunks.config.server.fire_spread_protection": "Защита от распространения огня",
   "ftbchunks.config.server.fire_spread_protection.tooltip": "Если это правда, то распространение огня по заявкам, принадлежащим разным командам, предотвращается (если только в целевой заявке не определены общедоступные разрешения «редактировать блок»).\nЛожь по умолчанию; включение этого параметра потенциально может привести к проблемам с производительностью сервера, особенно когда горит много блоков.\nЕсли для параметра «disable_protection» установлено значение true, этот параметр игнорируется.",
   "ftbchunks.config.server": "Настройки сервера",
+  "ftbchunks.config.server.nether_portal_creation": "Создание портала Пустоты",
+  "ftbchunks.config.server.nether_portal_creation.tooltip": "Как действовать, если ваниль попытается создать портал в Пустоту для игрока в чане, на который претендует другая команда\nno_portal: разрешить игроку телепортироваться, но не создавать структуру портала.\nпровал: полностью предотвратить телепортацию\nРазрешить: просто создайте портал как обычно.",
   "ftbchunks.fps": "ФПС: %d",
   "ftbchunks": "ФТБ-куски",
   "ftbchunks.gui.edit": "Изменить",
   "ftbchunks.gui.edit_waypoint": "Изменить метку",
   "key.category.ftbchunks.keys": "ФТБ-куски",
-  "minimap.info.ftbchunks.fps.title": "ФПС",
-  "ftbchunks.nether_portal.failure": "Невозможно телепортироваться сюда: создание удаленного портала запрещено!",
-  "ftbchunks.nether_portal.no_portal": "Телепортация разрешена, создание портала запрещено.",
-  "ftbchunks.admin_bypass_reminder": "Напоминание: обход администратора FTB Chunks в настоящее время включен.\nВы можете переключить это с помощью «/ftbchunks admin bypass_protection».",
-  "ftbchunks.config.server.nether_portal_creation": "Создание портала Пустоты",
-  "ftbchunks.config.server.nether_portal_creation.tooltip": "Как действовать, если ваниль попытается создать портал в Пустоту для игрока в чане, на который претендует другая команда\nno_portal: разрешить игроку телепортироваться, но не создавать структуру портала.\nпровал: полностью предотвратить телепортацию\nРазрешить: просто создайте портал как обычно."
+  "minimap.info.ftbchunks.fps.title": "ФПС"
 }

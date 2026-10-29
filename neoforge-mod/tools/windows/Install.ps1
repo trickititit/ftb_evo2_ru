@@ -42,6 +42,9 @@ function Check-Backups($State) {
             throw "Повреждена исходная резервная копия: $($entry.path)"
         }
     }
+    if ($State.PSObject.Properties['previousState'] -and $null -ne $State.previousState) {
+        Check-Backups $State.previousState
+    }
 }
 try {
     $manifest=Read-Json (Join-Path $PSScriptRoot 'manifest.json')

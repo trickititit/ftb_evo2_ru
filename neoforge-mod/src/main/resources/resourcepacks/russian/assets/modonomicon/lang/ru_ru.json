@@ -8,6 +8,7 @@
   "book.modonomicon.demo.acquiring.acquiring_intro.info.title": "Приобретение",
   "book.modonomicon.demo.acquiring.acquiring_intro.name": "Приобретение",
   "book.modonomicon.demo.acquiring.name": "Получение демо",
+  "book.modonomicon.demo.conditional.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
   "book.modonomicon.demo.conditional.always_locked.description": "Используется для демонстрации ссылок на заблокированные записи.",
   "book.modonomicon.demo.conditional.always_locked.name": "Всегда заблокированный вход",
   "book.modonomicon.demo.conditional.name": "Условная категория",
@@ -130,6 +131,7 @@
   "book.modonomicon.demo.formatting.advanced.page3.title": "До смешного сверхдлинное название, которое нужно масштабировать!",
   "book.modonomicon.demo.formatting.advanced.page4.text": "На этой странице очень длинный текст, который будет уменьшен в соответствии с размером страницы.\n[У него есть ссылка] (entry://modonomicon:demo/features/multiblock), чтобы проверить, работает ли обнаружение щелчков в масштабированных текстах. По той же причине у него есть [еще одна ссылка](entry://modonomicon:demo/formatting/basic).\nНаконец, у него есть [третья ссылка](entry://modonomicon:demo/formatting/always_locked), почему бы и нет. С этого момента мы просто добавляем текст без какой-либо конкретной функции, кроме как сделать страницу длиннее.\nНе очень полезно для читателя, но необходимо для бедных кли-кли, испытывающих это.",
   "book.modonomicon.demo.formatting.advanced.page4.title": "Масштабированная страница",
+  "book.modonomicon.demo.formatting.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
   "book.modonomicon.demo.formatting.always_locked.description": "Используется для демонстрации ссылок на заблокированные записи.",
   "book.modonomicon.demo.formatting.always_locked.name": "Всегда заблокированный вход",
   "book.modonomicon.demo.formatting.basic.description": "Запись, демонстрирующая страницы сущностей.",
@@ -351,6 +353,7 @@
   "book.modonomicon.demo.values.collector_complete.info.title": "Коллекционер завершен",
   "book.modonomicon.demo.values.collector_complete.name": "Коллекционер завершен",
   "book.modonomicon.demo.values.name": "Ценности Демо",
+  "book.modonomicon.demo_index.conditional.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
   "book.modonomicon.demo_index.conditional.always_locked.description": "Используется для демонстрации ссылок на заблокированные записи.",
   "book.modonomicon.demo_index.conditional.always_locked.name": "Всегда заблокированный вход",
   "book.modonomicon.demo_index.conditional.name": "Условная категория",
@@ -611,8 +614,5 @@
   "tooltip.modonomicon.fluid.amount": "%s mb",
   "tooltip.modonomicon.fluid.amount_and_capacity": "%s / %s mb",
   "tooltip.modonomicon.no_book_found_for_stack": "В базе данных книг modonomicon книга по данному товару не найдена! Примечание: %s",
-  "tooltip.modonomicon.recipe.crafting_shapeless": "Бесформенный",
-  "book.modonomicon.demo.conditional.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
-  "book.modonomicon.demo.formatting.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние.",
-  "book.modonomicon.demo_index.conditional.always_locked.condition.tooltip": "Эта запись всегда намеренно заблокирована, чтобы продемонстрировать «ложное» состояние."
+  "tooltip.modonomicon.recipe.crafting_shapeless": "Бесформенный"
 }

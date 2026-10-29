@@ -1,6 +1,6 @@
 # Third-party notices
 
-Original modpack and quest text: FTB Team, FTB Evolution 2 1.6.1. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
+Original modpack and quest text: FTB Team, FTB Evolution 2 1.6.3. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
 
 The MIT grant in LICENSE-CODE.txt covers only the original integration code and build scripts. It does not grant rights to third-party text or change upstream licenses. License metadata below is reproduced for attribution; it is not evidence of permission to redistribute a particular translation. Check applicable terms and any required permissions before publication.
 
@@ -51,7 +51,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Better Advanced Tooltips — latvian.dev**. Declared license: MIT. Namespaces: betteradvancedtooltips.
 - **Better Advancements — way2muchnoise**. Declared license: "Don't Be a Jerk" non-commercial care-free license. Namespaces: betteradvancements.
 - **BetterBlockZ — riciJak**. Declared license: All Rights Reserved. Namespaces: betterblockz.
-- **Better Fishtanks — MINT Gaming Studios, N0drake**. Declared license: All Rights Reserved. Namespaces: betterfishtanks.
+- **Better Fishtanks — MINT_Gaming_Studios**. Declared license: All Rights Reserved. Namespaces: betterfishtanks.
 - **BHMenu — BisectHosting**. Declared license: All Rights Reserved. Namespaces: bhmenu.
 - **Bridging Mod — CG360**. Declared license: MIT. Namespaces: bridgingmod.
 - **Build Guide — brentmaas**. Declared license: Creative Commons Attribution-NonCommercial 3.0 Unported. Namespaces: buildguide.
@@ -215,6 +215,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **MezzConfig GUI — mezz**. Declared license: The MIT License (MIT). Namespaces: mezz_config_gui.
 - **Modular Force Field System — Su5eD, Built Broken Modding**. Declared license: Code: MIT, Assets: All Rights Reserved. Namespaces: mffs.
 - **Mining Gadgets — Direwolf20, ErrorMikey**. Declared license: MIT (https://github.com/Direwolf20-MC/MiningGadgets/blob/master/LICENSE.txt). Namespaces: mininggadgets.
+- **MINT Lib — MINT_Gaming_Studios**. Declared license: All Rights Reserved. Namespaces: mint_lib.
 - **Mob Flow Utilities — MisterD Modding**. Declared license: MIT. Namespaces: mobflowutilities.
 - **ModernFix — embeddedt**. Declared license: GNU LGPL 3.0. Namespaces: modernfix.
 - **Modonomicon — Kli Kli**. Declared license: MIT AND CC-BY-4.0. Namespaces: modonomicon.

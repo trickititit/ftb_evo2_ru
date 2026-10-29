@@ -120,7 +120,6 @@
   "ftb.shopkeeper.arcanist": "Чародей",
   "ftb.shopkeeper.hedge_witch": "Деревенская ведьма",
   "ftb.shopkeeper.sanguine_merchant": "Торговец кровью",
-  "ftb.shopkeeper.jewler": "Ювелир",
   "ftb.artisan_scroll": "Свиток ремесленника (%s)",
   "ftb.shopkeeper.beastmaster": "Повелитель зверей",
   "ftb.shopkeeper.gatekeeper": "Привратник",
@@ -1160,5 +1159,6 @@
   "skill.ftb.ranged.doom.title": "Рок",
   "skill.ftb.ranged.doom.description": "Раз в 10 секунд попадание метательного оружия ослепляет цель и дает ей Медлительность IV на 2 секунды и наносит тем больше урона, чем ниже ее здоровье: + 100% при половине здоровья, до + 200% при смерти.",
   "skill.ftb.ranged.volley_cap.title": "Залп",
-  "skill.ftb.ranged.volley_cap.description": "25% шанс, что в результате броска рядом с ним разлетятся 2 дополнительные копии. Копии невозможно забрать. +10% к скорости броска и +15% к шансу удержания."
+  "skill.ftb.ranged.volley_cap.description": "25% шанс, что в результате броска рядом с ним разлетятся 2 дополнительные копии. Копии невозможно забрать. +10% к скорости броска и +15% к шансу удержания.",
+  "ftb.shopkeeper.jewler": "Ювелир"
 }
