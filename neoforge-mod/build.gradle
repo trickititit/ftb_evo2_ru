@@ -7,7 +7,7 @@ version = mod_version
 base { archivesName = 'ftb-evolution-2-russian-neoforge-26.1.2' }
 java { toolchain.languageVersion = JavaLanguageVersion.of(25); withSourcesJar() }
 neoForge {
-    version = '26.1.2.121'
+    version = '26.1.2.126'
     mods { ftbevo2ru { sourceSet sourceSets.main } }
 }
 repositories { maven { url = 'https://maven.ftb.dev/releases' } }

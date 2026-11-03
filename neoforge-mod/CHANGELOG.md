@@ -1,5 +1,14 @@
 # 1.2.1 — FTB Evolution 2 1.6.3
 
+## 1.3.0 — FTB Evolution 2 1.7.0
+
+- Minecraft 26.1.2, NeoForge 26.1.2.126, FTB Library 26.1.2.11, FTB Quests 26.1.2.9, Stellaris 2.0.10; Java 25.
+- Обновлены вручную 3 описания FTB Quests: фортрон, каналы AE2 и сбор крови. Удалены 6 отсутствующих в исходниках строк; актуальны все 4 188 записей.
+- Обработана 261 языковая строка и одна буквальная строка Modonomicon. Выборочная ручная редактура 210 записей, включая Neo Vitae, FTB Teams и Applied Oritech.
+- Добавлены/обновлены 15 страниц GuideME: Applied Replicatics, Applied Oritech, ME Requester, Colossal Reactors, Energy Meter, LaserTech Industries и Nautec. Остальные книги и вики сохранены.
+- Удалены переводы ресурсов отсутствующих модов Better Fish Tanks, Mint Lib и Replication AE2 Bridge. Chisel по-прежнему исключён.
+- Установщик проверяет Minecraft и NeoForge по манифесту выпуска. Поддержаны обновления с управляемых 1.1.0, 1.2.0 и 1.2.1 с сохранением полной цепочки резервных копий и отката.
+
 - Updated compatibility to pack 135 / version 100583 and FTB Library 26.1.2.11.
 - Manually reviewed/updated five quest entries: Jeweler naming, tavern shopkeepers, Argon task submission, Crystal Assembler energy supply and Awakened Supremium. All 4,194 entries have current English fingerprints.
 - Manually translated four language strings: Jeweler, remote projector range, fish size and weight. Removed 17 obsolete Better Fish Tanks keys absent from current English resources.

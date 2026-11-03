@@ -450,5 +450,7 @@
   "tooltip.energizedpower.upgrade_module_modifier.xp_yield": "XP Доходность",
   "tooltip.energizedpower.xp_drain.txt.shift": "Чтобы этот блок функционировал, под ним должен быть размещен резервуар с жидкостью или хранилище XP.",
   "tooltip.energizedpower.xp_storage.amount": "%d / %d уровни",
-  "tooltip.energizedpower.xp_storage_capacity.txt": "XP Емкость хранилища: %d уровень"
+  "tooltip.energizedpower.xp_storage_capacity.txt": "XP Емкость хранилища: %d уровень",
+  "tooltip.energizedpower.fluid_meter.extract_fluid.txt": "Чтобы забрать жидкость, нажмите ПКМ по жидкостному счётчику, держа ёмкость для жидкости.",
+  "tooltip.energizedpower.fluid_meter.insert_fluid.txt": "Чтобы добавить жидкость, нажмите ЛКМ по жидкостному счётчику, держа ёмкость для жидкости."
 }

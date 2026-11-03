@@ -237,5 +237,17 @@
   "justdynathings.wand.blockstate": "§7БлокСостояние: ",
   "justdynathings.wand.dimension": "§7Размер: ",
   "justdynathings.wand.pos": "§7БлокПос: ",
-  "justdynathingsticker.locked": "Тиковая ставка заблокирована"
+  "justdynathingsticker.locked": "Тиковая ставка заблокирована",
+  "item.justdynathings.blazegold_chisel": "Blazegold Долото",
+  "item.justdynathings.celestigem_chisel": "Celestigem Долото",
+  "item.justdynathings.eclipse_alloy_chisel": "Долото из сплава Eclipse",
+  "item.justdynathings.ferricore_chisel": "Ferricore Долото",
+  "justdynathings.configuration.blazegold_chisel_durability": "Blazegold Прочность долота",
+  "justdynathings.configuration.celestigem_chisel_energy_every_tick": "Celestigem Долото FE/t",
+  "justdynathings.configuration.celestigem_chisel_max_energy_storage": "Celestigem Долото FE Емкость",
+  "justdynathings.configuration.eclipse_alloy_chisel_energy_every_tick": "Долото из сплава Eclipse FE/t",
+  "justdynathings.configuration.eclipse_alloy_chisel_max_energy_storage": "Долото из сплава Eclipse FE Емкость",
+  "justdynathings.configuration.ferricore_chisel_durability": "Ferricore Прочность долота",
+  "justdynathings.configuration.server_chisels": "Chisel 3 Compat (Сервер)",
+  "justdynathings.configuration.startup_chisels": "Chisel 3 Compat (Запуск)"
 }

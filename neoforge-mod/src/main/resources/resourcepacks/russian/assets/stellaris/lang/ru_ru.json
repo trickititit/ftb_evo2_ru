@@ -133,5 +133,7 @@
   "painting.stellaris.proxima_centaury.title": "Проксима Центавра",
   "painting.stellaris.glacio.title": "Гласио",
   "subtitles.stellaris.beep": "Предупреждающие звуковые сигналы посадочного модуля",
-  "subtitles.stellaris.sonic_boom": "Звуковой бум"
+  "subtitles.stellaris.sonic_boom": "Звуковой бум",
+  "tooltip.stellaris.space_station.ingredient_tag": "- %sx Любой %s",
+  "tooltip.stellaris.space_station.accepts_tag": "Принимает любой предмет из %s"
 }

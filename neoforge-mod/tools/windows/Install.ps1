@@ -89,14 +89,14 @@ try {
         }
         $meta=Read-Json (Safe $root 'config/metadata.json')
         if ($meta.name -ne 'FTB Evolution 2' -or $meta.id -ne 135 -or $meta.version.name -ne $manifest.packVersion) {
-            throw "Несовместимая сборка: $($meta.name) $($meta.version.name). Требуется FTB Evolution 2 $($manifest.packVersion), Minecraft 26.1.2 / NeoForge 26.1.2.121. Сначала обновите саму сборку." }
+            throw "Несовместимая сборка: $($meta.name) $($meta.version.name). Требуется FTB Evolution 2 $($manifest.packVersion), Minecraft $($manifest.minecraft) / NeoForge $($manifest.loader). Сначала обновите саму сборку." }
         foreach ($file in $manifest.requiredMods) {
             if ((Current (Safe $root $file.path)) -ne $file.sha256) { throw "Несовместимый файл мода: $($file.path)" }
         }
         $prism=Join-Path (Split-Path $root -Parent) 'mmc-pack.json'
         if (Test-Path -LiteralPath $prism) {
             $components=(Read-Json $prism).components
-            if (@($components | Where-Object { $_.uid -eq 'net.minecraft' -and $_.version -eq '26.1.2' }).Count -ne 1 -or @($components | Where-Object { $_.uid -eq 'net.neoforged' -and $_.version -eq '26.1.2.121' }).Count -ne 1) { throw 'Неподдерживаемая версия Minecraft/NeoForge в Prism.' }
+            if (@($components | Where-Object { $_.uid -eq 'net.minecraft' -and $_.version -eq $manifest.minecraft }).Count -ne 1 -or @($components | Where-Object { $_.uid -eq 'net.neoforged' -and $_.version -eq $manifest.loader }).Count -ne 1) { throw 'Неподдерживаемая версия Minecraft/NeoForge в Prism.' }
         }
         $source=Safe $PSScriptRoot $manifest.payload
         if ((Current $source) -ne $manifest.sha256) { throw 'JAR русификатора повреждён. Скачайте архив заново.' }

@@ -40,7 +40,6 @@
   "collective.collective.gui.old": "Старый",
   "collective.collective.gui.support": "Поддержи меня",
   "collective.collective.gui.tooltips": "Подсказки: %s",
-  "collective.collective.gui.worldneeded": "Некоторые из них работают только в реальном мире. Откройте этот экран, находясь в мире.",
   "collective.collective.message.configdefault": "По умолчанию: %s",
   "collective.collective.message.confighelp": "Показывает и изменяет настройки мода.",
   "collective.collective.message.configidadded": "Добавлен %s.",
@@ -694,5 +693,17 @@
   "item.voidvanguards.orbital_transponder.leaveStation": "Вы покидаете станцию и материализуетесь обратно на планету.",
   "item.voidvanguards.orbital_transponder.lore": "Маяк, который привязан к станции «Авангард».",
   "item.voidvanguards.orbital_transponder.useSuccess": "Вы успешно телепортируетесь на станцию «Авангард».",
-  "item.voidvanguards.orbital_transponder.useUnable": "Вы не можете принять сигнал."
+  "item.voidvanguards.orbital_transponder.useUnable": "Вы не можете принять сигнал.",
+  "collective.collective.gui.cachedlist": "Список взят из кэша. Войдите в мир, чтобы обновить его.",
+  "collective.collective.gui.effects": "Эффекты",
+  "collective.collective.gui.enchantments": "Чары",
+  "collective.collective.gui.filtermobs": "Мобы",
+  "collective.collective.gui.folder": "Папка",
+  "collective.collective.gui.foldertooltip": "Откройте папку ./config/serilum/.",
+  "collective.collective.gui.worldneeded": "Войдите в мир, чтобы увидеть полный список выбора.",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Компас указывает на ближайшего игрока.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Компас теперь привязан к вам. Тот, кто им воспользуется, будет направлен на вас.",
+  "collective.playertrackingcompass.message.compassunbound": "Компас больше не привязан к игроку и снова отслеживает ближайшего игрока.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Невозможно перенаправить компас. %s сейчас невозможно отследить.",
+  "collective.playertrackingcompass.gui.tracks": "Отслеживает: %s"
 }

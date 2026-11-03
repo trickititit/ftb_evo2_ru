@@ -26,5 +26,6 @@
   "bhc.configuration.greenPatchCooldown": "Время восстановления зеленой нашивки",
   "bhc.configuration.allowStartingHealthTweaks": "Разрешить запуск настроек здоровья",
   "bhc.configuration.startingHealth": "Начало здоровья",
-  "bhc.configuration.Server": "Сервер"
+  "bhc.configuration.Server": "Сервер",
+  "attribute.bhc.heart_effectiveness": "Эффективность сердца"
 }

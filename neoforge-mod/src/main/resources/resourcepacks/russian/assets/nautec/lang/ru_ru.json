@@ -231,7 +231,6 @@
   "block.nautec.advanced_bacterial_analyzer": "Усовершенствованный бактериальный анализатор",
   "block.nautec.air_pocket": "Воздушный карман",
   "block.nautec.anchor": "Якорь",
-  "block.nautec.aquamarine_structural_glass": "Аквамариновое структурное стекло",
   "block.nautec.aquarine_copper_block": "Аквариумный медный блок",
   "block.nautec.aquarine_dish_storage": "Хранение посуды для аквариума",
   "block.nautec.aquarine_steel_block": "Аквариумный стальной блок",
@@ -996,7 +995,6 @@
   "nautec.catalyst.distance": "%s блоков %s",
   "nautec.catalyst.distance.one": "1 блок %s",
   "nautec.combustion_dynamo.additive": "Добавка",
-  "nautec.combustion_dynamo.additive.desc": "Редстоун увеличивает производительность вдвое и сжигает на 10% больше нефти и воды",
   "nautec.combustion_dynamo.additive.left": "%s секунд наддува осталось",
   "nautec.combustion_dynamo.boosted": "Усиленный",
   "nautec.combustion_dynamo.fe": "%s / %s FE",
@@ -2107,5 +2105,12 @@
   "subtitles.nautec.vent_crawler.step": "Вентиляционные гусеничные иллюминаторы",
   "subtitles.nautec.wave_jet.loop": "Волновая струя приводы",
   "subtitles.nautec.wave_jet.start": "Волновая струя раскручивается",
-  "subtitles.nautec.wave_jet.stop": "Волновая струя сворачивается"
+  "subtitles.nautec.wave_jet.stop": "Волновая струя сворачивается",
+  "block.nautec.aquamarine_structural_glass": "Конструкционное стекло из акварина",
+  "item.nautec.crystalline_combustion_booster": "Кристаллический усилитель горения",
+  "item.nautec.fiery_crystal": "Огненный кристалл",
+  "item.nautec.stellar_combustion_booster": "Звездный ускоритель горения",
+  "nautec.combustion_dynamo.additive.desc": "Присадки увеличивают выработку энергии и расход масла/воды. Точные значения указаны в JEI.",
+  "nautec.mutator.status.mutation_catalyst": "Используйте %s для мутации в %s",
+  "nautec.mutator.status.refine_catalyst": "Используйте %s для улучшения %s"
 }

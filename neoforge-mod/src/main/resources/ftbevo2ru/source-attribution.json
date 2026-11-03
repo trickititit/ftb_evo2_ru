@@ -13,6 +13,32 @@
     ]
   },
   {
+    "jar": "[Neoforge]ctov-26-4.0.0.jar",
+    "namespaces": [
+      "ctov"
+    ],
+    "license": "BY-NC-ND-4.0",
+    "mods": [
+      {
+        "name": "ChoiceTheorem's Overhauled Village",
+        "authors": "ChoiceTheorem"
+      }
+    ]
+  },
+  {
+    "jar": "accelerated-decay-neoforge-26.1.2.4.jar",
+    "namespaces": [
+      "accelerateddecay"
+    ],
+    "license": "GPL3",
+    "mods": [
+      {
+        "name": "Accelerated Decay",
+        "authors": "ErrorMikey"
+      }
+    ]
+  },
+  {
     "jar": "adrenaline-26.1.2-1.0.2.jar",
     "namespaces": [
       "adrenaline"
@@ -121,6 +147,19 @@
     ]
   },
   {
+    "jar": "ancient_remnants-1.0.2.2-26.1.2.jar",
+    "namespaces": [
+      "ancient_remnants"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Ancient Remnants",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
     "jar": "Anima-1.0.3+Neoforge-26.1.2.jar",
     "namespaces": [
       "anima"
@@ -199,7 +238,7 @@
     ]
   },
   {
-    "jar": "animusnv-26.1.2-5.2.20.jar",
+    "jar": "animusnv-26.1.2-5.2.21.jar",
     "namespaces": [
       "animusnv"
     ],
@@ -304,7 +343,21 @@
     ]
   },
   {
-    "jar": "applied_oritech-1.0.4+26.1.2.jar",
+    "jar": "Applied-Replicatics-26.1-1.0.0.jar",
+    "namespaces": [
+      "ae2",
+      "apprep"
+    ],
+    "license": "LGPL-3.0",
+    "mods": [
+      {
+        "name": "Applied Replicatics",
+        "authors": "Lapis256"
+      }
+    ]
+  },
+  {
+    "jar": "applied_oritech-1.0.6-26.1.2.jar",
     "namespaces": [
       "applied_oritech"
     ],
@@ -370,7 +423,7 @@
     ]
   },
   {
-    "jar": "architectural-building-wand-1.3.1.jar",
+    "jar": "architectural-building-wand-1.3.2.jar",
     "namespaces": [
       "architectural_building_wand"
     ],
@@ -487,7 +540,7 @@
     ]
   },
   {
-    "jar": "baubley-heart-canisters-26.1.2-1.7.4.jar",
+    "jar": "baubley-heart-canisters-26.1.2-1.8.0.jar",
     "namespaces": [
       "bhc"
     ],
@@ -496,6 +549,19 @@
       {
         "name": "Baubley Heart Canisters",
         "authors": "Traverse_Joe"
+      }
+    ]
+  },
+  {
+    "jar": "bblcore-26.1.2-12.6.12.jar",
+    "namespaces": [
+      "bblcore"
+    ],
+    "license": "MIT",
+    "mods": [
+      {
+        "name": "BBL Core",
+        "authors": "benbenlaw"
       }
     ]
   },
@@ -539,6 +605,19 @@
     ]
   },
   {
+    "jar": "better-compatability-checker-neoforge-26.1.2.1.jar",
+    "namespaces": [
+      "bcc"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Better Compatibility Checker",
+        "authors": "Gaz(Gaz492)"
+      }
+    ]
+  },
+  {
     "jar": "BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
     "namespaces": [
       "betteradvancements"
@@ -561,19 +640,6 @@
       {
         "name": "BetterBlockZ",
         "authors": "riciJak"
-      }
-    ]
-  },
-  {
-    "jar": "betterfishtanks-1.3.0-26.1-NeoForge.jar",
-    "namespaces": [
-      "betterfishtanks"
-    ],
-    "license": "All Rights Reserved",
-    "mods": [
-      {
-        "name": "Better Fishtanks",
-        "authors": "MINT_Gaming_Studios"
       }
     ]
   },
@@ -617,7 +683,7 @@
     ]
   },
   {
-    "jar": "buildinggadgets2-26.1.2.1.jar",
+    "jar": "buildinggadgets2-26.1.2.3.jar",
     "namespaces": [
       "buildinggadgets2"
     ],
@@ -734,7 +800,7 @@
     ]
   },
   {
-    "jar": "collective-26.1.2-8.67.jar",
+    "jar": "collective-26.1.2-8.73.jar",
     "namespaces": [
       "collective"
     ],
@@ -760,7 +826,7 @@
     ]
   },
   {
-    "jar": "colossal_reactors-2.5.0.0.0-neoforge-26.1.2.jar",
+    "jar": "colossal_reactors-2.6.0.0.0-neoforge-26.1.2.jar",
     "namespaces": [
       "colossal_reactors"
     ],
@@ -942,6 +1008,19 @@
     ]
   },
   {
+    "jar": "crawl-mc26.1.2-neoforge-0.15.0.jar",
+    "namespaces": [
+      "crawl"
+    ],
+    "license": "WTFPL",
+    "mods": [
+      {
+        "name": "Crawl",
+        "authors": "fewizz"
+      }
+    ]
+  },
+  {
     "jar": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
     "namespaces": [
       "creativecore"
@@ -994,7 +1073,7 @@
     ]
   },
   {
-    "jar": "cyclopscore-26.1.2-neoforge-1.31.3.jar",
+    "jar": "cyclopscore-26.1.2-neoforge-1.31.4.jar",
     "namespaces": [
       "cyclopscore"
     ],
@@ -1072,7 +1151,7 @@
     ]
   },
   {
-    "jar": "DimStorage-26.1.2-10.0.1.jar",
+    "jar": "DimStorage-26.1.2-10.0.2.jar",
     "namespaces": [
       "dimstorage"
     ],
@@ -1256,7 +1335,20 @@
     ]
   },
   {
-    "jar": "energizedpower-3.0.5+26.1.x-neoforge.jar",
+    "jar": "Enderthing-26.1.2-1.10.3.jar",
+    "namespaces": [
+      "enderthing"
+    ],
+    "license": "BSD (3 clause)",
+    "mods": [
+      {
+        "name": "Enderthing",
+        "authors": "gigaherz"
+      }
+    ]
+  },
+  {
+    "jar": "energizedpower-3.0.6-26.1.x-neoforge.jar",
     "namespaces": [
       "energizedpower"
     ],
@@ -1269,7 +1361,7 @@
     ]
   },
   {
-    "jar": "energymeter-neoforge-26.1.2-0.5.1.jar",
+    "jar": "energymeter-neoforge-26.1.2-0.6.0.jar",
     "namespaces": [
       "energymeter"
     ],
@@ -1321,7 +1413,7 @@
     ]
   },
   {
-    "jar": "evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "jar": "evilcraft-26.1.2-neoforge-1.2.109.jar",
     "namespaces": [
       "evilcraft",
       "evilcraftcompat"
@@ -1418,7 +1510,7 @@
     ]
   },
   {
-    "jar": "farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+    "jar": "farmingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
     "namespaces": [
       "farmingforblockheads"
     ],
@@ -1563,7 +1655,7 @@
     ]
   },
   {
-    "jar": "ftb-chunks-neoforge-26.1.2.9.jar",
+    "jar": "ftb-chunks-neoforge-26.1.2.10.jar",
     "namespaces": [
       "ae2",
       "ftbchunks",
@@ -1605,7 +1697,7 @@
     ]
   },
   {
-    "jar": "ftb-evolution-companion-26.1.2.26.jar",
+    "jar": "ftb-evolution-companion-26.1.2.27.jar",
     "namespaces": [
       "ftb",
       "ftbevolutioncompanion"
@@ -1614,6 +1706,19 @@
     "mods": [
       {
         "name": "FTB Evolution 2 Companion",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
+    "jar": "ftb-filter-system-neoforge-26.1.2.2.jar",
+    "namespaces": [
+      "ftbfiltersystem"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB Filter System",
         "authors": "FTB Team"
       }
     ]
@@ -1684,7 +1789,7 @@
     ]
   },
   {
-    "jar": "ftb-teams-neoforge-26.1.2.4.jar",
+    "jar": "ftb-teams-neoforge-26.1.2.5.jar",
     "namespaces": [
       "ftbteams"
     ],
@@ -1710,9 +1815,23 @@
     ]
   },
   {
+    "jar": "ftb-xmod-compat-neoforge-26.1.2.5.jar",
+    "namespaces": [
+      "ftbxmodcompat"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "FTB XMod Compat",
+        "authors": "FTB Team"
+      }
+    ]
+  },
+  {
     "jar": "ftboceanmobs-26.1.2.1.jar",
     "namespaces": [
-      "ftblibrary"
+      "ftblibrary",
+      "ftboceanmobs"
     ],
     "license": "All Rights Reserved",
     "mods": [
@@ -1866,7 +1985,7 @@
     ]
   },
   {
-    "jar": "guideme-26.1.16-beta.jar",
+    "jar": "guideme-26.1.17-beta.jar",
     "namespaces": [
       "guideme"
     ],
@@ -1931,7 +2050,7 @@
     ]
   },
   {
-    "jar": "horsepowered-26.1.2-3.11.7.jar",
+    "jar": "horsepowered-26.1.2-3.11.8.jar",
     "namespaces": [
       "horsepowered"
     ],
@@ -2009,7 +2128,7 @@
     ]
   },
   {
-    "jar": "infinitystorage-26.1.2-2.0.3.jar",
+    "jar": "infinitystorage-26.1.2-2.0.4.jar",
     "namespaces": [
       "infinitystorage"
     ],
@@ -2022,7 +2141,7 @@
     ]
   },
   {
-    "jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.3.jar",
     "namespaces": [
       "integrateddynamics",
       "integrateddynamicscompat"
@@ -2061,7 +2180,8 @@
   {
     "jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
     "namespaces": [
-      "integratedtunnels"
+      "integratedtunnels",
+      "integratedtunnelscompat"
     ],
     "license": "MIT",
     "mods": [
@@ -2180,7 +2300,7 @@
     ]
   },
   {
-    "jar": "iska_lib-1.12.0.1.0-neoforge-26.1.2.jar",
+    "jar": "iska_lib-1.13.0.0.0-neoforge-26.1.2.jar",
     "namespaces": [
       "iska_lib"
     ],
@@ -2323,7 +2443,7 @@
     ]
   },
   {
-    "jar": "justdynathings-2.0-alpha-build-13.jar",
+    "jar": "justdynathings-2.0-alpha-build-14.jar",
     "namespaces": [
       "justdirethings",
       "justdynathings"
@@ -2337,7 +2457,7 @@
     ]
   },
   {
-    "jar": "justenoughcraftingtables-26.1.2-1.0.0.jar",
+    "jar": "justenoughcraftingtables-neoforge-26.1.2-1.0.1.jar",
     "namespaces": [
       "justenoughcraftingtables"
     ],
@@ -2403,7 +2523,7 @@
     ]
   },
   {
-    "jar": "laserbridges-26.1.2-neoforge-6.2.jar",
+    "jar": "laserbridges-26.1.2-neoforge-6.3.jar",
     "namespaces": [
       "laserbridges"
     ],
@@ -2520,7 +2640,7 @@
     ]
   },
   {
-    "jar": "ltxi-26.1.2-2.4.3.jar",
+    "jar": "ltxi-26.1.2-2.5.0.jar",
     "namespaces": [
       "ltxi"
     ],
@@ -2546,7 +2666,7 @@
     ]
   },
   {
-    "jar": "malisisdoorsreborn-neoforge-26.1.2-1.0.16.jar",
+    "jar": "malisisdoorsreborn-neoforge-26.1.2-1.0.17.jar",
     "namespaces": [
       "malisisdoorsreborn"
     ],
@@ -2689,6 +2809,20 @@
     ]
   },
   {
+    "jar": "merequester-neoforge-26.1.2-1.5.1.jar",
+    "namespaces": [
+      "ae2",
+      "merequester"
+    ],
+    "license": "GNU Lesser General Public License v3.0",
+    "mods": [
+      {
+        "name": "ME Requester",
+        "authors": "Almost Reliable"
+      }
+    ]
+  },
+  {
     "jar": "mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar",
     "namespaces": [
       "mezz_config_gui"
@@ -2715,6 +2849,19 @@
     ]
   },
   {
+    "jar": "mining_helmet-26.1.2-2.1.3.jar",
+    "namespaces": [
+      "mining_helmet"
+    ],
+    "license": "https://moddinglegacy.com/ML-General-Terms/",
+    "mods": [
+      {
+        "name": "Mining Helmet",
+        "authors": "KingPhygieBoo, ViviSpook, Silver_David"
+      }
+    ]
+  },
+  {
     "jar": "mininggadgets-1.19.3.jar",
     "namespaces": [
       "mininggadgets"
@@ -2724,19 +2871,6 @@
       {
         "name": "Mining Gadgets",
         "authors": "Direwolf20, ErrorMikey"
-      }
-    ]
-  },
-  {
-    "jar": "mint_lib-0.4.0-26.1b.jar",
-    "namespaces": [
-      "mint_lib"
-    ],
-    "license": "All Rights Reserved",
-    "mods": [
-      {
-        "name": "MINT Lib",
-        "authors": "MINT_Gaming_Studios"
       }
     ]
   },
@@ -2767,7 +2901,7 @@
     ]
   },
   {
-    "jar": "modonomicon-26.1.2-neoforge-2.19.0.jar",
+    "jar": "modonomicon-26.1.2-neoforge-2.20.0.jar",
     "namespaces": [
       "modonomicon"
     ],
@@ -2977,7 +3111,7 @@
     ]
   },
   {
-    "jar": "nautec-26.1.2-NeoForge-2.0.21.jar",
+    "jar": "nautec-26.1.2-NeoForge-2.0.24.jar",
     "namespaces": [
       "nautec"
     ],
@@ -3003,7 +3137,7 @@
     ]
   },
   {
-    "jar": "neovitae-26.1.2-1.1.49.jar",
+    "jar": "neovitae-26.1.2-1.1.51.jar",
     "namespaces": [
       "neovitae"
     ],
@@ -3012,6 +3146,19 @@
       {
         "name": "Neo Vitae",
         "authors": "WayofTime, Saereth"
+      }
+    ]
+  },
+  {
+    "jar": "netherportalfix-neoforge-26.1-26.1.0.1.jar",
+    "namespaces": [
+      "netherportalfix"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "NetherPortalFix",
+        "authors": "BlayTheNinth"
       }
     ]
   },
@@ -3068,7 +3215,7 @@
     ]
   },
   {
-    "jar": "occultism-26.1.2-neoforge-1.257.2.jar",
+    "jar": "occultism-26.1.2-neoforge-1.260.4.jar",
     "namespaces": [
       "occultism"
     ],
@@ -3104,6 +3251,19 @@
       {
         "name": "Oritech",
         "authors": "rearth_neosample"
+      }
+    ]
+  },
+  {
+    "jar": "oritechthings-0.1.8.jar",
+    "namespaces": [
+      "oritechthings"
+    ],
+    "license": "CC4.0",
+    "mods": [
+      {
+        "name": "Oritech Things",
+        "authors": "Lumengrid,muroalparco,MtcLeo05,DevDyna,Sirios_dev"
       }
     ]
   },
@@ -3487,20 +3647,6 @@
     ]
   },
   {
-    "jar": "rep_ae2_bridge-3.0.0.0.0-neoforge-26.1.2.jar",
-    "namespaces": [
-      "ae2",
-      "rep_ae2_bridge"
-    ],
-    "license": "MIT",
-    "mods": [
-      {
-        "name": "Replication AE2 Bridge",
-        "authors": "Unfamily"
-      }
-    ]
-  },
-  {
     "jar": "Replication-26.1.2-1.2.8.jar",
     "namespaces": [
       "replication"
@@ -3540,7 +3686,7 @@
     ]
   },
   {
-    "jar": "retrofactorymanager-26.1.2-1.0.3.jar",
+    "jar": "retrofactorymanager-26.1.2-1.0.6.jar",
     "namespaces": [
       "retrofactorymanager"
     ],
@@ -3722,6 +3868,19 @@
     ]
   },
   {
+    "jar": "simply-winged-1.0.1.jar",
+    "namespaces": [
+      "in2bubble_simply_winged"
+    ],
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "name": "Simply Winged: Horse & Pegasus Flight",
+        "authors": "in2bubble"
+      }
+    ]
+  },
+  {
     "jar": "sky_aesthetics-neoforge-2.2.0.jar",
     "namespaces": [
       "sky_aesthetics"
@@ -3735,7 +3894,7 @@
     ]
   },
   {
-    "jar": "sophisticatedbackpacks-26.1.2-3.26.17.2229.jar",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.18.2238.jar",
     "namespaces": [
       "sophisticatedbackpacks"
     ],
@@ -3748,7 +3907,7 @@
     ]
   },
   {
-    "jar": "sophisticatedcore-26.1.2-1.5.20.2437.jar",
+    "jar": "sophisticatedcore-26.1.2-1.5.24.2445.jar",
     "namespaces": [
       "sophisticatedcore"
     ],
@@ -3774,7 +3933,7 @@
     ]
   },
   {
-    "jar": "sophisticateditemactions-26.1.2-0.4.18.439.jar",
+    "jar": "sophisticateditemactions-26.1.2-0.4.19.444.jar",
     "namespaces": [
       "sophisticateditemactions"
     ],
@@ -3787,7 +3946,7 @@
     ]
   },
   {
-    "jar": "sophisticatedstorage-26.1.2-1.5.125.2202.jar",
+    "jar": "sophisticatedstorage-26.1.2-1.5.127.2213.jar",
     "namespaces": [
       "sophisticatedstorage"
     ],
@@ -3800,7 +3959,7 @@
     ]
   },
   {
-    "jar": "sophisticatedstorageinmotion-26.1.2-0.10.38.384.jar",
+    "jar": "sophisticatedstorageinmotion-26.1.2-0.10.39.388.jar",
     "namespaces": [
       "sophisticatedstorageinmotion"
     ],
@@ -3839,7 +3998,7 @@
     ]
   },
   {
-    "jar": "stellaris-26.1.2-neoforge-2.0.9.jar",
+    "jar": "stellaris-26.1.2-neoforge-2.0.10.jar",
     "namespaces": [
       "stellaris"
     ],
@@ -3891,7 +4050,7 @@
     ]
   },
   {
-    "jar": "supermartijn642corelib-1.1.26-neoforge-mc26.1.jar",
+    "jar": "supermartijn642corelib-1.1.26a-neoforge-mc26.1.jar",
     "namespaces": [
       "supermartijn642corelib"
     ],
@@ -3913,6 +4072,19 @@
       {
         "name": "Tectonic",
         "authors": "Apollo"
+      }
+    ]
+  },
+  {
+    "jar": "TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
+    "namespaces": [
+      "terrablender"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "TerraBlender",
+        "authors": "Adubbz"
       }
     ]
   },
@@ -3995,6 +4167,19 @@
     ]
   },
   {
+    "jar": "torohealth-continued-neoforge-26.1-1.5.1-beta.jar",
+    "namespaces": [
+      "torohealth"
+    ],
+    "license": "GPL3",
+    "mods": [
+      {
+        "name": "ToroHealth-Continued",
+        "authors": "Not declared"
+      }
+    ]
+  },
+  {
     "jar": "trainingdummy-1.9.0+mc26.1.2.jar",
     "namespaces": [
       "trainingdummy"
@@ -4021,7 +4206,7 @@
     ]
   },
   {
-    "jar": "trashcans-1.1.2-neoforge-mc26.1.jar",
+    "jar": "trashcans-1.1.2a-neoforge-mc26.1.jar",
     "namespaces": [
       "trashcans"
     ],
@@ -4034,7 +4219,7 @@
     ]
   },
   {
-    "jar": "trashslot-neoforge-26.1.2-26.1.2.4.jar",
+    "jar": "trashslot-neoforge-26.1.2-26.1.2.5.jar",
     "namespaces": [
       "trashslot"
     ],
@@ -4112,7 +4297,7 @@
     ]
   },
   {
-    "jar": "waystones-neoforge-26.1.2-26.1.2.16.jar",
+    "jar": "waystones-neoforge-26.1.2-26.1.2.17.jar",
     "namespaces": [
       "waystones"
     ],
@@ -4203,6 +4388,19 @@
     ]
   },
   {
+    "jar": "yet_another_config_lib_v3-3.9.7+26.1-neoforge.jar",
+    "namespaces": [
+      "yet_another_config_lib_v3"
+    ],
+    "license": "LGPL-3.0-or-later",
+    "mods": [
+      {
+        "name": "YetAnotherConfigLib",
+        "authors": "isXander"
+      }
+    ]
+  },
+  {
     "jar": "YungsApi-26.1.2-NeoForge-6.1.3.jar",
     "namespaces": [
       "yungsapi"
@@ -4225,6 +4423,45 @@
       {
         "name": "YUNG's Better Caves",
         "authors": "YUNGNICKYOUNG"
+      }
+    ]
+  },
+  {
+    "jar": "YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
+    "namespaces": [
+      "bettermineshafts"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "YUNG's Better Mineshafts",
+        "authors": "YUNGNICKYOUNG"
+      }
+    ]
+  },
+  {
+    "jar": "YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.1.jar",
+    "namespaces": [
+      "betterfortresses"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "YUNG's Better Nether Fortresses",
+        "authors": "YUNGNICKYOUNG, Acarii"
+      }
+    ]
+  },
+  {
+    "jar": "YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar",
+    "namespaces": [
+      "betterstrongholds"
+    ],
+    "license": "LGPLv3",
+    "mods": [
+      {
+        "name": "YUNG's Better Strongholds",
+        "authors": "YUNGNICKYOUNG, Acarii"
       }
     ]
   },

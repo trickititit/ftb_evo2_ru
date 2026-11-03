@@ -1,12 +1,12 @@
 # FTB Evolution 2 - Russian Localization
 
-Unofficial Russian localization for **FTB Evolution 2 1.6.3** on **Minecraft 26.1.2 / NeoForge 26.1.2.121**.
+Unofficial Russian localization for **FTB Evolution 2 1.7.0** on **Minecraft 26.1.2 / NeoForge 26.1.2.126**.
 
 This is a localization add-on, not a modpack. Install the original FTB Evolution 2 modpack first. Other pack versions and Minecraft versions are not supported.
 
 ## Included translations
 
-- All 4,194 source FTB Quests language entries, including quest descriptions, chapter titles and reward labels.
+- All 4,188 source FTB Quests language entries, including quest descriptions, chapter titles and reward labels.
 - Mod item names, tooltips and interfaces through bundled language resources.
 - Patchouli books, GuideME documentation (including Nodeworks and Applied Energistics 2), and Oracle Index guides.
 - Additional Modonomicon strings and the Stellaris wiki.
@@ -37,9 +37,9 @@ For the exact validation performed on this release, see the accompanying release
 
 # FTB Evolution 2 — Русификатор
 
-Неофициальный перевод FTB Evolution 2 **1.6.3** для Minecraft **26.1.2 / NeoForge 26.1.2.121**. Сначала установите оригинальную сборку.
+Неофициальный перевод FTB Evolution 2 **1.7.0** для Minecraft **26.1.2 / NeoForge 26.1.2.126**. Сначала установите оригинальную сборку.
 
-Переведены все **4 194 записи FTB Quests**, названия и подсказки модов, **894 файла Patchouli**, **758 страницы GuideME**, **197 страниц Oracle Index** и **61 страница Stellaris**. Ресурсы Chisel исключены. В обновлении 1.2.1 вручную обновлены пять записей заданий и четыре языковые строки; прежний перевод руководств и книг сохранён.
+Переведены все **4 188 записей FTB Quests**, названия и подсказки модов, **894 файла Patchouli**, **759 страниц GuideME**, **197 страниц Oracle Index** и **61 страница Stellaris**. Ресурсы Chisel исключены. В обновлении 1.3.0 обновлены три описания заданий, 261 языковая строка и 15 страниц руководств. Дополнительно проведена выборочная ручная редактура.
 
 Поместите JAR в `mods` клиента и выберите русский язык. Встроенный ресурс-пак активируется автоматически. Для вики Stellaris установите тот же JAR на выделенный сервер: её текст передаётся сервером и будет русским у всех игроков. В одиночной игре достаточно клиента. При обновлении удалите предыдущий JAR. Перед переходом со старого комплекта со скриптами выполните его откат.
 
