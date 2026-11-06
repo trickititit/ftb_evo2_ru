@@ -147,7 +147,6 @@
   "item.mobflowutilities.pad_wrench.tooltip.usage.pad": "Использовать на планшете: привязать/отсоединить",
   "fakeplayer.mobflowutilities.damage_pad": "Mob Flow Utilities Повреждающая площадка",
   "item.mobflowutilities.mob_catcher.already_occupied": "Ловец мобов уже содержит моба!",
-  "item.mobflowutilities.mob_catcher.boss_immunity": "Боссов нельзя поймать!",
   "item.mobflowutilities.mob_catcher.player_immunity": "Игроков нельзя захватывать!",
   "item.mobflowutilities.mob_catcher.captured": "Снято: %s",
   "item.mobflowutilities.mob_catcher.empty": "Ловец мобов пуст!",
@@ -163,8 +162,6 @@
   "item.mobflowutilities.empty_gene_vial.subtitle": "Используется для сбора генетического материала у мобов.",
   "item.mobflowutilities.empty_gene_vial.usage": "Shift-Нажмите ПКМ по мобу, чтобы собрать образец гена.",
   "item.mobflowutilities.empty_gene_vial.player_immunity": "Невозможно собрать ДНК у игроков!",
-  "item.mobflowutilities.empty_gene_vial.no_spawn_egg": "ДНК этого существа не может быть взята на пробу!",
-  "item.mobflowutilities.empty_gene_vial.blacklisted": "Сущность этого существа слишком сильна, чтобы ее можно было уловить!",
   "item.mobflowutilities.empty_gene_vial.collected": "Собрана ДНК из: %s",
   "item.mobflowutilities.gene_sample_vial.contains": "Образец гена: %s",
   "item.mobflowutilities.gene_sample_vial.empty": "Пусто – образец гена не обнаружен",
@@ -181,5 +178,8 @@
   "item.mobflowutilities.pad_wrench.error.controller_missing": "Выбранный контроллер больше не существует",
   "item.mobflowutilities.pad_wrench.error.invalid": "Неверная цель ссылки",
   "item.mobflowutilities.pad_wrench.multi.skipped_far": "%s контактные площадки пропущены: слишком далеко (максимум %s блоков)",
-  "item.mobflowutilities.pad_wrench.multi.skipped_full": "%s пэд(ы) пропущены: контроллер заполнен"
+  "item.mobflowutilities.pad_wrench.multi.skipped_full": "%s пэд(ы) пропущены: контроллер заполнен",
+  "item.mobflowutilities.mob_catcher.blacklist": "Этот моб не может быть пойман!",
+  "item.mobflowutilities.empty_gene_vial.no_spawn_egg": "Невозможно взять образец ДНК этого моба!",
+  "item.mobflowutilities.empty_gene_vial.blacklisted": "Сущность этого моба слишком могущественна для захвата!"
 }

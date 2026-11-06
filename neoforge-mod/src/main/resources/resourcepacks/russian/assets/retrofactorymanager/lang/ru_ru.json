@@ -15,6 +15,8 @@
   "gui.retrofactorymanager.condition_sfml": "Состояние (СФМЛ)",
   "gui.retrofactorymanager.conditions": "Условия",
   "gui.retrofactorymanager.copied": "Скопированы узлы %s",
+  "gui.retrofactorymanager.delete": "Удалить",
+  "gui.retrofactorymanager.delete_many": "Удалить узлов: %s",
   "gui.retrofactorymanager.each": "Каждый: %s",
   "gui.retrofactorymanager.empty_only": "Только пусто: %s",
   "gui.retrofactorymanager.empty_program": "(пустая программа)",
@@ -28,6 +30,7 @@
   "gui.retrofactorymanager.forget_note": "Пусто = забыть все",
   "gui.retrofactorymanager.global_align": "Глобальное выравнивание: %s",
   "gui.retrofactorymanager.gun_only_note": "*только по оружию - уточняйте у менеджера",
+  "gui.retrofactorymanager.hint": "Щелкните правой кнопкой мыши: добавьте узел или удалите провод или узел · Перетащите контакты: соедините · Щелкните контакт, удерживая Alt: отсоедините",
   "gui.retrofactorymanager.import_approximate": "Импорт приблизительный: %s",
   "gui.retrofactorymanager.import_available": "Эта программа была написана в виде текста — используйте Import, чтобы построить ее в виде узлов.",
   "gui.retrofactorymanager.import_check_preview": "проверьте предварительный просмотр SFML на соответствие оригиналу",
@@ -145,8 +148,5 @@
   "summary.retrofactorymanager.unset": "(не установлено)",
   "tag_mode.retrofactorymanager.none": "Выкл.",
   "tag_mode.retrofactorymanager.with": "С",
-  "tag_mode.retrofactorymanager.without": "Без",
-  "gui.retrofactorymanager.delete": "Удалить",
-  "gui.retrofactorymanager.delete_many": "Удалить узлов: %s",
-  "gui.retrofactorymanager.hint": "Щелкните правой кнопкой мыши: добавьте узел или удалите провод или узел · Перетащите контакты: соедините · Щелкните контакт, удерживая Alt: отсоедините"
+  "tag_mode.retrofactorymanager.without": "Без"
 }

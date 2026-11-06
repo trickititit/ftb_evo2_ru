@@ -71,6 +71,5 @@
   "tier.nutritional.starving": "Голодающий",
   "tier.nutritional.starving.enter": "Ваше питание на исходе. Ешьте разнообразную пищу, чтобы заработать бонусы к питанию.",
   "tier.nutritional.starving.exit": "Пустая боль утихает.",
-  "tier.nutritional.surviving": "Выживание",
-  "tooltip.nutritional.nutrients": "Питательные вещества: %s"
+  "tier.nutritional.surviving": "Выживание"
 }

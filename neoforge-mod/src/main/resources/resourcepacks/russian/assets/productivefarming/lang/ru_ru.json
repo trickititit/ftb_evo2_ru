@@ -3,7 +3,6 @@
   "block.productivefarming.agave_crate": "Ящик с агавой",
   "block.productivefarming.akebia": "Акебия",
   "block.productivefarming.akebia_crate": "Ящик Акебии",
-  "block.productivefarming.alium": "Алиум",
   "block.productivefarming.amaranth": "Амарант",
   "block.productivefarming.amaryllis": "Амариллис",
   "block.productivefarming.anemone": "Анемона",
@@ -236,7 +235,6 @@
   "block.productivefarming.porcini_growth": "Рост белых грибов",
   "block.productivefarming.portobello_growth": "Портобелло Рост",
   "block.productivefarming.potato_crate": "Картофельный ящик",
-  "block.productivefarming.potted_alium": "Горшечный Алиум",
   "block.productivefarming.potted_amaryllis": "Амариллис в горшке",
   "block.productivefarming.potted_anemone": "Горшечная анемон",
   "block.productivefarming.potted_azure_bluet": "Лазурный синий в горшке",
@@ -868,5 +866,7 @@
   "tooltip.productivefarming.yellow_bell_pepper.latin": "",
   "tooltip.productivefarming.yellow_dent_corn.latin": "Zea mays convar. сахарата вар. ругоза",
   "tooltip.productivefarming.yellow_pear_tomato.latin": "Паслен ликоперсикум",
-  "tooltip.productivefarming.zucchini.latin": "Тыква пепо вар. лонга"
+  "tooltip.productivefarming.zucchini.latin": "Тыква пепо вар. лонга",
+  "block.productivefarming.allium": "Лук",
+  "block.productivefarming.potted_allium": "Лук в горшке"
 }

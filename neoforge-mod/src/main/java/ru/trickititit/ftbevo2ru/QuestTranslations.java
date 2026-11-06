@@ -58,7 +58,7 @@ public final class QuestTranslations {
                     ? bundled.text : null;
             entries.put(key, new Cached(source, result));
             if (result == null && MISMATCH_REPORTED.compareAndSet(false, true)) {
-                RussianLocalization.LOGGER.warn("Quest source differs from FTB Evolution 2 1.7.0; "
+                RussianLocalization.LOGGER.warn("Quest source differs from FTB Evolution 2 1.8.1; "
                         + "changed entries will retain their original text. First mismatch: {}", key);
             }
             return result;

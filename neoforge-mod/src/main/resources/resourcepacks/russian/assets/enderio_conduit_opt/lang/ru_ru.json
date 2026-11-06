@@ -1,0 +1,6 @@
+{
+  "tooltip.enderio_conduit_opt.type_item": "Предметный трубопровод",
+  "tooltip.enderio_conduit_opt.type_fluid": "Жидкостный трубопровод",
+  "tooltip.enderio_conduit_opt.type_energy": "Энергетический проводник",
+  "key.categories.conduit_opt_keys": "Оптимизация трубопроводов EIO"
+}

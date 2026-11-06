@@ -1,0 +1,61 @@
+ALL RIGHTS RESERVED
+
+[ Developer's Note ]
+We are actually very open-minded regarding community sharing and modpack creation! The primary reason this mod is distributed under an "All Rights Reserved" license rather than an open-source license (like MIT) is simply that we want to ensure the integrity of the code. We do not want unauthorized modifications or tweaked versions of our code floating around. As long as you respect the code's integrity and the artists' hard work, feel free to enjoy the mod and include it in your modpacks!
+
+Copyright (c) 2026 Saku_rain & MHanHanBing
+All rights reserved.
+
+The "Ender IO: Evolution" mod (hereinafter referred to as "the Software"), including its source code, compiled binaries, art assets, textures, models, and audio files, is the intellectual property of its respective creators. Specifically, the source code and overall project design are the intellectual property of Saku_rain, while the vast majority of the art assets, textures, and models are the intellectual property of MHanHanBing.
+
+1. GENERAL RESTRICTIONS
+To protect the integrity of the Software, you are NOT permitted to:
+- Decompile, reverse engineer, or modify the source code or binaries (.jar file) of the Software.
+- Extract, copy, distribute, or reuse any art assets (textures, models, etc.) or audio files included in the Software in other projects, mods, or media.
+- Re-upload or redistribute the Software on any website or platform outside of the official distribution channels (e.g., official CurseForge or Modrinth pages managed by Saku_rain).
+- Use the Software or any of its components for any commercial purposes.
+
+2. MODPACK POLICY (WE LOVE MODPACKS!)
+You are completely free and warmly welcome to include the Software in your Minecraft Modpacks, provided that:
+- The Modpack is distributed through official, approved platforms (such as CurseForge or Modrinth).
+- No direct monetary compensation is charged for access to the Software itself (standard platform reward programs for modpack creators are completely fine).
+- Modification Clarification: Modpack creators are 100% allowed and encouraged to use Data packs, Resource packs, config files, or tools like KubeJS/CraftTweaker to modify recipes, loot tables, and configurations. The "no modification" rule in Section 1 ONLY applies to reverse-engineering or altering the mod's actual Java code and compiled `.jar` file.
+
+3. ART ASSETS & DESIGN INSPIRATION NOTICE
+All textures, models, and art assets present in this Software are 100% original creations, drawn primarily by MHanHanBing. While the design concepts and functional ideas are heavily inspired by the original 1.12.2 mod "Ender IO Endergy", NO actual graphical assets or code from the 1.12.2 project are used within this Software. Therefore, all art assets within this Software fall strictly under this All Rights Reserved license and are protected against unauthorized use.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+========================================================================
+【中文版 / Chinese Version】
+========================================================================
+
+保留所有权利 (ALL RIGHTS RESERVED)
+
+【 作者寄语 】
+其实在此协议之外，我们对于社区分享和制作整合包的态度是非常开放和欢迎的！之所以没有采用 MIT 等开源协议而选择“保留所有权利”，纯粹是因为我们十分看重代码的完整性，不希望看到他人随意修改本模组的代码或发布魔改版本。只要大家尊重代码的完整性以及美术作者的劳动成果，请放心大胆地将本模组加入到你的整合包中游玩！
+
+版权所有 (c) 2026 Saku_rain & MHanHanBing
+保留所有权利。
+
+“Ender IO: Evolution” 模组（以下简称“本软件”），包括其源代码、编译的二进制文件、美术资源、贴图、模型以及音频文件，均为各创作者的知识产权。具体而言：源代码与整体项目设计为 Saku_rain 的知识产权；绝大部分美术资源、贴图与模型为 MHanHanBing 的知识产权。
+
+1. 一般限制
+为了保证模组的完整性，未经事先书面许可，您不得：
+- 反编译、逆向工程或修改本软件的源代码或二进制文件（本体 `.jar` 文件）。
+- 提取、复制、分发或在其他项目、模组或媒体中重复使用本软件中包含的任何美术资源（贴图、模型等）或音频文件。
+- 在作者管理的官方发布渠道（如官方 CurseForge 或 Modrinth 页面）之外的任何网站或平台上重新上传或二次分发本软件。
+- 将本软件或其任何组成部分用于任何商业用途。
+
+2. 整合包政策（我们欢迎整合包！）
+我们非常欢迎您在 Minecraft 整合包中直接使用本软件，只需满足以下两个简单条件：
+- 整合包需通过正规、官方获批的社区平台（如 CurseForge 或 Modrinth）进行分发。
+- 不得对本软件的访问或下载直接收取任何金钱补偿（整合包作者参与平台标准的创作者激励计划是完全允许的）。
+- 修改行为澄清说明： 我们 100% 允许并鼓励整合包作者通过数据包（Data pack）、资源包（Resource pack）、配置文件（Config）以及 KubeJS 或 CraftTweaker 等技术手段来自由修改本模组的配方、掉落物和各项数值。第一条中“禁止修改”的规定仅仅指禁止拆包篡改模组本体的 Java 源代码及底层 `.jar` 文件。
+
+3. 美术资产与设计理念声明
+本软件中的所有贴图、模型和美术资源均为 100% 的原创作品，绝大部分由 MHanHanBing 负责重绘与创作。虽然本软件的设计理念及功能构思深受 1.12.2 原版模组 "Ender IO Endergy" 的启发，但本软件绝未包含或使用任何 1.12.2 前作的实际图像资产或代码。因此，本软件内的所有美术资源均严格受本“保留所有权利”协议的保护，禁止任何形式的挪用。
+
+4. 免责声明
+本软件按“原样”提供，不提供任何形式的明示或暗示的保证，包括但不限于适销性、特定用途的适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对因本软件或本软件的使用或其他交易而产生、引起或与之相关的任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面。

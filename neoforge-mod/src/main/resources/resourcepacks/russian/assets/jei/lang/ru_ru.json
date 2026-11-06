@@ -90,7 +90,6 @@
   "key.jei.copy.recipe.id.description": "Скопируйте текущий идентификатор рецепта в буфер обмена.",
   "key.jei.copy.recipe.id.context": "графический интерфейс открыт",
   "jei.config.client.ingredientList.overlaysEnabled": "Показать наложения JEI",
-  "jei.config.client.ingredientList.overlaysEnabled.description": "Показать или скрыть наложения ингредиентов и закладок для текущего сеанса. Это значение не сохраняется в файле конфигурации.",
   "jei.config.client.ingredientList.overlaysEnabled.value.true.description": "Покажите наложения ингредиентов и закладок JEI.",
   "jei.config.client.ingredientList.overlaysEnabled.value.false.description": "Скройте наложения ингредиентов и закладок JEI.",
   "jei.config.client.bookmarkList.bookmarkOverlayEnabled": "Показать наложение закладок",
@@ -395,10 +394,6 @@
   "jei.config.client.lookups.maxIngredients.description": "Ограничьте количество недавних ингредиентов поиска, которые JEI запоминает.",
   "jei.config.client.lookups.displaySide": "Сторона истории поиска",
   "jei.config.client.lookups.displaySide.description": "Выберите сторону экрана, на которой отображаются последние поисковые запросы.",
-  "jei.config.client.advanced.lowMemorySlowSearchEnabled": "Используйте меньше памяти для поиска",
-  "jei.config.client.advanced.lowMemorySlowSearchEnabled.description": "Используйте меньше памяти для поиска ингредиентов. Поиск будет медленнее.",
-  "jei.config.client.advanced.lowMemorySlowSearchEnabled.value.true.description": "Используйте меньше памяти и ищите медленнее.",
-  "jei.config.client.advanced.lowMemorySlowSearchEnabled.value.false.description": "Используйте нормальную скорость поиска и память.",
   "jei.config.client.advanced.catchRenderErrorsEnabled.value.true.description": "Показывать заполнитель ошибки вместо сбоя.",
   "jei.config.client.advanced.catchRenderErrorsEnabled.value.false.description": "Пусть ошибки рисования ингредиентов приводят к сбою игры.",
   "jei.config.client.ingredientSorting": "Сортировка списка ингредиентов",
@@ -478,5 +473,8 @@
   "jei.key.modifier.shift": "СДВИГ",
   "jei.key.modifier.control": "CTRL",
   "jei.key.modifier.command": "КМД",
-  "jei.key.modifier.alt": "ALT"
+  "jei.key.modifier.alt": "ALT",
+  "jei.key.command": "Команда",
+  "jei.key.command.short": "Команда",
+  "jei.key.command.tiny": "Команда"
 }

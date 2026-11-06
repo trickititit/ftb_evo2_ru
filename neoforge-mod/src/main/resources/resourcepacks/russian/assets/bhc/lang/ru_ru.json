@@ -1,4 +1,5 @@
 {
+  "attribute.bhc.heart_effectiveness": "Эффективность сердца",
   "itemGroup.bhcTab": "Канистры с сердцем Baubley",
   "item.bhc.red_heartpulse_belt": "Красный пояс Heartpulse",
   "item.bhc.yellow_heartpulse_belt": "Желтый пояс Heartpulse",
@@ -26,6 +27,5 @@
   "bhc.configuration.greenPatchCooldown": "Время восстановления зеленой нашивки",
   "bhc.configuration.allowStartingHealthTweaks": "Разрешить запуск настроек здоровья",
   "bhc.configuration.startingHealth": "Начало здоровья",
-  "bhc.configuration.Server": "Сервер",
-  "attribute.bhc.heart_effectiveness": "Эффективность сердца"
+  "bhc.configuration.Server": "Сервер"
 }

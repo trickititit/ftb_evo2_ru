@@ -341,9 +341,9 @@
   "trait.ftbevolutioncompanion.dragonfrost.desc": "Замораживает и замедляет цели.",
   "trait.ftbevolutioncompanion.dragonstorm.desc": "Молнии перескакивают на ближайших врагов.",
   "message.ftbevolutioncompanion.mffs.remote_out_of_range": "Привязанный проектор слишком далеко, чтобы открыть его интерфейс.",
-  "stage.ftbevolutioncompanion.wither_killed": "Победите иссушителя",
-  "stage.ftbevolutioncompanion.oritech_atomic_forge": "Постройте атомную кузницу Oritech",
   "ftbevolutioncompanion.spawner_tier.requires_previous": "Этот спаунер сначала должен быть повышен до уровня %s.",
   "upgrade.ftbevolutioncompanion.armory_overclock": "Разгон Armory",
-  "upgrade.ftbevolutioncompanion.armory_overclock.desc": "Металлические катушки Armory, разогнанные сверх заводских ограничений. Работает совместно с блоком питания."
+  "upgrade.ftbevolutioncompanion.armory_overclock.desc": "Металлические катушки Armory, разогнанные сверх заводских ограничений. Работает совместно с блоком питания.",
+  "stage.ftbevolutioncompanion.wither_killed": "Победите иссушителя",
+  "stage.ftbevolutioncompanion.oritech_atomic_forge": "Постройте атомную кузницу Oritech"
 }

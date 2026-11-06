@@ -398,6 +398,8 @@
   "tooltip.energizedpower.energized_alloy_ingot.txt.shift.1": "Чтобы активировать этот предмет, в Energizer должно быть установлено улучшение энергоемкости (уровень IV или выше).",
   "tooltip.energizedpower.energy_meter.content.txt": "%s / %s",
   "tooltip.energizedpower.fluid_meter.content_amount.txt": "%s / %s",
+  "tooltip.energizedpower.fluid_meter.extract_fluid.txt": "Чтобы забрать жидкость, нажмите ПКМ по жидкостному счётчику, держа ёмкость для жидкости.",
+  "tooltip.energizedpower.fluid_meter.insert_fluid.txt": "Чтобы добавить жидкость, нажмите ЛКМ по жидкостному счётчику, держа ёмкость для жидкости.",
   "tooltip.energizedpower.io_configuration_view.button.close": "Закрыть представление конфигурации ввода-вывода",
   "tooltip.energizedpower.io_configuration_view.button.open": "Открыть представление конфигурации ввода-вывода",
   "tooltip.energizedpower.io_configuration_view.label": "Конфигурация ввода-вывода",
@@ -450,7 +452,5 @@
   "tooltip.energizedpower.upgrade_module_modifier.xp_yield": "XP Доходность",
   "tooltip.energizedpower.xp_drain.txt.shift": "Чтобы этот блок функционировал, под ним должен быть размещен резервуар с жидкостью или хранилище XP.",
   "tooltip.energizedpower.xp_storage.amount": "%d / %d уровни",
-  "tooltip.energizedpower.xp_storage_capacity.txt": "XP Емкость хранилища: %d уровень",
-  "tooltip.energizedpower.fluid_meter.extract_fluid.txt": "Чтобы забрать жидкость, нажмите ПКМ по жидкостному счётчику, держа ёмкость для жидкости.",
-  "tooltip.energizedpower.fluid_meter.insert_fluid.txt": "Чтобы добавить жидкость, нажмите ЛКМ по жидкостному счётчику, держа ёмкость для жидкости."
+  "tooltip.energizedpower.xp_storage_capacity.txt": "XP Емкость хранилища: %d уровень"
 }

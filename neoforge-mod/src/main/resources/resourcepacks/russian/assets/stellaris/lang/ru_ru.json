@@ -98,6 +98,8 @@
   "block.stellaris.eclipse_tulip": "Затмение Тюльпан",
   "tooltip.stellaris.list_entry": "- %s",
   "tooltip.stellaris.space_station.ingredient": "- %sx %s",
+  "tooltip.stellaris.space_station.ingredient_tag": "- %sx Любой %s",
+  "tooltip.stellaris.space_station.accepts_tag": "Принимает любой предмет из %s",
   "tooltip.item.stellaris.fluid_cell.content": "%s : %s / %s",
   "tooltip.item.stellaris.fluid_cell.empty": "%s: 0 / %s",
   "tooltip.item.stellaris.fluid_tank.content": "%s : %s / %s",
@@ -133,7 +135,5 @@
   "painting.stellaris.proxima_centaury.title": "Проксима Центавра",
   "painting.stellaris.glacio.title": "Гласио",
   "subtitles.stellaris.beep": "Предупреждающие звуковые сигналы посадочного модуля",
-  "subtitles.stellaris.sonic_boom": "Звуковой бум",
-  "tooltip.stellaris.space_station.ingredient_tag": "- %sx Любой %s",
-  "tooltip.stellaris.space_station.accepts_tag": "Принимает любой предмет из %s"
+  "subtitles.stellaris.sonic_boom": "Звуковой бум"
 }

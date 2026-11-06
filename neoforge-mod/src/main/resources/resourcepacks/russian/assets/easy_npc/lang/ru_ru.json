@@ -24,7 +24,6 @@
   "entity.easy_npc.epic_fight_zombie_raw": "[EF] Зомби",
   "entity.easy_npc.epic_fight_zombie_villager_raw": "[EF] Зомби-житель",
   "entity.easy_npc.epic_fight_zombified_piglin_raw": "[EF] Зомбированный пиглин",
-  "entity.easy_npc.skeleton_bogged": "Увязший",
   "entity.easy_npc.wandering_trader": "Странствующий торговец",
   "item.easy_npc.npc_coin": "Монета НПС",
   "item.easy_npc.npc_key": "Ключ НПС",
@@ -78,5 +77,7 @@
   "text.easy_npc.preset.spawn_rate_limited": "Достигнут лимит появления %1$s NPC в минуту, подождите немного.",
   "text.easy_npc.preset.export_rate_limited": "Достигнут лимит экспорта в %1$s пресетов в минуту, подождите немного.",
   "tooltip.easy_npc.spawner.world_spawner": "World Spawner — это групповой генератор, который подсчитывает заданную численность населения по всему миру (во всех измерениях).",
-  "item.easy_npc.bullet": "Пуля"
+  "item.easy_npc.bullet": "Пуля",
+  "entity.easy_npc.npc_bullet": "Пуля NPC",
+  "entity.easy_npc.npc_item_projectile": "Предмет-снаряд NPC"
 }

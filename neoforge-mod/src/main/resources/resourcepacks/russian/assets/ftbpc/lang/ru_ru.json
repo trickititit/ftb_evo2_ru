@@ -29,5 +29,6 @@
   "ftbpackcompanion.tpa": "Запросить телепортацию",
   "item.ftbpc.action_pad": "Панель действий",
   "item.ftbpc.rtp_portal": "Случайный портал",
-  "item.ftbpc.structure_placer": "Установщик сооружений"
+  "item.ftbpc.structure_placer": "Установщик сооружений",
+  "ftbpackcompanion.structureplacer.invalid-placement": "Неверная область размещения!"
 }
