@@ -1,6 +1,4 @@
 {
-  "itemGroup.hephaestus.tab": "Hephaestus Литейный цех",
-  "itemGroup.hephaestus": "Hephaestus Литейный цех",
   "block.hephaestus.seared_stone": "Обожженный камень",
   "block.hephaestus.seared_stone_slab": "Обожженная каменная плита",
   "block.hephaestus.seared_stone_stairs": "Лестница из обожженного камня",
@@ -508,5 +506,17 @@
   "config.jade.plugin_hephaestus.melter_progress": "Процесс плавления плавильной печи",
   "fluid_type.hephaestus.molten_replica": "Расплавленная копия",
   "item.hephaestus.molten_replica_bucket": "Ведро с расплавленной копией",
-  "block.hephaestus.molten_replica_block": "Расплавленная копия"
+  "block.hephaestus.molten_replica_block": "Расплавленная копия",
+  "itemGroup.hephaestus.tab": "Кузница Hephaestus",
+  "itemGroup.hephaestus": "Кузница Hephaestus",
+  "block.hephaestus.seared_battery": "Обожженная батарея",
+  "item.hephaestus.seared_battery": "Обожженная батарея",
+  "block.hephaestus.seared_energy_port": "Обожжённый энергетический порт",
+  "item.hephaestus.seared_energy_port": "Обожжённый энергетический порт",
+  "gui.hephaestus.smeltery.mixed_fuel": "Плавильня не может одновременно использовать топливные баки и батареи!",
+  "gui.hephaestus.energy": "Энергия",
+  "gui.hephaestus.energy_amount": "%s / %s FE",
+  "gui.hephaestus.jei.energy": "Энергия",
+  "gui.hephaestus.jei.energy_cost": "%s FE каждые %s тика",
+  "gui.hephaestus.jei.energy_requires": "Требуются обожжённые батареи и обожжённый энергетический порт"
 }

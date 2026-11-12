@@ -79,5 +79,9 @@
   "biome.horsepowered.fish_habitat": "Реки и океаны",
   "dimension.minecraft.overworld": "Верхний мир",
   "dimension.minecraft.the_nether": "Пустота",
-  "dimension.minecraft.the_end": "Конец"
+  "dimension.minecraft.the_end": "Конец",
+  "config.jade.plugin_horsepowered.worker": "Статистика рабочих",
+  "jade.horsepowered.jump_strength": "Сила прыжка: %s",
+  "jade.horsepowered.worker_speed": "Рабочая скорость: %sx",
+  "jade.horsepowered.path_speed": "Скорость пути: %sx"
 }

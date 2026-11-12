@@ -614,5 +614,10 @@
   "upgrade_effect.ltxi.reload_source.infinite": "Предоставляет оружию бесконечный, никогда не разряжающийся магазин.",
   "upgrade_effect.ltxi.reload_source.item": "Заменяет предмет перезарядки: %s",
   "upgrade_effect.ltxi.suppress_vibrations": "Подавляет вибрации %s",
-  "upgrade_effect.ltxi.unlock_recipe_mode": "Открывает режим рецептов %s."
+  "upgrade_effect.ltxi.unlock_recipe_mode": "Открывает режим рецептов %s.",
+  "block.ltxi.gas_turbine": "Газовая турбина",
+  "jei.ltxi.turbine_fuels": "Турбинное топливо",
+  "upgrade.ltxi.turbine_tiers": "Усовершенствованный турбинный двигатель",
+  "upgrade.ltxi.turbine_tiers.desc": "Улучшает корпус турбины и камеру сгорания, повышая допустимую стабильную скорость подачи топлива.",
+  "upgrade_effect.ltxi.energy_gen": "%s производство энергии"
 }

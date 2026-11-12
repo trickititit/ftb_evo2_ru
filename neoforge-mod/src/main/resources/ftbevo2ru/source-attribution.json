@@ -199,7 +199,7 @@
     ]
   },
   {
-    "jar": "animusnv-26.1.2-5.2.21.jar",
+    "jar": "animusnv-26.1.2-5.2.22.jar",
     "namespaces": [
       "animusnv"
     ],
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "jar": "Applied-Replicatics-26.1-1.0.0.jar",
+    "jar": "Applied-Replicatics-26.1-1.0.1.jar",
     "namespaces": [
       "ae2",
       "apprep"
@@ -735,7 +735,7 @@
     ]
   },
   {
-    "jar": "collective-26.1.2-8.81.jar",
+    "jar": "collective-26.1.2-8.85.jar",
     "namespaces": [
       "collective"
     ],
@@ -1244,7 +1244,7 @@
     ]
   },
   {
-    "jar": "enderio_conduit_opt-1.0.1-26.1.2.jar",
+    "jar": "enderio_conduit_opt-1.0.2-26.1.2.jar",
     "namespaces": [
       "enderio_conduit_opt"
     ],
@@ -1257,7 +1257,7 @@
     ]
   },
   {
-    "jar": "enderio_evolution-4.0.5-NeoForge-26.1.2.jar",
+    "jar": "enderio_evolution-4.0.6-NeoForge-26.1.2.jar",
     "namespaces": [
       "enderio_evolution"
     ],
@@ -1335,7 +1335,7 @@
     ]
   },
   {
-    "jar": "evilcraft-26.1.2-neoforge-1.2.109.jar",
+    "jar": "evilcraft-26.1.2-neoforge-1.2.110.jar",
     "namespaces": [
       "evilcraft",
       "evilcraftcompat"
@@ -1406,7 +1406,7 @@
     ]
   },
   {
-    "jar": "fancymenu_neoforge_3.9.14_MC_26.1.2.jar",
+    "jar": "fancymenu_neoforge_3.10.0_MC_26.1.2.jar",
     "namespaces": [
       "fancymenu"
     ],
@@ -1484,6 +1484,19 @@
     ]
   },
   {
+    "jar": "ForceCraft-26.1.2-7.0.2.jar",
+    "namespaces": [
+      "forcecraft"
+    ],
+    "license": "GNU GPL v3",
+    "mods": [
+      {
+        "name": "ForceCraft",
+        "authors": "Mrbysco"
+      }
+    ]
+  },
+  {
     "jar": "forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
     "namespaces": [
       "forgeendertech"
@@ -1536,7 +1549,7 @@
     ]
   },
   {
-    "jar": "ftb-armory-26.1.2.11.jar",
+    "jar": "ftb-armory-26.1.2.12.jar",
     "namespaces": [
       "ftbarmory",
       "ironfurnaces",
@@ -1619,7 +1632,7 @@
     ]
   },
   {
-    "jar": "ftb-evolution-companion-26.1.2.28.jar",
+    "jar": "ftb-evolution-companion-26.1.2.29.jar",
     "namespaces": [
       "ftb",
       "ftbevolutioncompanion"
@@ -1906,7 +1919,7 @@
     ]
   },
   {
-    "jar": "hephaestus-neoforge-26.1.2-1.0.20.jar",
+    "jar": "hephaestus-neoforge-26.1.2-1.0.21.jar",
     "namespaces": [
       "hephaestus"
     ],
@@ -1945,7 +1958,7 @@
     ]
   },
   {
-    "jar": "horsepowered-26.1.2-3.11.9.jar",
+    "jar": "horsepowered-26.1.2-3.11.12.jar",
     "namespaces": [
       "horsepowered"
     ],
@@ -2036,7 +2049,7 @@
     ]
   },
   {
-    "jar": "integrateddynamics-26.1.2-neoforge-1.36.3.jar",
+    "jar": "integrateddynamics-26.1.2-neoforge-1.37.0.jar",
     "namespaces": [
       "integrateddynamics",
       "integrateddynamicscompat"
@@ -2073,7 +2086,7 @@
     ]
   },
   {
-    "jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "jar": "integratedtunnels-26.1.2-neoforge-1.13.3.jar",
     "namespaces": [
       "integratedtunnels"
     ],
@@ -2194,7 +2207,7 @@
     ]
   },
   {
-    "jar": "iska_lib-1.13.0.0.0-neoforge-26.1.2.jar",
+    "jar": "iska_lib-1.14.0.0.0-neoforge-26.1.2.jar",
     "namespaces": [
       "iska_lib"
     ],
@@ -2456,7 +2469,7 @@
     ]
   },
   {
-    "jar": "limacore-26.1.2-2.11.3.jar",
+    "jar": "limacore-26.1.2-2.12.1.jar",
     "namespaces": [
       "limacore"
     ],
@@ -2534,7 +2547,7 @@
     ]
   },
   {
-    "jar": "ltxi-26.1.2-2.5.0.jar",
+    "jar": "ltxi-26.1.2-2.6.1.jar",
     "namespaces": [
       "ltxi"
     ],
@@ -2769,7 +2782,7 @@
     ]
   },
   {
-    "jar": "modernfix-neoforge-5.27.26-mc26.1.2.jar",
+    "jar": "modernfix-neoforge-5.27.27-mc26.1.2.jar",
     "namespaces": [
       "modernfix"
     ],
@@ -2782,7 +2795,7 @@
     ]
   },
   {
-    "jar": "modonomicon-26.1.2-neoforge-2.20.0.jar",
+    "jar": "modonomicon-26.1.2-neoforge-2.20.1.jar",
     "namespaces": [
       "modonomicon"
     ],
@@ -2992,7 +3005,7 @@
     ]
   },
   {
-    "jar": "nautec-26.1.2-NeoForge-2.0.26.jar",
+    "jar": "nautec-26.1.2-NeoForge-2.0.27.jar",
     "namespaces": [
       "nautec"
     ],
@@ -3005,7 +3018,7 @@
     ]
   },
   {
-    "jar": "NeoSync-26.1.2-1.7.5.jar",
+    "jar": "NeoSync-26.1.2-1.7.7.jar",
     "namespaces": [
       "neosync"
     ],
@@ -3018,7 +3031,7 @@
     ]
   },
   {
-    "jar": "neovitae-26.1.2-1.1.51.jar",
+    "jar": "neovitae-26.1.2-1.1.53.jar",
     "namespaces": [
       "neovitae"
     ],
@@ -3096,7 +3109,7 @@
     ]
   },
   {
-    "jar": "oracle_index-neoforge-2.0.0.jar",
+    "jar": "oracle_index-neoforge-2.0.1.jar",
     "namespaces": [
       "oracle_index"
     ],
@@ -3489,7 +3502,7 @@
     ]
   },
   {
-    "jar": "reliquary-26.1.2-2.0.96.1586.jar",
+    "jar": "reliquary-26.1.2-2.0.100.1592.jar",
     "namespaces": [
       "reliquary"
     ],
@@ -3554,7 +3567,7 @@
     ]
   },
   {
-    "jar": "rgp-client-2.1.2+mc26.1.2-neoforge.jar",
+    "jar": "rgp-client-2.1.3+mc26.1.2-neoforge.jar",
     "namespaces": [
       "rgp_client"
     ],
@@ -3736,7 +3749,7 @@
     ]
   },
   {
-    "jar": "sophisticatedbackpacks-26.1.2-3.26.18.2238.jar",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.19.2245.jar",
     "namespaces": [
       "sophisticatedbackpacks"
     ],
@@ -3749,7 +3762,7 @@
     ]
   },
   {
-    "jar": "sophisticatedcore-26.1.2-1.5.28.2455.jar",
+    "jar": "sophisticatedcore-26.1.2-1.5.33.2466.jar",
     "namespaces": [
       "sophisticatedcore"
     ],
@@ -3931,7 +3944,7 @@
     ]
   },
   {
-    "jar": "tesseract-1.0.39a-neoforge-mc26.1.jar",
+    "jar": "tesseract-1.0.40-neoforge-mc26.1.jar",
     "namespaces": [
       "tesseract"
     ],
@@ -3957,7 +3970,7 @@
     ]
   },
   {
-    "jar": "the_bumblezone-7.18.5-26.1.2-neoforge.jar",
+    "jar": "the_bumblezone-7.18.7-26.1.2-neoforge.jar",
     "namespaces": [
       "the_bumblezone"
     ],
@@ -4165,7 +4178,7 @@
     ]
   },
   {
-    "jar": "witchery-0.5.38-mc26.1.2.jar",
+    "jar": "witchery-0.5.39-mc26.1.2.jar",
     "namespaces": [
       "witchery"
     ],

@@ -266,6 +266,9 @@
   "jei.key.combo.shift": "Shift + %s",
   "jei.key.combo.control": "CTRL + %s",
   "jei.key.combo.command": "CMD + %s",
+  "jei.key.command": "Команда",
+  "jei.key.command.short": "Команда",
+  "jei.key.command.tiny": "Команда",
   "jei.key.combo.alt": "ALT + %s",
   "jei.key.shift": "СДВИГ",
   "description.jei.wooden.door.1": "Деревянные двери позволяют не допускать проникновения монстров в ваше здание.\\nПроверка предложений.",
@@ -473,8 +476,5 @@
   "jei.key.modifier.shift": "СДВИГ",
   "jei.key.modifier.control": "CTRL",
   "jei.key.modifier.command": "КМД",
-  "jei.key.modifier.alt": "ALT",
-  "jei.key.command": "Команда",
-  "jei.key.command.short": "Команда",
-  "jei.key.command.tiny": "Команда"
+  "jei.key.modifier.alt": "ALT"
 }

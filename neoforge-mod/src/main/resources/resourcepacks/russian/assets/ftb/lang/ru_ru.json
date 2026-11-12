@@ -170,6 +170,7 @@
   "item.ftb.blood_vial": "Пузырёк крови",
   "ftb.tooltip.blood_vial": "Используйте на Ara Vitae, чтобы влить %s Essentia Vitae",
   "ftb.blood_vial.altar_full": "Эта Ara Vitae заполнена",
+  "ftb.tooltip.ftbmaterials.zinc.source": "§aⓘ §fЦинковая пыль получается путем дробления §7Базальта§f",
   "item.ftb.meat_ingot": "Мясной слиток",
   "ftb.tooltip.ore_y.line": "%s: %s",
   "ftb.tooltip.ore_y.overworld": "Верхний мир",
@@ -1161,5 +1162,5 @@
   "skill.ftb.ranged.doom.description": "Раз в 10 секунд попадание метательного оружия ослепляет цель и дает ей Медлительность IV на 2 секунды и наносит тем больше урона, чем ниже ее здоровье: + 100% при половине здоровья, до + 200% при смерти.",
   "skill.ftb.ranged.volley_cap.title": "Залп",
   "skill.ftb.ranged.volley_cap.description": "25% шанс, что в результате броска рядом с ним разлетятся 2 дополнительные копии. Копии невозможно забрать. +10% к скорости броска и +15% к шансу удержания.",
-  "ftb.tooltip.ftbmaterials.zinc.source": "§aⓘ §fЦинковая пыль получается путем дробления §7Базальта§f"
+  "item.ftb.temporal_core": "Временное ядро"
 }

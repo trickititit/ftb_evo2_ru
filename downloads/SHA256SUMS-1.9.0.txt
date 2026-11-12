@@ -1,0 +1,4 @@
+d6b8e2924448e54afd20be13f17754c19301dcc98cb999227ce7d96b1ed9108c  ftb-evolution-2-russian-neoforge-26.1.2-1.5.0.jar
+4891bca93e8c986e77316ceaad57232a4a97b92230903a846718fb726208c0f6  ftb-evolution-2-russian-1.5.0-source.zip
+a6493e43515cd14ecceae20cb9c58b2373a901a9b36a3f27dc4317ec725f80b0  FTB-Evolution-2-1.9.0-RU-1.5.0-Client.zip
+a8ce129f93d7499e405259e74adca6509647b535a8050f0c6639e48a644ba2a9  FTB-Evolution-2-1.9.0-RU-1.5.0-Server.zip

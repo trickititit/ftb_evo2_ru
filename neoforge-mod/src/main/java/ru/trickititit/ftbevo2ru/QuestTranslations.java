@@ -58,7 +58,7 @@ public final class QuestTranslations {
                     ? bundled.text : null;
             entries.put(key, new Cached(source, result));
             if (result == null && MISMATCH_REPORTED.compareAndSet(false, true)) {
-                RussianLocalization.LOGGER.warn("Quest source differs from FTB Evolution 2 1.8.1; "
+                RussianLocalization.LOGGER.warn("Quest source differs from FTB Evolution 2 1.9.0; "
                         + "changed entries will retain their original text. First mismatch: {}", key);
             }
             return result;
@@ -95,7 +95,7 @@ public final class QuestTranslations {
                 }
                 result.put(item.getKey(), new Entry(entry.get("source_sha256").getAsString(), translated));
             });
-            if (result.size() != 4188) throw new IllegalStateException("Incomplete quest translation bundle");
+            if (result.size() != 4391) throw new IllegalStateException("Incomplete quest translation bundle");
             return Collections.unmodifiableMap(result);
         } catch (Exception exception) {
             throw new IllegalStateException("Cannot load bundled Russian quest translations", exception);

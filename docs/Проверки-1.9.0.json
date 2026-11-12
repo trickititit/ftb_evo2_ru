@@ -1,0 +1,1003 @@
+{
+  "status": "PASS",
+  "date": "2026-11-13",
+  "pack_version": "1.9.0",
+  "mod_version": "1.5.0",
+  "jar_sha256": "d6b8e2924448e54afd20be13f17754c19301dcc98cb999227ce7d96b1ed9108c",
+  "static": {
+    "status": "PASS",
+    "checks": 89799,
+    "jar_sha256": "d6b8e2924448e54afd20be13f17754c19301dcc98cb999227ce7d96b1ed9108c",
+    "quest_entries": 4391,
+    "language_entries": 47684,
+    "unchanged_technical_or_proper_names": 1072,
+    "guide_counts": {
+      "guideme": 760,
+      "patchouli": 894,
+      "meta": 25,
+      "oracle": 197,
+      "stellaris": 61
+    },
+    "client_rendering_tested": false
+  },
+  "quest_overlay": {
+    "status": "PASS",
+    "entries": 4391,
+    "real_ftb_classes": true,
+    "source_guard": true,
+    "user_override": true,
+    "cache_invalidation": true
+  },
+  "new_text_review": {
+    "status": "PASS",
+    "new_or_changed_english_keys": 985,
+    "missing_translations": [],
+    "technical_identifier_issues": [],
+    "formatting_issues": [],
+    "intentional_unchanged_values": [
+      [
+        "fancymenu",
+        "fancymenu.profiles.version",
+        "v%s"
+      ],
+      [
+        "fancymenu",
+        "fancymenu.profiles.edit.url.hint",
+        "https://…"
+      ],
+      [
+        "forcecraft",
+        "itemGroup.forcecraft",
+        "ForceCraft"
+      ],
+      [
+        "hephaestus",
+        "gui.hephaestus.energy_amount",
+        "%s / %s FE"
+      ],
+      [
+        "integrateddynamics",
+        "gui.integrateddynamics.logicprogrammer.expression.param_tooltip",
+        "%s: %s"
+      ],
+      [
+        "neosync",
+        "gui.neosync.shell_selector.location",
+        "%s (%s)"
+      ]
+    ],
+    "rich_json_components_checked": 2,
+    "manual_review": {
+      "edited_language_entries": 414,
+      "forcecraft_upgrade_descriptions": 25,
+      "new_quest_entries_hand_translated": 203,
+      "guide_pages_edited": 5
+    }
+  },
+  "installer": {
+    "status": "PASS",
+    "checks": 140,
+    "cases": [
+      {
+        "target": "fresh-client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "fresh-server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Rollback",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "upgrade-r4-and-mod",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "wrong-version",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "custom-russian",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "modified-dependency",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "traversal",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "corrupt-payload",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "damaged-backup",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "damaged-backup",
+        "action": "Rollback",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "damaged-backup",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Client",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.1.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.2.1-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.3.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Verify",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "direct-1.4.0-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Install",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "nested-all-Server",
+        "action": "Rollback",
+        "expected_success": true,
+        "pass": true
+      },
+      {
+        "target": "wrong-prism-loader",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      },
+      {
+        "target": "wrong-prism-minecraft",
+        "action": "Install",
+        "expected_success": false,
+        "pass": true
+      }
+    ],
+    "payload_sha256": "d6b8e2924448e54afd20be13f17754c19301dcc98cb999227ce7d96b1ed9108c",
+    "world_sentinel_preserved": true,
+    "legacy_files_restored_byte_identically": true,
+    "direct_upgrade_versions": [
+      "1.1.0",
+      "1.2.0",
+      "1.2.1",
+      "1.3.0",
+      "1.4.0"
+    ],
+    "full_nested_rollback_chain": true,
+    "windows_powershell": "5.1",
+    "real_game_directories_modified": false
+  },
+  "server": {
+    "install": {
+      "mode": "install",
+      "ready": true,
+      "exit_code": 0,
+      "timed_out": false,
+      "seconds": 324,
+      "integration_pass": true,
+      "quest_config_byte_unchanged": false,
+      "quest_config_semantic_unchanged": false,
+      "no_legacy_russian_files": true,
+      "no_kubejs_wiki_patch": true,
+      "test_world_only": true,
+      "client_rendering_tested": false,
+      "jar_sha256": "d6b8e2924448e54afd20be13f17754c19301dcc98cb999227ce7d96b1ed9108c",
+      "builtin_client_pack_api_tested": true
+    },
+    "uninstall": {
+      "mode": "uninstall",
+      "ready": true,
+      "exit_code": 0,
+      "timed_out": false,
+      "seconds": 211,
+      "integration_pass": true,
+      "quest_config_byte_unchanged": false,
+      "quest_config_semantic_unchanged": true,
+      "no_legacy_russian_files": true,
+      "no_kubejs_wiki_patch": true,
+      "test_world_only": true,
+      "client_rendering_tested": false,
+      "jar_sha256": null,
+      "builtin_client_pack_api_tested": false
+    },
+    "incompatible": {
+      "mode": "incompatible",
+      "ready": false,
+      "exit_code": 1,
+      "timed_out": false,
+      "seconds": 50,
+      "integration_pass": false,
+      "quest_config_byte_unchanged": true,
+      "quest_config_semantic_unchanged": true,
+      "no_legacy_russian_files": true,
+      "no_kubejs_wiki_patch": true,
+      "test_world_only": true,
+      "client_rendering_tested": false,
+      "jar_sha256": "d6b8e2924448e54afd20be13f17754c19301dcc98cb999227ce7d96b1ed9108c",
+      "builtin_client_pack_api_tested": false,
+      "compatibility_rejected": true
+    }
+  },
+  "quest_config_normalization": {
+    "status": "PASS",
+    "raw_semantic_unchanged": false,
+    "unchanged_except_empty_default_quest_links": true,
+    "changes": [
+      {
+        "path": "config/ftbquests/quests/chapters/forcecraft.json5",
+        "field": "quest_links",
+        "before": "absent",
+        "after": []
+      }
+    ],
+    "all_other_values_unchanged": true
+  },
+  "client_rendering_tested": false,
+  "production_game_folders_modified": false
+}

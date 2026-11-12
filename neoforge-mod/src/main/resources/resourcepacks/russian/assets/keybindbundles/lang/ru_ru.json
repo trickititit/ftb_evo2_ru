@@ -22,8 +22,8 @@
   "tooltip.keybindbundles.bundle.delete_entry": "Shift Щелкните левой кнопкой мыши, чтобы удалить запись.",
   "tooltip.keybindbundles.bundle.move_clockwise": "Щелкните правой кнопкой мыши, чтобы переместить запись по часовой стрелке.",
   "tooltip.keybindbundles.bundle.move_counterclockwise": "Shift Щелкните правой кнопкой мыши, чтобы переместить запись против часовой стрелки.",
+  "keybindbundles.configuration.toggleMenu": "Открывать и закрывать меню наборов нажатием вместо удержания клавиши",
   "keybindbundles.configuration.ignoreInvalidKeyChecks": "Игнорировать проверки недействительных ключей в #isKeyDown",
   "keybindbundles.configuration.clipMouseToMenu": "Закрепить мышь в пределах радиального меню",
-  "keybindbundles.configuration.triggerKeymappingOnRelease": "Триггер зависания клавиш при выпуске пакета",
-  "keybindbundles.configuration.toggleMenu": "Открывать и закрывать меню наборов нажатием вместо удержания клавиши"
+  "keybindbundles.configuration.triggerKeymappingOnRelease": "Триггер зависания клавиш при выпуске пакета"
 }

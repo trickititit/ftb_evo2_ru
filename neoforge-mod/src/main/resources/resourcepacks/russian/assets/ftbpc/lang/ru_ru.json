@@ -21,6 +21,7 @@
   "ftbpackcompanion.spawn": "Точка появления",
   "ftbpackcompanion.structureplacer.anchor_rotate": "[%s] Привязка | [%s] Повернуть",
   "ftbpackcompanion.structureplacer.anchored": "Положение закреплено",
+  "ftbpackcompanion.structureplacer.invalid-placement": "Неверная область размещения!",
   "ftbpackcompanion.structureplacer.nudge_hint": "Удерживайте [V] для точного перемещения",
   "ftbpackcompanion.structureplacer.nudge_x_z": "[W / S] Вперёд/назад | [A / D] Влево/вправо",
   "ftbpackcompanion.structureplacer.nudge_y": "[Q / E] Вверх/вниз | [R] Сбросить положение",
@@ -29,6 +30,5 @@
   "ftbpackcompanion.tpa": "Запросить телепортацию",
   "item.ftbpc.action_pad": "Панель действий",
   "item.ftbpc.rtp_portal": "Случайный портал",
-  "item.ftbpc.structure_placer": "Установщик сооружений",
-  "ftbpackcompanion.structureplacer.invalid-placement": "Неверная область размещения!"
+  "item.ftbpc.structure_placer": "Установщик сооружений"
 }

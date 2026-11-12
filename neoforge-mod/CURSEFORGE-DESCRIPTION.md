@@ -1,17 +1,17 @@
 # FTB Evolution 2 - Russian Localization
 
-Unofficial Russian localization for **FTB Evolution 2 1.8.1** on **Minecraft 26.1.2 / NeoForge 26.1.2.126**.
+Unofficial Russian localization for **FTB Evolution 2 1.9.0** on **Minecraft 26.1.2 / NeoForge 26.1.2.126**.
 
 This is a localization add-on, not a modpack. Install the original FTB Evolution 2 modpack first. Other pack versions and Minecraft versions are not supported.
 
 ## Included translations
 
-- All 4,188 source FTB Quests language entries, including quest descriptions, chapter titles and reward labels.
+- All 4,391 source FTB Quests language entries, including quest descriptions, chapter titles and reward labels.
 - Mod item names, tooltips and interfaces through bundled language resources.
 - Patchouli books, GuideME documentation (including Nodeworks and Applied Energistics 2), and Oracle Index guides.
 - Additional Modonomicon strings and the Stellaris wiki.
 
-Chisel resources are intentionally excluded. Most new text was machine translated with selected manual corrections and structural checks. A complete human editorial review has not been performed; awkward wording and terminology errors may remain. Source code examples, API identifiers, text inside images, external documentation and some hard-coded messages remain unchanged.
+Chisel resources are intentionally excluded. The 203 new quest entries in version 1.5.0 were translated by hand. Much of the inherited language and book content was machine translated with selected manual corrections and structural checks. A complete human editorial review has not been performed; awkward wording and terminology errors may remain. Source code examples, API identifiers, text inside images, external documentation and some hard-coded messages remain unchanged.
 
 ## Installation
 
@@ -37,9 +37,9 @@ For the exact validation performed on this release, see the accompanying release
 
 # FTB Evolution 2 — Русификатор
 
-Неофициальный перевод FTB Evolution 2 **1.8.1** для Minecraft **26.1.2 / NeoForge 26.1.2.126**. Сначала установите оригинальную сборку.
+Неофициальный перевод FTB Evolution 2 **1.9.0** для Minecraft **26.1.2 / NeoForge 26.1.2.126**. Сначала установите оригинальную сборку.
 
-Переведены все **4 189 записей FTB Quests**, названия и подсказки модов, **894 файла Patchouli**, **759 страниц GuideME**, **197 страниц Oracle Index** и **61 страница Stellaris**. Ресурсы Chisel исключены. В обновлении 1.4.0 обновлены пять описаний заданий, 588 языковых строк, пять страниц руководств и одна страница книги. Дополнительно проведена выборочная ручная редактура.
+Переведены все **4 391 записей FTB Quests**, названия и подсказки модов, **894 файла Patchouli**, **760 страниц GuideME**, **197 страниц Oracle Index** и **61 страница Stellaris**. Ресурсы Chisel исключены. В обновлении 1.5.0 вручную переведены 203 новые записи заданий (Bumblezone, ForceCraft, Сумеречный лес), обработаны 797 языковых строк, пять страниц GuideME, четыре страницы Oracle Index и одно меню. Дополнительно проведена выборочная ручная редактура.
 
 Поместите JAR в `mods` клиента и выберите русский язык. Встроенный ресурс-пак активируется автоматически. Для вики Stellaris установите тот же JAR на выделенный сервер: её текст передаётся сервером и будет русским у всех игроков. В одиночной игре достаточно клиента. При обновлении удалите предыдущий JAR. Перед переходом со старого комплекта со скриптами выполните его откат.
 

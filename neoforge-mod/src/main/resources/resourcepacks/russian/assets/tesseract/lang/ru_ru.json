@@ -1,4 +1,5 @@
 {
   "tesseract.tesseract.highlight.channel_info": "  %1$s %2$s %3$s",
-  "tesseract.tesseract.highlight.channel_info.separator": "-"
+  "tesseract.tesseract.highlight.channel_info.separator": "-",
+  "gui.tesseract.remove.shift": "Удерживайте Shift, чтобы удалить канал другого игрока"
 }

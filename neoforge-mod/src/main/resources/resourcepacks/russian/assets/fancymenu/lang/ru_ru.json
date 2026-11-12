@@ -45,5 +45,7 @@
   "fancymenu.elements.browser.rinku_initializing.line_1": "Браузер запускается...",
   "fancymenu.elements.browser.rinku_initializing.line_2": "Жду, пока Ринку завершит инициализацию.",
   "fancymenu.elements.browser.rinku_failed.line_1": "Инициализация браузера не удалась!",
-  "fancymenu.elements.browser.rinku_failed.line_2": "Подробности смотрите в журнале игры."
+  "fancymenu.elements.browser.rinku_failed.line_2": "Подробности смотрите в журнале игры.",
+  "fancymenu.profiles.version": "v%s",
+  "fancymenu.profiles.edit.url.hint": "https://…"
 }

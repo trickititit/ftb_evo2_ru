@@ -5,13 +5,13 @@ issueTrackerURL="https://github.com/trickititit/ftb_evo2_ru/issues"
 
 [[mods]]
 modId="ftbevo2ru"
-version="1.4.0"
+version="1.5.0"
 displayName="FTB Evolution 2 - Russian Localization"
 displayURL="https://github.com/trickititit/ftb_evo2_ru"
 authors="trickititit"
 logoFile="resourcepacks/russian/pack.png"
 description='''
-Unofficial Russian localization for FTB Evolution 2 1.8.1.
+Unofficial Russian localization for FTB Evolution 2 1.9.0.
 Includes quest translations, mod language resources and in-game guides.
 No changes to quests, progress, recipes, balance or world data.
 '''

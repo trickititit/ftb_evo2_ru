@@ -1,6 +1,6 @@
 # Third-party notices
 
-Original modpack and quest text: FTB Team, FTB Evolution 2 1.8.1. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
+Original modpack and quest text: FTB Team, FTB Evolution 2 1.9.0. Original mods, documentation, schemas and language content remain the work of their respective authors. This is an unofficial Russian localization.
 
 The MIT grant in LICENSE-CODE.txt covers only the original integration code and build scripts. It does not grant rights to third-party text or change upstream licenses. License metadata below is reproduced for attribution; it is not evidence of permission to redistribute a particular translation. Check applicable terms and any required permissions before publication.
 
@@ -121,6 +121,7 @@ Upstream license/notice files, when present at the JAR root or META-INF, are inc
 - **Fast Workbench — Shadows_of_Fire**. Declared license: MIT License. Namespaces: fastbench.
 - **Fertilization — BlayTheNinth**. Declared license: All Rights Reserved. Namespaces: fertilization.
 - **Flopper — Not declared**. Declared license: MIT. Namespaces: flopper.
+- **ForceCraft — Mrbysco**. Declared license: GNU GPL v3. Namespaces: forcecraft.
 - **ForgeEndertech — EnderLanky**. Declared license: All rights reserved. Namespaces: forgeendertech.
 - **FramedBlocks — XFactHD**. Declared license: LGPL v3. Namespaces: framedblocks.
 - **Framework — MrCrayfish**. Declared license: LGPLv2.1. Namespaces: framework.

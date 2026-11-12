@@ -123,5 +123,7 @@
   "the_bumblezone.midnightconfig.allowForestryCompat": "Разрешить загрузку внутреннего пакета данных Forestry Compat.",
   "the_bumblezone.configuration.forestrycompat": "Совместимость с Forestry",
   "the_bumblezone.configuration.allowforestrycompat": "Пакет данных Forestry Compat",
-  "the_bumblezone.configuration.beehemothfriendlyfire": "Включить дружественный огонь"
+  "the_bumblezone.configuration.beehemothfriendlyfire": "Включить дружественный огонь",
+  "advancements.the_bumblezone.the_queens_desire.smackdowns.title": "С небес на землю",
+  "advancements.the_bumblezone.the_queens_desire.smackdowns.description": "Убейте 4 летающих мобов земляными шариками!"
 }
